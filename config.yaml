@@ -4,7 +4,7 @@ user_name: "Rook1echen"
 repo_name: "arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
+show_badge: False # readme 上的彩色标签
 max_results: 10
 
 publish_readme: True
@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "penetration testing": 
-        filters: ["penetration testing", "penetration testing","reinforcement learning"]
+        filters: ["penetration testing"]
     # "SFM":
     #     filters: ["SFM", "Structure from Motion"]
     # "Visual Localization":
