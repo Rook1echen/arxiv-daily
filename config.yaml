@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "penetration testing": 
-        filters: ["penetration testing"]
+        filters: ["penetration testing", "penetration testing","reinforcement learning"]
     # "SFM":
     #     filters: ["SFM", "Structure from Motion"]
     # "Visual Localization":
