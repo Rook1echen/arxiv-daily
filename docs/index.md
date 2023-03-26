@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.03.25
+## Updated on 2023.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|Llu¨ªs Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
+|**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|LluÃ­s Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
 |**2023-02-15**|**AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce**|Sudip Mittal et.al.|[2302.07953](http://arxiv.org/abs/2302.07953)|null|
 |**2023-02-09**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
 |**2022-12-28**|**HeATed Alert Triage (HeAT): Transferrable Learning to Extract Multistage Attack Campaigns**|Stephen Moskal et.al.|[2212.13941](http://arxiv.org/abs/2212.13941)|null|
