@@ -1,4 +1,4 @@
-## Updated on 2023.03.27
+## Updated on 2023.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,5 +23,5 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230327>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230328>back to top</a>)</p>
 
