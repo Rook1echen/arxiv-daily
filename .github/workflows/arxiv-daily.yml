@@ -42,12 +42,12 @@ jobs:
         run: |
           python daily_arxiv.py
           
-      - name: Push new cv-arxiv-daily.md
+      - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md arxiv-daily.json
+          commit-message: "Github Action Automatic Update auto penetration testing Arxiv Papers"
+          files: README.md docs/arxiv-daily.json docs/arxiv-daily-web.json docs/index.md 
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

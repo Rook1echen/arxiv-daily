@@ -1,4 +1,4 @@
-## Updated on 2023.03.25
+## Updated on 2023.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,7 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|Llu¨ªs Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
+|**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|LluÃ­s Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
 |**2023-02-15**|**AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce**|Sudip Mittal et.al.|[2302.07953](http://arxiv.org/abs/2302.07953)|null|
 |**2023-02-09**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
 |**2022-12-28**|**HeATed Alert Triage (HeAT): Transferrable Learning to Extract Multistage Attack Campaigns**|Stephen Moskal et.al.|[2212.13941](http://arxiv.org/abs/2212.13941)|null|
@@ -23,5 +23,5 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230330>back to top</a>)</p>
 
