@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157](http://arxiv.org/abs/2303.18157)|null|
+|**2023-03-31**|**Models as Agents: Optimizing Multi-Step Predictions of Interactive Local Models in Model-Based Multi-Agent Reinforcement Learning**|Zifan Wu et.al.|[2303.17984](http://arxiv.org/abs/2303.17984)|null|
+|**2023-03-31**|**Data-enabled Policy Optimization for the Linear Quadratic Regulator**|Feiran Zhao et.al.|[2303.17958](http://arxiv.org/abs/2303.17958)|null|
+|**2023-03-31**|**An Efficient Off-Policy Reinforcement Learning Algorithm for the Continuous-Time LQR Problem**|Victor G. Lopez et.al.|[2303.17819](http://arxiv.org/abs/2303.17819)|null|
+|**2023-03-30**|**Q-learning Based System for Path Planning with UAV Swarms in Obstacle Environments**|Alejandro Puente-Castro et.al.|[2303.17655](http://arxiv.org/abs/2303.17655)|**[link](https://github.com/themvs/uav_swarms_rl_fixed_obstacles_maps)**|
+|**2023-03-30**|**Self-Refine: Iterative Refinement with Self-Feedback**|Aman Madaan et.al.|[2303.17651](http://arxiv.org/abs/2303.17651)|null|
+|**2023-03-30**|**Aligning a medium-size GPT model in English to a small closed domain in Spanish using reinforcement learning**|Oscar R. Navarrete-Parra et.al.|[2303.17649](http://arxiv.org/abs/2303.17649)|null|
 |**2023-03-30**|**When Learning Is Out of Reach, Reset: Generalization in Autonomous Visuomotor Reinforcement Learning**|Zichen Zhang et.al.|[2303.17600](http://arxiv.org/abs/2303.17600)|null|
 |**2023-03-30**|**Learning Human-to-Robot Handovers from Point Clouds**|Sammy Christen et.al.|[2303.17592](http://arxiv.org/abs/2303.17592)|null|
 |**2023-03-30**|**Learning in Factored Domains with Information-Constrained Visual Representations**|Tyler Malloy et.al.|[2303.17508](http://arxiv.org/abs/2303.17508)|null|
@@ -54,6 +61,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**Procedure-Aware Pretraining for Instructional Video Understanding**|Honglu Zhou et.al.|[2303.18230](http://arxiv.org/abs/2303.18230)|**[link](https://github.com/salesforce/paprika)**|
 |**2023-03-30**|**URSID: Using formalism to Refine attack Scenarios for vulnerable Infrastructure Deployment**|Pierre-Victor Besson et.al.|[2303.17373](http://arxiv.org/abs/2303.17373)|null|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537](http://arxiv.org/abs/2303.16537)|null|
 |**2023-03-29**|**Building a Knowledge Graph of Distributed Ledger Technologies**|Lukas König et.al.|[2303.16528](http://arxiv.org/abs/2303.16528)|null|
