@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-03**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203](http://arxiv.org/abs/2304.01203)|null|
+|**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159](http://arxiv.org/abs/2304.01159)|null|
+|**2023-04-03**|**Action Pick-up in Dynamic Action Space Reinforcement Learning**|Jiaqi Ye et.al.|[2304.00873](http://arxiv.org/abs/2304.00873)|null|
+|**2023-04-03**|**Swarm Reinforcement Learning For Adaptive Mesh Refinement**|Niklas Freymuth et.al.|[2304.00818](http://arxiv.org/abs/2304.00818)|null|
+|**2023-04-03**|**A Tutorial Introduction to Reinforcement Learning**|Mathukumalli Vidyasagar et.al.|[2304.00803](http://arxiv.org/abs/2304.00803)|null|
+|**2023-04-03**|**Combinatorial Optimization enriched Machine Learning to solve the Dynamic Vehicle Routing Problem with Time Windows**|Léo Baty et.al.|[2304.00789](http://arxiv.org/abs/2304.00789)|**[link](https://github.com/tumbais/euro-meets-neurips-2022)**|
+|**2023-04-03**|**Managing power grids through topology actions: A comparative study between advanced rule-based and reinforcement learning agents**|Malte Lehna et.al.|[2304.00765](http://arxiv.org/abs/2304.00765)|null|
+|**2023-04-03**|**Effective and Stable Role-Based Multi-Agent Collaboration by Structural Information Principles**|Xianghua Zeng et.al.|[2304.00755](http://arxiv.org/abs/2304.00755)|**[link](https://github.com/ringbdstack/sr-marl)**|
+|**2023-04-03**|**On the Global Optimality of Direct Policy Search for Nonsmooth $H_\infty$ Output-Feedback Control**|Yujie Tang et.al.|[2304.00753](http://arxiv.org/abs/2304.00753)|null|
+|**2023-04-03**|**TacGNN:Learning Tactile-based In-hand Manipulation with a Blind Robot**|Linhan Yang et.al.|[2304.00736](http://arxiv.org/abs/2304.00736)|null|
 |**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157](http://arxiv.org/abs/2303.18157)|null|
 |**2023-03-31**|**Models as Agents: Optimizing Multi-Step Predictions of Interactive Local Models in Model-Based Multi-Agent Reinforcement Learning**|Zifan Wu et.al.|[2303.17984](http://arxiv.org/abs/2303.17984)|null|
 |**2023-03-31**|**Data-enabled Policy Optimization for the Linear Quadratic Regulator**|Feiran Zhao et.al.|[2303.17958](http://arxiv.org/abs/2303.17958)|null|
@@ -61,6 +71,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613](http://arxiv.org/abs/2304.00613)|null|
+|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/iiot-tbb/dialogue_dde)**|
+|**2023-04-01**|**Knowledge Graph Embedding with 3D Compound Geometric Transformations**|Xiou Ge et.al.|[2304.00378](http://arxiv.org/abs/2304.00378)|null|
+|**2023-04-01**|**Company Competition Graph**|Yanci Zhang et.al.|[2304.00323](http://arxiv.org/abs/2304.00323)|null|
+|**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215](http://arxiv.org/abs/2304.00215)|null|
+|**2023-04-01**|**Leveraging Neo4j and deep learning for traffic congestion simulation & optimization**|Shyam Pratap Singh et.al.|[2304.00192](http://arxiv.org/abs/2304.00192)|null|
 |**2023-03-31**|**Procedure-Aware Pretraining for Instructional Video Understanding**|Honglu Zhou et.al.|[2303.18230](http://arxiv.org/abs/2303.18230)|**[link](https://github.com/salesforce/paprika)**|
 |**2023-03-30**|**URSID: Using formalism to Refine attack Scenarios for vulnerable Infrastructure Deployment**|Pierre-Victor Besson et.al.|[2303.17373](http://arxiv.org/abs/2303.17373)|null|
 |**2023-03-29**|**LMExplainer: a Knowledge-Enhanced Explainer for Language Models**|Zichen Chen et.al.|[2303.16537](http://arxiv.org/abs/2303.16537)|null|
