@@ -1,4 +1,4 @@
-## Updated on 2023.04.04
+## Updated on 2023.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,12 +26,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Risk-Aware Distributed Multi-Agent Reinforcement Learning**|Abdullah Al Maruf et.al.|[2304.02005](http://arxiv.org/abs/2304.02005)|null|
+|**2023-04-04**|**Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models**|Yiheng Liu et.al.|[2304.01852](http://arxiv.org/abs/2304.01852)|null|
+|**2023-04-04**|**Optimal Transport for Correctional Learning**|Rebecka Winqvist et.al.|[2304.01701](http://arxiv.org/abs/2304.01701)|null|
+|**2023-04-04**|**Regularization of the policy updates for stabilizing Mean Field Games**|Talal Algumaei et.al.|[2304.01547](http://arxiv.org/abs/2304.01547)|null|
+|**2023-04-04**|**The Vector Grounding Problem**|Dimitri Coelho Mollo et.al.|[2304.01481](http://arxiv.org/abs/2304.01481)|null|
+|**2023-04-04**|**Off-Policy Action Anticipation in Multi-Agent Reinforcement Learning**|Ariyan Bighashdel et.al.|[2304.01447](http://arxiv.org/abs/2304.01447)|null|
+|**2023-04-04**|**Optimizing Irrigation Efficiency using Deep Reinforcement Learning in the Field**|Xianzhong Ding et.al.|[2304.01435](http://arxiv.org/abs/2304.01435)|null|
+|**2023-04-03**|**Enabling A Network AI Gym for Autonomous Cyber Agents**|Li Li et.al.|[2304.01366](http://arxiv.org/abs/2304.01366)|null|
+|**2023-04-03**|**Empirical Design in Reinforcement Learning**|Andrew Patterson et.al.|[2304.01315](http://arxiv.org/abs/2304.01315)|null|
+|**2023-04-03**|**PyFlyt -- UAV Simulation Environments for Reinforcement Learning Research**|Jun Jet Tai et.al.|[2304.01305](http://arxiv.org/abs/2304.01305)|null|
 |**2023-04-03**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203](http://arxiv.org/abs/2304.01203)|null|
 |**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159](http://arxiv.org/abs/2304.01159)|null|
 |**2023-04-03**|**Action Pick-up in Dynamic Action Space Reinforcement Learning**|Jiaqi Ye et.al.|[2304.00873](http://arxiv.org/abs/2304.00873)|null|
@@ -60,7 +70,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -77,14 +87,18 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
+|**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563](http://arxiv.org/abs/2304.01563)|null|
+|**2023-04-03**|**Characterizing the Users, Challenges, and Visualization Needs of Knowledge Graphs in Practice**|Harry Li et.al.|[2304.01311](http://arxiv.org/abs/2304.01311)|null|
+|**2023-04-03**|**Enhancing Clinical Evidence Recommendation with Multi-Channel Heterogeneous Learning on Evidence Graphs**|Maolin Luo et.al.|[2304.01242](http://arxiv.org/abs/2304.01242)|null|
 |**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613](http://arxiv.org/abs/2304.00613)|null|
-|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/iiot-tbb/dialogue_dde)**|
+|**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/davendw49/PK-Chat)**|
 |**2023-04-01**|**Knowledge Graph Embedding with 3D Compound Geometric Transformations**|Xiou Ge et.al.|[2304.00378](http://arxiv.org/abs/2304.00378)|null|
 |**2023-04-01**|**Company Competition Graph**|Yanci Zhang et.al.|[2304.00323](http://arxiv.org/abs/2304.00323)|null|
 |**2023-04-01**|**Inductive Relation Prediction from Relational Paths and Context with Hierarchical Transformers**|Jiaang Li et.al.|[2304.00215](http://arxiv.org/abs/2304.00215)|null|
@@ -101,5 +115,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
 
