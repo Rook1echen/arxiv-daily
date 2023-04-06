@@ -1,4 +1,4 @@
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,12 +26,19 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**Conformal Off-Policy Evaluation in Markov Decision Processes**|Daniele Foffano et.al.|[2304.02574](http://arxiv.org/abs/2304.02574)|null|
+|**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
+|**2023-04-05**|**AutoRL Hyperparameter Landscapes**|Aditya Mohan et.al.|[2304.02396](http://arxiv.org/abs/2304.02396)|null|
+|**2023-04-05**|**Effective control of two-dimensional Rayleigh--Bénard convection: invariant multi-agent reinforcement learning is all you need**|Colin Vignon et.al.|[2304.02370](http://arxiv.org/abs/2304.02370)|null|
+|**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264](http://arxiv.org/abs/2304.02264)|null|
+|**2023-04-05**|**Optimal Energy Storage Scheduling for Wind Curtailment Reduction and Energy Arbitrage: A Deep Reinforcement Learning Approach**|Jinhao Li et.al.|[2304.02239](http://arxiv.org/abs/2304.02239)|null|
+|**2023-04-04**|**Online augmentation of learned grasp sequence policies for more adaptable and data-efficient in-hand manipulation**|Ethan K. Gordon et.al.|[2304.02052](http://arxiv.org/abs/2304.02052)|null|
 |**2023-04-04**|**Risk-Aware Distributed Multi-Agent Reinforcement Learning**|Abdullah Al Maruf et.al.|[2304.02005](http://arxiv.org/abs/2304.02005)|null|
 |**2023-04-04**|**Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models**|Yiheng Liu et.al.|[2304.01852](http://arxiv.org/abs/2304.01852)|null|
 |**2023-04-04**|**Optimal Transport for Correctional Learning**|Rebecka Winqvist et.al.|[2304.01701](http://arxiv.org/abs/2304.01701)|null|
@@ -70,12 +77,13 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
 |**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
 |**2022-10-18**|**Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving**|Eli Bronstein et.al.|[2210.09539](http://arxiv.org/abs/2210.09539)|null|
@@ -87,7 +95,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -115,5 +123,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230405>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230406>back to top</a>)</p>
 

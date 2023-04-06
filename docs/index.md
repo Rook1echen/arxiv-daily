@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-05**|**Conformal Off-Policy Evaluation in Markov Decision Processes**|Daniele Foffano et.al.|[2304.02574](http://arxiv.org/abs/2304.02574)|null|
+|**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
+|**2023-04-05**|**AutoRL Hyperparameter Landscapes**|Aditya Mohan et.al.|[2304.02396](http://arxiv.org/abs/2304.02396)|null|
+|**2023-04-05**|**Effective control of two-dimensional Rayleigh--Bénard convection: invariant multi-agent reinforcement learning is all you need**|Colin Vignon et.al.|[2304.02370](http://arxiv.org/abs/2304.02370)|null|
+|**2023-04-05**|**Persuading to Prepare for Quitting Smoking with a Virtual Coach: Using States and User Characteristics to Predict Behavior**|Nele Albers et.al.|[2304.02264](http://arxiv.org/abs/2304.02264)|null|
+|**2023-04-05**|**Optimal Energy Storage Scheduling for Wind Curtailment Reduction and Energy Arbitrage: A Deep Reinforcement Learning Approach**|Jinhao Li et.al.|[2304.02239](http://arxiv.org/abs/2304.02239)|null|
+|**2023-04-04**|**Online augmentation of learned grasp sequence policies for more adaptable and data-efficient in-hand manipulation**|Ethan K. Gordon et.al.|[2304.02052](http://arxiv.org/abs/2304.02052)|null|
 |**2023-04-04**|**Risk-Aware Distributed Multi-Agent Reinforcement Learning**|Abdullah Al Maruf et.al.|[2304.02005](http://arxiv.org/abs/2304.02005)|null|
 |**2023-04-04**|**Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models**|Yiheng Liu et.al.|[2304.01852](http://arxiv.org/abs/2304.01852)|null|
 |**2023-04-04**|**Optimal Transport for Correctional Learning**|Rebecka Winqvist et.al.|[2304.01701](http://arxiv.org/abs/2304.01701)|null|
@@ -66,6 +73,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
 |**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
 |**2022-10-18**|**Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving**|Eli Bronstein et.al.|[2210.09539](http://arxiv.org/abs/2210.09539)|null|
