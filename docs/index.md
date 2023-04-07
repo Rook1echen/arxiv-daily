@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274](http://arxiv.org/abs/2304.03274)|**[link](https://github.com/jiawei-ren/diffmimic)**|
+|**2023-04-06**|**Deep reinforcement learning reveals fewer sensors are needed for autonomous gust alleviation**|Kevin PT. Haughn et.al.|[2304.03133](http://arxiv.org/abs/2304.03133)|null|
+|**2023-04-05**|**Constrained Exploration in Reinforcement Learning with Optimality Preservation**|Peter C. Y. Chen et.al.|[2304.03104](http://arxiv.org/abs/2304.03104)|null|
+|**2023-04-06**|**Synthetic Sample Selection for Generalized Zero-Shot Learning**|Shreyank N Gowda et.al.|[2304.02846](http://arxiv.org/abs/2304.02846)|null|
+|**2023-04-06**|**Deep Reinforcement Learning Based Vehicle Selection for Asynchronous Federated Learning Enabled Vehicular Edge Computing**|Qiong Wu et.al.|[2304.02832](http://arxiv.org/abs/2304.02832)|null|
 |**2023-04-05**|**Conformal Off-Policy Evaluation in Markov Decision Processes**|Daniele Foffano et.al.|[2304.02574](http://arxiv.org/abs/2304.02574)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-04-05**|**AutoRL Hyperparameter Landscapes**|Aditya Mohan et.al.|[2304.02396](http://arxiv.org/abs/2304.02396)|null|
@@ -89,10 +94,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
 |**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563](http://arxiv.org/abs/2304.01563)|null|
-|**2023-04-03**|**Characterizing the Users, Challenges, and Visualization Needs of Knowledge Graphs in Practice**|Harry Li et.al.|[2304.01311](http://arxiv.org/abs/2304.01311)|null|
-|**2023-04-03**|**Enhancing Clinical Evidence Recommendation with Multi-Channel Heterogeneous Learning on Evidence Graphs**|Maolin Luo et.al.|[2304.01242](http://arxiv.org/abs/2304.01242)|null|
+|**2023-04-06**|**Characterizing the Users, Challenges, and Visualization Needs of Knowledge Graphs in Practice**|Harry Li et.al.|[2304.01311](http://arxiv.org/abs/2304.01311)|null|
+|**2023-04-03**|**Enhancing Clinical Evidence Recommendation with Multi-Channel Heterogeneous Learning on Evidence Graphs**|Maolin Luo et.al.|[2304.01242](http://arxiv.org/abs/2304.01242)|**[link](https://github.com/wds-seu/mhan)**|
 |**2023-04-02**|**Improving Few-Shot Inductive Learning on Temporal Knowledge Graphs using Confidence-Augmented Reinforcement Learning**|Zifeng Ding et.al.|[2304.00613](http://arxiv.org/abs/2304.00613)|null|
 |**2023-04-02**|**PK-Chat: Pointer Network Guided Knowledge Driven Generative Dialogue Model**|Cheng Deng et.al.|[2304.00592](http://arxiv.org/abs/2304.00592)|**[link](https://github.com/davendw49/PK-Chat)**|
 |**2023-04-01**|**Knowledge Graph Embedding with 3D Compound Geometric Transformations**|Xiou Ge et.al.|[2304.00378](http://arxiv.org/abs/2304.00378)|null|
