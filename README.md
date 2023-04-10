@@ -32,6 +32,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Full Gradient Deep Reinforcement Learning for Average-Reward Criterion**|Tejas Pagare et.al.|[2304.03729](http://arxiv.org/abs/2304.03729)|null|
+|**2023-04-07**|**Deep Reinforcement Learning-Based Mapless Crowd Navigation with Perceived Risk of the Moving Crowd for Mobile Robots**|Hafiq Anas et.al.|[2304.03593](http://arxiv.org/abs/2304.03593)|null|
+|**2023-04-07**|**CRISP: Curriculum inducing Primitive Informed Subgoal Prediction for Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2304.03535](http://arxiv.org/abs/2304.03535)|null|
+|**2023-04-07**|**Improving Adaptive Real-Time Video Communication Via Cross-layer Optimization**|Yueheng Li et.al.|[2304.03505](http://arxiv.org/abs/2304.03505)|null|
+|**2023-04-07**|**Continuous Input Embedding Size Search For Recommender Systems**|Yunke Qu et.al.|[2304.03501](http://arxiv.org/abs/2304.03501)|null|
+|**2023-04-07**|**Deep Reinforcement Learning Based Optimal Infinite-Horizon Control of Probabilistic Boolean Control Networks**|Jingjie Ni et.al.|[2304.03489](http://arxiv.org/abs/2304.03489)|null|
+|**2023-04-07**|**AMS-DRL: Learning Multi-Pursuit Evasion for Safe Targeted Navigation of Drones**|Jiaping Xiao et.al.|[2304.03443](http://arxiv.org/abs/2304.03443)|**[link](https://github.com/ntu-uavg/ams-drl-for-pursuit-evasion)**|
+|**2023-04-07**|**A modular framework for stabilizing deep reinforcement learning control**|Nathan P. Lawrence et.al.|[2304.03422](http://arxiv.org/abs/2304.03422)|null|
+|**2023-04-06**|**Robust Decision-Focused Learning for Reward Transfer**|Abhishek Sharma et.al.|[2304.03365](http://arxiv.org/abs/2304.03365)|null|
+|**2023-04-06**|**Finite Time Lyapunov Exponent Analysis of Model Predictive Control and Reinforcement Learning**|Kartik Krishna et.al.|[2304.03326](http://arxiv.org/abs/2304.03326)|null|
 |**2023-04-06**|**DiffMimic: Efficient Motion Mimicking with Differentiable Physics**|Jiawei Ren et.al.|[2304.03274](http://arxiv.org/abs/2304.03274)|**[link](https://github.com/jiawei-ren/diffmimic)**|
 |**2023-04-06**|**Deep reinforcement learning reveals fewer sensors are needed for autonomous gust alleviation**|Kevin PT. Haughn et.al.|[2304.03133](http://arxiv.org/abs/2304.03133)|null|
 |**2023-04-05**|**Constrained Exploration in Reinforcement Learning with Optimality Preservation**|Peter C. Y. Chen et.al.|[2304.03104](http://arxiv.org/abs/2304.03104)|null|
@@ -106,6 +116,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
+|**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375](http://arxiv.org/abs/2304.03375)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
 |**2023-04-04**|**Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment**|Qian Li et.al.|[2304.01563](http://arxiv.org/abs/2304.01563)|null|
