@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**RESPECT: Reinforcement Learning based Edge Scheduling on Pipelined Coral Edge TPUs**|Jiaqi Yin et.al.|[2304.04716](http://arxiv.org/abs/2304.04716)|**[link](https://github.com/yu-utah/respect)**|
+|**2023-04-10**|**Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning**|Junjie Zhang et.al.|[2304.04660](http://arxiv.org/abs/2304.04660)|null|
+|**2023-04-10**|**Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance**|Yueheng Li et.al.|[2304.04637](http://arxiv.org/abs/2304.04637)|null|
+|**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|null|
+|**2023-04-10**|**Learning a Universal Human Prior for Dexterous Manipulation from Human Preference**|Zihan Ding et.al.|[2304.04602](http://arxiv.org/abs/2304.04602)|null|
+|**2023-04-10**|**For Pre-Trained Vision Models in Motor Control, Not All Policy Learning Methods are Created Equal**|Yingdong Hu et.al.|[2304.04591](http://arxiv.org/abs/2304.04591)|null|
+|**2023-04-10**|**Deep Reinforcement Learning with Importance Weighted A3C for QoE enhancement in Video Delivery Services**|Mandan Naresh et.al.|[2304.04527](http://arxiv.org/abs/2304.04527)|null|
+|**2023-04-10**|**OpenAGI: When LLM Meets Domain Experts**|Yingqiang Ge et.al.|[2304.04370](http://arxiv.org/abs/2304.04370)|**[link](https://github.com/agiresearch/openagi)**|
+|**2023-04-10**|**Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras**|Sandeep Singh Sandha et.al.|[2304.04356](http://arxiv.org/abs/2304.04356)|**[link](https://github.com/nesl/eagle_ptz_cameras)**|
+|**2023-04-08**|**MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response**|Jasper van Tilburg et.al.|[2304.04086](http://arxiv.org/abs/2304.04086)|null|
 |**2023-04-07**|**Full Gradient Deep Reinforcement Learning for Average-Reward Criterion**|Tejas Pagare et.al.|[2304.03729](http://arxiv.org/abs/2304.03729)|null|
 |**2023-04-07**|**Deep Reinforcement Learning-Based Mapless Crowd Navigation with Perceived Risk of the Moving Crowd for Mobile Robots**|Hafiq Anas et.al.|[2304.03593](http://arxiv.org/abs/2304.03593)|null|
 |**2023-04-07**|**CRISP: Curriculum inducing Primitive Informed Subgoal Prediction for Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2304.03535](http://arxiv.org/abs/2304.03535)|null|
@@ -104,7 +114,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-07**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
+|**2023-04-10**|**Investigating Graph Structure Information for Entity Alignment with Dangling Cases**|Jin Xu et.al.|[2304.04718](http://arxiv.org/abs/2304.04718)|null|
+|**2023-04-10**|**Incorporating Structured Sentences with Time-enhanced BERT for Fully-inductive Temporal Relation Prediction**|Zhongwu Chen et.al.|[2304.04717](http://arxiv.org/abs/2304.04717)|null|
+|**2023-04-10**|**Deep Active Alignment of Knowledge Graph Entities and Schemata**|Jiacheng Huang et.al.|[2304.04389](http://arxiv.org/abs/2304.04389)|**[link](https://github.com/nju-websoft/daakg)**|
+|**2023-04-08**|**Evolving Reinforcement Learning Environment to Minimize Learner's Achievable Reward: An Application on Hardening Active Directory Systems**|Diksha Goel et.al.|[2304.03998](http://arxiv.org/abs/2304.03998)|null|
+|**2023-04-08**|**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**|Shangfei Zheng et.al.|[2304.03984](http://arxiv.org/abs/2304.03984)|null|
+|**2023-04-08**|**The Short Text Matching Model Enhanced with Knowledge via Contrastive Learning**|Qiqiang Zhong et.al.|[2304.03898](http://arxiv.org/abs/2304.03898)|null|
+|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
 |**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375](http://arxiv.org/abs/2304.03375)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
