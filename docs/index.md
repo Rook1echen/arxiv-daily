@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Did we personalize? Assessing personalization by an online reinforcement learning algorithm using resampling**|Susobhan Ghosh et.al.|[2304.05365](http://arxiv.org/abs/2304.05365)|**[link](https://github.com/changon/resampling_heartsteps)**|
+|**2023-04-11**|**Emergent autonomous scientific research capabilities of large language models**|Daniil A. Boiko et.al.|[2304.05332](http://arxiv.org/abs/2304.05332)|null|
+|**2023-04-11**|**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**|Zheng Yuan et.al.|[2304.05302](http://arxiv.org/abs/2304.05302)|**[link](https://github.com/ganjinzero/rrhf)**|
+|**2023-04-11**|**Automaton-Guided Curriculum Generation for Reinforcement Learning Agents**|Yash Shukla et.al.|[2304.05271](http://arxiv.org/abs/2304.05271)|**[link](https://github.com/tufts-ai-robotics-group/automaton-guided-cl)**|
+|**2023-04-11**|**Diagnosing and Augmenting Feature Representations in Correctional Inverse Reinforcement Learning**|Inês Lourenço et.al.|[2304.05238](http://arxiv.org/abs/2304.05238)|null|
+|**2023-04-11**|**The Time for Reconstructing the Attack Graph in DDoS Attacks**|Dina Barak-Pelleg et.al.|[2304.05204](http://arxiv.org/abs/2304.05204)|null|
+|**2023-04-11**|**Dexterous In-Hand Manipulation of Slender Cylindrical Objects through Deep Reinforcement Learning with Tactile Sensing**|Wenbin Hu et.al.|[2304.05141](http://arxiv.org/abs/2304.05141)|null|
+|**2023-04-11**|**Algorithms for Reconstructing DDoS Attack Graphs using Probabilistic Packet Marking**|Dina Barak-Pelleg et.al.|[2304.05123](http://arxiv.org/abs/2304.05123)|null|
+|**2023-04-11**|**Feudal Graph Reinforcement Learning**|Tommaso Marzi et.al.|[2304.05099](http://arxiv.org/abs/2304.05099)|null|
+|**2023-04-11**|**A Tale of Sampling and Estimation in Discounted Reinforcement Learning**|Alberto Maria Metelli et.al.|[2304.05073](http://arxiv.org/abs/2304.05073)|null|
 |**2023-04-10**|**RESPECT: Reinforcement Learning based Edge Scheduling on Pipelined Coral Edge TPUs**|Jiaqi Yin et.al.|[2304.04716](http://arxiv.org/abs/2304.04716)|**[link](https://github.com/yu-utah/respect)**|
 |**2023-04-10**|**Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning**|Junjie Zhang et.al.|[2304.04660](http://arxiv.org/abs/2304.04660)|null|
 |**2023-04-10**|**Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance**|Yueheng Li et.al.|[2304.04637](http://arxiv.org/abs/2304.04637)|null|
@@ -114,6 +124,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|null|
+|**2023-04-11**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277](http://arxiv.org/abs/2304.05277)|**[link](https://github.com/opendrivelab/toponet)**|
+|**2023-04-11**|**The Time for Reconstructing the Attack Graph in DDoS Attacks**|Dina Barak-Pelleg et.al.|[2304.05204](http://arxiv.org/abs/2304.05204)|null|
+|**2023-04-11**|**Algorithms for Reconstructing DDoS Attack Graphs using Probabilistic Packet Marking**|Dina Barak-Pelleg et.al.|[2304.05123](http://arxiv.org/abs/2304.05123)|null|
+|**2023-04-10**|**EVKG: An Interlinked and Interoperable Electric Vehicle Knowledge Graph for Smart Transportation System**|Yanlin Qi et.al.|[2304.04893](http://arxiv.org/abs/2304.04893)|**[link](https://github.com/evkg/evkg)**|
 |**2023-04-10**|**Investigating Graph Structure Information for Entity Alignment with Dangling Cases**|Jin Xu et.al.|[2304.04718](http://arxiv.org/abs/2304.04718)|null|
 |**2023-04-10**|**Incorporating Structured Sentences with Time-enhanced BERT for Fully-inductive Temporal Relation Prediction**|Zhongwu Chen et.al.|[2304.04717](http://arxiv.org/abs/2304.04717)|null|
 |**2023-04-10**|**Deep Active Alignment of Knowledge Graph Entities and Schemata**|Jiacheng Huang et.al.|[2304.04389](http://arxiv.org/abs/2304.04389)|**[link](https://github.com/nju-websoft/daakg)**|

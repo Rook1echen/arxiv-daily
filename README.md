@@ -1,4 +1,4 @@
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,12 +26,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**Did we personalize? Assessing personalization by an online reinforcement learning algorithm using resampling**|Susobhan Ghosh et.al.|[2304.05365](http://arxiv.org/abs/2304.05365)|**[link](https://github.com/changon/resampling_heartsteps)**|
+|**2023-04-11**|**Emergent autonomous scientific research capabilities of large language models**|Daniil A. Boiko et.al.|[2304.05332](http://arxiv.org/abs/2304.05332)|null|
+|**2023-04-11**|**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**|Zheng Yuan et.al.|[2304.05302](http://arxiv.org/abs/2304.05302)|**[link](https://github.com/ganjinzero/rrhf)**|
+|**2023-04-11**|**Automaton-Guided Curriculum Generation for Reinforcement Learning Agents**|Yash Shukla et.al.|[2304.05271](http://arxiv.org/abs/2304.05271)|**[link](https://github.com/tufts-ai-robotics-group/automaton-guided-cl)**|
+|**2023-04-11**|**Diagnosing and Augmenting Feature Representations in Correctional Inverse Reinforcement Learning**|Inês Lourenço et.al.|[2304.05238](http://arxiv.org/abs/2304.05238)|null|
+|**2023-04-11**|**The Time for Reconstructing the Attack Graph in DDoS Attacks**|Dina Barak-Pelleg et.al.|[2304.05204](http://arxiv.org/abs/2304.05204)|null|
+|**2023-04-11**|**Dexterous In-Hand Manipulation of Slender Cylindrical Objects through Deep Reinforcement Learning with Tactile Sensing**|Wenbin Hu et.al.|[2304.05141](http://arxiv.org/abs/2304.05141)|null|
+|**2023-04-11**|**Algorithms for Reconstructing DDoS Attack Graphs using Probabilistic Packet Marking**|Dina Barak-Pelleg et.al.|[2304.05123](http://arxiv.org/abs/2304.05123)|null|
+|**2023-04-11**|**Feudal Graph Reinforcement Learning**|Tommaso Marzi et.al.|[2304.05099](http://arxiv.org/abs/2304.05099)|null|
+|**2023-04-11**|**A Tale of Sampling and Estimation in Discounted Reinforcement Learning**|Alberto Maria Metelli et.al.|[2304.05073](http://arxiv.org/abs/2304.05073)|null|
 |**2023-04-10**|**RESPECT: Reinforcement Learning based Edge Scheduling on Pipelined Coral Edge TPUs**|Jiaqi Yin et.al.|[2304.04716](http://arxiv.org/abs/2304.04716)|**[link](https://github.com/yu-utah/respect)**|
 |**2023-04-10**|**Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning**|Junjie Zhang et.al.|[2304.04660](http://arxiv.org/abs/2304.04660)|null|
 |**2023-04-10**|**Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance**|Yueheng Li et.al.|[2304.04637](http://arxiv.org/abs/2304.04637)|null|
@@ -102,7 +112,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -120,12 +130,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|null|
+|**2023-04-11**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277](http://arxiv.org/abs/2304.05277)|**[link](https://github.com/opendrivelab/toponet)**|
+|**2023-04-11**|**The Time for Reconstructing the Attack Graph in DDoS Attacks**|Dina Barak-Pelleg et.al.|[2304.05204](http://arxiv.org/abs/2304.05204)|null|
+|**2023-04-11**|**Algorithms for Reconstructing DDoS Attack Graphs using Probabilistic Packet Marking**|Dina Barak-Pelleg et.al.|[2304.05123](http://arxiv.org/abs/2304.05123)|null|
+|**2023-04-10**|**EVKG: An Interlinked and Interoperable Electric Vehicle Knowledge Graph for Smart Transportation System**|Yanlin Qi et.al.|[2304.04893](http://arxiv.org/abs/2304.04893)|**[link](https://github.com/evkg/evkg)**|
 |**2023-04-10**|**Investigating Graph Structure Information for Entity Alignment with Dangling Cases**|Jin Xu et.al.|[2304.04718](http://arxiv.org/abs/2304.04718)|null|
 |**2023-04-10**|**Incorporating Structured Sentences with Time-enhanced BERT for Fully-inductive Temporal Relation Prediction**|Zhongwu Chen et.al.|[2304.04717](http://arxiv.org/abs/2304.04717)|null|
 |**2023-04-10**|**Deep Active Alignment of Knowledge Graph Entities and Schemata**|Jiacheng Huang et.al.|[2304.04389](http://arxiv.org/abs/2304.04389)|**[link](https://github.com/nju-websoft/daakg)**|
@@ -157,5 +172,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230412>back to top</a>)</p>
 
