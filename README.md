@@ -1,4 +1,4 @@
-## Updated on 2023.04.13
+## Updated on 2023.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,15 +26,21 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Deep reinforcement learning applied to an assembly sequence planning problem with user preferences**|Miguel Neves et.al.|[2304.06567](http://arxiv.org/abs/2304.06567)|null|
+|**2023-04-13**|**Reinforcement Learning Quantum Local Search**|Chen-Yu Liu et.al.|[2304.06473](http://arxiv.org/abs/2304.06473)|null|
+|**2023-04-13**|**Contact Models in Robotics: a Comparative Analysis**|Quentin Le Lidec et.al.|[2304.06372](http://arxiv.org/abs/2304.06372)|null|
+|**2023-04-13**|**Model-based Dynamic Shielding for Safe and Efficient Multi-Agent Reinforcement Learning**|Wenli Xiao et.al.|[2304.06281](http://arxiv.org/abs/2304.06281)|null|
+|**2023-04-12**|**Learning Over All Contracting and Lipschitz Closed-Loops for Partially-Observed Nonlinear Systems**|Nicholas H. Barbara et.al.|[2304.06193](http://arxiv.org/abs/2304.06193)|**[link](https://github.com/nic-barbara/CDC2023-YoulaREN)**|
+|**2023-04-12**|**High-Fidelity, Frequency-Flexible Two-Qubit Fluxonium Gates with a Transmon Coupler**|Leon Ding et.al.|[2304.06087](http://arxiv.org/abs/2304.06087)|null|
 |**2023-04-12**|**Bi-level Latent Variable Model for Sample-Efficient Multi-Agent Reinforcement Learning**|Aravind Venugopal et.al.|[2304.06011](http://arxiv.org/abs/2304.06011)|null|
 |**2023-04-12**|**NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning**|Weizheng Wang et.al.|[2304.05979](http://arxiv.org/abs/2304.05979)|null|
-|**2023-04-12**|**Representation Learning with Multi-Step Inverse Kinematics: An Efficient and Optimal Approach to Rich-Observation RL**|Zakaria Mhammedi et.al.|[2304.05889](http://arxiv.org/abs/2304.05889)|null|
+|**2023-04-12**|**Representation Learning with Multi-Step Inverse Kinematics: An Efficient and Optimal Approach to Rich-Observation RL**|Zakaria Mhammedi et.al.|[2304.05889](http://arxiv.org/abs/2304.05889)|**[link](https://github.com/zmhammedi/musik)**|
 |**2023-04-12**|**Learning to Communicate and Collaborate in a Competitive Multi-Agent Setup to Clean the Ocean from Macroplastics**|Philipp Dominic Siedler et.al.|[2304.05872](http://arxiv.org/abs/2304.05872)|null|
 |**2023-04-12**|**Human-Robot Skill Transfer with Enhanced Compliance via Dynamic Movement Primitives**|Jayden Hong et.al.|[2304.05703](http://arxiv.org/abs/2304.05703)|null|
 |**2023-04-12**|**DOSM: Demand-Prediction based Online Service Management for Vehicular Edge Computing Networks**|Anum Talpur et.al.|[2304.05637](http://arxiv.org/abs/2304.05637)|null|
@@ -122,7 +128,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -140,15 +146,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**AGI for Agriculture**|Guoyu Lu et.al.|[2304.06136](http://arxiv.org/abs/2304.06136)|null|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973](http://arxiv.org/abs/2304.05973)|null|
 |**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774](http://arxiv.org/abs/2304.05774)|null|
-|**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|null|
+|**2023-04-11**|**SciKGTeX -- A LaTeX Package to Semantically Annotate Contributions in Scientific Publications**|Christof Bless et.al.|[2304.05327](http://arxiv.org/abs/2304.05327)|**[link](https://github.com/christof93/scikgtex)**|
 |**2023-04-11**|**Topology Reasoning for Driving Scenes**|Tianyu Li et.al.|[2304.05277](http://arxiv.org/abs/2304.05277)|**[link](https://github.com/opendrivelab/toponet)**|
 |**2023-04-11**|**The Time for Reconstructing the Attack Graph in DDoS Attacks**|Dina Barak-Pelleg et.al.|[2304.05204](http://arxiv.org/abs/2304.05204)|null|
 |**2023-04-11**|**Algorithms for Reconstructing DDoS Attack Graphs using Probabilistic Packet Marking**|Dina Barak-Pelleg et.al.|[2304.05123](http://arxiv.org/abs/2304.05123)|null|
@@ -184,5 +191,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230414>back to top</a>)</p>
 
