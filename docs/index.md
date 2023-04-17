@@ -24,6 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning**|Gen Li et.al.|[2304.07278](http://arxiv.org/abs/2304.07278)|null|
+|**2023-04-14**|**Bandit-Based Policy Invariant Explicit Shaping for Incorporating External Advice in Reinforcement Learning**|Yash Satsangi et.al.|[2304.07163](http://arxiv.org/abs/2304.07163)|null|
+|**2023-04-14**|**A Review on Longitudinal Car-Following Model**|Tianya Zhang et.al.|[2304.07143](http://arxiv.org/abs/2304.07143)|null|
+|**2023-04-14**|**Towards Controllable Diffusion Models via Reward-Guided Exploration**|Hengtong Zhang et.al.|[2304.07132](http://arxiv.org/abs/2304.07132)|null|
+|**2023-04-14**|**Hierarchical Agent-based Reinforcement Learning Framework for Automated Quality Assessment of Fetal Ultrasound Video**|Sijing Liu et.al.|[2304.07036](http://arxiv.org/abs/2304.07036)|null|
+|**2023-04-14**|**QNEAT: Natural Evolution of Variational Quantum Circuit Architecture**|Alessandro Giovagnoli et.al.|[2304.06981](http://arxiv.org/abs/2304.06981)|null|
+|**2023-04-14**|**Robust Decision-Making in Spatial Learning: A Comparative Study of Successor Features and Predecessor Features Algorithms**|Hyunsu Lee et.al.|[2304.06894](http://arxiv.org/abs/2304.06894)|null|
+|**2023-04-13**|**RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment**|Hanze Dong et.al.|[2304.06767](http://arxiv.org/abs/2304.06767)|null|
 |**2023-04-13**|**Deep reinforcement learning applied to an assembly sequence planning problem with user preferences**|Miguel Neves et.al.|[2304.06567](http://arxiv.org/abs/2304.06567)|null|
 |**2023-04-13**|**Reinforcement Learning Quantum Local Search**|Chen-Yu Liu et.al.|[2304.06473](http://arxiv.org/abs/2304.06473)|null|
 |**2023-04-13**|**Contact Models in Robotics: a Comparative Analysis**|Quentin Le Lidec et.al.|[2304.06372](http://arxiv.org/abs/2304.06372)|null|
@@ -140,6 +148,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242](http://arxiv.org/abs/2304.07242)|null|
+|**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065](http://arxiv.org/abs/2304.07065)|**[link](https://github.com/immortals88/demo-sea)**|
+|**2023-04-14**|**On Existential First Order Queries Inference on Knowledge Graphs**|Hang Yin et.al.|[2304.07063](http://arxiv.org/abs/2304.07063)|null|
 |**2023-04-12**|**AGI for Agriculture**|Guoyu Lu et.al.|[2304.06136](http://arxiv.org/abs/2304.06136)|null|
 |**2023-04-12**|**HiPrompt: Few-Shot Biomedical Knowledge Fusion via Hierarchy-Oriented Prompting**|Jiaying Lu et.al.|[2304.05973](http://arxiv.org/abs/2304.05973)|null|
 |**2023-04-12**|**Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses**|Michalis Mountantonakis et.al.|[2304.05774](http://arxiv.org/abs/2304.05774)|null|
