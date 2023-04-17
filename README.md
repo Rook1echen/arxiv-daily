@@ -1,4 +1,4 @@
-## Updated on 2023.04.16
+## Updated on 2023.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## attack graph
 
@@ -47,7 +47,7 @@
 |**2023-04-12**|**Multi-agent Policy Reciprocity with Theoretical Guarantee**|Haozhi Wang et.al.|[2304.05632](http://arxiv.org/abs/2304.05632)|null|
 |**2023-04-11**|**Control invariant set enhanced reinforcement learning for process control: improved sampling efficiency and guaranteed stability**|Song Bo et.al.|[2304.05509](http://arxiv.org/abs/2304.05509)|null|
 |**2023-04-11**|**Frontier Semantic Exploration for Visual Target Navigation**|Bangguo Yu et.al.|[2304.05506](http://arxiv.org/abs/2304.05506)|null|
-|**2023-04-11**|**Hamiltonian Switching Control of Noisy Bipartite Qubit Systems**|Zhibo Yang et.al.|[2304.05478](http://arxiv.org/abs/2304.05478)|null|
+|**2023-04-11**|**Hamiltonian Switching Control of Noisy Bipartite Qubit Systems**|Zhibo Yang et.al.|[2304.05478](http://arxiv.org/abs/2304.05478)|**[link](https://github.com/PiggsBoson/qaoaoqs_v1)**|
 |**2023-04-11**|**Did we personalize? Assessing personalization by an online reinforcement learning algorithm using resampling**|Susobhan Ghosh et.al.|[2304.05365](http://arxiv.org/abs/2304.05365)|**[link](https://github.com/changon/resampling_heartsteps)**|
 |**2023-04-11**|**Emergent autonomous scientific research capabilities of large language models**|Daniil A. Boiko et.al.|[2304.05332](http://arxiv.org/abs/2304.05332)|null|
 |**2023-04-11**|**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**|Zheng Yuan et.al.|[2304.05302](http://arxiv.org/abs/2304.05302)|**[link](https://github.com/ganjinzero/rrhf)**|
@@ -61,15 +61,15 @@
 |**2023-04-10**|**RESPECT: Reinforcement Learning based Edge Scheduling on Pipelined Coral Edge TPUs**|Jiaqi Yin et.al.|[2304.04716](http://arxiv.org/abs/2304.04716)|**[link](https://github.com/yu-utah/respect)**|
 |**2023-04-10**|**Uncertainty-driven Trajectory Truncation for Model-based Offline Reinforcement Learning**|Junjie Zhang et.al.|[2304.04660](http://arxiv.org/abs/2304.04660)|null|
 |**2023-04-10**|**Improving ABR Performance for Short Video Streaming Using Multi-Agent Reinforcement Learning with Expert Guidance**|Yueheng Li et.al.|[2304.04637](http://arxiv.org/abs/2304.04637)|null|
-|**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|null|
+|**2023-04-10**|**Reinforcement Learning-Based Black-Box Model Inversion Attacks**|Gyojin Han et.al.|[2304.04625](http://arxiv.org/abs/2304.04625)|**[link](https://github.com/HanGyojin/RLB-MI)**|
 |**2023-04-10**|**Learning a Universal Human Prior for Dexterous Manipulation from Human Preference**|Zihan Ding et.al.|[2304.04602](http://arxiv.org/abs/2304.04602)|null|
 |**2023-04-10**|**For Pre-Trained Vision Models in Motor Control, Not All Policy Learning Methods are Created Equal**|Yingdong Hu et.al.|[2304.04591](http://arxiv.org/abs/2304.04591)|null|
 |**2023-04-10**|**Deep Reinforcement Learning with Importance Weighted A3C for QoE enhancement in Video Delivery Services**|Mandan Naresh et.al.|[2304.04527](http://arxiv.org/abs/2304.04527)|null|
 |**2023-04-10**|**OpenAGI: When LLM Meets Domain Experts**|Yingqiang Ge et.al.|[2304.04370](http://arxiv.org/abs/2304.04370)|**[link](https://github.com/agiresearch/openagi)**|
 |**2023-04-10**|**Eagle: End-to-end Deep Reinforcement Learning based Autonomous Control of PTZ Cameras**|Sandeep Singh Sandha et.al.|[2304.04356](http://arxiv.org/abs/2304.04356)|**[link](https://github.com/nesl/eagle_ptz_cameras)**|
-|**2023-04-08**|**MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response**|Jasper van Tilburg et.al.|[2304.04086](http://arxiv.org/abs/2304.04086)|null|
+|**2023-04-08**|**MARL-iDR: Multi-Agent Reinforcement Learning for Incentive-based Residential Demand Response**|Jasper van Tilburg et.al.|[2304.04086](http://arxiv.org/abs/2304.04086)|**[link](https://github.com/tu-delft-ai-energy-lab/marl-idr-multi-agent-reinforcement-learning-for-incentive-based-residential-demand-response)**|
 |**2023-04-07**|**Full Gradient Deep Reinforcement Learning for Average-Reward Criterion**|Tejas Pagare et.al.|[2304.03729](http://arxiv.org/abs/2304.03729)|null|
-|**2023-04-07**|**Deep Reinforcement Learning-Based Mapless Crowd Navigation with Perceived Risk of the Moving Crowd for Mobile Robots**|Hafiq Anas et.al.|[2304.03593](http://arxiv.org/abs/2304.03593)|null|
+|**2023-04-07**|**Deep Reinforcement Learning-Based Mapless Crowd Navigation with Perceived Risk of the Moving Crowd for Mobile Robots**|Hafiq Anas et.al.|[2304.03593](http://arxiv.org/abs/2304.03593)|**[link](https://github.com/ailabspace/drl-based-mapless-crowd-navigation-with-perceived-risk)**|
 |**2023-04-07**|**CRISP: Curriculum inducing Primitive Informed Subgoal Prediction for Hierarchical Reinforcement Learning**|Utsav Singh et.al.|[2304.03535](http://arxiv.org/abs/2304.03535)|null|
 |**2023-04-07**|**Improving Adaptive Real-Time Video Communication Via Cross-layer Optimization**|Yueheng Li et.al.|[2304.03505](http://arxiv.org/abs/2304.03505)|null|
 |**2023-04-07**|**Continuous Input Embedding Size Search For Recommender Systems**|Yunke Qu et.al.|[2304.03501](http://arxiv.org/abs/2304.03501)|null|
@@ -128,7 +128,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -146,7 +146,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -191,5 +191,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
 
