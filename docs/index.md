@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.17
+## Updated on 2023.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Affordances from Human Videos as a Versatile Representation for Robotics**|Shikhar Bahl et.al.|[2304.08488](http://arxiv.org/abs/2304.08488)|null|
+|**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487](http://arxiv.org/abs/2304.08487)|null|
+|**2023-04-17**|**A study on a Q-Learning algorithm application to a manufacturing assembly problem**|Miguel Neves et.al.|[2304.08375](http://arxiv.org/abs/2304.08375)|null|
+|**2023-04-17**|**Deep Explainable Relational Reinforcement Learning: A Neuro-Symbolic Approach**|Rishi Hazra et.al.|[2304.08349](http://arxiv.org/abs/2304.08349)|null|
+|**2023-04-17**|**On Fast-Converged Reinforcement Learning for Optimal Dispatch of Large-Scale Power Systems under Transient Security Constraints**|Tannan Xiao et.al.|[2304.08320](http://arxiv.org/abs/2304.08320)|null|
+|**2023-04-17**|**TreeC: a method to generate interpretable energy management systems using a metaheuristic algorithm**|Julian Ruddick et.al.|[2304.08310](http://arxiv.org/abs/2304.08310)|**[link](https://github.com/evergi/treec-paper-results)**|
+|**2023-04-17**|**Integration of Reinforcement Learning Based Behavior Planning With Sampling Based Motion Planning for Automated Driving**|Marvin Klimke et.al.|[2304.08280](http://arxiv.org/abs/2304.08280)|null|
+|**2023-04-17**|**Control and Coordination of a SWARM of Unmanned Surface Vehicles using Deep Reinforcement Learning in ROS**|Shrudhi R S et.al.|[2304.08189](http://arxiv.org/abs/2304.08189)|null|
+|**2023-04-17**|**DeePLT: Personalized Lighting Facilitates by Trajectory Prediction of Recognized Residents in the Smart Home**|Danial Safaei et.al.|[2304.08027](http://arxiv.org/abs/2304.08027)|null|
+|**2023-04-17**|**Collaborative Multi-BS Power Management for Dense Radio Access Network using Deep Reinforcement Learning**|Yuchao Chang et.al.|[2304.07976](http://arxiv.org/abs/2304.07976)|null|
 |**2023-04-14**|**Minimax-Optimal Reward-Agnostic Exploration in Reinforcement Learning**|Gen Li et.al.|[2304.07278](http://arxiv.org/abs/2304.07278)|null|
 |**2023-04-14**|**Bandit-Based Policy Invariant Explicit Shaping for Incorporating External Advice in Reinforcement Learning**|Yash Satsangi et.al.|[2304.07163](http://arxiv.org/abs/2304.07163)|null|
 |**2023-04-14**|**A Review on Longitudinal Car-Following Model**|Tianya Zhang et.al.|[2304.07143](http://arxiv.org/abs/2304.07143)|null|
@@ -148,6 +158,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
+|**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
+|**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
 |**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242](http://arxiv.org/abs/2304.07242)|null|
 |**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065](http://arxiv.org/abs/2304.07065)|**[link](https://github.com/immortals88/demo-sea)**|
 |**2023-04-14**|**On Existential First Order Queries Inference on Knowledge Graphs**|Hang Yin et.al.|[2304.07063](http://arxiv.org/abs/2304.07063)|null|
