@@ -1,4 +1,4 @@
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,12 +26,21 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Finite-Sample Bounds for Adaptive Inverse Reinforcement Learning using Passive Langevin Dynamics**|Luke Snow et.al.|[2304.09123](http://arxiv.org/abs/2304.09123)|null|
+|**2023-04-18**|**Safety Guaranteed Manipulation Based on Reinforcement Learning Planner and Model Predictive Control Actor**|Zhenshan Bing et.al.|[2304.09119](http://arxiv.org/abs/2304.09119)|null|
+|**2023-04-18**|**Provably Feedback-Efficient Reinforcement Learning via Active Reward Learning**|Dingwen Kong et.al.|[2304.08944](http://arxiv.org/abs/2304.08944)|null|
+|**2023-04-18**|**Safe reinforcement learning with self-improving hard constraints for multi-energy management systems**|Glenn Ceusters et.al.|[2304.08897](http://arxiv.org/abs/2304.08897)|null|
+|**2023-04-18**|**Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks**|Yuntao Wang et.al.|[2304.08875](http://arxiv.org/abs/2304.08875)|null|
+|**2023-04-18**|**Feasible Policy Iteration**|Yujie Yang et.al.|[2304.08845](http://arxiv.org/abs/2304.08845)|null|
+|**2023-04-18**|**Cooperative Multi-Agent Reinforcement Learning for Inventory Management**|Madhav Khirwar et.al.|[2304.08769](http://arxiv.org/abs/2304.08769)|null|
+|**2023-04-18**|**Benchmarking Actor-Critic Deep Reinforcement Learning Algorithms for Robotics Control with Action Constraints**|Kazumi Kasaura et.al.|[2304.08743](http://arxiv.org/abs/2304.08743)|null|
+|**2023-04-17**|**Continuous Versatile Jumping Using Learned Action Residuals**|Yuxiang Yang et.al.|[2304.08663](http://arxiv.org/abs/2304.08663)|null|
 |**2023-04-17**|**Affordances from Human Videos as a Versatile Representation for Robotics**|Shikhar Bahl et.al.|[2304.08488](http://arxiv.org/abs/2304.08488)|null|
 |**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487](http://arxiv.org/abs/2304.08487)|null|
 |**2023-04-17**|**A study on a Q-Learning algorithm application to a manufacturing assembly problem**|Miguel Neves et.al.|[2304.08375](http://arxiv.org/abs/2304.08375)|null|
@@ -146,7 +155,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -164,12 +173,15 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048](http://arxiv.org/abs/2304.09048)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)**|
+|**2023-04-18**|**Knowledge Graph Building Blocks: An easy-to-use Framework for developing FAIREr Knowledge Graphs**|Lars Vogt et.al.|[2304.09029](http://arxiv.org/abs/2304.09029)|null|
+|**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015](http://arxiv.org/abs/2304.09015)|null|
 |**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
 |**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
 |**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
@@ -215,5 +227,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230419>back to top</a>)</p>
 

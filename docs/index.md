@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**Finite-Sample Bounds for Adaptive Inverse Reinforcement Learning using Passive Langevin Dynamics**|Luke Snow et.al.|[2304.09123](http://arxiv.org/abs/2304.09123)|null|
+|**2023-04-18**|**Safety Guaranteed Manipulation Based on Reinforcement Learning Planner and Model Predictive Control Actor**|Zhenshan Bing et.al.|[2304.09119](http://arxiv.org/abs/2304.09119)|null|
+|**2023-04-18**|**Provably Feedback-Efficient Reinforcement Learning via Active Reward Learning**|Dingwen Kong et.al.|[2304.08944](http://arxiv.org/abs/2304.08944)|null|
+|**2023-04-18**|**Safe reinforcement learning with self-improving hard constraints for multi-energy management systems**|Glenn Ceusters et.al.|[2304.08897](http://arxiv.org/abs/2304.08897)|null|
+|**2023-04-18**|**Secured and Cooperative Publish/Subscribe Scheme in Autonomous Vehicular Networks**|Yuntao Wang et.al.|[2304.08875](http://arxiv.org/abs/2304.08875)|null|
+|**2023-04-18**|**Feasible Policy Iteration**|Yujie Yang et.al.|[2304.08845](http://arxiv.org/abs/2304.08845)|null|
+|**2023-04-18**|**Cooperative Multi-Agent Reinforcement Learning for Inventory Management**|Madhav Khirwar et.al.|[2304.08769](http://arxiv.org/abs/2304.08769)|null|
+|**2023-04-18**|**Benchmarking Actor-Critic Deep Reinforcement Learning Algorithms for Robotics Control with Action Constraints**|Kazumi Kasaura et.al.|[2304.08743](http://arxiv.org/abs/2304.08743)|null|
+|**2023-04-17**|**Continuous Versatile Jumping Using Learned Action Residuals**|Yuxiang Yang et.al.|[2304.08663](http://arxiv.org/abs/2304.08663)|null|
 |**2023-04-17**|**Affordances from Human Videos as a Versatile Representation for Robotics**|Shikhar Bahl et.al.|[2304.08488](http://arxiv.org/abs/2304.08488)|null|
 |**2023-04-17**|**Hyper-Decision Transformer for Efficient Online Policy Adaptation**|Mengdi Xu et.al.|[2304.08487](http://arxiv.org/abs/2304.08487)|null|
 |**2023-04-17**|**A study on a Q-Learning algorithm application to a manufacturing assembly problem**|Miguel Neves et.al.|[2304.08375](http://arxiv.org/abs/2304.08375)|null|
@@ -158,6 +167,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048](http://arxiv.org/abs/2304.09048)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)**|
+|**2023-04-18**|**Knowledge Graph Building Blocks: An easy-to-use Framework for developing FAIREr Knowledge Graphs**|Lars Vogt et.al.|[2304.09029](http://arxiv.org/abs/2304.09029)|null|
+|**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015](http://arxiv.org/abs/2304.09015)|null|
 |**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
 |**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
 |**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
