@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-19**|**Bridging RL Theory and Practice with the Effective Horizon**|Cassidy Laidlaw et.al.|[2304.09853](http://arxiv.org/abs/2304.09853)|**[link](https://github.com/cassidylaidlaw/effective-horizon)**|
+|**2023-04-19**|**Learning and Adapting Agile Locomotion Skills by Transferring Experience**|Laura Smith et.al.|[2304.09834](http://arxiv.org/abs/2304.09834)|null|
+|**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
+|**2023-04-19**|**End-to-End Policy Gradient Method for POMDPs and Explainable Agents**|Soichiro Nishimori et.al.|[2304.09769](http://arxiv.org/abs/2304.09769)|null|
+|**2023-04-19**|**Sample-efficient Model-based Reinforcement Learning for Quantum Control**|Irtaza Khalid et.al.|[2304.09718](http://arxiv.org/abs/2304.09718)|null|
+|**2023-04-19**|**Autonomous Agent for Beyond Visual Range Air Combat: A Deep Reinforcement Learning Approach**|Joao P. A. Dantas et.al.|[2304.09669](http://arxiv.org/abs/2304.09669)|null|
+|**2023-04-19**|**Quantum deep Q learning with distributed prioritized experience replay**|Samuel Yen-Chi Chen et.al.|[2304.09648](http://arxiv.org/abs/2304.09648)|null|
+|**2023-04-19**|**CASOG: Conservative Actor-critic with SmOoth Gradient for Skill Learning in Robot-Assisted Intervention**|Hao Li et.al.|[2304.09632](http://arxiv.org/abs/2304.09632)|null|
+|**2023-04-19**|**Integrated Ray-Tracing and Coverage Planning Control using Reinforcement Learning**|Savvas Papaioannou et.al.|[2304.09631](http://arxiv.org/abs/2304.09631)|null|
+|**2023-04-19**|**Graph Exploration for Effective Multi-agent Q-Learning**|Ainur Zhaikhan et.al.|[2304.09547](http://arxiv.org/abs/2304.09547)|null|
 |**2023-04-18**|**Finite-Sample Bounds for Adaptive Inverse Reinforcement Learning using Passive Langevin Dynamics**|Luke Snow et.al.|[2304.09123](http://arxiv.org/abs/2304.09123)|null|
 |**2023-04-18**|**Safety Guaranteed Manipulation Based on Reinforcement Learning Planner and Model Predictive Control Actor**|Zhenshan Bing et.al.|[2304.09119](http://arxiv.org/abs/2304.09119)|null|
 |**2023-04-18**|**Provably Feedback-Efficient Reinforcement Learning via Active Reward Learning**|Dingwen Kong et.al.|[2304.08944](http://arxiv.org/abs/2304.08944)|null|
@@ -167,9 +177,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048](http://arxiv.org/abs/2304.09048)|**[link](https://github.com/zjunlp/DeepKE/tree/main/example/llm)**|
+|**2023-04-19**|**An Ecosystem for Personal Knowledge Graphs: A Survey and Research Roadmap**|Martin G. Skjæveland et.al.|[2304.09572](http://arxiv.org/abs/2304.09572)|null|
+|**2023-04-19**|**Inferring High-level Geographical Concepts via Knowledge Graph and Multi-scale Data Integration: A Case Study of C-shaped Building Pattern Recognition**|Zhiwei Wei et.al.|[2304.09391](http://arxiv.org/abs/2304.09391)|null|
+|**2023-04-18**|**BioThings Explorer: a query engine for a federated knowledge graph of biomedical APIs**|Jackson Callaghan et.al.|[2304.09344](http://arxiv.org/abs/2304.09344)|null|
+|**2023-04-18**|**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**|Zhen Bi et.al.|[2304.09048](http://arxiv.org/abs/2304.09048)|**[link](https://github.com/zjunlp/deepke)**|
 |**2023-04-18**|**Knowledge Graph Building Blocks: An easy-to-use Framework for developing FAIREr Knowledge Graphs**|Lars Vogt et.al.|[2304.09029](http://arxiv.org/abs/2304.09029)|null|
-|**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015](http://arxiv.org/abs/2304.09015)|null|
+|**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015](http://arxiv.org/abs/2304.09015)|**[link](https://github.com/jianhaochen-nju/patecon)**|
 |**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
 |**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
 |**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
