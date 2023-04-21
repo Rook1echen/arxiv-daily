@@ -1,4 +1,4 @@
-## Updated on 2023.04.20
+## Updated on 2023.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,12 +26,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230421>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466](http://arxiv.org/abs/2304.10466)|null|
+|**2023-04-20**|**Interpretability for Conditional Coordinated Behavior in Multi-Agent Reinforcement Learning**|Yoshinari Motokawa et.al.|[2304.10375](http://arxiv.org/abs/2304.10375)|null|
+|**2023-04-20**|**Inducing Stackelberg Equilibrium through Spatio-Temporal Sequential Decision-Making in Multi-Agent Reinforcement Learning**|Bin Zhang et.al.|[2304.10351](http://arxiv.org/abs/2304.10351)|null|
+|**2023-04-20**|**Search-Map-Search: A Frame Selection Paradigm for Action Recognition**|Mingjun Zhao et.al.|[2304.10316](http://arxiv.org/abs/2304.10316)|null|
+|**2023-04-20**|**OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures**|Taigao Ma et.al.|[2304.10294](http://arxiv.org/abs/2304.10294)|null|
+|**2023-04-20**|**Aiding reinforcement learning for set point control**|Ruoqi Zhang et.al.|[2304.10289](http://arxiv.org/abs/2304.10289)|null|
+|**2023-04-20**|**Robust nonlinear set-point control with reinforcement learning**|Ruoqi Zhang et.al.|[2304.10277](http://arxiv.org/abs/2304.10277)|null|
+|**2023-04-20**|**Observer-Feedback-Feedforward Controller Structures in Reinforcement Learning**|Ruoqi Zhang et.al.|[2304.10276](http://arxiv.org/abs/2304.10276)|null|
+|**2023-04-20**|**Robust Deep Reinforcement Learning Scheduling via Weight Anchoring**|Steffen Gracla et.al.|[2304.10176](http://arxiv.org/abs/2304.10176)|**[link](https://github.com/steffengra/dl_lottery)**|
+|**2023-04-20**|**Deep Reinforcement Learning Using Hybrid Quantum Neural Network**|Hao-Yuan Chen et.al.|[2304.10159](http://arxiv.org/abs/2304.10159)|null|
 |**2023-04-19**|**Bridging RL Theory and Practice with the Effective Horizon**|Cassidy Laidlaw et.al.|[2304.09853](http://arxiv.org/abs/2304.09853)|**[link](https://github.com/cassidylaidlaw/effective-horizon)**|
 |**2023-04-19**|**Learning and Adapting Agile Locomotion Skills by Transferring Experience**|Laura Smith et.al.|[2304.09834](http://arxiv.org/abs/2304.09834)|null|
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
@@ -165,7 +175,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230421>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -183,12 +193,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230421>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-20**|**On the Potential of Artificial Intelligence Chatbots for Data Exploration of Federated Bioinformatics Knowledge Graphs**|Ana-Claudia Sima et.al.|[2304.10427](http://arxiv.org/abs/2304.10427)|null|
+|**2023-04-20**|**SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning**|Lingyuan Meng et.al.|[2304.10297](http://arxiv.org/abs/2304.10297)|null|
 |**2023-04-19**|**An Ecosystem for Personal Knowledge Graphs: A Survey and Research Roadmap**|Martin G. Skjæveland et.al.|[2304.09572](http://arxiv.org/abs/2304.09572)|null|
 |**2023-04-19**|**Inferring High-level Geographical Concepts via Knowledge Graph and Multi-scale Data Integration: A Case Study of C-shaped Building Pattern Recognition**|Zhiwei Wei et.al.|[2304.09391](http://arxiv.org/abs/2304.09391)|null|
 |**2023-04-18**|**BioThings Explorer: a query engine for a federated knowledge graph of biomedical APIs**|Jackson Callaghan et.al.|[2304.09344](http://arxiv.org/abs/2304.09344)|null|
@@ -240,5 +252,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230421>back to top</a>)</p>
 

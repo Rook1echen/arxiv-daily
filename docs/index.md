@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.20
+## Updated on 2023.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466](http://arxiv.org/abs/2304.10466)|null|
+|**2023-04-20**|**Interpretability for Conditional Coordinated Behavior in Multi-Agent Reinforcement Learning**|Yoshinari Motokawa et.al.|[2304.10375](http://arxiv.org/abs/2304.10375)|null|
+|**2023-04-20**|**Inducing Stackelberg Equilibrium through Spatio-Temporal Sequential Decision-Making in Multi-Agent Reinforcement Learning**|Bin Zhang et.al.|[2304.10351](http://arxiv.org/abs/2304.10351)|null|
+|**2023-04-20**|**Search-Map-Search: A Frame Selection Paradigm for Action Recognition**|Mingjun Zhao et.al.|[2304.10316](http://arxiv.org/abs/2304.10316)|null|
+|**2023-04-20**|**OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures**|Taigao Ma et.al.|[2304.10294](http://arxiv.org/abs/2304.10294)|null|
+|**2023-04-20**|**Aiding reinforcement learning for set point control**|Ruoqi Zhang et.al.|[2304.10289](http://arxiv.org/abs/2304.10289)|null|
+|**2023-04-20**|**Robust nonlinear set-point control with reinforcement learning**|Ruoqi Zhang et.al.|[2304.10277](http://arxiv.org/abs/2304.10277)|null|
+|**2023-04-20**|**Observer-Feedback-Feedforward Controller Structures in Reinforcement Learning**|Ruoqi Zhang et.al.|[2304.10276](http://arxiv.org/abs/2304.10276)|null|
+|**2023-04-20**|**Robust Deep Reinforcement Learning Scheduling via Weight Anchoring**|Steffen Gracla et.al.|[2304.10176](http://arxiv.org/abs/2304.10176)|**[link](https://github.com/steffengra/dl_lottery)**|
+|**2023-04-20**|**Deep Reinforcement Learning Using Hybrid Quantum Neural Network**|Hao-Yuan Chen et.al.|[2304.10159](http://arxiv.org/abs/2304.10159)|null|
 |**2023-04-19**|**Bridging RL Theory and Practice with the Effective Horizon**|Cassidy Laidlaw et.al.|[2304.09853](http://arxiv.org/abs/2304.09853)|**[link](https://github.com/cassidylaidlaw/effective-horizon)**|
 |**2023-04-19**|**Learning and Adapting Agile Locomotion Skills by Transferring Experience**|Laura Smith et.al.|[2304.09834](http://arxiv.org/abs/2304.09834)|null|
 |**2023-04-19**|**FastRLAP: A System for Learning High-Speed Driving via Deep RL and Autonomous Practicing**|Kyle Stachowicz et.al.|[2304.09831](http://arxiv.org/abs/2304.09831)|null|
@@ -177,6 +187,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**On the Potential of Artificial Intelligence Chatbots for Data Exploration of Federated Bioinformatics Knowledge Graphs**|Ana-Claudia Sima et.al.|[2304.10427](http://arxiv.org/abs/2304.10427)|null|
+|**2023-04-20**|**SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning**|Lingyuan Meng et.al.|[2304.10297](http://arxiv.org/abs/2304.10297)|null|
 |**2023-04-19**|**An Ecosystem for Personal Knowledge Graphs: A Survey and Research Roadmap**|Martin G. Skjæveland et.al.|[2304.09572](http://arxiv.org/abs/2304.09572)|null|
 |**2023-04-19**|**Inferring High-level Geographical Concepts via Knowledge Graph and Multi-scale Data Integration: A Case Study of C-shaped Building Pattern Recognition**|Zhiwei Wei et.al.|[2304.09391](http://arxiv.org/abs/2304.09391)|null|
 |**2023-04-18**|**BioThings Explorer: a query engine for a federated knowledge graph of biomedical APIs**|Jackson Callaghan et.al.|[2304.09344](http://arxiv.org/abs/2304.09344)|null|
