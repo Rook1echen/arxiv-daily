@@ -32,6 +32,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Approximate Shielding of Atari Agents for Safe Exploration**|Alexander W. Goodall et.al.|[2304.11104](http://arxiv.org/abs/2304.11104)|null|
+|**2023-04-21**|**Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study**|Ruichen Zhang et.al.|[2304.11098](http://arxiv.org/abs/2304.11098)|null|
+|**2023-04-21**|**A Cubic-regularized Policy Newton Algorithm for Reinforcement Learning**|Mizhaan Prajit Maniyar et.al.|[2304.10951](http://arxiv.org/abs/2304.10951)|null|
+|**2023-04-21**|**Contrastive Language, Action, and State Pre-training for Robot Learning**|Krishan Rana et.al.|[2304.10782](http://arxiv.org/abs/2304.10782)|null|
+|**2023-04-21**|**DEIR: Efficient and Robust Exploration through Discriminative-Model-Based Episodic Intrinsic Rewards**|Shanchuan Wan et.al.|[2304.10770](http://arxiv.org/abs/2304.10770)|null|
+|**2023-04-21**|**Reinforcement Learning Approaches for Traffic Signal Control under Missing Data**|Hao Mei et.al.|[2304.10722](http://arxiv.org/abs/2304.10722)|null|
+|**2023-04-20**|**Debiasing Conditional Stochastic Optimization**|Lie He et.al.|[2304.10613](http://arxiv.org/abs/2304.10613)|null|
+|**2023-04-20**|**A Review of Symbolic, Subsymbolic and Hybrid Methods for Sequential Decision Making**|Carlos Núñez-Molina et.al.|[2304.10590](http://arxiv.org/abs/2304.10590)|null|
 |**2023-04-20**|**Efficient Deep Reinforcement Learning Requires Regulating Overfitting**|Qiyang Li et.al.|[2304.10466](http://arxiv.org/abs/2304.10466)|null|
 |**2023-04-20**|**Interpretability for Conditional Coordinated Behavior in Multi-Agent Reinforcement Learning**|Yoshinari Motokawa et.al.|[2304.10375](http://arxiv.org/abs/2304.10375)|null|
 |**2023-04-20**|**Inducing Stackelberg Equilibrium through Spatio-Temporal Sequential Decision-Making in Multi-Agent Reinforcement Learning**|Bin Zhang et.al.|[2304.10351](http://arxiv.org/abs/2304.10351)|null|
@@ -199,6 +207,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-21**|**Semantics, Ontology and Explanation**|Giancarlo Guizzardi et.al.|[2304.11124](http://arxiv.org/abs/2304.11124)|null|
+|**2023-04-21**|**BERT Based Clinical Knowledge Extraction for Biomedical Knowledge Graph Construction and Analysis**|Ayoub Harnoune et.al.|[2304.10996](http://arxiv.org/abs/2304.10996)|null|
+|**2023-04-21**|**RPLKG: Robust Prompt Learning with Knowledge Graph**|Yewon Kim et.al.|[2304.10805](http://arxiv.org/abs/2304.10805)|null|
+|**2023-04-21**|**Linear building pattern recognition via spatial knowledge graph**|Wei Zhiwei et.al.|[2304.10733](http://arxiv.org/abs/2304.10733)|null|
+|**2023-04-21**|**TC-GAT: Graph Attention Network for Temporal Causality Discovery**|Xiaosong Yuan et.al.|[2304.10706](http://arxiv.org/abs/2304.10706)|null|
 |**2023-04-20**|**On the Potential of Artificial Intelligence Chatbots for Data Exploration of Federated Bioinformatics Knowledge Graphs**|Ana-Claudia Sima et.al.|[2304.10427](http://arxiv.org/abs/2304.10427)|null|
 |**2023-04-20**|**SARF: Aliasing Relation Assisted Self-Supervised Learning for Few-shot Relation Reasoning**|Lingyuan Meng et.al.|[2304.10297](http://arxiv.org/abs/2304.10297)|null|
 |**2023-04-19**|**An Ecosystem for Personal Knowledge Graphs: A Survey and Research Roadmap**|Martin G. Skjæveland et.al.|[2304.09572](http://arxiv.org/abs/2304.09572)|null|
