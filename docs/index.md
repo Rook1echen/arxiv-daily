@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.24
+## Updated on 2023.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Stubborn: An Environment for Evaluating Stubbornness between Agents with Aligned Incentives**|Ram Rachum et.al.|[2304.12280](http://arxiv.org/abs/2304.12280)|**[link](https://github.com/cool-rr/stubborn)**|
+|**2023-04-24**|**Efficient Halftoning via Deep Reinforcement Learning**|Haitian Jiang et.al.|[2304.12152](http://arxiv.org/abs/2304.12152)|null|
+|**2023-04-24**|**Policy Resilience to Environment Poisoning Attacks on Reinforcement Learning**|Hang Xu et.al.|[2304.12151](http://arxiv.org/abs/2304.12151)|null|
+|**2023-04-24**|**Reinforcement Learning with Knowledge Representation and Reasoning: A Brief Survey**|Chao Yu et.al.|[2304.12090](http://arxiv.org/abs/2304.12090)|null|
+|**2023-04-24**|**When to Replan? An Adaptive Replanning Strategy for Autonomous Navigation using Deep Reinforcement Learning**|Kohei Honda et.al.|[2304.12046](http://arxiv.org/abs/2304.12046)|null|
+|**2023-04-24**|**Hierarchical State Abstraction Based on Structural Information Principles**|Xianghua Zeng et.al.|[2304.12000](http://arxiv.org/abs/2304.12000)|**[link](https://github.com/ringbdstack/sisa)**|
+|**2023-04-23**|**Bridging Declarative, Procedural, and Conditional Metacognitive Knowledge Gap Using Deep Reinforcement Learning**|Mark Abdelshiheed et.al.|[2304.11739](http://arxiv.org/abs/2304.11739)|null|
+|**2023-04-23**|**System III: Learning with Domain Knowledge for Safety Constraints**|Fazl Barez et.al.|[2304.11593](http://arxiv.org/abs/2304.11593)|null|
+|**2023-04-23**|**How to Control Hydrodynamic Force on Fluidic Pinball via Deep Reinforcement Learning**|Haodong Feng et.al.|[2304.11526](http://arxiv.org/abs/2304.11526)|**[link](https://github.com/HDFengChina/How-to-Control-Hydrodynamic-Force)**|
+|**2023-04-23**|**QuMoS: A Framework for Preserving Security of Quantum Machine Learning Model**|Zhepeng Wang et.al.|[2304.11511](http://arxiv.org/abs/2304.11511)|null|
 |**2023-04-21**|**Approximate Shielding of Atari Agents for Safe Exploration**|Alexander W. Goodall et.al.|[2304.11104](http://arxiv.org/abs/2304.11104)|null|
 |**2023-04-21**|**Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study**|Ruichen Zhang et.al.|[2304.11098](http://arxiv.org/abs/2304.11098)|null|
 |**2023-04-21**|**A Cubic-regularized Policy Newton Algorithm for Reinforcement Learning**|Mizhaan Prajit Maniyar et.al.|[2304.10951](http://arxiv.org/abs/2304.10951)|null|
@@ -195,6 +205,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
+|**2023-04-24**|**Geometric Relational Embeddings: A Survey**|Bo Xiong et.al.|[2304.11949](http://arxiv.org/abs/2304.11949)|null|
+|**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
+|**2023-04-23**|**CBIM: A Graph-based Approach to Enhance Interoperability Using Semantic Enrichment**|Zijian Wang et.al.|[2304.11672](http://arxiv.org/abs/2304.11672)|null|
+|**2023-04-23**|**Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2304.11618](http://arxiv.org/abs/2304.11618)|**[link](https://github.com/zjukg/mans)**|
+|**2023-04-21**|**Enabling knowledge discovery in natural hazard engineering datasets on DesignSafe**|Chahak Mehta et.al.|[2304.11273](http://arxiv.org/abs/2304.11273)|null|
+|**2023-04-21**|**A Group-Specific Approach to NLP for Hate Speech Detection**|Karina Halevy et.al.|[2304.11223](http://arxiv.org/abs/2304.11223)|**[link](https://github.com/enscma2/knowledje)**|
 |**2023-04-21**|**Semantics, Ontology and Explanation**|Giancarlo Guizzardi et.al.|[2304.11124](http://arxiv.org/abs/2304.11124)|null|
 |**2023-04-21**|**BERT Based Clinical Knowledge Extraction for Biomedical Knowledge Graph Construction and Analysis**|Ayoub Harnoune et.al.|[2304.10996](http://arxiv.org/abs/2304.10996)|null|
 |**2023-04-21**|**RPLKG: Robust Prompt Learning with Knowledge Graph**|Yewon Kim et.al.|[2304.10805](http://arxiv.org/abs/2304.10805)|null|
