@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.25
+## Updated on 2023.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Centralized control for multi-agent RL in a complex Real-Time-Strategy game**|Roger Creus Castanyer et.al.|[2304.13004](http://arxiv.org/abs/2304.13004)|**[link](https://github.com/roger-creus/centralized-control-lux)**|
+|**2023-04-25**|**Deep Reinforcement Learning in Finite-Horizon to Explore the Most Probable Transition Pathway**|Jin Guo et.al.|[2304.12994](http://arxiv.org/abs/2304.12994)|null|
+|**2023-04-25**|**Towards Theoretical Understanding of Inverse Reinforcement Learning**|Alberto Maria Metelli et.al.|[2304.12966](http://arxiv.org/abs/2304.12966)|null|
+|**2023-04-25**|**A Closer Look at Reward Decomposition for High-Level Robotic Explanations**|Wenhao Lu et.al.|[2304.12958](http://arxiv.org/abs/2304.12958)|null|
+|**2023-04-25**|**Provable benefits of general coverage conditions in efficient online RL with function approximation**|Fanghui Liu et.al.|[2304.12886](http://arxiv.org/abs/2304.12886)|null|
+|**2023-04-25**|**Proximal Curriculum for Reinforcement Learning Agents**|Georgios Tzannetos et.al.|[2304.12877](http://arxiv.org/abs/2304.12877)|**[link](https://github.com/machine-teaching-group/tmlr2023_proximal-curriculum-rl)**|
+|**2023-04-25**|**A optimization framework for herbal prescription planning based on deep reinforcement learning**|Kuo Yang et.al.|[2304.12828](http://arxiv.org/abs/2304.12828)|null|
+|**2023-04-25**|**Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning**|Cheng Lu et.al.|[2304.12824](http://arxiv.org/abs/2304.12824)|null|
+|**2023-04-25**|**Loss and Reward Weighing for increased learning in Distributed Reinforcement Learning**|Martin Holen et.al.|[2304.12778](http://arxiv.org/abs/2304.12778)|null|
+|**2023-04-25**|**A Multi-Task Approach to Robust Deep Reinforcement Learning for Resource Allocation**|Steffen Gracla et.al.|[2304.12660](http://arxiv.org/abs/2304.12660)|null|
 |**2023-04-24**|**Stubborn: An Environment for Evaluating Stubbornness between Agents with Aligned Incentives**|Ram Rachum et.al.|[2304.12280](http://arxiv.org/abs/2304.12280)|**[link](https://github.com/cool-rr/stubborn)**|
 |**2023-04-24**|**Efficient Halftoning via Deep Reinforcement Learning**|Haitian Jiang et.al.|[2304.12152](http://arxiv.org/abs/2304.12152)|null|
 |**2023-04-24**|**Policy Resilience to Environment Poisoning Attacks on Reinforcement Learning**|Hang Xu et.al.|[2304.12151](http://arxiv.org/abs/2304.12151)|null|
@@ -205,12 +215,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604](http://arxiv.org/abs/2304.12604)|null|
+|**2023-04-24**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395](http://arxiv.org/abs/2304.12395)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
 |**2023-04-24**|**Geometric Relational Embeddings: A Survey**|Bo Xiong et.al.|[2304.11949](http://arxiv.org/abs/2304.11949)|null|
 |**2023-04-23**|**LogicRec: Recommendation with Users' Logical Requirements**|Zhenwei Tang et.al.|[2304.11722](http://arxiv.org/abs/2304.11722)|**[link](https://github.com/lilv98/logicrec)**|
 |**2023-04-23**|**CBIM: A Graph-based Approach to Enhance Interoperability Using Semantic Enrichment**|Zijian Wang et.al.|[2304.11672](http://arxiv.org/abs/2304.11672)|null|
 |**2023-04-23**|**Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2304.11618](http://arxiv.org/abs/2304.11618)|**[link](https://github.com/zjukg/mans)**|
-|**2023-04-21**|**Enabling knowledge discovery in natural hazard engineering datasets on DesignSafe**|Chahak Mehta et.al.|[2304.11273](http://arxiv.org/abs/2304.11273)|null|
+|**2023-04-21**|**Enabling knowledge discovery in natural hazard engineering datasets on DesignSafe**|Chahak Mehta et.al.|[2304.11273](http://arxiv.org/abs/2304.11273)|**[link](https://github.com/chahak13/tuitus)**|
 |**2023-04-21**|**A Group-Specific Approach to NLP for Hate Speech Detection**|Karina Halevy et.al.|[2304.11223](http://arxiv.org/abs/2304.11223)|**[link](https://github.com/enscma2/knowledje)**|
 |**2023-04-21**|**Semantics, Ontology and Explanation**|Giancarlo Guizzardi et.al.|[2304.11124](http://arxiv.org/abs/2304.11124)|null|
 |**2023-04-21**|**BERT Based Clinical Knowledge Extraction for Biomedical Knowledge Graph Construction and Analysis**|Ayoub Harnoune et.al.|[2304.10996](http://arxiv.org/abs/2304.10996)|null|
