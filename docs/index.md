@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -24,6 +24,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning**|Tuomas Haarnoja et.al.|[2304.13653](http://arxiv.org/abs/2304.13653)|null|
+|**2023-04-26**|**CROP: Towards Distributional-Shift Robust Reinforcement Learning using Compact Reshaped Observation Processing**|Philipp Altmann et.al.|[2304.13616](http://arxiv.org/abs/2304.13616)|null|
+|**2023-04-26**|**Quantum Natural Policy Gradients: Towards Sample-Efficient Reinforcement Learning**|Nico Meyer et.al.|[2304.13571](http://arxiv.org/abs/2304.13571)|null|
+|**2023-04-26**|**An efficient neural optimizer for resonant nanostructures: demonstration of highly-saturated red silicon structural color**|Ronghui Lin et.al.|[2304.13516](http://arxiv.org/abs/2304.13516)|null|
+|**2023-04-26**|**Fundamental Tradeoffs in Learning with Prior Information**|Anirudha Majumdar et.al.|[2304.13479](http://arxiv.org/abs/2304.13479)|null|
+|**2023-04-26**|**Optimizing Energy Efficiency in Metro Systems Under Uncertainty Disturbances Using Reinforcement Learning**|Haiqin Xie et.al.|[2304.13443](http://arxiv.org/abs/2304.13443)|null|
+|**2023-04-26**|**FLEX: an Adaptive Exploration Algorithm for Nonlinear Systems**|Matthieu Blanke et.al.|[2304.13426](http://arxiv.org/abs/2304.13426)|null|
+|**2023-04-26**|**Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories**|Li-Cheng Lan et.al.|[2304.13424](http://arxiv.org/abs/2304.13424)|null|
+|**2023-04-26**|**N $\text{A}^\text{2}$ Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning**|Zichuan Liu et.al.|[2304.13383](http://arxiv.org/abs/2304.13383)|null|
+|**2023-04-26**|**Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach**|Amin Sarihi et.al.|[2304.13232](http://arxiv.org/abs/2304.13232)|null|
 |**2023-04-25**|**Centralized control for multi-agent RL in a complex Real-Time-Strategy game**|Roger Creus Castanyer et.al.|[2304.13004](http://arxiv.org/abs/2304.13004)|**[link](https://github.com/roger-creus/centralized-control-lux)**|
 |**2023-04-25**|**Deep Reinforcement Learning in Finite-Horizon to Explore the Most Probable Transition Pathway**|Jin Guo et.al.|[2304.12994](http://arxiv.org/abs/2304.12994)|null|
 |**2023-04-25**|**Towards Theoretical Understanding of Inverse Reinforcement Learning**|Alberto Maria Metelli et.al.|[2304.12966](http://arxiv.org/abs/2304.12966)|null|
@@ -215,6 +225,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240](http://arxiv.org/abs/2304.13240)|null|
+|**2023-04-25**|**Connector 0.5: A unified framework for graph representation learning**|Thanh Sang Nguyen et.al.|[2304.13195](http://arxiv.org/abs/2304.13195)|null|
+|**2023-04-25**|**Modeling Spoken Information Queries for Virtual Assistants: Open Problems, Challenges and Opportunities**|Christophe Van Gysel et.al.|[2304.13149](http://arxiv.org/abs/2304.13149)|null|
 |**2023-04-25**|**Adaptive Path-Memory Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2304.12604](http://arxiv.org/abs/2304.12604)|null|
 |**2023-04-24**|**Extreme Classification for Answer Type Prediction in Question Answering**|Vinay Setty et.al.|[2304.12395](http://arxiv.org/abs/2304.12395)|null|
 |**2023-04-24**|**Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling**|Xuhui Ren et.al.|[2304.12083](http://arxiv.org/abs/2304.12083)|null|
