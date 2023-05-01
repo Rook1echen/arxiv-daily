@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
 |**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|Lluís Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
 |**2023-02-15**|**AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce**|Sudip Mittal et.al.|[2302.07953](http://arxiv.org/abs/2302.07953)|null|
 |**2023-02-09**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
@@ -32,6 +33,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867](http://arxiv.org/abs/2304.14867)|null|
+|**2023-04-28**|**A Federated Reinforcement Learning Framework for Link Activation in Multi-link Wi-Fi Networks**|Rashid Ali et.al.|[2304.14720](http://arxiv.org/abs/2304.14720)|null|
+|**2023-04-28**|**X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation**|Guoliang He et.al.|[2304.14698](http://arxiv.org/abs/2304.14698)|null|
+|**2023-04-28**|**ALL-E: Aesthetics-guided Low-light Image Enhancement**|Ling Li et.al.|[2304.14610](http://arxiv.org/abs/2304.14610)|null|
+|**2023-04-28**|**Learning adaptive manipulation of objects with revolute joint: A case study on varied cabinet doors opening**|Hongxiang Yu et.al.|[2304.14602](http://arxiv.org/abs/2304.14602)|null|
+|**2023-04-27**|**Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
+|**2023-04-27**|**Adversarial Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2304.14533](http://arxiv.org/abs/2304.14533)|null|
 |**2023-04-27**|**Exploring the flavor structure of quarks and leptons with reinforcement learning**|Satsuki Nishimura et.al.|[2304.14176](http://arxiv.org/abs/2304.14176)|null|
 |**2023-04-27**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning: A Dynamic Weight-based Approach**|Junlin Lu et.al.|[2304.14115](http://arxiv.org/abs/2304.14115)|null|
 |**2023-04-27**|**SocNavGym: A Reinforcement Learning Gym for Social Navigation**|Aditya Kapoor et.al.|[2304.14102](http://arxiv.org/abs/2304.14102)|null|
@@ -242,6 +250,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-28**|**Knowledge-refined Denoising Network for Robust Recommendation**|Xinjun Zhu et.al.|[2304.14987](http://arxiv.org/abs/2304.14987)|**[link](https://github.com/xj-zhu98/krdn)**|
+|**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880](http://arxiv.org/abs/2304.14880)|**[link](https://github.com/sayands/sgaligner)**|
+|**2023-04-27**|**Visual Diagrammatic Queries in ViziQuer: Overview and Implementation**|Jūlija Ovčiņņikiva et.al.|[2304.14825](http://arxiv.org/abs/2304.14825)|null|
+|**2023-04-28**|**LitCQD: Multi-Hop Reasoning in Incomplete Knowledge Graphs with Numeric Literals**|Caglar Demir et.al.|[2304.14742](http://arxiv.org/abs/2304.14742)|null|
+|**2023-04-28**|**NeuralKG-ind: A Python Library for Inductive Knowledge Graph Representation Learning**|Wen Zhang et.al.|[2304.14678](http://arxiv.org/abs/2304.14678)|**[link](https://github.com/zjukg/neuralkg)**|
+|**2023-04-28**|**Improving Knowledge Graph Entity Alignment with Graph Augmentation**|Feng Xie et.al.|[2304.14585](http://arxiv.org/abs/2304.14585)|**[link](https://github.com/xiefeng69/gaea)**|
 |**2023-04-27**|**Retrieval-based Knowledge Augmented Vision Language Pre-training**|Jiahua Rao et.al.|[2304.13923](http://arxiv.org/abs/2304.13923)|null|
 |**2023-04-26**|**Understand the Dynamic World: An End-to-End Knowledge Informed Framework for Open Domain Entity State Tracking**|Mingchen Li et.al.|[2304.13854](http://arxiv.org/abs/2304.13854)|null|
 |**2023-04-26**|**Structure Diagram Recognition in Financial Announcements**|Meixuan Qiao et.al.|[2304.13240](http://arxiv.org/abs/2304.13240)|null|
