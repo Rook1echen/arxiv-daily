@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.30
+## Updated on 2023.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -35,9 +35,9 @@ layout: default
 |**2023-04-26**|**An efficient neural optimizer for resonant nanostructures: demonstration of highly-saturated red silicon structural color**|Ronghui Lin et.al.|[2304.13516](http://arxiv.org/abs/2304.13516)|null|
 |**2023-04-26**|**Fundamental Tradeoffs in Learning with Prior Information**|Anirudha Majumdar et.al.|[2304.13479](http://arxiv.org/abs/2304.13479)|null|
 |**2023-04-26**|**Optimizing Energy Efficiency in Metro Systems Under Uncertainty Disturbances Using Reinforcement Learning**|Haiqin Xie et.al.|[2304.13443](http://arxiv.org/abs/2304.13443)|null|
-|**2023-04-26**|**FLEX: an Adaptive Exploration Algorithm for Nonlinear Systems**|Matthieu Blanke et.al.|[2304.13426](http://arxiv.org/abs/2304.13426)|null|
+|**2023-04-26**|**FLEX: an Adaptive Exploration Algorithm for Nonlinear Systems**|Matthieu Blanke et.al.|[2304.13426](http://arxiv.org/abs/2304.13426)|**[link](https://github.com/mb-29/exploration)**|
 |**2023-04-26**|**Can Agents Run Relay Race with Strangers? Generalization of RL to Out-of-Distribution Trajectories**|Li-Cheng Lan et.al.|[2304.13424](http://arxiv.org/abs/2304.13424)|null|
-|**2023-04-26**|**N $\text{A}^\text{2}$ Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning**|Zichuan Liu et.al.|[2304.13383](http://arxiv.org/abs/2304.13383)|null|
+|**2023-04-26**|**N $\text{A}^\text{2}$ Q: Neural Attention Additive Model for Interpretable Multi-Agent Q-Learning**|Zichuan Liu et.al.|[2304.13383](http://arxiv.org/abs/2304.13383)|**[link](https://github.com/zichuan-liu/na2q)**|
 |**2023-04-26**|**Multi-criteria Hardware Trojan Detection: A Reinforcement Learning Approach**|Amin Sarihi et.al.|[2304.13232](http://arxiv.org/abs/2304.13232)|null|
 |**2023-04-25**|**Centralized control for multi-agent RL in a complex Real-Time-Strategy game**|Roger Creus Castanyer et.al.|[2304.13004](http://arxiv.org/abs/2304.13004)|**[link](https://github.com/roger-creus/centralized-control-lux)**|
 |**2023-04-25**|**Deep Reinforcement Learning in Finite-Horizon to Explore the Most Probable Transition Pathway**|Jin Guo et.al.|[2304.12994](http://arxiv.org/abs/2304.12994)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2023-04-14**|**Hierarchical Agent-based Reinforcement Learning Framework for Automated Quality Assessment of Fetal Ultrasound Video**|Sijing Liu et.al.|[2304.07036](http://arxiv.org/abs/2304.07036)|null|
 |**2023-04-14**|**QNEAT: Natural Evolution of Variational Quantum Circuit Architecture**|Alessandro Giovagnoli et.al.|[2304.06981](http://arxiv.org/abs/2304.06981)|null|
 |**2023-04-14**|**Robust Decision-Making in Spatial Learning: A Comparative Study of Successor Features and Predecessor Features Algorithms**|Hyunsu Lee et.al.|[2304.06894](http://arxiv.org/abs/2304.06894)|null|
-|**2023-04-13**|**RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment**|Hanze Dong et.al.|[2304.06767](http://arxiv.org/abs/2304.06767)|null|
+|**2023-04-13**|**RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment**|Hanze Dong et.al.|[2304.06767](http://arxiv.org/abs/2304.06767)|**[link](https://github.com/optimalscale/lmflow)**|
 |**2023-04-13**|**Deep reinforcement learning applied to an assembly sequence planning problem with user preferences**|Miguel Neves et.al.|[2304.06567](http://arxiv.org/abs/2304.06567)|null|
 |**2023-04-13**|**Reinforcement Learning Quantum Local Search**|Chen-Yu Liu et.al.|[2304.06473](http://arxiv.org/abs/2304.06473)|null|
 |**2023-04-13**|**Contact Models in Robotics: a Comparative Analysis**|Quentin Le Lidec et.al.|[2304.06372](http://arxiv.org/abs/2304.06372)|null|
