@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.01
+## Updated on 2023.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**AI-based Radio and Computing Resource Allocation and Path Planning in NOMA NTNs: AoI Minimization under CSI Uncertainty**|Maryam Ansarifard et.al.|[2305.00780](http://arxiv.org/abs/2305.00780)|null|
+|**2023-05-01**|**Heterogeneous Social Value Orientation Leads to Meaningful Diversity in Sequential Social Dilemmas**|Udari Madhushani et.al.|[2305.00768](http://arxiv.org/abs/2305.00768)|null|
+|**2023-05-01**|**On the Complexity of Multi-Agent Decision Making: From Learning in Games to Partial Monitoring**|Dylan J. Foster et.al.|[2305.00684](http://arxiv.org/abs/2305.00684)|null|
+|**2023-05-01**|**Representations and Exploration for Deep Reinforcement Learning using Singular Value Decomposition**|Yash Chandak et.al.|[2305.00654](http://arxiv.org/abs/2305.00654)|null|
+|**2023-04-30**|**Incremental procedural and sensorimotor learning in cognitive humanoid robots**|Leonardo de Lellis Rossi et.al.|[2305.00597](http://arxiv.org/abs/2305.00597)|**[link](https://github.com/cst-group/cst)**|
+|**2023-04-30**|**Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning**|Lunet Yifru et.al.|[2305.00576](http://arxiv.org/abs/2305.00576)|null|
+|**2023-04-30**|**Scaling Pareto-Efficient Decision Making Via Offline Multi-Objective RL**|Baiting Zhu et.al.|[2305.00567](http://arxiv.org/abs/2305.00567)|**[link](https://github.com/baitingzbt/peda)**|
+|**2023-04-30**|**Model-free Motion Planning of Autonomous Agents for Complex Tasks in Partially Observable Environments**|Junchao Li et.al.|[2305.00561](http://arxiv.org/abs/2305.00561)|**[link](https://github.com/junchaoli001/model-free_drl_lstm_on_pomdp_with_ldgba)**|
+|**2023-04-30**|**SRL-Assisted AFM: Generating Planar Unstructured Quadrilateral Meshes with Supervised and Reinforcement Learning-Assisted Advancing Front Method**|Hua Tong et.al.|[2305.00540](http://arxiv.org/abs/2305.00540)|null|
+|**2023-04-30**|**Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward**|Zihan Zhou et.al.|[2305.00508](http://arxiv.org/abs/2305.00508)|**[link](https://github.com/pairlab/iclr-23-sea)**|
 |**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867](http://arxiv.org/abs/2304.14867)|null|
 |**2023-04-28**|**A Federated Reinforcement Learning Framework for Link Activation in Multi-link Wi-Fi Networks**|Rashid Ali et.al.|[2304.14720](http://arxiv.org/abs/2304.14720)|null|
 |**2023-04-28**|**X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation**|Guoliang He et.al.|[2304.14698](http://arxiv.org/abs/2304.14698)|null|
@@ -238,6 +248,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Explicit Knowledge Graph Reasoning for Conversational Recommendation**|Xuhui Ren et.al.|[2305.00783](http://arxiv.org/abs/2305.00783)|null|
+|**2023-05-01**|**Uncovering CWE-CVE-CPE Relations with Threat Knowledge Graphs**|Zhenpeng Shi et.al.|[2305.00632](http://arxiv.org/abs/2305.00632)|null|
+|**2023-04-30**|**Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database**|Anders Mølmen Høst et.al.|[2305.00382](http://arxiv.org/abs/2305.00382)|null|
 |**2023-04-28**|**Knowledge-refined Denoising Network for Robust Recommendation**|Xinjun Zhu et.al.|[2304.14987](http://arxiv.org/abs/2304.14987)|**[link](https://github.com/xj-zhu98/krdn)**|
 |**2023-04-28**|**SGAligner : 3D Scene Alignment with Scene Graphs**|Sayan Deb Sarkar et.al.|[2304.14880](http://arxiv.org/abs/2304.14880)|**[link](https://github.com/sayands/sgaligner)**|
 |**2023-04-27**|**Visual Diagrammatic Queries in ViziQuer: Overview and Implementation**|Jūlija Ovčiņņikiva et.al.|[2304.14825](http://arxiv.org/abs/2304.14825)|null|
