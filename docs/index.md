@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047](http://arxiv.org/abs/2305.03047)|null|
+|**2023-05-04**|**Rethinking Population-assisted Off-policy Reinforcement Learning**|Bowen Zheng et.al.|[2305.02949](http://arxiv.org/abs/2305.02949)|null|
+|**2023-05-04**|**Single Node Injection Label Specificity Attack on Graph Neural Networks via Reinforcement Learning**|Dayuan Chen et.al.|[2305.02901](http://arxiv.org/abs/2305.02901)|null|
+|**2023-05-04**|**Simple Noisy Environment Augmentation for Reinforcement Learning**|Raad Khraishi et.al.|[2305.02882](http://arxiv.org/abs/2305.02882)|null|
+|**2023-05-04**|**Maximum Causal Entropy Inverse Constrained Reinforcement Learning**|Mattijs Baert et.al.|[2305.02857](http://arxiv.org/abs/2305.02857)|null|
+|**2023-05-04**|**Learning Failure Prevention Skills for Safe Robot Manipulation**|Abdullah Cihan Ak et.al.|[2305.02807](http://arxiv.org/abs/2305.02807)|null|
+|**2023-05-04**|**Explainable Reinforcement Learning via a Causal World Model**|Zhongwei Yu et.al.|[2305.02749](http://arxiv.org/abs/2305.02749)|null|
+|**2023-05-04**|**An Asynchronous Updating Reinforcement Learning Framework for Task-oriented Dialog System**|Sai Zhang et.al.|[2305.02718](http://arxiv.org/abs/2305.02718)|null|
+|**2023-05-04**|**A framework for the emergence and analysis of language in social learning agents**|Tobias J. Wieczorek et.al.|[2305.02632](http://arxiv.org/abs/2305.02632)|null|
+|**2023-05-04**|**IMAP: Intrinsically Motivated Adversarial Policy**|Xiang Zheng et.al.|[2305.02605](http://arxiv.org/abs/2305.02605)|null|
 |**2023-05-03**|**System Neural Diversity: Measuring Behavioral Heterogeneity in Multi-Agent Learning**|Matteo Bettini et.al.|[2305.02128](http://arxiv.org/abs/2305.02128)|null|
 |**2023-05-03**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture**|Turgay Pamuklu et.al.|[2305.02112](http://arxiv.org/abs/2305.02112)|null|
 |**2023-05-03**|**Human Machine Co-adaption Interface via Cooperation Markov Decision Process System**|Kairui Guo et.al.|[2305.02058](http://arxiv.org/abs/2305.02058)|null|
@@ -265,10 +275,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
+|**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
+|**2023-05-03**|**On the Security Risks of Knowledge Graph Reasoning**|Zhaohan Xi et.al.|[2305.02383](http://arxiv.org/abs/2305.02383)|null|
+|**2023-05-03**|**PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives**|Silin Gao et.al.|[2305.02364](http://arxiv.org/abs/2305.02364)|**[link](https://github.com/silin159/peacok)**|
 |**2023-05-03**|**Evaluating BERT-based Scientific Relation Classifiers for Scholarly Knowledge Graph Construction on Digital Library Collections**|Ming Jiang et.al.|[2305.02291](http://arxiv.org/abs/2305.02291)|null|
-|**2023-05-03**|**Causality-aware Concept Extraction based on Knowledge-guided Prompting**|Siyu Yuan et.al.|[2305.01876](http://arxiv.org/abs/2305.01876)|**[link](https://github.com/siyuyuan/kpce)**|
-|**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561](http://arxiv.org/abs/2305.01561)|null|
-|**2023-05-02**|**Type-enhanced Ensemble Triple Representation via Triple-aware Attention for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01556](http://arxiv.org/abs/2305.01556)|null|
+|**2023-05-04**|**Causality-aware Concept Extraction based on Knowledge-guided Prompting**|Siyu Yuan et.al.|[2305.01876](http://arxiv.org/abs/2305.01876)|**[link](https://github.com/siyuyuan/kpce)**|
+|**2023-05-02**|**OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01561](http://arxiv.org/abs/2305.01561)|**[link](https://github.com/codesfornlp/otiea)**|
+|**2023-05-02**|**Type-enhanced Ensemble Triple Representation via Triple-aware Attention for Cross-lingual Entity Alignment**|Zhishuo Zhang et.al.|[2305.01556](http://arxiv.org/abs/2305.01556)|**[link](https://github.com/codesfornlp/ttea)**|
 |**2023-05-02**|**Complex Logical Reasoning over Knowledge Graphs using Large Language Models**|Nurendra Choudhary et.al.|[2305.01157](http://arxiv.org/abs/2305.01157)|**[link](https://github.com/akirato/llm-kg-reasoning)**|
 |**2023-05-02**|**Ripple Knowledge Graph Convolutional Networks For Recommendation Systems**|Chen Li et.al.|[2305.01147](http://arxiv.org/abs/2305.01147)|null|
 |**2023-05-01**|**Explicit Knowledge Graph Reasoning for Conversational Recommendation**|Xuhui Ren et.al.|[2305.00783](http://arxiv.org/abs/2305.00783)|null|
