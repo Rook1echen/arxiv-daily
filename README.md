@@ -33,6 +33,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-05**|**Reducing the Drag of a Bluff Body by Deep Reinforcement Learning**|Enrico Ballini et.al.|[2305.03647](http://arxiv.org/abs/2305.03647)|null|
+|**2023-05-05**|**On the Optimality, Stability, and Feasibility of Control Barrier Functions: An Adaptive Learning-Based Approach**|Alaa Eddine Chriat et.al.|[2305.03608](http://arxiv.org/abs/2305.03608)|null|
+|**2023-05-05**|**Model-free Reinforcement Learning of Semantic Communication by Stochastic Policy Gradient**|Edgar Beck et.al.|[2305.03571](http://arxiv.org/abs/2305.03571)|**[link](https://github.com/ant-uni-bremen/sinfony)**|
+|**2023-05-05**|**Cooperative Driving of Connected Autonomous Vehicles in Heterogeneous Mixed Traffic: A Game Theoretic Approach**|Shiyu Fang et.al.|[2305.03563](http://arxiv.org/abs/2305.03563)|null|
+|**2023-05-05**|**Reducing Idleness in Financial Cloud via Multi-objective Evolutionary Reinforcement Learning based Load Balancer**|Peng Yang et.al.|[2305.03463](http://arxiv.org/abs/2305.03463)|**[link](https://github.com/zlaom/merl-lb)**|
+|**2023-05-05**|**Towards Applying Powerful Large AI Models in Classroom Teaching: Opportunities, Challenges and Prospects**|Kehui Tan et.al.|[2305.03433](http://arxiv.org/abs/2305.03433)|null|
+|**2023-05-05**|**A Survey on Offline Model-Based Reinforcement Learning**|Haoyang He et.al.|[2305.03360](http://arxiv.org/abs/2305.03360)|null|
+|**2023-05-05**|**Biophysical Cybernetics of Directed Evolution and Eco-evolutionary Dynamics**|Bryce Allen Bagley et.al.|[2305.03340](http://arxiv.org/abs/2305.03340)|null|
+|**2023-05-05**|**Composite Motion Learning with Task Control**|Pei Xu et.al.|[2305.03286](http://arxiv.org/abs/2305.03286)|**[link](https://github.com/xupei0610/compositemotion)**|
+|**2023-05-05**|**Deep RL at Scale: Sorting Waste in Office Buildings with a Fleet of Mobile Manipulators**|Alexander Herzog et.al.|[2305.03270](http://arxiv.org/abs/2305.03270)|null|
 |**2023-05-04**|**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**|Zhiqing Sun et.al.|[2305.03047](http://arxiv.org/abs/2305.03047)|null|
 |**2023-05-04**|**Rethinking Population-assisted Off-policy Reinforcement Learning**|Bowen Zheng et.al.|[2305.02949](http://arxiv.org/abs/2305.02949)|null|
 |**2023-05-04**|**Single Node Injection Label Specificity Attack on Graph Neural Networks via Reinforcement Learning**|Dayuan Chen et.al.|[2305.02901](http://arxiv.org/abs/2305.02901)|null|
@@ -287,6 +297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-03**|**ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs**|Yucheng Shi et.al.|[2305.03513](http://arxiv.org/abs/2305.03513)|null|
 |**2023-05-04**|**ExeKGLib: Knowledge Graphs-Empowered Machine Learning Analytics**|Antonis Klironomos et.al.|[2305.02966](http://arxiv.org/abs/2305.02966)|null|
 |**2023-05-04**|**Toward the Automated Construction of Probabilistic Knowledge Graphs for the Maritime Domain**|Fatemeh Shiri et.al.|[2305.02471](http://arxiv.org/abs/2305.02471)|null|
 |**2023-05-03**|**On the Security Risks of Knowledge Graph Reasoning**|Zhaohan Xi et.al.|[2305.02383](http://arxiv.org/abs/2305.02383)|null|
