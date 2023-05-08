@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -38,7 +38,7 @@ layout: default
 |**2023-05-03**|**System Neural Diversity: Measuring Behavioral Heterogeneity in Multi-Agent Learning**|Matteo Bettini et.al.|[2305.02128](http://arxiv.org/abs/2305.02128)|null|
 |**2023-05-03**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture**|Turgay Pamuklu et.al.|[2305.02112](http://arxiv.org/abs/2305.02112)|null|
 |**2023-05-03**|**Human Machine Co-adaption Interface via Cooperation Markov Decision Process System**|Kairui Guo et.al.|[2305.02058](http://arxiv.org/abs/2305.02058)|null|
-|**2023-05-03**|**Map-based Experience Replay: A Memory-Efficient Solution to Catastrophic Forgetting in Reinforcement Learning**|Muhammad Burhan Hafez et.al.|[2305.02054](http://arxiv.org/abs/2305.02054)|null|
+|**2023-05-03**|**Map-based Experience Replay: A Memory-Efficient Solution to Catastrophic Forgetting in Reinforcement Learning**|Muhammad Burhan Hafez et.al.|[2305.02054](http://arxiv.org/abs/2305.02054)|**[link](https://github.com/tilmanimmisch/gwrr)**|
 |**2023-05-03**|**Gym-preCICE: Reinforcement Learning Environments for Active Flow Control**|Mosayeb Shams et.al.|[2305.02033](http://arxiv.org/abs/2305.02033)|null|
 |**2023-05-03**|**Enhancing Efficiency of Quadrupedal Locomotion over Challenging Terrains with Extensible Feet**|Lokesh Kumar et.al.|[2305.01998](http://arxiv.org/abs/2305.01998)|null|
 |**2023-05-02**|**Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare**|Shengpu Tang et.al.|[2305.01738](http://arxiv.org/abs/2305.01738)|**[link](https://github.com/mld3/offlinerl_factoredactions)**|
@@ -46,10 +46,10 @@ layout: default
 |**2023-05-02**|**Mitigating Approximate Memorization in Language Models via Dissimilarity Learned Policy**|Aly M. Kassem et.al.|[2305.01550](http://arxiv.org/abs/2305.01550)|null|
 |**2023-05-02**|**An Adaptive Behaviour-Based Strategy for SARs interacting with Older Adults with MCI during a Serious Game Scenario**|Eleonora Zedda et.al.|[2305.01492](http://arxiv.org/abs/2305.01492)|null|
 |**2023-05-02**|**Mixed-Integer Optimal Control via Reinforcement Learning: A Case Study on Hybrid Vehicle Energy Management**|Jinming Xu et.al.|[2305.01461](http://arxiv.org/abs/2305.01461)|null|
-|**2023-05-02**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381](http://arxiv.org/abs/2305.01381)|null|
+|**2023-05-02**|**Sample Efficient Model-free Reinforcement Learning from LTL Specifications with Optimality Guarantees**|Daqian Shao et.al.|[2305.01381](http://arxiv.org/abs/2305.01381)|**[link](https://github.com/shaodaqian/rl-from-ltl)**|
 |**2023-05-02**|**Validation of massively-parallel adaptive testing using dynamic control matching**|Schaun Wheeler et.al.|[2305.01334](http://arxiv.org/abs/2305.01334)|null|
-|**2023-05-02**|**An Autonomous Non-monolithic Agent with Multi-mode Exploration based on Options Framework**|JaeYoon Kim et.al.|[2305.01322](http://arxiv.org/abs/2305.01322)|null|
-|**2023-05-02**|**An Improved Yaw Control Algorithm for Wind Turbines via Reinforcement Learning**|Alban Puech et.al.|[2305.01299](http://arxiv.org/abs/2305.01299)|null|
+|**2023-05-02**|**An Autonomous Non-monolithic Agent with Multi-mode Exploration based on Options Framework**|JaeYoon Kim et.al.|[2305.01322](http://arxiv.org/abs/2305.01322)|**[link](https://github.com/jangikim2/an-autonomous-non-monolithic-agent-with-multi-mode-exploration-based-on-options-framework)**|
+|**2023-05-02**|**An Improved Yaw Control Algorithm for Wind Turbines via Reinforcement Learning**|Alban Puech et.al.|[2305.01299](http://arxiv.org/abs/2305.01299)|**[link](https://github.com/albanpuech/rl-yaw-control-algorithm-for-wind-turbines)**|
 |**2023-05-02**|**Deep Q-Learning-based Distribution Network Reconfiguration for Reliability Improvement**|Mukesh Gautam et.al.|[2305.01180](http://arxiv.org/abs/2305.01180)|null|
 |**2023-05-02**|**Fast quantum gate design with deep reinforcement learning using real-time feedback on readout signals**|Emily Wright et.al.|[2305.01169](http://arxiv.org/abs/2305.01169)|null|
 |**2023-05-01**|**AI-based Radio and Computing Resource Allocation and Path Planning in NOMA NTNs: AoI Minimization under CSI Uncertainty**|Maryam Ansarifard et.al.|[2305.00780](http://arxiv.org/abs/2305.00780)|null|
@@ -64,7 +64,7 @@ layout: default
 |**2023-04-30**|**Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward**|Zihan Zhou et.al.|[2305.00508](http://arxiv.org/abs/2305.00508)|**[link](https://github.com/pairlab/iclr-23-sea)**|
 |**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867](http://arxiv.org/abs/2304.14867)|null|
 |**2023-04-28**|**A Federated Reinforcement Learning Framework for Link Activation in Multi-link Wi-Fi Networks**|Rashid Ali et.al.|[2304.14720](http://arxiv.org/abs/2304.14720)|null|
-|**2023-04-28**|**X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation**|Guoliang He et.al.|[2304.14698](http://arxiv.org/abs/2304.14698)|null|
+|**2023-04-28**|**X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation**|Guoliang He et.al.|[2304.14698](http://arxiv.org/abs/2304.14698)|**[link](https://github.com/ucamrl/xrlflow)**|
 |**2023-04-28**|**ALL-E: Aesthetics-guided Low-light Image Enhancement**|Ling Li et.al.|[2304.14610](http://arxiv.org/abs/2304.14610)|null|
 |**2023-04-28**|**Learning adaptive manipulation of objects with revolute joint: A case study on varied cabinet doors opening**|Hongxiang Yu et.al.|[2304.14602](http://arxiv.org/abs/2304.14602)|null|
 |**2023-04-27**|**Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
@@ -226,7 +226,7 @@ layout: default
 |**2023-04-04**|**Optimizing Irrigation Efficiency using Deep Reinforcement Learning in the Field**|Xianzhong Ding et.al.|[2304.01435](http://arxiv.org/abs/2304.01435)|null|
 |**2023-04-03**|**Enabling A Network AI Gym for Autonomous Cyber Agents**|Li Li et.al.|[2304.01366](http://arxiv.org/abs/2304.01366)|null|
 |**2023-04-03**|**Empirical Design in Reinforcement Learning**|Andrew Patterson et.al.|[2304.01315](http://arxiv.org/abs/2304.01315)|null|
-|**2023-04-03**|**PyFlyt -- UAV Simulation Environments for Reinforcement Learning Research**|Jun Jet Tai et.al.|[2304.01305](http://arxiv.org/abs/2304.01305)|null|
+|**2023-04-03**|**PyFlyt -- UAV Simulation Environments for Reinforcement Learning Research**|Jun Jet Tai et.al.|[2304.01305](http://arxiv.org/abs/2304.01305)|**[link](https://github.com/jjshoots/pyflyt)**|
 |**2023-04-03**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203](http://arxiv.org/abs/2304.01203)|null|
 |**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159](http://arxiv.org/abs/2304.01159)|null|
 |**2023-04-03**|**Action Pick-up in Dynamic Action Space Reinforcement Learning**|Jiaqi Ye et.al.|[2304.00873](http://arxiv.org/abs/2304.00873)|null|
