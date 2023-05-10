@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Policy Gradient Methods in the Presence of Symmetries and State Abstractions**|Prakash Panangaden et.al.|[2305.05666](http://arxiv.org/abs/2305.05666)|null|
+|**2023-05-09**|**RLocator: Reinforcement Learning for Bug Localization**|Partha Chakraborty et.al.|[2305.05586](http://arxiv.org/abs/2305.05586)|null|
+|**2023-05-09**|**An Algorithm For Adversary Aware Decentralized Networked MARL**|Soumajyoti Sarkar et.al.|[2305.05573](http://arxiv.org/abs/2305.05573)|null|
+|**2023-05-09**|**SMAClite: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Adam Michalski et.al.|[2305.05566](http://arxiv.org/abs/2305.05566)|**[link](https://github.com/uoe-agents/smaclite)**|
+|**2023-05-09**|**Optimal Energy System Scheduling Using A Constraint-Aware Reinforcement Learning Algorithm**|Hou Shengren et.al.|[2305.05484](http://arxiv.org/abs/2305.05484)|**[link](https://github.com/ShengrenHou/Energy-management-MIP-Deep-Reinforcement-Learning)**|
+|**2023-05-09**|**Safe Deep RL for Intraoperative Planning of Pedicle Screw Placement**|Yunke Ao et.al.|[2305.05354](http://arxiv.org/abs/2305.05354)|null|
+|**2023-05-09**|**Learnable Behavior Control: Breaking Atari Human World Records via Sample-Efficient Behavior Selection**|Jiajun Fan et.al.|[2305.05239](http://arxiv.org/abs/2305.05239)|null|
+|**2023-05-09**|**Cooperating Graph Neural Networks with Deep Reinforcement Learning for Vaccine Prioritization**|Lu Ling et.al.|[2305.05163](http://arxiv.org/abs/2305.05163)|null|
+|**2023-05-09**|**Latent Interactive A2C for Improved RL in Open Many-Agent Systems**|Keyang He et.al.|[2305.05159](http://arxiv.org/abs/2305.05159)|null|
+|**2023-05-09**|**Flexible Job Shop Scheduling via Dual Attention Network Based Reinforcement Learning**|Runqing Wang et.al.|[2305.05119](http://arxiv.org/abs/2305.05119)|**[link](https://github.com/wrqccc/fjsp-drl)**|
 |**2023-05-08**|**Reinforcement Learning for Topic Models**|Jeremy Costello et.al.|[2305.04843](http://arxiv.org/abs/2305.04843)|**[link](https://github.com/jeremy-costello/rl-for-topic-models)**|
 |**2023-05-08**|**Local Optimization Achieves Global Optimality in Multi-Agent Reinforcement Learning**|Yulai Zhao et.al.|[2305.04819](http://arxiv.org/abs/2305.04819)|**[link](https://github.com/zhaoyl18/ratio_game)**|
 |**2023-05-08**|**Sense, Imagine, Act: Multimodal Perception Improves Model-Based Reinforcement Learning for Head-to-Head Autonomous Racing**|Elena Shrestha et.al.|[2305.04750](http://arxiv.org/abs/2305.04750)|null|
@@ -295,6 +305,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-09**|**Representation Learning for Person or Entity-centric Knowledge Graphs: an application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
+|**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
+|**2023-05-08**|**Knowledge-enhanced Agents for Interactive Text Games**|Prateek Chhikara et.al.|[2305.05091](http://arxiv.org/abs/2305.05091)|null|
+|**2023-05-08**|**Knowledge Graph Guided Semantic Evaluation of Language Models For User Trust**|Kaushik Roy et.al.|[2305.04989](http://arxiv.org/abs/2305.04989)|null|
 |**2023-05-04**|**Multi-grained Hypergraph Interest Modeling for Conversational Recommendation**|Chenzhan Shang et.al.|[2305.04798](http://arxiv.org/abs/2305.04798)|**[link](https://github.com/rucaibox/mhim)**|
 |**2023-05-08**|**Enhancing Knowledge Graph Construction Using Large Language Models**|Milena Trajanoska et.al.|[2305.04676](http://arxiv.org/abs/2305.04676)|null|
 |**2023-05-08**|**Multi-source Education Knowledge Graph Construction and Fusion for College Curricula**|Zeju Li et.al.|[2305.04567](http://arxiv.org/abs/2305.04567)|null|
