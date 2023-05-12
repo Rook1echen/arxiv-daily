@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.11
+## Updated on 2023.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972](http://arxiv.org/abs/2305.06972)|null|
+|**2023-05-11**|**Policy Gradient Algorithms Implicitly Optimize by Continuation**|Adrien Bolland et.al.|[2305.06851](http://arxiv.org/abs/2305.06851)|null|
+|**2023-05-11**|**Towards Theoretical Understanding of Data-Driven Policy Refinement**|Ali Baheri et.al.|[2305.06796](http://arxiv.org/abs/2305.06796)|null|
+|**2023-05-11**|**On practical robust reinforcement learning: adjacent uncertainty set and double-agent algorithm**|Ukjo Hwang et.al.|[2305.06657](http://arxiv.org/abs/2305.06657)|null|
+|**2023-05-10**|**Multi-agent Reinforcement Learning: Asynchronous Communication and Linear Function Approximation**|Yifei Min et.al.|[2305.06446](http://arxiv.org/abs/2305.06446)|null|
+|**2023-05-10**|**HoneyIoT: Adaptive High-Interaction Honeypot for IoT Devices Through Reinforcement Learning**|Chongqi Guan et.al.|[2305.06430](http://arxiv.org/abs/2305.06430)|null|
+|**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398](http://arxiv.org/abs/2305.06398)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
+|**2023-05-10**|**Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning**|Vincent Paul Su et.al.|[2305.06378](http://arxiv.org/abs/2305.06378)|null|
 |**2023-05-10**|**Extracting Diagnosis Pathways from Electronic Health Records Using Deep Reinforcement Learning**|Lillian Muyama et.al.|[2305.06295](http://arxiv.org/abs/2305.06295)|null|
 |**2023-05-10**|**Deep Reinforcement Learning Based Resource Allocation for Cloud Native Wireless Network**|Lin Wang et.al.|[2305.06249](http://arxiv.org/abs/2305.06249)|null|
 |**2023-05-10**|**Learning Optimal "Pigovian Tax" in Sequential Social Dilemmas**|Yun Hua et.al.|[2305.06227](http://arxiv.org/abs/2305.06227)|null|
@@ -299,6 +307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
 |**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
@@ -315,6 +324,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-11**|**FactKG: Fact Verification via Reasoning on Knowledge Graphs**|Jiho Kim et.al.|[2305.06590](http://arxiv.org/abs/2305.06590)|null|
+|**2023-05-11**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588](http://arxiv.org/abs/2305.06588)|**[link](https://github.com/lhrlab/hahe)**|
+|**2023-05-11**|**A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment**|Jianheng Tang et.al.|[2305.06574](http://arxiv.org/abs/2305.06574)|**[link](https://github.com/squareroot3/fusedgw-entity-alignment)**|
+|**2023-05-10**|**ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion**|Anastasiia Sedova et.al.|[2305.06395](http://arxiv.org/abs/2305.06395)|null|
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|null|
 |**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
 |**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
