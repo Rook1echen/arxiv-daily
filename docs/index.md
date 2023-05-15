@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Reply to: Deep reinforced learning heuristic tested on spin-glass ground states: The larger picture**|Changjun Fan et.al.|[2305.07562](http://arxiv.org/abs/2305.07562)|null|
+|**2023-05-12**|**Dynamically Conservative Self-Driving Planner for Long-Tail Cases**|Weitao Zhou et.al.|[2305.07497](http://arxiv.org/abs/2305.07497)|null|
+|**2023-05-12**|**Identify, Estimate and Bound the Uncertainty of Reinforcement Learning for Autonomous Driving**|Weitao Zhou et.al.|[2305.07487](http://arxiv.org/abs/2305.07487)|null|
+|**2023-05-12**|**S-REINFORCE: A Neuro-Symbolic Policy Gradient Approach for Interpretable Reinforcement Learning**|Rajdeep Dutta et.al.|[2305.07367](http://arxiv.org/abs/2305.07367)|null|
+|**2023-05-12**|**Gaussian Prior Reinforcement Learning for Nested Named Entity Recognition**|Yawen Yang et.al.|[2305.07266](http://arxiv.org/abs/2305.07266)|null|
+|**2023-05-12**|**Quantile-Based Deep Reinforcement Learning using Two-Timescale Policy Gradient Algorithms**|Jinyang Jiang et.al.|[2305.07248](http://arxiv.org/abs/2305.07248)|**[link](https://github.com/jinyangjiangai/quantile-based-policy-optimization)**|
+|**2023-05-12**|**Learning to Code on Graphs for Topological Interference Management**|Zhiwei Shan et.al.|[2305.07186](http://arxiv.org/abs/2305.07186)|null|
+|**2023-05-12**|**Boosting Value Decomposition via Unit-Wise Attentive State Representation for Cooperative Multi-Agent Reinforcement Learning**|Qingpeng Zhao et.al.|[2305.07182](http://arxiv.org/abs/2305.07182)|null|
+|**2023-05-11**|**Automated Data Denoising for Recommendation**|Yingqiang Ge et.al.|[2305.07070](http://arxiv.org/abs/2305.07070)|null|
+|**2023-05-11**|**Deep Reinforcement Learning for Interference Management in UAV-based 3D Networks: Potentials and Challenges**|Mojtaba Vaezi et.al.|[2305.07069](http://arxiv.org/abs/2305.07069)|null|
 |**2023-05-11**|**Large Language Models Can Be Used To Effectively Scale Spear Phishing Campaigns**|Julian Hazell et.al.|[2305.06972](http://arxiv.org/abs/2305.06972)|null|
 |**2023-05-11**|**Policy Gradient Algorithms Implicitly Optimize by Continuation**|Adrien Bolland et.al.|[2305.06851](http://arxiv.org/abs/2305.06851)|null|
 |**2023-05-11**|**Towards Theoretical Understanding of Data-Driven Policy Refinement**|Ali Baheri et.al.|[2305.06796](http://arxiv.org/abs/2305.06796)|null|
@@ -307,7 +317,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-04**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
+|**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
 |**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
@@ -324,6 +334,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633](http://arxiv.org/abs/2305.07633)|null|
 |**2023-05-11**|**FactKG: Fact Verification via Reasoning on Knowledge Graphs**|Jiho Kim et.al.|[2305.06590](http://arxiv.org/abs/2305.06590)|null|
 |**2023-05-11**|**HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level**|Haoran Luo et.al.|[2305.06588](http://arxiv.org/abs/2305.06588)|**[link](https://github.com/lhrlab/hahe)**|
 |**2023-05-11**|**A Fused Gromov-Wasserstein Framework for Unsupervised Knowledge Graph Entity Alignment**|Jianheng Tang et.al.|[2305.06574](http://arxiv.org/abs/2305.06574)|**[link](https://github.com/squareroot3/fusedgw-entity-alignment)**|
