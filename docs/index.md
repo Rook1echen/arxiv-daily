@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.16
+## Updated on 2023.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659](http://arxiv.org/abs/2305.09659)|null|
+|**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655](http://arxiv.org/abs/2305.09655)|**[link](https://github.com/s4nyam/ramario)**|
+|**2023-05-16**|**Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives**|Damien Busatto-Gaston et.al.|[2305.09634](http://arxiv.org/abs/2305.09634)|null|
+|**2023-05-16**|**Addressing computational challenges in physical system simulations with machine learning**|Sabber Ahamed et.al.|[2305.09627](http://arxiv.org/abs/2305.09627)|null|
+|**2023-05-16**|**Deep Reinforcement Learning to Maximize Arterial Usage during Extreme Congestion**|Ashutosh Dutta et.al.|[2305.09600](http://arxiv.org/abs/2305.09600)|null|
+|**2023-05-16**|**Boosting Event Extraction with Denoised Structure-to-Text Augmentation**|bo wang et.al.|[2305.09598](http://arxiv.org/abs/2305.09598)|null|
+|**2023-05-16**|**Trojan Playground: A Reinforcement Learning Framework for Hardware Trojan Insertion and Detection**|Amin Sarihi et.al.|[2305.09592](http://arxiv.org/abs/2305.09592)|null|
+|**2023-05-16**|**An Empirical Study on Google Research Football Multi-agent Scenarios**|Yan Song et.al.|[2305.09458](http://arxiv.org/abs/2305.09458)|**[link](https://github.com/shanghai-digital-brain-laboratory/db-football)**|
+|**2023-05-16**|**OmniSafe: An Infrastructure for Accelerating Safe Reinforcement Learning Research**|Jiaming Ji et.al.|[2305.09304](http://arxiv.org/abs/2305.09304)|**[link](https://github.com/pku-alignment/omnisafe)**|
+|**2023-05-16**|**Graph Reinforcement Learning for Network Control via Bi-Level Optimization**|Daniele Gammelli et.al.|[2305.09129](http://arxiv.org/abs/2305.09129)|**[link](https://github.com/danielegammelli/graph-rl-for-network-optimization)**|
 |**2023-05-15**|**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**|Afra Feyza Akyürek et.al.|[2305.08844](http://arxiv.org/abs/2305.08844)|**[link](https://github.com/feyzaakyurek/rl4f)**|
 |**2023-05-15**|**A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes**|Han Zhong et.al.|[2305.08841](http://arxiv.org/abs/2305.08841)|null|
 |**2023-05-15**|**Toward Multi-Agent Reinforcement Learning for Distributed Event-Triggered Control**|Lukas Kesper et.al.|[2305.08723](http://arxiv.org/abs/2305.08723)|null|
@@ -344,12 +354,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464](http://arxiv.org/abs/2305.09464)|null|
+|**2023-05-16**|**Constructing and Interpreting Causal Knowledge Graphs from News**|Fiona Anting Tan et.al.|[2305.09359](http://arxiv.org/abs/2305.09359)|null|
 |**2023-05-15**|**Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**|Hanieh Khorashadizadeh et.al.|[2305.08804](http://arxiv.org/abs/2305.08804)|null|
 |**2023-05-15**|**Schema-adaptable Knowledge Graph Construction**|Hongbin Ye et.al.|[2305.08703](http://arxiv.org/abs/2305.08703)|null|
 |**2023-05-15**|**Continual Multimodal Knowledge Graph Construction**|Xiang Chen et.al.|[2305.08698](http://arxiv.org/abs/2305.08698)|**[link](https://github.com/zjunlp/ContinueMKGC)**|
 |**2023-05-15**|**A Knowledge Graph Perspective on Supply Chain Resilience**|Yushan Liu et.al.|[2305.08506](http://arxiv.org/abs/2305.08506)|null|
 |**2023-05-15**|**Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs for Knowledge-intense Argumentation Tasks**|Moritz Plenz et.al.|[2305.08495](http://arxiv.org/abs/2305.08495)|**[link](https://github.com/heidelberg-nlp/cckg)**|
-|**2023-05-14**|**The Structure and Dynamics of Knowledge Graphs, with Superficiality**|Loïck Lhote et.al.|[2305.08116](http://arxiv.org/abs/2305.08116)|null|
+|**2023-05-16**|**The Structure and Dynamics of Knowledge Graphs, with Superficiality**|Loïck Lhote et.al.|[2305.08116](http://arxiv.org/abs/2305.08116)|null|
 |**2023-05-13**|**Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion**|Wenjie Xu et.al.|[2305.07912](http://arxiv.org/abs/2305.07912)|**[link](https://github.com/jaysaligia/ppt)**|
 |**2023-05-12**|**Answering Complex Questions over Text by Hybrid Question Parsing and Execution**|Ye Liu et.al.|[2305.07789](http://arxiv.org/abs/2305.07789)|null|
 |**2023-05-12**|**Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training**|Ziwei Fan et.al.|[2305.07633](http://arxiv.org/abs/2305.07633)|null|
