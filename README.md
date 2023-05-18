@@ -1,4 +1,4 @@
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,12 +27,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425](http://arxiv.org/abs/2305.10425)|null|
+|**2023-05-17**|**Explainable Multi-Agent Reinforcement Learning for Temporal Queries**|Kayla Boggess et.al.|[2305.10378](http://arxiv.org/abs/2305.10378)|**[link](https://github.com/kjboggess/ijcai23)**|
+|**2023-05-17**|**LeTI: Learning to Generate from Textual Interactions**|Xingyao Wang et.al.|[2305.10314](http://arxiv.org/abs/2305.10314)|null|
+|**2023-05-17**|**Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning**|Gen Li et.al.|[2305.10282](http://arxiv.org/abs/2305.10282)|null|
+|**2023-05-17**|**Curriculum Learning in Job Shop Scheduling using Reinforcement Learning**|Constantin Waubert de Puiseau et.al.|[2305.10192](http://arxiv.org/abs/2305.10192)|null|
+|**2023-05-17**|**Goal-Conditioned Supervised Learning with Sub-Goal Prediction**|Tom Jurgenson et.al.|[2305.10171](http://arxiv.org/abs/2305.10171)|null|
+|**2023-05-17**|**Pragmatic Reasoning in Structured Signaling Games**|Emil Carlsson et.al.|[2305.10167](http://arxiv.org/abs/2305.10167)|null|
+|**2023-05-17**|**Collective Large-scale Wind Farm Multivariate Power Output Control Based on Hierarchical Communication Multi-Agent Proximal Policy Optimization**|Yubao Zhang et.al.|[2305.10161](http://arxiv.org/abs/2305.10161)|null|
+|**2023-05-17**|**Multi-Agent Reinforcement Learning: Methods, Applications, Visionary Prospects, and Challenges**|Ziyuan Zhou et.al.|[2305.10091](http://arxiv.org/abs/2305.10091)|null|
+|**2023-05-17**|**A proof of imitation of Wasserstein inverse reinforcement learning for multi-objective optimization**|Akira Kitaoka et.al.|[2305.10089](http://arxiv.org/abs/2305.10089)|null|
 |**2023-05-16**|**Double Pessimism is Provably Efficient for Distributionally Robust Offline Reinforcement Learning: Generic Algorithm and Robust Partial Coverage**|Jose Blanchet et.al.|[2305.09659](http://arxiv.org/abs/2305.09659)|null|
 |**2023-05-16**|**RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario**|Sanyam Jain et.al.|[2305.09655](http://arxiv.org/abs/2305.09655)|**[link](https://github.com/s4nyam/ramario)**|
 |**2023-05-16**|**Bi-Objective Lexicographic Optimization in Markov Decision Processes with Related Objectives**|Damien Busatto-Gaston et.al.|[2305.09634](http://arxiv.org/abs/2305.09634)|null|
@@ -341,7 +351,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -360,12 +370,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172](http://arxiv.org/abs/2305.10172)|null|
+|**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974](http://arxiv.org/abs/2305.09974)|null|
+|**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
+|**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729](http://arxiv.org/abs/2305.09729)|**[link](https://github.com/cynricfu/fedhgn)**|
 |**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464](http://arxiv.org/abs/2305.09464)|null|
 |**2023-05-16**|**Constructing and Interpreting Causal Knowledge Graphs from News**|Fiona Anting Tan et.al.|[2305.09359](http://arxiv.org/abs/2305.09359)|null|
 |**2023-05-15**|**Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**|Hanieh Khorashadizadeh et.al.|[2305.08804](http://arxiv.org/abs/2305.08804)|null|
@@ -489,5 +503,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230517>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230518>back to top</a>)</p>
 
