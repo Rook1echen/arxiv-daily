@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
+|**2023-05-22**|**Distributionally Robust Optimization Efficiently Solves Offline Reinforcement Learning**|Yue Wang et.al.|[2305.13289](http://arxiv.org/abs/2305.13289)|null|
+|**2023-05-22**|**Know your Enemy: Investigating Monte-Carlo Tree Search with Opponent Models in Pommerman**|Jannis Weil et.al.|[2305.13206](http://arxiv.org/abs/2305.13206)|null|
+|**2023-05-22**|**Regularization and Variance-Weighted Regression Achieves Minimax Optimality in Linear MDPs: Theory and Practice**|Toshinori Kitamura et.al.|[2305.13185](http://arxiv.org/abs/2305.13185)|**[link](https://github.com/matsuolab/variance-weighted-mdvi)**|
+|**2023-05-22**|**INVICTUS: Optimizing Boolean Logic Circuit Synthesis via Synergistic Learning and Search**|Animesh Basak Chowdhury et.al.|[2305.13164](http://arxiv.org/abs/2305.13164)|null|
+|**2023-05-22**|**Scaling Serverless Functions in Edge Networks: A Reinforcement Learning Approach**|Mounir Bensalem et.al.|[2305.13130](http://arxiv.org/abs/2305.13130)|null|
+|**2023-05-22**|**Policy Representation via Diffusion Probability Model for Reinforcement Learning**|Long Yang et.al.|[2305.13122](http://arxiv.org/abs/2305.13122)|**[link](https://github.com/bellmantimehut/dipo)**|
+|**2023-05-22**|**Road Planning for Slums via Deep Reinforcement Learning**|Yu Zheng et.al.|[2305.13060](http://arxiv.org/abs/2305.13060)|**[link](https://github.com/tsinghua-fib-lab/road-planning-for-slums)**|
+|**2023-05-22**|**Adaptive action supervision in reinforcement learning from real-world multi-agent demonstrations**|Keisuke Fujii et.al.|[2305.13030](http://arxiv.org/abs/2305.13030)|null|
+|**2023-05-22**|**HJB based online safe reinforcement learning for state-constrained systems**|Soutrik Bandyopadhyay et.al.|[2305.12967](http://arxiv.org/abs/2305.12967)|null|
 |**2023-05-19**|**Multimodal Web Navigation with Instruction-Finetuned Foundation Models**|Hiroki Furuta et.al.|[2305.11854](http://arxiv.org/abs/2305.11854)|null|
 |**2023-05-19**|**Diving into the Inter-Consistency of Large Language Models: An Insightful Analysis through Debate**|Kai Xiong et.al.|[2305.11595](http://arxiv.org/abs/2305.11595)|null|
 |**2023-05-19**|**Vision-based DRL Autonomous Driving Agent with Sim2Real Transfer**|Dianzhao Li et.al.|[2305.11589](http://arxiv.org/abs/2305.11589)|null|
@@ -384,6 +394,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**NeSy4VRD: A Multifaceted Resource for Neurosymbolic AI Research using Knowledge Graphs in Visual Relationship Detection**|David Herron et.al.|[2305.13258](http://arxiv.org/abs/2305.13258)|null|
+|**2023-05-22**|**LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**|Yuqi Zhu et.al.|[2305.13168](http://arxiv.org/abs/2305.13168)|**[link](https://github.com/zjunlp/autokg)**|
+|**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059](http://arxiv.org/abs/2305.13059)|null|
+|**2023-05-22**|**3D Rotation and Translation for Hyperbolic Knowledge Graph Embedding**|Yihua Zhu et.al.|[2305.13015](http://arxiv.org/abs/2305.13015)|null|
+|**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900](http://arxiv.org/abs/2305.12900)|null|
+|**2023-05-22**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788](http://arxiv.org/abs/2305.12788)|null|
+|**2023-05-22**|**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**|Chi Han et.al.|[2305.12738](http://arxiv.org/abs/2305.12738)|**[link](https://github.com/glaciohound/lerp)**|
+|**2023-05-21**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600](http://arxiv.org/abs/2305.12600)|null|
+|**2023-05-21**|**Direct Fact Retrieval from Knowledge Graphs without Entity Linking**|Jinheon Baek et.al.|[2305.12416](http://arxiv.org/abs/2305.12416)|null|
+|**2023-05-20**|**Self-Distillation with Meta Learning for Knowledge Graph Completion**|Yunshui Li et.al.|[2305.12209](http://arxiv.org/abs/2305.12209)|**[link](https://github.com/pldlgb/MetaSD)**|
 |**2023-05-19**|**From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment**|Yu Zhao et.al.|[2305.11501](http://arxiv.org/abs/2305.11501)|null|
 |**2023-05-18**|**The Water Health Open Knowledge Graph**|Gianluca Carletti et.al.|[2305.11051](http://arxiv.org/abs/2305.11051)|null|
 |**2023-05-17**|**Temporal Knowledge Graph Forecasting Without Knowledge Using In-Context Learning**|Dong-Ho Lee et.al.|[2305.10613](http://arxiv.org/abs/2305.10613)|null|
