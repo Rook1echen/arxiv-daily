@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.23
+## Updated on 2023.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343](http://arxiv.org/abs/2305.14343)|null|
+|**2023-05-23**|**Query Rewriting for Retrieval-Augmented Large Language Models**|Xinbei Ma et.al.|[2305.14283](http://arxiv.org/abs/2305.14283)|null|
+|**2023-05-23**|**Constrained Proximal Policy Optimization**|Chengbin Xuan et.al.|[2305.14216](http://arxiv.org/abs/2305.14216)|null|
+|**2023-05-23**|**ChemGymRL: An Interactive Framework for Reinforcement Learning for Digital Chemistry**|Chris Beeler et.al.|[2305.14177](http://arxiv.org/abs/2305.14177)|null|
+|**2023-05-23**|**Solving Stabilize-Avoid Optimal Control via Epigraph Form and Deep Reinforcement Learning**|Oswin So et.al.|[2305.14154](http://arxiv.org/abs/2305.14154)|null|
+|**2023-05-23**|**Conditional Mutual Information for Disentangled Representations in Reinforcement Learning**|Mhairi Dunion et.al.|[2305.14133](http://arxiv.org/abs/2305.14133)|**[link](https://github.com/uoe-agents/cmid)**|
+|**2023-05-23**|**RLBoost: Boosting Supervised Models using Deep Reinforcement Learning**|Eloy Anguiano Batanero et.al.|[2305.14115](http://arxiv.org/abs/2305.14115)|null|
+|**2023-05-23**|**Augmented Random Search for Multi-Objective Bayesian Optimization of Neural Networks**|Mark Deutel et.al.|[2305.14109](http://arxiv.org/abs/2305.14109)|null|
+|**2023-05-23**|**Control of a simulated MRI scanner with deep reinforcement learning**|Simon Walker-Samuel et.al.|[2305.13979](http://arxiv.org/abs/2305.13979)|null|
+|**2023-05-23**|**Constrained Reinforcement Learning for Dynamic Material Handling**|Chengpeng Hu et.al.|[2305.13824](http://arxiv.org/abs/2305.13824)|**[link](https://github.com/hcplu/dmh-gym)**|
 |**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
 |**2023-05-22**|**Distributionally Robust Optimization Efficiently Solves Offline Reinforcement Learning**|Yue Wang et.al.|[2305.13289](http://arxiv.org/abs/2305.13289)|null|
 |**2023-05-22**|**Know your Enemy: Investigating Monte-Carlo Tree Search with Opponent Models in Pommerman**|Jannis Weil et.al.|[2305.13206](http://arxiv.org/abs/2305.13206)|null|
@@ -394,6 +404,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259](http://arxiv.org/abs/2305.14259)|**[link](https://github.com/eaglew/clbd)**|
+|**2023-05-23**|**Complementing GPT-3 with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata**|Silei Xu et.al.|[2305.14202](http://arxiv.org/abs/2305.14202)|null|
+|**2023-05-23**|**To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion**|Rui Li et.al.|[2305.14126](http://arxiv.org/abs/2305.14126)|**[link](https://github.com/rui9812/vlp)**|
+|**2023-05-23**|**Message Intercommunication for Inductive Relation Reasoning**|Ke Liang et.al.|[2305.14074](http://arxiv.org/abs/2305.14074)|null|
+|**2023-05-23**|**Conversational Recommendation as Retrieval: A Simple, Strong Baseline**|Raghav Gupta et.al.|[2305.13725](http://arxiv.org/abs/2305.13725)|null|
+|**2023-05-23**|**Query Structure Modeling for Inductive Logical Reasoning Over Knowledge Graphs**|Siyuan Wang et.al.|[2305.13585](http://arxiv.org/abs/2305.13585)|**[link](https://github.com/wangsygit/inductivelr)**|
 |**2023-05-22**|**NeSy4VRD: A Multifaceted Resource for Neurosymbolic AI Research using Knowledge Graphs in Visual Relationship Detection**|David Herron et.al.|[2305.13258](http://arxiv.org/abs/2305.13258)|null|
 |**2023-05-22**|**LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities**|Yuqi Zhu et.al.|[2305.13168](http://arxiv.org/abs/2305.13168)|**[link](https://github.com/zjunlp/autokg)**|
 |**2023-05-22**|**Friendly Neighbors: Contextualized Sequence-to-Sequence Link Prediction**|Adrian Kochsiek et.al.|[2305.13059](http://arxiv.org/abs/2305.13059)|null|
