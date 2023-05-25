@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Inverse Preference Learning: Preference-based RL without a Reward Function**|Joey Hejna et.al.|[2305.15363](http://arxiv.org/abs/2305.15363)|null|
+|**2023-05-24**|**Replicable Reinforcement Learning**|Eric Eaton et.al.|[2305.15284](http://arxiv.org/abs/2305.15284)|null|
+|**2023-05-24**|**Successor-Predecessor Intrinsic Exploration**|Changmin Yu et.al.|[2305.15277](http://arxiv.org/abs/2305.15277)|null|
+|**2023-05-24**|**Collaborative World Models: An Online-Offline Transfer RL Approach**|Qi Wang et.al.|[2305.15260](http://arxiv.org/abs/2305.15260)|null|
+|**2023-05-24**|**Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees**|Sharan Vaswani et.al.|[2305.15249](http://arxiv.org/abs/2305.15249)|null|
+|**2023-05-24**|**A Mini Review on the utilization of Reinforcement Learning with OPC UA**|Simon Schindler et.al.|[2305.15113](http://arxiv.org/abs/2305.15113)|null|
+|**2023-05-24**|**HuatuoGPT, towards Taming Language Model to Be a Doctor**|Hongbo Zhang et.al.|[2305.15075](http://arxiv.org/abs/2305.15075)|null|
+|**2023-05-24**|**Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning**|Ximing Lu et.al.|[2305.15065](http://arxiv.org/abs/2305.15065)|null|
+|**2023-05-24**|**Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback**|Katherine Tian et.al.|[2305.14975](http://arxiv.org/abs/2305.14975)|null|
+|**2023-05-24**|**Provable Offline Reinforcement Learning with Human Feedback**|Wenhao Zhan et.al.|[2305.14816](http://arxiv.org/abs/2305.14816)|null|
 |**2023-05-23**|**Video Prediction Models as Rewards for Reinforcement Learning**|Alejandro Escontrela et.al.|[2305.14343](http://arxiv.org/abs/2305.14343)|null|
 |**2023-05-23**|**Query Rewriting for Retrieval-Augmented Large Language Models**|Xinbei Ma et.al.|[2305.14283](http://arxiv.org/abs/2305.14283)|null|
 |**2023-05-23**|**Constrained Proximal Policy Optimization**|Chengbin Xuan et.al.|[2305.14216](http://arxiv.org/abs/2305.14216)|null|
@@ -387,6 +397,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Learning from demonstrations: An intuitive VR environment for imitation learning of construction robots**|Kangkang Duan et.al.|[2305.14584](http://arxiv.org/abs/2305.14584)|null|
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
@@ -404,6 +415,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159](http://arxiv.org/abs/2305.15159)|null|
+|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|null|
+|**2023-05-24**|**A RelEntLess Benchmark for Modelling Graded Relations between Named Entities**|Asahi Ushio et.al.|[2305.15002](http://arxiv.org/abs/2305.15002)|null|
+|**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
+|**2023-05-23**|**Knowledge Graphs Querying**|Arijit Khan et.al.|[2305.14485](http://arxiv.org/abs/2305.14485)|null|
 |**2023-05-23**|**Learning to Generate Novel Scientific Directions with Contextualized Literature-based Discovery**|Qingyun Wang et.al.|[2305.14259](http://arxiv.org/abs/2305.14259)|**[link](https://github.com/eaglew/clbd)**|
 |**2023-05-23**|**Complementing GPT-3 with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata**|Silei Xu et.al.|[2305.14202](http://arxiv.org/abs/2305.14202)|null|
 |**2023-05-23**|**To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion**|Rui Li et.al.|[2305.14126](http://arxiv.org/abs/2305.14126)|**[link](https://github.com/rui9812/vlp)**|
