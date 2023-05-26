@@ -1,4 +1,4 @@
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,12 +27,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**Beyond Reward: Offline Preference-guided Policy Optimization**|Yachen Kang et.al.|[2305.16217](http://arxiv.org/abs/2305.16217)|**[link](https://github.com/bkkgbkjb/oppo)**|
+|**2023-05-25**|**Koopman Kernel Regression**|Petar Bevanda et.al.|[2305.16215](http://arxiv.org/abs/2305.16215)|null|
+|**2023-05-25**|**C-MCTS: Safe Planning with Monte Carlo Tree Search**|Dinesh Parthasarathy et.al.|[2305.16209](http://arxiv.org/abs/2305.16209)|**[link](https://github.com/mutschcr/c-mcts)**|
+|**2023-05-25**|**Learning Safety Constraints from Demonstrations with Unknown Rewards**|David Lindner et.al.|[2305.16147](http://arxiv.org/abs/2305.16147)|null|
+|**2023-05-25**|**Markov Decision Process with an External Temporal Process**|Ranga Shaarad Ayyagari et.al.|[2305.16056](http://arxiv.org/abs/2305.16056)|null|
+|**2023-05-25**|**Learning to Act through Evolution of Neural Diversity in Random Neural Networks**|Joachim Winther Pedersen et.al.|[2305.15945](http://arxiv.org/abs/2305.15945)|null|
+|**2023-05-25**|**End-to-End Meta-Bayesian Optimisation with Transformer Neural Processes**|Alexandre Maraval et.al.|[2305.15930](http://arxiv.org/abs/2305.15930)|null|
+|**2023-05-25**|**Market Making with Deep Reinforcement Learning from Limit Order Books**|Hong Guo et.al.|[2305.15821](http://arxiv.org/abs/2305.15821)|null|
+|**2023-05-25**|**Lucy-SKG: Learning to Play Rocket League Efficiently Using Deep Reinforcement Learning**|Vasileios Moschopoulos et.al.|[2305.15801](http://arxiv.org/abs/2305.15801)|null|
+|**2023-05-25**|**Reinforcement Learning based optimal control with a probabilistic risk constraint**|Arunava Naha et.al.|[2305.15755](http://arxiv.org/abs/2305.15755)|null|
 |**2023-05-24**|**Inverse Preference Learning: Preference-based RL without a Reward Function**|Joey Hejna et.al.|[2305.15363](http://arxiv.org/abs/2305.15363)|null|
 |**2023-05-24**|**Replicable Reinforcement Learning**|Eric Eaton et.al.|[2305.15284](http://arxiv.org/abs/2305.15284)|null|
 |**2023-05-24**|**Successor-Predecessor Intrinsic Exploration**|Changmin Yu et.al.|[2305.15277](http://arxiv.org/abs/2305.15277)|null|
@@ -401,7 +411,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -421,14 +431,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
+|**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
+|**2023-05-25**|**Collective Knowledge Graph Completion with Mutual Knowledge Distillation**|Weihang Zhang et.al.|[2305.15895](http://arxiv.org/abs/2305.15895)|null|
+|**2023-05-25**|**T2TD: Text-3D Generation Model based on Prior Knowledge Guidance**|Weizhi Nie et.al.|[2305.15753](http://arxiv.org/abs/2305.15753)|null|
+|**2023-05-24**|**Text-Augmented Open Knowledge Graph Completion via Pre-Trained Language Models**|Pengcheng Jiang et.al.|[2305.15597](http://arxiv.org/abs/2305.15597)|**[link](https://github.com/pat-jj/tagreal)**|
 |**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159](http://arxiv.org/abs/2305.15159)|null|
-|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|null|
+|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|**[link](https://github.com/debayan/sparql-vocab-substitution)**|
 |**2023-05-24**|**A RelEntLess Benchmark for Modelling Graded Relations between Named Entities**|Asahi Ushio et.al.|[2305.15002](http://arxiv.org/abs/2305.15002)|null|
 |**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
 |**2023-05-23**|**Knowledge Graphs Querying**|Arijit Khan et.al.|[2305.14485](http://arxiv.org/abs/2305.14485)|null|
@@ -581,5 +596,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230526>back to top</a>)</p>
 

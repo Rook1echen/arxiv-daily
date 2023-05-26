@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.25
+## Updated on 2023.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Beyond Reward: Offline Preference-guided Policy Optimization**|Yachen Kang et.al.|[2305.16217](http://arxiv.org/abs/2305.16217)|**[link](https://github.com/bkkgbkjb/oppo)**|
+|**2023-05-25**|**Koopman Kernel Regression**|Petar Bevanda et.al.|[2305.16215](http://arxiv.org/abs/2305.16215)|null|
+|**2023-05-25**|**C-MCTS: Safe Planning with Monte Carlo Tree Search**|Dinesh Parthasarathy et.al.|[2305.16209](http://arxiv.org/abs/2305.16209)|**[link](https://github.com/mutschcr/c-mcts)**|
+|**2023-05-25**|**Learning Safety Constraints from Demonstrations with Unknown Rewards**|David Lindner et.al.|[2305.16147](http://arxiv.org/abs/2305.16147)|null|
+|**2023-05-25**|**Markov Decision Process with an External Temporal Process**|Ranga Shaarad Ayyagari et.al.|[2305.16056](http://arxiv.org/abs/2305.16056)|null|
+|**2023-05-25**|**Learning to Act through Evolution of Neural Diversity in Random Neural Networks**|Joachim Winther Pedersen et.al.|[2305.15945](http://arxiv.org/abs/2305.15945)|null|
+|**2023-05-25**|**End-to-End Meta-Bayesian Optimisation with Transformer Neural Processes**|Alexandre Maraval et.al.|[2305.15930](http://arxiv.org/abs/2305.15930)|null|
+|**2023-05-25**|**Market Making with Deep Reinforcement Learning from Limit Order Books**|Hong Guo et.al.|[2305.15821](http://arxiv.org/abs/2305.15821)|null|
+|**2023-05-25**|**Lucy-SKG: Learning to Play Rocket League Efficiently Using Deep Reinforcement Learning**|Vasileios Moschopoulos et.al.|[2305.15801](http://arxiv.org/abs/2305.15801)|null|
+|**2023-05-25**|**Reinforcement Learning based optimal control with a probabilistic risk constraint**|Arunava Naha et.al.|[2305.15755](http://arxiv.org/abs/2305.15755)|null|
 |**2023-05-24**|**Inverse Preference Learning: Preference-based RL without a Reward Function**|Joey Hejna et.al.|[2305.15363](http://arxiv.org/abs/2305.15363)|null|
 |**2023-05-24**|**Replicable Reinforcement Learning**|Eric Eaton et.al.|[2305.15284](http://arxiv.org/abs/2305.15284)|null|
 |**2023-05-24**|**Successor-Predecessor Intrinsic Exploration**|Changmin Yu et.al.|[2305.15277](http://arxiv.org/abs/2305.15277)|null|
@@ -415,8 +425,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
+|**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
+|**2023-05-25**|**Collective Knowledge Graph Completion with Mutual Knowledge Distillation**|Weihang Zhang et.al.|[2305.15895](http://arxiv.org/abs/2305.15895)|null|
+|**2023-05-25**|**T2TD: Text-3D Generation Model based on Prior Knowledge Guidance**|Weizhi Nie et.al.|[2305.15753](http://arxiv.org/abs/2305.15753)|null|
+|**2023-05-24**|**Text-Augmented Open Knowledge Graph Completion via Pre-Trained Language Models**|Pengcheng Jiang et.al.|[2305.15597](http://arxiv.org/abs/2305.15597)|**[link](https://github.com/pat-jj/tagreal)**|
 |**2023-05-24**|**Collaborative Recommendation Model Based on Multi-modal Multi-view Attention Network: Movie and literature cases**|Zheng Hu et.al.|[2305.15159](http://arxiv.org/abs/2305.15159)|null|
-|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|null|
+|**2023-05-24**|**The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing**|Debayan Banerjee et.al.|[2305.15108](http://arxiv.org/abs/2305.15108)|**[link](https://github.com/debayan/sparql-vocab-substitution)**|
 |**2023-05-24**|**A RelEntLess Benchmark for Modelling Graded Relations between Named Entities**|Asahi Ushio et.al.|[2305.15002](http://arxiv.org/abs/2305.15002)|null|
 |**2023-05-24**|**Revisit and Outstrip Entity Alignment: A Perspective of Generative Models**|Lingbing Guo et.al.|[2305.14651](http://arxiv.org/abs/2305.14651)|null|
 |**2023-05-23**|**Knowledge Graphs Querying**|Arijit Khan et.al.|[2305.14485](http://arxiv.org/abs/2305.14485)|null|
