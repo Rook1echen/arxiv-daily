@@ -25,6 +25,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Policy Synthesis and Reinforcement Learning for Discounted LTL**|Rajeev Alur et.al.|[2305.17115](http://arxiv.org/abs/2305.17115)|null|
+|**2023-05-26**|**IndustReal: Transferring Contact-Rich Assembly Tasks from Simulation to Reality**|Bingjie Tang et.al.|[2305.17110](http://arxiv.org/abs/2305.17110)|null|
+|**2023-05-26**|**Reinforcement Learning with Simple Sequence Priors**|Tankred Saanum et.al.|[2305.17109](http://arxiv.org/abs/2305.17109)|null|
+|**2023-05-26**|**Communication-Efficient Reinforcement Learning in Swarm Robotic Networks for Maze Exploration**|Ehsan Latif et.al.|[2305.17087](http://arxiv.org/abs/2305.17087)|null|
+|**2023-05-26**|**Mindstorms in Natural Language-Based Societies of Mind**|Mingchen Zhuge et.al.|[2305.17066](http://arxiv.org/abs/2305.17066)|null|
+|**2023-05-26**|**Formal Modelling for Multi-Robot Systems Under Uncertainty**|Charlie Street et.al.|[2305.17018](http://arxiv.org/abs/2305.17018)|null|
+|**2023-05-26**|**Adaptive PD Control using Deep Reinforcement Learning for Local-Remote Teleoperation with Stochastic Time Delays**|Luc McCutcheon et.al.|[2305.16979](http://arxiv.org/abs/2305.16979)|**[link](https://github.com/cav-research-lab/predictive-model-delay-correction)**|
+|**2023-05-26**|**How To Not Train Your Dragon: Training-free Embodied Object Goal Navigation with Semantic Frontiers**|Junting Chen et.al.|[2305.16925](http://arxiv.org/abs/2305.16925)|null|
+|**2023-05-26**|**Learning Interpretable Models of Aircraft Handling Behaviour by Reinforcement Learning from Human Feedback**|Tom Bewley et.al.|[2305.16924](http://arxiv.org/abs/2305.16924)|null|
+|**2023-05-26**|**Distributional Reinforcement Learning with Dual Expectile-Quantile Regression**|Sami Jullien et.al.|[2305.16877](http://arxiv.org/abs/2305.16877)|null|
 |**2023-05-25**|**Beyond Reward: Offline Preference-guided Policy Optimization**|Yachen Kang et.al.|[2305.16217](http://arxiv.org/abs/2305.16217)|**[link](https://github.com/bkkgbkjb/oppo)**|
 |**2023-05-25**|**Koopman Kernel Regression**|Petar Bevanda et.al.|[2305.16215](http://arxiv.org/abs/2305.16215)|null|
 |**2023-05-25**|**C-MCTS: Safe Planning with Monte Carlo Tree Search**|Dinesh Parthasarathy et.al.|[2305.16209](http://arxiv.org/abs/2305.16209)|**[link](https://github.com/mutschcr/c-mcts)**|
@@ -425,6 +435,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755](http://arxiv.org/abs/2305.16755)|null|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
 |**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
 |**2023-05-25**|**Collective Knowledge Graph Completion with Mutual Knowledge Distillation**|Weihang Zhang et.al.|[2305.15895](http://arxiv.org/abs/2305.15895)|null|
