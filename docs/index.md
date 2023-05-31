@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.30
+## Updated on 2023.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -26,6 +26,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240](http://arxiv.org/abs/2305.19240)|null|
+|**2023-05-30**|**Intent-aligned AI systems deplete human agency: the need for agency foundations research in AI safety**|Catalin Mitelut et.al.|[2305.19223](http://arxiv.org/abs/2305.19223)|null|
+|**2023-05-30**|**Forward-Forward Training of an Optical Neural Network**|Ilker Oguz et.al.|[2305.19170](http://arxiv.org/abs/2305.19170)|null|
+|**2023-05-30**|**DHRL-FNMR: An Intelligent Multicast Routing Approach Based on Deep Hierarchical Reinforcement Learning in SDN**|Miao Ye et.al.|[2305.19077](http://arxiv.org/abs/2305.19077)|null|
+|**2023-05-30**|**Solving Robust MDPs through No-Regret Dynamics**|Etash Kumar Guha et.al.|[2305.19035](http://arxiv.org/abs/2305.19035)|null|
+|**2023-05-30**|**Independent Component Alignment for Multi-Task Learning**|Dmitry Senushkin et.al.|[2305.19000](http://arxiv.org/abs/2305.19000)|null|
+|**2023-05-30**|**Subequivariant Graph Reinforcement Learning in 3D Environments**|Runfa Chen et.al.|[2305.18951](http://arxiv.org/abs/2305.18951)|**[link](https://github.com/alpc91/sgrl)**|
+|**2023-05-30**|**Improving the performance of Learned Controllers in Behavior Trees using Value Function Estimates at Switching Boundaries**|Mart Kartasev et.al.|[2305.18903](http://arxiv.org/abs/2305.18903)|null|
+|**2023-05-30**|**Policy Optimization for Continuous Reinforcement Learning**|Hanyang Zhao et.al.|[2305.18901](http://arxiv.org/abs/2305.18901)|null|
+|**2023-05-30**|**Centralised rehearsal of decentralised cooperation: Multi-agent reinforcement learning for the scalable coordination of residential energy flexibility**|Flora Charbonnier et.al.|[2305.18875](http://arxiv.org/abs/2305.18875)|null|
 |**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290](http://arxiv.org/abs/2305.18290)|null|
 |**2023-05-29**|**Doing the right thing for the right reason: Evaluating artificial moral cognition by probing cost insensitivity**|Yiran Mao et.al.|[2305.18269](http://arxiv.org/abs/2305.18269)|null|
 |**2023-05-29**|**One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration**|Zhihan Liu et.al.|[2305.18258](http://arxiv.org/abs/2305.18258)|null|
@@ -446,6 +456,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Complex Query Answering on Eventuality Knowledge Graph with Implicit Logical Constraints**|Jiaxin Bai et.al.|[2305.19068](http://arxiv.org/abs/2305.19068)|null|
+|**2023-05-30**|**Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation**|Minki Kang et.al.|[2305.18846](http://arxiv.org/abs/2305.18846)|null|
+|**2023-05-30**|**Graph Reasoning for Question Answering with Triplet Retrieval**|Shiyang Li et.al.|[2305.18742](http://arxiv.org/abs/2305.18742)|null|
+|**2023-05-30**|**Hybrid Representation Learning via Epistemic Graph**|Jin Yuan et.al.|[2305.18731](http://arxiv.org/abs/2305.18731)|null|
+|**2023-05-30**|**History Repeats: Overcoming Catastrophic Forgetting For Event-Centric Temporal Knowledge Graph Completion**|Mehrnoosh Mirtaheri et.al.|[2305.18675](http://arxiv.org/abs/2305.18675)|null|
+|**2023-05-28**|**MemeGraphs: Linking Memes to Knowledge Graphs**|Vasiliki Kougia et.al.|[2305.18391](http://arxiv.org/abs/2305.18391)|**[link](https://github.com/vasilikikou/memegraphs)**|
 |**2023-05-29**|**Representation Learning on Hyper-Relational and Numeric Knowledge Graphs with Transformers**|Chanyoung Chung et.al.|[2305.18256](http://arxiv.org/abs/2305.18256)|null|
 |**2023-05-29**|**Sequential Condition Evolved Interaction Knowledge Graph for Traditional Chinese Medicine Recommendation**|Jingjin Liu et.al.|[2305.17866](http://arxiv.org/abs/2305.17866)|null|
 |**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
