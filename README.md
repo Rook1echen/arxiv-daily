@@ -36,6 +36,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087](http://arxiv.org/abs/2306.06087)|null|
+|**2023-06-09**|**Approximate information state based convergence analysis of recurrent Q-learning**|Erfan Seyedsalehi et.al.|[2306.05991](http://arxiv.org/abs/2306.05991)|null|
+|**2023-06-09**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short Video Streaming**|Xinyu Huang et.al.|[2306.05946](http://arxiv.org/abs/2306.05946)|null|
+|**2023-06-09**|**TreeDQN: Learning to minimize Branch-and-Bound tree**|Dmitry Sorokin et.al.|[2306.05905](http://arxiv.org/abs/2306.05905)|null|
+|**2023-06-09**|**Detecting Adversarial Directions in Deep Reinforcement Learning to Make Robust Decisions**|Ezgi Korkmaz et.al.|[2306.05873](http://arxiv.org/abs/2306.05873)|null|
+|**2023-06-09**|**Robust Reinforcement Learning via Adversarial Kernel Approximation**|Kaixin Wang et.al.|[2306.05859](http://arxiv.org/abs/2306.05859)|null|
+|**2023-06-09**|**Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2306.05810](http://arxiv.org/abs/2306.05810)|**[link](https://github.com/bath-reinforcement-learning-lab/sverl_icml_2023)**|
+|**2023-06-09**|**Reinforcement Learning for Mutation Operator Selection in Automated Program Repair**|Carol Hanna et.al.|[2306.05792](http://arxiv.org/abs/2306.05792)|null|
+|**2023-06-09**|**Self-Paced Absolute Learning Progress as a Regularized Approach to Curriculum Learning**|Tobias Niehues et.al.|[2306.05769](http://arxiv.org/abs/2306.05769)|null|
+|**2023-06-09**|**Fair yet Asymptotically Equal Collaborative Learning**|Xiaoqiang Lin et.al.|[2306.05764](http://arxiv.org/abs/2306.05764)|**[link](https://github.com/xqlin98/fair-yet-equal-cml)**|
 |**2023-06-08**|**Offline Prioritized Experience Replay**|Yang Yue et.al.|[2306.05412](http://arxiv.org/abs/2306.05412)|**[link](https://github.com/sail-sg/oper)**|
 |**2023-06-08**|**Negotiated Reasoning: On Provably Addressing Relative Over-Generalization**|Junjie Sheng et.al.|[2306.05353](http://arxiv.org/abs/2306.05353)|null|
 |**2023-06-08**|**A framework for dynamically training and adapting deep reinforcement learning models to different, low-compute, and continuously changing radiology deployment environments**|Guangyao Zheng et.al.|[2306.05310](http://arxiv.org/abs/2306.05310)|null|
@@ -540,6 +550,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
 |**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
 |**2023-06-07**|**Enabling tabular deep learning when $d \gg n$ with an auxiliary knowledge graph**|Camilo Ruiz et.al.|[2306.04766](http://arxiv.org/abs/2306.04766)|null|
