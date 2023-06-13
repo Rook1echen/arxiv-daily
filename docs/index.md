@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.12
+## Updated on 2023.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -12,7 +12,7 @@ layout: default
 |**2023-06-07**|**Development of a System Vulnerability Analysis Tool for Assessment of Complex Mission Critical Systems**|Matthew Tassava et.al.|[2306.04280](http://arxiv.org/abs/2306.04280)|null|
 |**2023-06-07**|**Development and Analysis of P2SCP: A Paradigm for Penetration Testing of Systems that Cannot be Subjected to the Risk of Penetration Testing**|Jeremy Straub et.al.|[2306.04279](http://arxiv.org/abs/2306.04279)|null|
 |**2023-05-26**|**NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios**|Jaromír Janisch et.al.|[2305.17246](http://arxiv.org/abs/2305.17246)|**[link](https://github.com/jaromiru/nasimemu)**|
-|**2023-04-27**|**Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
+|**2023-06-11**|**Interactive Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
 |**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|Lluís Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
 |**2023-02-15**|**AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce**|Sudip Mittal et.al.|[2302.07953](http://arxiv.org/abs/2302.07953)|null|
 |**2023-02-09**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
@@ -28,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Maximising Coefficiency of Human-Robot Handovers through Reinforcement Learning**|Marta Lagomarsino et.al.|[2306.07205](http://arxiv.org/abs/2306.07205)|null|
+|**2023-06-12**|**Evolving Testing Scenario Generation Method and Intelligence Evaluation Framework for Automated Vehicles**|Yining Ma et.al.|[2306.07142](http://arxiv.org/abs/2306.07142)|null|
+|**2023-06-12**|**On the Amplification of Linguistic Bias through Unintentional Self-reinforcement Learning by Generative Language Models -- A Perspective**|Minhyeok Lee et.al.|[2306.07135](http://arxiv.org/abs/2306.07135)|null|
+|**2023-06-12**|**Diverse Projection Ensembles for Distributional Reinforcement Learning**|Moritz A. Zanger et.al.|[2306.07124](http://arxiv.org/abs/2306.07124)|null|
+|**2023-06-12**|**Adversarial Constrained Bidding via Minimax Regret Optimization with Causality-Aware Reinforcement Learning**|Haozhe Wang et.al.|[2306.07106](http://arxiv.org/abs/2306.07106)|**[link](https://github.com/haozhejasper/mirocl)**|
+|**2023-06-12**|**Combining Reinforcement Learning and Barrier Functions for Adaptive Risk Management in Portfolio Optimization**|Zhenglong Li et.al.|[2306.07013](http://arxiv.org/abs/2306.07013)|null|
+|**2023-06-12**|**High-speed Autonomous Racing using Trajectory-aided Deep Reinforcement Learning**|Benjamin David Evans et.al.|[2306.07003](http://arxiv.org/abs/2306.07003)|null|
+|**2023-06-12**|**Cancellation-Free Regret Bounds for Lagrangian Approaches in Constrained Markov Decision Processes**|Adrian Müller et.al.|[2306.07001](http://arxiv.org/abs/2306.07001)|null|
+|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955](http://arxiv.org/abs/2306.06955)|null|
+|**2023-06-12**|**Ensemble-based Offline-to-Online Reinforcement Learning: From Pessimistic Learning to Optimistic Exploration**|Kai Zhao et.al.|[2306.06871](http://arxiv.org/abs/2306.06871)|null|
 |**2023-06-09**|**Learning Not to Spoof**|David Byrd et.al.|[2306.06087](http://arxiv.org/abs/2306.06087)|null|
 |**2023-06-09**|**Approximate information state based convergence analysis of recurrent Q-learning**|Erfan Seyedsalehi et.al.|[2306.05991](http://arxiv.org/abs/2306.05991)|null|
 |**2023-06-09**|**Digital Twin-Assisted Resource Demand Prediction for Multicast Short Video Streaming**|Xinyu Huang et.al.|[2306.05946](http://arxiv.org/abs/2306.05946)|null|
@@ -538,6 +548,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
 |**2023-06-07**|**A Survey on Knowledge Graphs for Healthcare: Resources, Applications, and Promises**|Hejie Cui et.al.|[2306.04802](http://arxiv.org/abs/2306.04802)|null|
