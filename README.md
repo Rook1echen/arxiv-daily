@@ -1,4 +1,4 @@
-## Updated on 2023.06.13
+## Updated on 2023.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control**|Longtao Zheng et.al.|[2306.07863](http://arxiv.org/abs/2306.07863)|**[link](https://github.com/ltzheng/synapse)**|
+|**2023-06-13**|**A Primal-Dual-Critic Algorithm for Offline Constrained Reinforcement Learning**|Kihyuk Hong et.al.|[2306.07818](http://arxiv.org/abs/2306.07818)|null|
+|**2023-06-13**|**Provably Learning Nash Policies in Constrained Markov Potential Games**|Pragnya Alatur et.al.|[2306.07749](http://arxiv.org/abs/2306.07749)|null|
+|**2023-06-13**|**Kernelized Reinforcement Learning with Order Optimal Regret Bounds**|Sattar Vakili et.al.|[2306.07745](http://arxiv.org/abs/2306.07745)|null|
+|**2023-06-13**|**Stepsize Learning for Policy Gradient Methods in Contextual Markov Decision Processes**|Luca Sabbioni et.al.|[2306.07741](http://arxiv.org/abs/2306.07741)|null|
+|**2023-06-13**|**Multi-Robot Motion Planning: A Learning-Based Artificial Potential Field Solution**|Dengyu Zhang et.al.|[2306.07647](http://arxiv.org/abs/2306.07647)|null|
+|**2023-06-13**|**DenseLight: Efficient Control for Large-scale Traffic Signals with Dense Feedback**|Junfan Lin et.al.|[2306.07553](http://arxiv.org/abs/2306.07553)|**[link](https://github.com/junfanlin/denselight)**|
+|**2023-06-13**|**Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second**|Vincent-Pierre Berges et.al.|[2306.07552](http://arxiv.org/abs/2306.07552)|**[link](https://github.com/facebookresearch/galactic)**|
+|**2023-06-13**|**A Versatile Multi-Agent Reinforcement Learning Benchmark for Inventory Management**|Xianliang Yang et.al.|[2306.07542](http://arxiv.org/abs/2306.07542)|**[link](https://github.com/victoryxl/replenishmentenv)**|
+|**2023-06-13**|**A Simple Unified Uncertainty-Guided Framework for Offline-to-Online Reinforcement Learning**|Siyuan Guo et.al.|[2306.07541](http://arxiv.org/abs/2306.07541)|null|
 |**2023-06-12**|**Maximising Coefficiency of Human-Robot Handovers through Reinforcement Learning**|Marta Lagomarsino et.al.|[2306.07205](http://arxiv.org/abs/2306.07205)|null|
 |**2023-06-12**|**Evolving Testing Scenario Generation Method and Intelligence Evaluation Framework for Automated Vehicles**|Yining Ma et.al.|[2306.07142](http://arxiv.org/abs/2306.07142)|null|
 |**2023-06-12**|**On the Amplification of Linguistic Bias through Unintentional Self-reinforcement Learning by Generative Language Models -- A Perspective**|Minhyeok Lee et.al.|[2306.07135](http://arxiv.org/abs/2306.07135)|null|
@@ -534,7 +544,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -554,12 +564,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719](http://arxiv.org/abs/2306.07719)|null|
+|**2023-06-13**|**Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2306.07512](http://arxiv.org/abs/2306.07512)|null|
 |**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
 |**2023-06-09**|**Bayesian Knowledge-driven Critiquing with Indirect Evidence**|Armin Toroghi et.al.|[2306.05636](http://arxiv.org/abs/2306.05636)|null|
 |**2023-06-07**|**Revisiting Inferential Benchmarks for Knowledge Graph Completion**|Shuwen Liu et.al.|[2306.04814](http://arxiv.org/abs/2306.04814)|**[link](https://github.com/shuwen-liu-ox/loginfer)**|
@@ -761,5 +773,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230614>back to top</a>)</p>
 
