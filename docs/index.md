@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -28,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Inroads into Autonomous Network Defence using Explained Reinforcement Learning**|Myles Foley et.al.|[2306.09318](http://arxiv.org/abs/2306.09318)|null|
+|**2023-06-15**|**Semantic HELM: An Interpretable Memory for Reinforcement Learning**|Fabian Paischer et.al.|[2306.09312](http://arxiv.org/abs/2306.09312)|**[link](https://github.com/ml-jku/helm)**|
+|**2023-06-15**|**Datasets and Benchmarks for Offline Safe Reinforcement Learning**|Zuxin Liu et.al.|[2306.09303](http://arxiv.org/abs/2306.09303)|**[link](https://github.com/liuzuxin/dsrl)**|
+|**2023-06-15**|**Generalizable Resource Scaling of 5G Slices using Constrained Reinforcement Learning**|Muhammad Sulaiman et.al.|[2306.09290](http://arxiv.org/abs/2306.09290)|null|
+|**2023-06-15**|**A Framework for Learning from Demonstration with Minimal Human Effort**|Marc Rigter et.al.|[2306.09211](http://arxiv.org/abs/2306.09211)|null|
+|**2023-06-15**|**Optimal Exploration for Model-Based RL in Nonlinear Systems**|Andrew Wagenmaker et.al.|[2306.09210](http://arxiv.org/abs/2306.09210)|**[link](https://github.com/ajwagen/nonlinear_sysid_for_control)**|
+|**2023-06-15**|**Enhanced Sampling with Machine Learning: A Review**|Shams Mehdi et.al.|[2306.09111](http://arxiv.org/abs/2306.09111)|null|
+|**2023-06-15**|**Predictive Maneuver Planning with Deep Reinforcement Learning (PMP-DRL) for comfortable and safe autonomous driving**|Jayabrata Chowdhury et.al.|[2306.09055](http://arxiv.org/abs/2306.09055)|null|
+|**2023-06-15**|**DiAReL: Reinforcement Learning with Disturbance Awareness for Robust Sim2Real Policy Transfer in Robot Control**|Mohammadhossein Malmir et.al.|[2306.09010](http://arxiv.org/abs/2306.09010)|null|
+|**2023-06-15**|**Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation**|Chuyun Shen et.al.|[2306.08958](http://arxiv.org/abs/2306.08958)|null|
 |**2023-06-13**|**Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control**|Longtao Zheng et.al.|[2306.07863](http://arxiv.org/abs/2306.07863)|**[link](https://github.com/ltzheng/synapse)**|
 |**2023-06-13**|**A Primal-Dual-Critic Algorithm for Offline Constrained Reinforcement Learning**|Kihyuk Hong et.al.|[2306.07818](http://arxiv.org/abs/2306.07818)|null|
 |**2023-06-13**|**Provably Learning Nash Policies in Constrained Markov Potential Games**|Pragnya Alatur et.al.|[2306.07749](http://arxiv.org/abs/2306.07749)|null|
@@ -558,6 +568,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-14**|**Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation**|Likang Wu et.al.|[2306.08487](http://arxiv.org/abs/2306.08487)|null|
+|**2023-06-14**|**Unifying Large Language Models and Knowledge Graphs: A Roadmap**|Shirui Pan et.al.|[2306.08302](http://arxiv.org/abs/2306.08302)|null|
 |**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719](http://arxiv.org/abs/2306.07719)|null|
 |**2023-06-13**|**Noisy Positive-Unlabeled Learning with Self-Training for Speculative Knowledge Graph Reasoning**|Ruijie Wang et.al.|[2306.07512](http://arxiv.org/abs/2306.07512)|null|
 |**2023-06-09**|**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application**|Elan Markowitz et.al.|[2306.06302](http://arxiv.org/abs/2306.06302)|null|
