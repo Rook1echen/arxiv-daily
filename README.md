@@ -36,6 +36,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**Coaching a Teachable Student**|Jimuyang Zhang et.al.|[2306.10014](http://arxiv.org/abs/2306.10014)|null|
+|**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995](http://arxiv.org/abs/2306.09995)|null|
+|**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980](http://arxiv.org/abs/2306.09980)|null|
+|**2023-06-16**|**The Evolution theory of Learning: From Natural Selection to Reinforcement Learning**|Taboubi Ahmed et.al.|[2306.09961](http://arxiv.org/abs/2306.09961)|null|
+|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|null|
+|**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884](http://arxiv.org/abs/2306.09884)|null|
+|**2023-06-16**|**Actor-Critic Model Predictive Control**|Angel Romero et.al.|[2306.09852](http://arxiv.org/abs/2306.09852)|null|
+|**2023-06-16**|**Sample-Efficient On-Policy Imitation Learning from Observations**|João A. Cândido Ramos et.al.|[2306.09805](http://arxiv.org/abs/2306.09805)|null|
+|**2023-06-16**|**Temporal Difference Learning with Experience Replay**|Han-Dong Lim et.al.|[2306.09746](http://arxiv.org/abs/2306.09746)|null|
+|**2023-06-16**|**Meta Generative Flow Networks with Personalization for Task-Specific Adaptation**|Xinyuan Ji et.al.|[2306.09742](http://arxiv.org/abs/2306.09742)|null|
 |**2023-06-15**|**Inroads into Autonomous Network Defence using Explained Reinforcement Learning**|Myles Foley et.al.|[2306.09318](http://arxiv.org/abs/2306.09318)|null|
 |**2023-06-15**|**Semantic HELM: An Interpretable Memory for Reinforcement Learning**|Fabian Paischer et.al.|[2306.09312](http://arxiv.org/abs/2306.09312)|**[link](https://github.com/ml-jku/helm)**|
 |**2023-06-15**|**Datasets and Benchmarks for Offline Safe Reinforcement Learning**|Zuxin Liu et.al.|[2306.09303](http://arxiv.org/abs/2306.09303)|**[link](https://github.com/liuzuxin/dsrl)**|
@@ -580,6 +590,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-16**|**AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets**|Yu Lu et.al.|[2306.09631](http://arxiv.org/abs/2306.09631)|null|
+|**2023-06-15**|**Relation-Aware Network with Attention-Based Loss for Few-Shot Knowledge Graph Completion**|Qiao Qiao et.al.|[2306.09519](http://arxiv.org/abs/2306.09519)|null|
+|**2023-06-15**|**Sample-Efficient Learning of Novel Visual Concepts**|Sarthak Bhagat et.al.|[2306.09482](http://arxiv.org/abs/2306.09482)|null|
 |**2023-06-14**|**Recognizing Unseen Objects via Multimodal Intensive Knowledge Graph Propagation**|Likang Wu et.al.|[2306.08487](http://arxiv.org/abs/2306.08487)|null|
 |**2023-06-14**|**Unifying Large Language Models and Knowledge Graphs: A Roadmap**|Shirui Pan et.al.|[2306.08302](http://arxiv.org/abs/2306.08302)|null|
 |**2023-06-13**|**Contextual Dictionary Lookup for Knowledge Graph Completion**|Jining Wang et.al.|[2306.07719](http://arxiv.org/abs/2306.07719)|null|
