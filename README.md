@@ -1,4 +1,4 @@
-## Updated on 2023.06.19
+## Updated on 2023.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 ## attack graph
 
@@ -41,7 +41,7 @@
 |**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980](http://arxiv.org/abs/2306.09980)|null|
 |**2023-06-16**|**The Evolution theory of Learning: From Natural Selection to Reinforcement Learning**|Taboubi Ahmed et.al.|[2306.09961](http://arxiv.org/abs/2306.09961)|null|
 |**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|null|
-|**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884](http://arxiv.org/abs/2306.09884)|null|
+|**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884](http://arxiv.org/abs/2306.09884)|**[link](https://github.com/instadeepai/jumanji)**|
 |**2023-06-16**|**Actor-Critic Model Predictive Control**|Angel Romero et.al.|[2306.09852](http://arxiv.org/abs/2306.09852)|null|
 |**2023-06-16**|**Sample-Efficient On-Policy Imitation Learning from Observations**|João A. Cândido Ramos et.al.|[2306.09805](http://arxiv.org/abs/2306.09805)|null|
 |**2023-06-16**|**Temporal Difference Learning with Experience Replay**|Han-Dong Lim et.al.|[2306.09746](http://arxiv.org/abs/2306.09746)|null|
@@ -564,7 +564,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -584,7 +584,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -798,5 +798,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
 

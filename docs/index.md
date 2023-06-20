@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.19
+## Updated on 2023.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -33,7 +33,7 @@ layout: default
 |**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980](http://arxiv.org/abs/2306.09980)|null|
 |**2023-06-16**|**The Evolution theory of Learning: From Natural Selection to Reinforcement Learning**|Taboubi Ahmed et.al.|[2306.09961](http://arxiv.org/abs/2306.09961)|null|
 |**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|null|
-|**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884](http://arxiv.org/abs/2306.09884)|null|
+|**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884](http://arxiv.org/abs/2306.09884)|**[link](https://github.com/instadeepai/jumanji)**|
 |**2023-06-16**|**Actor-Critic Model Predictive Control**|Angel Romero et.al.|[2306.09852](http://arxiv.org/abs/2306.09852)|null|
 |**2023-06-16**|**Sample-Efficient On-Policy Imitation Learning from Observations**|João A. Cândido Ramos et.al.|[2306.09805](http://arxiv.org/abs/2306.09805)|null|
 |**2023-06-16**|**Temporal Difference Learning with Experience Replay**|Han-Dong Lim et.al.|[2306.09746](http://arxiv.org/abs/2306.09746)|null|
