@@ -1,4 +1,4 @@
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Harnessing Mixed Offline Reinforcement Learning Datasets via Trajectory Weighting**|Zhang-Wei Hong et.al.|[2306.13085](http://arxiv.org/abs/2306.13085)|null|
+|**2023-06-22**|**Transferable Curricula through Difficulty Conditioned Generators**|Sidney Tio et.al.|[2306.13028](http://arxiv.org/abs/2306.13028)|null|
+|**2023-06-22**|**Can Differentiable Decision Trees Learn Interpretable Reward Functions?**|Akansha Kalra et.al.|[2306.13004](http://arxiv.org/abs/2306.13004)|null|
+|**2023-06-22**|**Achieving Sample and Computational Efficient Reinforcement Learning by Action Space Reduction via Grouping**|Yining Li et.al.|[2306.12981](http://arxiv.org/abs/2306.12981)|null|
+|**2023-06-22**|**Sum-Rate Maximization of RSMA-based Aerial Communications with Energy Harvesting: A Reinforcement Learning Approach**|Jaehyup Seong et.al.|[2306.12977](http://arxiv.org/abs/2306.12977)|null|
+|**2023-06-22**|**Decentralized Multi-Agent Reinforcement Learning with Global State Prediction**|Joshua Bloom et.al.|[2306.12926](http://arxiv.org/abs/2306.12926)|null|
+|**2023-06-22**|**Learning from Visual Observation via Offline Pretrained State-to-Go Transformer**|Bohan Zhou et.al.|[2306.12860](http://arxiv.org/abs/2306.12860)|null|
+|**2023-06-22**|**Beyond OOD State Actions: Supported Cross-Domain Offline Reinforcement Learning**|Jinxin Liu et.al.|[2306.12755](http://arxiv.org/abs/2306.12755)|null|
+|**2023-06-22**|**MP3: Movement Primitive-Based (Re-)Planning Policy**|Fabian Otto et.al.|[2306.12729](http://arxiv.org/abs/2306.12729)|null|
+|**2023-06-22**|**Robust Recovery Motion Control for Quadrupedal Robots via Learned Terrain Imagination**|I Made Aswin Nahrendra et.al.|[2306.12712](http://arxiv.org/abs/2306.12712)|null|
 |**2023-06-21**|**One Policy to Dress Them All: Learning to Dress People with Diverse Poses and Garments**|Yufei Wang et.al.|[2306.12372](http://arxiv.org/abs/2306.12372)|null|
 |**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371](http://arxiv.org/abs/2306.12371)|null|
 |**2023-06-21**|**Introspective Action Advising for Interpretable Transfer Learning**|Joseph Campbell et.al.|[2306.12314](http://arxiv.org/abs/2306.12314)|null|
@@ -574,7 +584,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -595,12 +605,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Otter-Knowledge: benchmarks of multimodal knowledge graph representation learning from different sources for drug discovery**|Hoang Thanh Lam et.al.|[2306.12802](http://arxiv.org/abs/2306.12802)|null|
+|**2023-06-22**|**Explainable Representations for Relation Prediction in Knowledge Graphs**|Rita T. Sousa et.al.|[2306.12687](http://arxiv.org/abs/2306.12687)|null|
 |**2023-06-21**|**Bidirectional End-to-End Learning of Retriever-Reader Paradigm for Entity Linking**|Yinghui Li et.al.|[2306.12245](http://arxiv.org/abs/2306.12245)|**[link](https://github.com/geekjuruo/beer2)**|
 |**2023-06-21**|**ICAR, a categorical framework to connect vulnerability, threat and asset managements**|Arnaud Valence et.al.|[2306.12240](http://arxiv.org/abs/2306.12240)|null|
 |**2023-06-20**|**Agreeing and Disagreeing in Collaborative Knowledge Graph Construction: An Analysis of Wikidata**|Elisavet Koutsiana et.al.|[2306.11766](http://arxiv.org/abs/2306.11766)|null|
@@ -819,5 +831,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
