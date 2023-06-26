@@ -1,4 +1,4 @@
-## Updated on 2023.06.25
+## Updated on 2023.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## attack graph
 
@@ -50,8 +50,8 @@
 |**2023-06-21**|**Optimistic Active Exploration of Dynamical Systems**|Bhavya Sukhija et.al.|[2306.12371](http://arxiv.org/abs/2306.12371)|null|
 |**2023-06-21**|**Introspective Action Advising for Interpretable Transfer Learning**|Joseph Campbell et.al.|[2306.12314](http://arxiv.org/abs/2306.12314)|null|
 |**2023-06-21**|**A Finite Expression Method for Solving High-Dimensional Committor Problems**|Zezheng Song et.al.|[2306.12268](http://arxiv.org/abs/2306.12268)|null|
-|**2023-06-21**|**ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling**|Quanyi Li et.al.|[2306.12241](http://arxiv.org/abs/2306.12241)|null|
-|**2023-06-21**|**Tailstorm: A Secure and Fair Blockchain for Cash Transactions**|Patrik Keller et.al.|[2306.12206](http://arxiv.org/abs/2306.12206)|null|
+|**2023-06-21**|**ScenarioNet: Open-Source Platform for Large-Scale Traffic Scenario Simulation and Modeling**|Quanyi Li et.al.|[2306.12241](http://arxiv.org/abs/2306.12241)|**[link](https://github.com/metadriverse/scenarionet)**|
+|**2023-06-21**|**Tailstorm: A Secure and Fair Blockchain for Cash Transactions**|Patrik Keller et.al.|[2306.12206](http://arxiv.org/abs/2306.12206)|**[link](https://github.com/pkel/cpr)**|
 |**2023-06-21**|**AdCraft: An Advanced Reinforcement Learning Benchmark Environment for Search Engine Marketing Optimization**|Maziar Gomrokchi et.al.|[2306.11971](http://arxiv.org/abs/2306.11971)|**[link](https://github.com/mikata-project/adcraft)**|
 |**2023-06-20**|**Efficient Dynamics Modeling in Interactive Environments with Koopman Theory**|Arnab Kumar Mondal et.al.|[2306.11941](http://arxiv.org/abs/2306.11941)|null|
 |**2023-06-20**|**Reinforcement Learning-based Virtual Fixtures for Teleoperation of Hydraulic Construction Machine**|Hyung Joo Lee et.al.|[2306.11897](http://arxiv.org/abs/2306.11897)|null|
@@ -186,10 +186,10 @@
 |**2023-05-30**|**Improving the performance of Learned Controllers in Behavior Trees using Value Function Estimates at Switching Boundaries**|Mart Kartasev et.al.|[2305.18903](http://arxiv.org/abs/2305.18903)|null|
 |**2023-05-30**|**Policy Optimization for Continuous Reinforcement Learning**|Hanyang Zhao et.al.|[2305.18901](http://arxiv.org/abs/2305.18901)|null|
 |**2023-05-30**|**Centralised rehearsal of decentralised cooperation: Multi-agent reinforcement learning for the scalable coordination of residential energy flexibility**|Flora Charbonnier et.al.|[2305.18875](http://arxiv.org/abs/2305.18875)|null|
-|**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290](http://arxiv.org/abs/2305.18290)|null|
+|**2023-05-29**|**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**|Rafael Rafailov et.al.|[2305.18290](http://arxiv.org/abs/2305.18290)|**[link](https://github.com/eric-mitchell/direct-preference-optimization)**|
 |**2023-05-29**|**Doing the right thing for the right reason: Evaluating artificial moral cognition by probing cost insensitivity**|Yiran Mao et.al.|[2305.18269](http://arxiv.org/abs/2305.18269)|null|
 |**2023-05-29**|**One Objective to Rule Them All: A Maximization Objective Fusing Estimation and Planning for Exploration**|Zhihan Liu et.al.|[2305.18258](http://arxiv.org/abs/2305.18258)|null|
-|**2023-05-29**|**Provable and Practical: Efficient Exploration in Reinforcement Learning via Langevin Monte Carlo**|Haque Ishfaq et.al.|[2305.18246](http://arxiv.org/abs/2305.18246)|null|
+|**2023-05-29**|**Provable and Practical: Efficient Exploration in Reinforcement Learning via Langevin Monte Carlo**|Haque Ishfaq et.al.|[2305.18246](http://arxiv.org/abs/2305.18246)|**[link](https://github.com/hmishfaq/lmc-lsvi)**|
 |**2023-05-29**|**VA-learning as a more efficient alternative to Q-learning**|Yunhao Tang et.al.|[2305.18161](http://arxiv.org/abs/2305.18161)|null|
 |**2023-05-29**|**Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models**|Shuai Zhao et.al.|[2305.18010](http://arxiv.org/abs/2305.18010)|**[link](https://github.com/mzhaoshuai/rlcf)**|
 |**2023-05-29**|**Quafu-RL: The Cloud Quantum Computers based Quantum Reinforcement Learning**|BAQIS Quafu Group et.al.|[2305.17966](http://arxiv.org/abs/2305.17966)|null|
@@ -584,7 +584,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -605,7 +605,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -670,7 +670,7 @@
 |**2023-05-28**|**Choose your Data Wisely: A Framework for Semantic Counterfactuals**|Edmund Dervakos et.al.|[2305.17667](http://arxiv.org/abs/2305.17667)|null|
 |**2023-05-27**|**An Investigation of Evaluation Metrics for Automated Medical Note Generation**|Asma Ben Abacha et.al.|[2305.17364](http://arxiv.org/abs/2305.17364)|**[link](https://github.com/abachaa/evaluationmetrics-acl23)**|
 |**2023-05-26**|**A Categorical Representation Language and Computational System for Knowledge-Based Planning**|Angeline Aguinaldo et.al.|[2305.17208](http://arxiv.org/abs/2305.17208)|null|
-|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|**[link](https://github.com/nustm/cpnc)**|
 |**2023-05-26**|**Can large language models generate salient negative statements?**|Hiba Arnaout et.al.|[2305.16755](http://arxiv.org/abs/2305.16755)|null|
 |**2023-05-25**|**How to Turn Your Knowledge Graph Embeddings into Generative Models via Probabilistic Circuits**|Lorenzo Loconte et.al.|[2305.15944](http://arxiv.org/abs/2305.15944)|**[link](https://github.com/anongekc/gekcs)**|
 |**2023-05-25**|**BUCA: A Binary Classification Approach to Unsupervised Commonsense Question Answering**|Jie He et.al.|[2305.15932](http://arxiv.org/abs/2305.15932)|null|
@@ -831,5 +831,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230626>back to top</a>)</p>
 
