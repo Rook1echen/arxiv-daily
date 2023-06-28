@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -28,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Machine-learning based noise characterization and correction on neutral atoms NISQ devices**|Ettore Canonici et.al.|[2306.15628](http://arxiv.org/abs/2306.15628)|null|
+|**2023-06-27**|**Value-aware Importance Weighting for Off-policy Reinforcement Learning**|Kristopher De Asis et.al.|[2306.15625](http://arxiv.org/abs/2306.15625)|null|
+|**2023-06-27**|**Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical Environments**|Raffaele Galliera et.al.|[2306.15591](http://arxiv.org/abs/2306.15591)|null|
+|**2023-06-27**|**Optimizing Credit Limit Adjustments Under Adversarial Goals Using Reinforcement Learning**|Sherly Alfonso-Sánchez et.al.|[2306.15585](http://arxiv.org/abs/2306.15585)|null|
+|**2023-06-27**|**RansomAI: AI-powered Ransomware for Stealthy Encryption**|Jan von der Assen et.al.|[2306.15559](http://arxiv.org/abs/2306.15559)|null|
+|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|null|
+|**2023-06-27**|**Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning**|Jinyi Liu et.al.|[2306.15503](http://arxiv.org/abs/2306.15503)|null|
+|**2023-06-27**|**Automatic Truss Design with Reinforcement Learning**|Weihua Du et.al.|[2306.15182](http://arxiv.org/abs/2306.15182)|**[link](https://github.com/stiglidu/autotruss)**|
+|**2023-06-26**|**Improvise, Adapt, Overcome: Dynamic Resiliency Against Unknown Attack Vectors in Microgrid Cybersecurity Games**|Suman Rath et.al.|[2306.15106](http://arxiv.org/abs/2306.15106)|null|
+|**2023-06-26**|**Beyond dynamic programming**|Abhinav Muraleedharan et.al.|[2306.15029](http://arxiv.org/abs/2306.15029)|**[link](https://github.com/abhinav-muraleedharan/beyond_dynamic_programming)**|
 |**2023-06-26**|**InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback**|John Yang et.al.|[2306.14898](http://arxiv.org/abs/2306.14898)|null|
 |**2023-06-26**|**Supervised Pretraining Can Learn In-Context Reinforcement Learning**|Jonathan N. Lee et.al.|[2306.14892](http://arxiv.org/abs/2306.14892)|null|
 |**2023-06-26**|**Learning to Modulate pre-trained Models in RL**|Thomas Schmied et.al.|[2306.14884](http://arxiv.org/abs/2306.14884)|**[link](https://github.com/ml-jku/l2m)**|
