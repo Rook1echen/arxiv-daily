@@ -1,4 +1,4 @@
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Sharper Model-free Reinforcement Learning for Average-reward Markov Decision Processes**|Zihan Zhang et.al.|[2306.16394](http://arxiv.org/abs/2306.16394)|null|
+|**2023-06-28**|**Geometric Regularity with Robot Intrinsic Symmetry in Reinforcement Learning**|Shengchao Yan et.al.|[2306.16316](http://arxiv.org/abs/2306.16316)|null|
+|**2023-06-28**|**Continuous-Time q-learning for McKean-Vlasov Control Problems**|Xiaoli Wei et.al.|[2306.16208](http://arxiv.org/abs/2306.16208)|null|
+|**2023-06-28**|**Recent Advances in Optimal Transport for Machine Learning**|Eduardo Fernandes Montesuma et.al.|[2306.16156](http://arxiv.org/abs/2306.16156)|null|
+|**2023-06-28**|**Mastering Nordschleife -- A comprehensive race simulation for AI strategy decision-making in motorsports**|Max Boettinger et.al.|[2306.16088](http://arxiv.org/abs/2306.16088)|null|
+|**2023-06-28**|**RoMo-HER: Robust Model-based Hindsight Experience Replay**|Yuming Huang et.al.|[2306.16061](http://arxiv.org/abs/2306.16061)|null|
+|**2023-06-28**|**Structure in Reinforcement Learning: A Survey and Open Problems**|Aditya Mohan et.al.|[2306.16021](http://arxiv.org/abs/2306.16021)|null|
+|**2023-06-28**|**Action and Trajectory Planning for Urban Autonomous Driving with Hierarchical Reinforcement Learning**|Xinyang Lu et.al.|[2306.15968](http://arxiv.org/abs/2306.15968)|null|
+|**2023-06-28**|**Curious Replay for Model-based Adaptation**|Isaac Kauvar et.al.|[2306.15934](http://arxiv.org/abs/2306.15934)|**[link](https://github.com/autonomousagentslab/curiousreplay)**|
+|**2023-06-28**|**DCT: Dual Channel Training of Action Embeddings for Reinforcement Learning with Large Discrete Action Spaces**|Pranavi Pathakota et.al.|[2306.15913](http://arxiv.org/abs/2306.15913)|null|
 |**2023-06-27**|**Machine-learning based noise characterization and correction on neutral atoms NISQ devices**|Ettore Canonici et.al.|[2306.15628](http://arxiv.org/abs/2306.15628)|null|
 |**2023-06-27**|**Value-aware Importance Weighting for Off-policy Reinforcement Learning**|Kristopher De Asis et.al.|[2306.15625](http://arxiv.org/abs/2306.15625)|null|
 |**2023-06-27**|**Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical Environments**|Raffaele Galliera et.al.|[2306.15591](http://arxiv.org/abs/2306.15591)|null|
@@ -611,7 +621,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -632,12 +642,15 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
+|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|null|
+|**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946](http://arxiv.org/abs/2306.15946)|null|
 |**2023-06-26**|**TransERR: Translation-based Knowledge Graph Completion via Efficient Relation Rotation**|Jiang Li et.al.|[2306.14580](http://arxiv.org/abs/2306.14580)|**[link](https://github.com/dellixx/transerr)**|
 |**2023-06-26**|**Knowledge Graph-Augmented Korean Generative Commonsense Reasoning**|Dahyun Jung et.al.|[2306.14470](http://arxiv.org/abs/2306.14470)|null|
 |**2023-06-24**|**IERL: Interpretable Ensemble Representation Learning -- Combining CrowdSourced Knowledge and Distributed Semantic Representations**|Yuxin Zi et.al.|[2306.13865](http://arxiv.org/abs/2306.13865)|null|
@@ -866,5 +879,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230628>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230629>back to top</a>)</p>
 
