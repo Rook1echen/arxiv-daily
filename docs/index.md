@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -53,7 +53,7 @@ layout: default
 |**2023-06-27**|**Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical Environments**|Raffaele Galliera et.al.|[2306.15591](http://arxiv.org/abs/2306.15591)|null|
 |**2023-06-27**|**Optimizing Credit Limit Adjustments Under Adversarial Goals Using Reinforcement Learning**|Sherly Alfonso-Sánchez et.al.|[2306.15585](http://arxiv.org/abs/2306.15585)|null|
 |**2023-06-27**|**RansomAI: AI-powered Ransomware for Stealthy Encryption**|Jan von der Assen et.al.|[2306.15559](http://arxiv.org/abs/2306.15559)|null|
-|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|null|
+|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|**[link](https://github.com/nicob15/trajectory-generation-control-and-safety-with-denoising-diffusion-probabilistic-models)**|
 |**2023-06-27**|**Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning**|Jinyi Liu et.al.|[2306.15503](http://arxiv.org/abs/2306.15503)|null|
 |**2023-06-27**|**Automatic Truss Design with Reinforcement Learning**|Weihua Du et.al.|[2306.15182](http://arxiv.org/abs/2306.15182)|**[link](https://github.com/stiglidu/autotruss)**|
 |**2023-06-26**|**Improvise, Adapt, Overcome: Dynamic Resiliency Against Unknown Attack Vectors in Microgrid Cybersecurity Games**|Suman Rath et.al.|[2306.15106](http://arxiv.org/abs/2306.15106)|null|
@@ -70,7 +70,7 @@ layout: default
 |**2023-06-26**|**Cost-Effective Task Offloading Scheduling for Hybrid Mobile Edge-Quantum Computing**|Ziqiang Ye et.al.|[2306.14588](http://arxiv.org/abs/2306.14588)|null|
 |**2023-06-23**|**Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**|Ben-ya Halevy et.al.|[2306.13630](http://arxiv.org/abs/2306.13630)|null|
 |**2023-06-23**|**Active Coverage for PAC Reinforcement Learning**|Aymen Al-Marjani et.al.|[2306.13601](http://arxiv.org/abs/2306.13601)|null|
-|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|null|
+|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|**[link](https://github.com/matouskozak/amg)**|
 |**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554](http://arxiv.org/abs/2306.13554)|**[link](https://github.com/mpatacchiola/imujoco)**|
 |**2023-06-23**|**CLUE: Calibrated Latent Guidance for Offline Reinforcement Learning**|Jinxin Liu et.al.|[2306.13412](http://arxiv.org/abs/2306.13412)|null|
 |**2023-06-23**|**Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach**|Hao Wang et.al.|[2306.13333](http://arxiv.org/abs/2306.13333)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.07.02
+## Updated on 2023.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
 
 ## attack graph
 
@@ -61,7 +61,7 @@
 |**2023-06-27**|**Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical Environments**|Raffaele Galliera et.al.|[2306.15591](http://arxiv.org/abs/2306.15591)|null|
 |**2023-06-27**|**Optimizing Credit Limit Adjustments Under Adversarial Goals Using Reinforcement Learning**|Sherly Alfonso-Sánchez et.al.|[2306.15585](http://arxiv.org/abs/2306.15585)|null|
 |**2023-06-27**|**RansomAI: AI-powered Ransomware for Stealthy Encryption**|Jan von der Assen et.al.|[2306.15559](http://arxiv.org/abs/2306.15559)|null|
-|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|null|
+|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|**[link](https://github.com/nicob15/trajectory-generation-control-and-safety-with-denoising-diffusion-probabilistic-models)**|
 |**2023-06-27**|**Prioritized Trajectory Replay: A Replay Memory for Data-driven Reinforcement Learning**|Jinyi Liu et.al.|[2306.15503](http://arxiv.org/abs/2306.15503)|null|
 |**2023-06-27**|**Automatic Truss Design with Reinforcement Learning**|Weihua Du et.al.|[2306.15182](http://arxiv.org/abs/2306.15182)|**[link](https://github.com/stiglidu/autotruss)**|
 |**2023-06-26**|**Improvise, Adapt, Overcome: Dynamic Resiliency Against Unknown Attack Vectors in Microgrid Cybersecurity Games**|Suman Rath et.al.|[2306.15106](http://arxiv.org/abs/2306.15106)|null|
@@ -78,7 +78,7 @@
 |**2023-06-26**|**Cost-Effective Task Offloading Scheduling for Hybrid Mobile Edge-Quantum Computing**|Ziqiang Ye et.al.|[2306.14588](http://arxiv.org/abs/2306.14588)|null|
 |**2023-06-23**|**Offline Skill Graph (OSG): A Framework for Learning and Planning using Offline Reinforcement Learning Skills**|Ben-ya Halevy et.al.|[2306.13630](http://arxiv.org/abs/2306.13630)|null|
 |**2023-06-23**|**Active Coverage for PAC Reinforcement Learning**|Aymen Al-Marjani et.al.|[2306.13601](http://arxiv.org/abs/2306.13601)|null|
-|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|null|
+|**2023-06-23**|**Creating Valid Adversarial Examples of Malware**|Matouš Kozák et.al.|[2306.13587](http://arxiv.org/abs/2306.13587)|**[link](https://github.com/matouskozak/amg)**|
 |**2023-06-23**|**Comparing the Efficacy of Fine-Tuning and Meta-Learning for Few-Shot Policy Imitation**|Massimiliano Patacchiola et.al.|[2306.13554](http://arxiv.org/abs/2306.13554)|**[link](https://github.com/mpatacchiola/imujoco)**|
 |**2023-06-23**|**CLUE: Calibrated Latent Guidance for Offline Reinforcement Learning**|Jinxin Liu et.al.|[2306.13412](http://arxiv.org/abs/2306.13412)|null|
 |**2023-06-23**|**Energy Optimization for HVAC Systems in Multi-VAV Open Offices: A Deep Reinforcement Learning Approach**|Hao Wang et.al.|[2306.13333](http://arxiv.org/abs/2306.13333)|null|
@@ -631,7 +631,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -652,7 +652,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -891,5 +891,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230702>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230703>back to top</a>)</p>
 
