@@ -36,6 +36,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833](http://arxiv.org/abs/2306.17833)|null|
+|**2023-06-30**|**Comparing Reinforcement Learning and Human Learning using the Game of Hidden Rules**|Eric Pulick et.al.|[2306.17766](http://arxiv.org/abs/2306.17766)|null|
+|**2023-06-30**|**TD Convergence: An Optimization Perspective**|Kavosh Asadi et.al.|[2306.17750](http://arxiv.org/abs/2306.17750)|null|
+|**2023-06-30**|**Design of Induction Machines using Reinforcement Learning**|Yasmin SarcheshmehPour et.al.|[2306.17626](http://arxiv.org/abs/2306.17626)|null|
+|**2023-06-30**|**Navigation of micro-robot swarms for targeted delivery using reinforcement learning**|Akshatha Jagadish et.al.|[2306.17598](http://arxiv.org/abs/2306.17598)|null|
+|**2023-06-30**|**Preference Ranking Optimization for Human Alignment**|Feifan Song et.al.|[2306.17492](http://arxiv.org/abs/2306.17492)|null|
+|**2023-06-30**|**Landmark Guided Active Exploration with Stable Low-level Policy Learning**|Fei Cui et.al.|[2306.17484](http://arxiv.org/abs/2306.17484)|null|
+|**2023-06-30**|**Human-like Decision-making at Unsignalized Intersection using Social Value Orientation**|Yan Tong et.al.|[2306.17456](http://arxiv.org/abs/2306.17456)|null|
+|**2023-06-30**|**Decentralized Motor Skill Learning for Complex Robotic Systems**|Yanjiang Guo et.al.|[2306.17411](http://arxiv.org/abs/2306.17411)|null|
+|**2023-06-30**|**$λ$ -AC: Learning latent decision-aware models for reinforcement learning in continuous state-spaces**|Claas A Voelcker et.al.|[2306.17366](http://arxiv.org/abs/2306.17366)|null|
 |**2023-06-29**|**Identifying Important Sensory Feedback for Learning Locomotion Skills**|Wanming Yu et.al.|[2306.17101](http://arxiv.org/abs/2306.17101)|null|
 |**2023-06-29**|**RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark**|Federico Berto et.al.|[2306.17100](http://arxiv.org/abs/2306.17100)|**[link](https://github.com/kaist-silab/rl4co)**|
 |**2023-06-29**|**Two-tiered Online Optimization of Region-wide Datacenter Resource Allocation via Deep Reinforcement Learning**|Chang-Lin Chen et.al.|[2306.17054](http://arxiv.org/abs/2306.17054)|null|
@@ -658,6 +668,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-29**|**An end-to-end framework for gene expression classification by integrating a background knowledge graph: application to cancer prognosis prediction**|Kazuma Inoue et.al.|[2306.17202](http://arxiv.org/abs/2306.17202)|null|
 |**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034](http://arxiv.org/abs/2306.17034)|null|
 |**2023-06-29**|**Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2306.16791](http://arxiv.org/abs/2306.16791)|**[link](https://github.com/okarras/empire-analysis)**|
 |**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
