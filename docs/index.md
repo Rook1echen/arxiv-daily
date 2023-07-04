@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.03
+## Updated on 2023.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -12,7 +12,7 @@ layout: default
 |**2023-06-07**|**Development of a System Vulnerability Analysis Tool for Assessment of Complex Mission Critical Systems**|Matthew Tassava et.al.|[2306.04280](http://arxiv.org/abs/2306.04280)|null|
 |**2023-06-07**|**Development and Analysis of P2SCP: A Paradigm for Penetration Testing of Systems that Cannot be Subjected to the Risk of Penetration Testing**|Jeremy Straub et.al.|[2306.04279](http://arxiv.org/abs/2306.04279)|null|
 |**2023-05-26**|**NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios**|Jaromír Janisch et.al.|[2305.17246](http://arxiv.org/abs/2305.17246)|**[link](https://github.com/jaromiru/nasimemu)**|
-|**2023-06-11**|**Interactive Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
+|**2023-06-30**|**Interactive Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
 |**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|Lluís Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
 |**2023-02-15**|**AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce**|Sudip Mittal et.al.|[2302.07953](http://arxiv.org/abs/2302.07953)|null|
 |**2023-02-09**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
