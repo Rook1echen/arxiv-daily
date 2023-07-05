@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.04
+## Updated on 2023.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -28,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Theory of Mind as Intrinsic Motivation for Multi-Agent Reinforcement Learning**|Ini Oguntola et.al.|[2307.01158](http://arxiv.org/abs/2307.01158)|null|
+|**2023-07-03**|**Environmental effects on emergent strategy in micro-scale multi-agent reinforcement learning**|Samuel Tovey et.al.|[2307.00994](http://arxiv.org/abs/2307.00994)|null|
+|**2023-07-03**|**MoVie: Visual Model-Based Policy Adaptation for View Generalization**|Sizhe Yang et.al.|[2307.00972](http://arxiv.org/abs/2307.00972)|null|
+|**2023-07-03**|**OpenClinicalAI: An Open and Dynamic Model for Alzheimer's Disease Diagnosis**|Yunyou Huang et.al.|[2307.00965](http://arxiv.org/abs/2307.00965)|null|
+|**2023-07-03**|**Achieving Stable Training of Reinforcement Learning Agents in Bimodal Environments through Batch Learning**|E. Hurwitz et.al.|[2307.00923](http://arxiv.org/abs/2307.00923)|null|
+|**2023-07-03**|**Enhancing the Robustness of QMIX against State-adversarial Attacks**|Weiran Guo et.al.|[2307.00907](http://arxiv.org/abs/2307.00907)|null|
+|**2023-07-03**|**Monte Carlo Policy Gradient Method for Binary Optimization**|Cheng Chen et.al.|[2307.00783](http://arxiv.org/abs/2307.00783)|null|
+|**2023-07-03**|**GA-DRL: Graph Neural Network-Augmented Deep Reinforcement Learning for DAG Task Scheduling over Dynamic Vehicular Clouds**|Zhang Liu et.al.|[2307.00777](http://arxiv.org/abs/2307.00777)|null|
+|**2023-07-02**|**Neuro-Symbolic Sudoku Solver**|Ashutosh Hathidara et.al.|[2307.00653](http://arxiv.org/abs/2307.00653)|**[link](https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver)**|
+|**2023-07-02**|**LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation**|Haoxin Tu et.al.|[2307.00593](http://arxiv.org/abs/2307.00593)|**[link](https://github.com/haoxintu/LLM4CBI)**|
 |**2023-06-30**|**Resetting the Optimizer in Deep RL: An Empirical Study**|Kavosh Asadi et.al.|[2306.17833](http://arxiv.org/abs/2306.17833)|null|
 |**2023-06-30**|**Comparing Reinforcement Learning and Human Learning using the Game of Hidden Rules**|Eric Pulick et.al.|[2306.17766](http://arxiv.org/abs/2306.17766)|null|
 |**2023-06-30**|**TD Convergence: An Optimization Perspective**|Kavosh Asadi et.al.|[2306.17750](http://arxiv.org/abs/2306.17750)|null|
@@ -656,11 +666,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128](http://arxiv.org/abs/2307.01128)|null|
+|**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769](http://arxiv.org/abs/2307.00769)|null|
+|**2023-07-02**|**Semi-automated Thermal Envelope Model Setup for Adaptive Model Predictive Control with Event-triggered System Identification**|Lu Wan et.al.|[2307.00638](http://arxiv.org/abs/2307.00638)|null|
+|**2023-07-01**|**PersonaGen: A Tool for Generating Personas from User Feedback**|Xishuo Zhang et.al.|[2307.00390](http://arxiv.org/abs/2307.00390)|null|
+|**2023-07-01**|**Hierarchical Pretraining for Biomedical Term Embeddings**|Bryan Cai et.al.|[2307.00266](http://arxiv.org/abs/2307.00266)|null|
 |**2023-06-29**|**An end-to-end framework for gene expression classification by integrating a background knowledge graph: application to cancer prognosis prediction**|Kazuma Inoue et.al.|[2306.17202](http://arxiv.org/abs/2306.17202)|null|
 |**2023-06-29**|**Exploring & Exploiting High-Order Graph Structure for Sparse Knowledge Graph Completion**|Tao He et.al.|[2306.17034](http://arxiv.org/abs/2306.17034)|null|
 |**2023-06-29**|**Divide and Conquer the EmpiRE: A Community-Maintainable Knowledge Graph of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2306.16791](http://arxiv.org/abs/2306.16791)|**[link](https://github.com/okarras/empire-analysis)**|
 |**2023-06-28**|**Relevant Entity Selection: Knowledge Graph Bootstrapping via Zero-Shot Analogical Pruning**|Lucas Jarnac et.al.|[2306.16296](http://arxiv.org/abs/2306.16296)|null|
-|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|null|
+|**2023-06-28**|**Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation**|Chen Tang et.al.|[2306.16195](http://arxiv.org/abs/2306.16195)|**[link](https://github.com/tangg555/sabart)**|
 |**2023-06-28**|**Knowledge-Enhanced Hierarchical Information Correlation Learning for Multi-Modal Rumor Detection**|Jiawei Liu et.al.|[2306.15946](http://arxiv.org/abs/2306.15946)|null|
 |**2023-06-26**|**TransERR: Translation-based Knowledge Graph Completion via Efficient Relation Rotation**|Jiang Li et.al.|[2306.14580](http://arxiv.org/abs/2306.14580)|**[link](https://github.com/dellixx/transerr)**|
 |**2023-06-26**|**Knowledge Graph-Augmented Korean Generative Commonsense Reasoning**|Dahyun Jung et.al.|[2306.14470](http://arxiv.org/abs/2306.14470)|null|
