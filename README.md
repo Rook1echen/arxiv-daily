@@ -1,4 +1,4 @@
-## Updated on 2023.07.06
+## Updated on 2023.07.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**TGRL: An Algorithm for Teacher Guided Reinforcement Learning**|Idan Shenfeld et.al.|[2307.03186](http://arxiv.org/abs/2307.03186)|null|
+|**2023-07-06**|**Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance**|Yuchen Fang et.al.|[2307.03119](http://arxiv.org/abs/2307.03119)|null|
+|**2023-07-06**|**Learning Constrained Corner Node Trajectories of a Tether Net System for Space Debris Capture**|Feng Liu et.al.|[2307.03061](http://arxiv.org/abs/2307.03061)|null|
+|**2023-07-06**|**Exploratory mean-variance portfolio selection with Choquet regularizers**|Junyi Guo et.al.|[2307.03026](http://arxiv.org/abs/2307.03026)|null|
+|**2023-07-06**|**Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance**|Hongzhan Yu et.al.|[2307.03015](http://arxiv.org/abs/2307.03015)|null|
+|**2023-07-06**|**ContainerGym: A Real-World Reinforcement Learning Benchmark for Resource Allocation**|Abhijeet Pendyala et.al.|[2307.02991](http://arxiv.org/abs/2307.02991)|**[link](https://github.com/pendu/containergym)**|
+|**2023-07-06**|**A Neuromorphic Architecture for Reinforcement Learning from Real-Valued Observations**|Sergio F. Chevtchenko et.al.|[2307.02947](http://arxiv.org/abs/2307.02947)|null|
+|**2023-07-06**|**Meta Federated Reinforcement Learning for Distributed Resource Allocation**|Zelin Ji et.al.|[2307.02900](http://arxiv.org/abs/2307.02900)|null|
+|**2023-07-06**|**Learning to Solve Tasks with Exploring Prior Behaviours**|Ruiqi Zhu et.al.|[2307.02889](http://arxiv.org/abs/2307.02889)|**[link](https://github.com/ricky-zhu/irdec)**|
+|**2023-07-06**|**Sample-Efficient Learning of POMDPs with Multiple Observations In Hindsight**|Jiacheng Guo et.al.|[2307.02884](http://arxiv.org/abs/2307.02884)|null|
 |**2023-07-05**|**LLQL: Logistic Likelihood Q-Learning for Reinforcement Learning**|Outongyi Lv et.al.|[2307.02345](http://arxiv.org/abs/2307.02345)|null|
 |**2023-07-05**|**First-Explore, then Exploit: Meta-Learning Intelligent Exploration**|Ben Norman et.al.|[2307.02276](http://arxiv.org/abs/2307.02276)|**[link](https://github.com/btnorman/First-Explore)**|
 |**2023-07-05**|**Multi-Agent Cooperation via Unsupervised Learning of Joint Intentions**|Shanqi Liu et.al.|[2307.02200](http://arxiv.org/abs/2307.02200)|null|
@@ -661,7 +671,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -682,12 +692,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796](http://arxiv.org/abs/2307.02796)|null|
+|**2023-07-06**|**Knowledge Graph Self-Supervised Rationalization for Recommendation**|Yuhao Yang et.al.|[2307.02759](http://arxiv.org/abs/2307.02759)|**[link](https://github.com/hkuds/kgrec)**|
 |**2023-07-05**|**Power-up! What Can Generative Models Do for Human Computation Workflows?**|Garrett Allen et.al.|[2307.02243](http://arxiv.org/abs/2307.02243)|null|
 |**2023-07-05**|**Combating Confirmation Bias: A Unified Pseudo-Labeling Framework for Entity Alignment**|Qijie Ding et.al.|[2307.02075](http://arxiv.org/abs/2307.02075)|null|
 |**2023-07-04**|**Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs**|Zijie Huang et.al.|[2307.01933](http://arxiv.org/abs/2307.01933)|null|
@@ -932,5 +944,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230707>back to top</a>)</p>
 
