@@ -28,6 +28,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**SAR: Generalization of Physiological Agility and Dexterity via Synergistic Action Representation**|Cameron Berg et.al.|[2307.03716](http://arxiv.org/abs/2307.03716)|null|
+|**2023-07-07**|**BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits**|Nicklas Werge et.al.|[2307.03587](http://arxiv.org/abs/2307.03587)|null|
+|**2023-07-07**|**Discovering Hierarchical Achievements in Reinforcement Learning via Contrastive Learning**|Seungyong Moon et.al.|[2307.03486](http://arxiv.org/abs/2307.03486)|null|
+|**2023-07-07**|**Anableps: Adapting Bitrate for Real-Time Communication Using VBR-encoded Video**|Zicheng Zhang et.al.|[2307.03436](http://arxiv.org/abs/2307.03436)|null|
+|**2023-07-07**|**Goal-Conditioned Predictive Coding as an Implicit Planner for Offline Reinforcement Learning**|Zilai Zeng et.al.|[2307.03406](http://arxiv.org/abs/2307.03406)|null|
+|**2023-07-07**|**Stability and Generalization of Stochastic Compositional Gradient Descent Algorithms**|Ming Yang et.al.|[2307.03357](http://arxiv.org/abs/2307.03357)|null|
 |**2023-07-06**|**TGRL: An Algorithm for Teacher Guided Reinforcement Learning**|Idan Shenfeld et.al.|[2307.03186](http://arxiv.org/abs/2307.03186)|null|
 |**2023-07-06**|**Learning Multi-Agent Intention-Aware Communication for Optimal Multi-Order Execution in Finance**|Yuchen Fang et.al.|[2307.03119](http://arxiv.org/abs/2307.03119)|null|
 |**2023-07-06**|**Learning Constrained Corner Node Trajectories of a Tether Net System for Space Debris Capture**|Feng Liu et.al.|[2307.03061](http://arxiv.org/abs/2307.03061)|null|
@@ -686,6 +692,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591](http://arxiv.org/abs/2307.03591)|null|
 |**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796](http://arxiv.org/abs/2307.02796)|null|
 |**2023-07-06**|**Knowledge Graph Self-Supervised Rationalization for Recommendation**|Yuhao Yang et.al.|[2307.02759](http://arxiv.org/abs/2307.02759)|**[link](https://github.com/hkuds/kgrec)**|
 |**2023-07-05**|**Power-up! What Can Generative Models Do for Human Computation Workflows?**|Garrett Allen et.al.|[2307.02243](http://arxiv.org/abs/2307.02243)|null|
