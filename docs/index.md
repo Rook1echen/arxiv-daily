@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.09
+## Updated on 2023.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -49,12 +49,12 @@ layout: default
 |**2023-07-04**|**Over-the-Counter Market Making via Reinforcement Learning**|Zhou Fang et.al.|[2307.01816](http://arxiv.org/abs/2307.01816)|null|
 |**2023-07-04**|**Market Making of Options via Reinforcement Learning**|Zhou Fang et.al.|[2307.01814](http://arxiv.org/abs/2307.01814)|null|
 |**2023-07-03**|**Theory of Mind as Intrinsic Motivation for Multi-Agent Reinforcement Learning**|Ini Oguntola et.al.|[2307.01158](http://arxiv.org/abs/2307.01158)|null|
-|**2023-07-03**|**Environmental effects on emergent strategy in micro-scale multi-agent reinforcement learning**|Samuel Tovey et.al.|[2307.00994](http://arxiv.org/abs/2307.00994)|null|
+|**2023-07-03**|**Environmental effects on emergent strategy in micro-scale multi-agent reinforcement learning**|Samuel Tovey et.al.|[2307.00994](http://arxiv.org/abs/2307.00994)|**[link](https://github.com/swarmrl/swarmrl)**|
 |**2023-07-03**|**MoVie: Visual Model-Based Policy Adaptation for View Generalization**|Sizhe Yang et.al.|[2307.00972](http://arxiv.org/abs/2307.00972)|null|
 |**2023-07-03**|**OpenClinicalAI: An Open and Dynamic Model for Alzheimer's Disease Diagnosis**|Yunyou Huang et.al.|[2307.00965](http://arxiv.org/abs/2307.00965)|null|
 |**2023-07-03**|**Achieving Stable Training of Reinforcement Learning Agents in Bimodal Environments through Batch Learning**|E. Hurwitz et.al.|[2307.00923](http://arxiv.org/abs/2307.00923)|null|
 |**2023-07-03**|**Enhancing the Robustness of QMIX against State-adversarial Attacks**|Weiran Guo et.al.|[2307.00907](http://arxiv.org/abs/2307.00907)|null|
-|**2023-07-03**|**Monte Carlo Policy Gradient Method for Binary Optimization**|Cheng Chen et.al.|[2307.00783](http://arxiv.org/abs/2307.00783)|null|
+|**2023-07-03**|**Monte Carlo Policy Gradient Method for Binary Optimization**|Cheng Chen et.al.|[2307.00783](http://arxiv.org/abs/2307.00783)|**[link](https://github.com/optsuite/mcpg)**|
 |**2023-07-03**|**GA-DRL: Graph Neural Network-Augmented Deep Reinforcement Learning for DAG Task Scheduling over Dynamic Vehicular Clouds**|Zhang Liu et.al.|[2307.00777](http://arxiv.org/abs/2307.00777)|null|
 |**2023-07-02**|**Neuro-Symbolic Sudoku Solver**|Ashutosh Hathidara et.al.|[2307.00653](http://arxiv.org/abs/2307.00653)|**[link](https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver)**|
 |**2023-07-02**|**LLM4CBI: Taming LLMs to Generate Effective Test Programs for Compiler Bug Isolation**|Haoxin Tu et.al.|[2307.00593](http://arxiv.org/abs/2307.00593)|**[link](https://github.com/haoxintu/LLM4CBI)**|
@@ -479,7 +479,7 @@ layout: default
 |**2023-04-27**|**Adversarial Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2304.14533](http://arxiv.org/abs/2304.14533)|null|
 |**2023-04-27**|**Exploring the flavor structure of quarks and leptons with reinforcement learning**|Satsuki Nishimura et.al.|[2304.14176](http://arxiv.org/abs/2304.14176)|null|
 |**2023-04-27**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning: A Dynamic Weight-based Approach**|Junlin Lu et.al.|[2304.14115](http://arxiv.org/abs/2304.14115)|null|
-|**2023-04-27**|**SocNavGym: A Reinforcement Learning Gym for Social Navigation**|Aditya Kapoor et.al.|[2304.14102](http://arxiv.org/abs/2304.14102)|null|
+|**2023-04-27**|**SocNavGym: A Reinforcement Learning Gym for Social Navigation**|Aditya Kapoor et.al.|[2304.14102](http://arxiv.org/abs/2304.14102)|**[link](https://github.com/gnns4hri/socnavgym)**|
 |**2023-04-27**|**Discovering Object-Centric Generalized Value Functions From Pixels**|Somjit Nath et.al.|[2304.13892](http://arxiv.org/abs/2304.13892)|**[link](https://github.com/somjit77/oc_gvfs)**|
 |**2023-04-26**|**Distance Weighted Supervised Learning for Offline Interaction Data**|Joey Hejna et.al.|[2304.13774](http://arxiv.org/abs/2304.13774)|null|
 |**2023-04-26**|**Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning**|Tuomas Haarnoja et.al.|[2304.13653](http://arxiv.org/abs/2304.13653)|null|
@@ -796,7 +796,7 @@ layout: default
 |**2023-05-22**|**Evaluating Prompt-based Question Answering for Object Prediction in the Open Research Knowledge Graph**|Jennifer D'Souza et.al.|[2305.12900](http://arxiv.org/abs/2305.12900)|**[link](https://github.com/as18cia/thesis_work)**|
 |**2023-05-22**|**GraphCare: Enhancing Healthcare Predictions with Open-World Personalized Knowledge Graphs**|Pengcheng Jiang et.al.|[2305.12788](http://arxiv.org/abs/2305.12788)|null|
 |**2023-05-22**|**Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning**|Chi Han et.al.|[2305.12738](http://arxiv.org/abs/2305.12738)|**[link](https://github.com/glaciohound/lerp)**|
-|**2023-05-21**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600](http://arxiv.org/abs/2305.12600)|null|
+|**2023-05-21**|**PRODIGY: Enabling In-context Learning Over Graphs**|Qian Huang et.al.|[2305.12600](http://arxiv.org/abs/2305.12600)|**[link](https://github.com/snap-stanford/prodigy)**|
 |**2023-05-21**|**Direct Fact Retrieval from Knowledge Graphs without Entity Linking**|Jinheon Baek et.al.|[2305.12416](http://arxiv.org/abs/2305.12416)|null|
 |**2023-05-20**|**Self-Distillation with Meta Learning for Knowledge Graph Completion**|Yunshui Li et.al.|[2305.12209](http://arxiv.org/abs/2305.12209)|**[link](https://github.com/pldlgb/MetaSD)**|
 |**2023-05-19**|**From Alignment to Entailment: A Unified Textual Entailment Framework for Entity Alignment**|Yu Zhao et.al.|[2305.11501](http://arxiv.org/abs/2305.11501)|**[link](https://github.com/oreozhao/tea)**|
@@ -805,14 +805,14 @@ layout: default
 |**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563](http://arxiv.org/abs/2305.10563)|null|
 |**2023-05-17**|**Iteratively Learning Representations for Unseen Entities with Inter-Rule Correlations**|Zihan Wang et.al.|[2305.10531](http://arxiv.org/abs/2305.10531)|null|
 |**2023-05-17**|**Analysing Biomedical Knowledge Graphs using Prime Adjacency Matrices**|Konstantinos Bougiatiotis et.al.|[2305.10467](http://arxiv.org/abs/2305.10467)|**[link](https://github.com/kbogas/pam_cbms)**|
-|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172](http://arxiv.org/abs/2305.10172)|null|
+|**2023-05-17**|**Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations**|Yang Deng et.al.|[2305.10172](http://arxiv.org/abs/2305.10172)|**[link](https://github.com/dengyang17/kemi)**|
 |**2023-05-17**|**River of No Return: Graph Percolation Embeddings for Efficient Knowledge Graph Reasoning**|Kai Wang et.al.|[2305.09974](http://arxiv.org/abs/2305.09974)|null|
 |**2023-05-17**|**Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs**|Jiao Chen et.al.|[2305.09858](http://arxiv.org/abs/2305.09858)|null|
 |**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729](http://arxiv.org/abs/2305.09729)|**[link](https://github.com/cynricfu/fedhgn)**|
 |**2023-05-16**|**Growing and Serving Large Open-domain Knowledge Graphs**|Ihab F. Ilyas et.al.|[2305.09464](http://arxiv.org/abs/2305.09464)|null|
 |**2023-05-16**|**Constructing and Interpreting Causal Knowledge Graphs from News**|Fiona Anting Tan et.al.|[2305.09359](http://arxiv.org/abs/2305.09359)|null|
 |**2023-05-15**|**Exploring In-Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text**|Hanieh Khorashadizadeh et.al.|[2305.08804](http://arxiv.org/abs/2305.08804)|null|
-|**2023-05-15**|**Schema-adaptable Knowledge Graph Construction**|Hongbin Ye et.al.|[2305.08703](http://arxiv.org/abs/2305.08703)|null|
+|**2023-05-15**|**Schema-adaptable Knowledge Graph Construction**|Hongbin Ye et.al.|[2305.08703](http://arxiv.org/abs/2305.08703)|**[link](https://github.com/zjunlp/adakgc)**|
 |**2023-05-15**|**Continual Multimodal Knowledge Graph Construction**|Xiang Chen et.al.|[2305.08698](http://arxiv.org/abs/2305.08698)|**[link](https://github.com/zjunlp/ContinueMKGC)**|
 |**2023-05-15**|**A Knowledge Graph Perspective on Supply Chain Resilience**|Yushan Liu et.al.|[2305.08506](http://arxiv.org/abs/2305.08506)|null|
 |**2023-05-15**|**Similarity-weighted Construction of Contextualized Commonsense Knowledge Graphs for Knowledge-intense Argumentation Tasks**|Moritz Plenz et.al.|[2305.08495](http://arxiv.org/abs/2305.08495)|**[link](https://github.com/heidelberg-nlp/cckg)**|
@@ -888,7 +888,7 @@ layout: default
 |**2023-04-18**|**Knowledge Graph Building Blocks: An easy-to-use Framework for developing FAIREr Knowledge Graphs**|Lars Vogt et.al.|[2304.09029](http://arxiv.org/abs/2304.09029)|null|
 |**2023-04-18**|**PaTeCon: A Pattern-Based Temporal Constraint Mining Method for Conflict Detection on Knowledge Graphs**|Jianhao Chen et.al.|[2304.09015](http://arxiv.org/abs/2304.09015)|**[link](https://github.com/jianhaochen-nju/patecon)**|
 |**2023-04-17**|**Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion**|Linhao Luo et.al.|[2304.08183](http://arxiv.org/abs/2304.08183)|**[link](https://github.com/rmanluo/np-fkgc)**|
-|**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|null|
+|**2023-04-16**|**Syntactic Complexity Identification, Measurement, and Reduction Through Controlled Syntactic Simplification**|Muhammad Salman et.al.|[2304.07774](http://arxiv.org/abs/2304.07774)|**[link](https://github.com/sallmanm/synsim)**|
 |**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
 |**2023-04-14**|**Covidia: COVID-19 Interdisciplinary Academic Knowledge Graph**|Cheng Deng et.al.|[2304.07242](http://arxiv.org/abs/2304.07242)|null|
 |**2023-04-14**|**SEA: A Scalable Entity Alignment System**|Junyang Wu et.al.|[2304.07065](http://arxiv.org/abs/2304.07065)|**[link](https://github.com/immortals88/demo-sea)**|
