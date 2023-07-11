@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -28,6 +28,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
+|**2023-07-10**|**BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**|Jiaming Ji et.al.|[2307.04657](http://arxiv.org/abs/2307.04657)|null|
+|**2023-07-10**|**Emergence of Cooperation in Two-agent Repeated Games with Reinforcement Learning**|Zhen-Wei Ding et.al.|[2307.04612](http://arxiv.org/abs/2307.04612)|null|
+|**2023-07-10**|**Learning Interpretable Heuristics for WalkSAT**|Yannet Interian et.al.|[2307.04608](http://arxiv.org/abs/2307.04608)|null|
+|**2023-07-10**|**Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation**|Chongming Gao et.al.|[2307.04571](http://arxiv.org/abs/2307.04571)|**[link](https://github.com/chongminggao/dorl-codes)**|
+|**2023-07-10**|**A Versatile Door Opening System with Mobile Manipulator through Adaptive Position-Force Control and Reinforcement Learning**|Gyuree Kang et.al.|[2307.04422](http://arxiv.org/abs/2307.04422)|null|
+|**2023-07-10**|**Counterfactual Explanation for Fairness in Recommendation**|Xiangmeng Wang et.al.|[2307.04386](http://arxiv.org/abs/2307.04386)|null|
+|**2023-07-10**|**Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey**|Pranav Singh Chib et.al.|[2307.04370](http://arxiv.org/abs/2307.04370)|**[link](https://github.com/pranav-chib/recent-advancements-in-end-to-end-autonomous-driving-using-deep-learning)**|
+|**2023-07-10**|**Policy Finetuning in Reinforcement Learning via Design of Experiments using Offline Data**|Ruiqi Zhang et.al.|[2307.04354](http://arxiv.org/abs/2307.04354)|null|
+|**2023-07-10**|**RLTF: Reinforcement Learning from Unit Test Feedback**|Jiate Liu et.al.|[2307.04349](http://arxiv.org/abs/2307.04349)|**[link](https://github.com/zyq-scut/rltf)**|
 |**2023-07-07**|**SAR: Generalization of Physiological Agility and Dexterity via Synergistic Action Representation**|Cameron Berg et.al.|[2307.03716](http://arxiv.org/abs/2307.03716)|null|
 |**2023-07-07**|**BOF-UCB: A Bayesian-Optimistic Frequentist Algorithm for Non-Stationary Contextual Bandits**|Nicklas Werge et.al.|[2307.03587](http://arxiv.org/abs/2307.03587)|null|
 |**2023-07-07**|**Discovering Hierarchical Achievements in Reinforcement Learning via Contrastive Learning**|Seungyong Moon et.al.|[2307.03486](http://arxiv.org/abs/2307.03486)|null|
@@ -692,6 +702,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514](http://arxiv.org/abs/2307.04514)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
+|**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461](http://arxiv.org/abs/2307.04461)|null|
+|**2023-07-09**|**DebateKG: Automatic Policy Debate Case Creation with Semantic Knowledge Graphs**|Allen Roush et.al.|[2307.04090](http://arxiv.org/abs/2307.04090)|**[link](https://github.com/hellisotherpeople/debatekg)**|
 |**2023-07-06**|**Structure Guided Multi-modal Pre-trained Transformer for Knowledge Graph Reasoning**|Ke Liang et.al.|[2307.03591](http://arxiv.org/abs/2307.03591)|null|
 |**2023-07-06**|**VerifAI: Verified Generative AI**|Nan Tang et.al.|[2307.02796](http://arxiv.org/abs/2307.02796)|null|
 |**2023-07-06**|**Knowledge Graph Self-Supervised Rationalization for Recommendation**|Yuhao Yang et.al.|[2307.02759](http://arxiv.org/abs/2307.02759)|**[link](https://github.com/hkuds/kgrec)**|
