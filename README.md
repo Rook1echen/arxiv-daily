@@ -1,4 +1,4 @@
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Channel Selection for Wi-Fi 7 Multi-Link Operation via Optimistic-Weighted VDN and Parallel Transfer Reinforcement Learning**|Pedro Enrique Iturria-Rivera et.al.|[2307.05419](http://arxiv.org/abs/2307.05419)|null|
+|**2023-07-11**|**Boosting Feedback Efficiency of Interactive Reinforcement Learning by Adaptive Learning from Scores**|Shukai Liu et.al.|[2307.05405](http://arxiv.org/abs/2307.05405)|**[link](https://github.com/sskkai/interactive-scoring-irl)**|
+|**2023-07-11**|**A Survey From Distributed Machine Learning to Distributed Deep Learning**|Mohammad Dehghani et.al.|[2307.05232](http://arxiv.org/abs/2307.05232)|null|
+|**2023-07-11**|**Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning**|Guy Azran et.al.|[2307.05209](http://arxiv.org/abs/2307.05209)|null|
+|**2023-07-11**|**Control as Probabilistic Inference as an Emergent Communication Mechanism in Multi-Agent Reinforcement Learning**|Tomoaki Nakamura et.al.|[2307.05004](http://arxiv.org/abs/2307.05004)|null|
+|**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
+|**2023-07-11**|**Secrets of RLHF in Large Language Models Part I: PPO**|Rui Zheng et.al.|[2307.04964](http://arxiv.org/abs/2307.04964)|**[link](https://github.com/openlmlab/moss-rlhf)**|
+|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|null|
+|**2023-07-11**|**Reinforcement Learning with Non-Cumulative Objective**|Wei Cui et.al.|[2307.04957](http://arxiv.org/abs/2307.04957)|null|
+|**2023-07-10**|**Probabilistic Counterexample Guidance for Safer Reinforcement Learning**|Xiaotong Ji et.al.|[2307.04927](http://arxiv.org/abs/2307.04927)|null|
 |**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
 |**2023-07-10**|**BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset**|Jiaming Ji et.al.|[2307.04657](http://arxiv.org/abs/2307.04657)|null|
 |**2023-07-10**|**Emergence of Cooperation in Two-agent Repeated Games with Reinforcement Learning**|Zhen-Wei Ding et.al.|[2307.04612](http://arxiv.org/abs/2307.04612)|null|
@@ -687,7 +697,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -708,12 +718,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
+|**2023-07-08**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772](http://arxiv.org/abs/2307.04772)|null|
 |**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514](http://arxiv.org/abs/2307.04514)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
 |**2023-07-10**|**Multi-modal Graph Learning over UMLS Knowledge Graphs**|Manuel Burger et.al.|[2307.04461](http://arxiv.org/abs/2307.04461)|null|
 |**2023-07-09**|**DebateKG: Automatic Policy Debate Case Creation with Semantic Knowledge Graphs**|Allen Roush et.al.|[2307.04090](http://arxiv.org/abs/2307.04090)|**[link](https://github.com/hellisotherpeople/debatekg)**|
@@ -964,5 +976,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
 
