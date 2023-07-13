@@ -1,4 +1,4 @@
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,12 +30,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-12**|**Budgeting Counterfactual for Offline RL**|Yao Liu et.al.|[2307.06328](http://arxiv.org/abs/2307.06328)|null|
+|**2023-07-12**|**DSSE: a drone swarm search environment**|Manuel Castanares et.al.|[2307.06240](http://arxiv.org/abs/2307.06240)|null|
+|**2023-07-12**|**Learning Decentralized Partially Observable Mean Field Control for Artificial Collective Behavior**|Kai Cui et.al.|[2307.06175](http://arxiv.org/abs/2307.06175)|null|
+|**2023-07-12**|**Maneuver Decision-Making Through Automatic Curriculum Reinforcement Learning Without Handcrafted Reward functions**|Zhang Hong-Peng et.al.|[2307.06152](http://arxiv.org/abs/2307.06152)|null|
+|**2023-07-12**|**Learning Hierarchical Interactive Multi-Object Search for Mobile Manipulation**|Fabian Schmalstieg et.al.|[2307.06125](http://arxiv.org/abs/2307.06125)|null|
+|**2023-07-12**|**Transformers in Reinforcement Learning: A Survey**|Pranav Agarwal et.al.|[2307.05979](http://arxiv.org/abs/2307.05979)|null|
+|**2023-07-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishna et.al.|[2307.05915](http://arxiv.org/abs/2307.05915)|null|
+|**2023-07-12**|**PID-Inspired Inductive Biases for Deep Reinforcement Learning in Partially Observable Control Tasks**|Ian Char et.al.|[2307.05891](http://arxiv.org/abs/2307.05891)|**[link](https://github.com/ianchar/gpide)**|
+|**2023-07-12**|**FAIRO: Fairness-aware Adaptation in Sequential-Decision Making for Human-in-the-Loop Systems**|Tianyu Zhao et.al.|[2307.05857](http://arxiv.org/abs/2307.05857)|null|
+|**2023-07-12**|**Hybrid discrete-continuous compilation of trapped-ion quantum circuits with deep reinforcement learning**|Francesco Preti et.al.|[2307.05744](http://arxiv.org/abs/2307.05744)|null|
 |**2023-07-11**|**Channel Selection for Wi-Fi 7 Multi-Link Operation via Optimistic-Weighted VDN and Parallel Transfer Reinforcement Learning**|Pedro Enrique Iturria-Rivera et.al.|[2307.05419](http://arxiv.org/abs/2307.05419)|null|
 |**2023-07-11**|**Boosting Feedback Efficiency of Interactive Reinforcement Learning by Adaptive Learning from Scores**|Shukai Liu et.al.|[2307.05405](http://arxiv.org/abs/2307.05405)|**[link](https://github.com/sskkai/interactive-scoring-irl)**|
 |**2023-07-11**|**A Survey From Distributed Machine Learning to Distributed Deep Learning**|Mohammad Dehghani et.al.|[2307.05232](http://arxiv.org/abs/2307.05232)|null|
@@ -697,7 +707,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -718,12 +728,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
+|**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
+|**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727](http://arxiv.org/abs/2307.05727)|null|
+|**2023-07-11**|**Separate-and-Aggregate: A Transformer-based Patch Refinement Model for Knowledge Graph Completion**|Chen Chen et.al.|[2307.05627](http://arxiv.org/abs/2307.05627)|null|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
 |**2023-07-08**|**Digital Twins for Patient Care via Knowledge Graphs and Closed-Form Continuous-Time Liquid Neural Networks**|Logan Nye et.al.|[2307.04772](http://arxiv.org/abs/2307.04772)|null|
 |**2023-07-10**|**Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold**|Tuc Nguyen-Van et.al.|[2307.04514](http://arxiv.org/abs/2307.04514)|**[link](https://github.com/sharecodesubmission/weighted_product_manifold)**|
@@ -976,5 +990,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
