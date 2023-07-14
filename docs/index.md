@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.07.13
+## Updated on 2023.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Maximizing Penetration Testing Success with Effective Reconnaissance Techniques using ChatGPT**|Sheetal Temara et.al.|[2307.06391](http://arxiv.org/abs/2307.06391)|null|
 |**2023-06-07**|**Development of a System Vulnerability Analysis Tool for Assessment of Complex Mission Critical Systems**|Matthew Tassava et.al.|[2306.04280](http://arxiv.org/abs/2306.04280)|null|
 |**2023-06-07**|**Development and Analysis of P2SCP: A Paradigm for Penetration Testing of Systems that Cannot be Subjected to the Risk of Penetration Testing**|Jeremy Straub et.al.|[2306.04279](http://arxiv.org/abs/2306.04279)|null|
 |**2023-05-26**|**NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios**|Jaromír Janisch et.al.|[2305.17246](http://arxiv.org/abs/2305.17246)|**[link](https://github.com/jaromiru/nasimemu)**|
@@ -28,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**Min-Max Optimization under Delays**|Arman Adibi et.al.|[2307.06886](http://arxiv.org/abs/2307.06886)|null|
+|**2023-07-13**|**The complexity of non-stationary reinforcement learning**|Christos Papadimitriou et.al.|[2307.06877](http://arxiv.org/abs/2307.06877)|null|
+|**2023-07-13**|**Defeating Proactive Jammers Using Deep Reinforcement Learning for Resource-Constrained IoT Networks**|Abubakar Sani Ali et.al.|[2307.06796](http://arxiv.org/abs/2307.06796)|null|
+|**2023-07-13**|**Layered controller synthesis for dynamic multi-agent systems**|Emily Clement et.al.|[2307.06758](http://arxiv.org/abs/2307.06758)|null|
+|**2023-07-13**|**Cramer Type Distances for Learning Gaussian Mixture Models by Gradient Descent**|Ruichong Zhang et.al.|[2307.06753](http://arxiv.org/abs/2307.06753)|null|
+|**2023-07-13**|**Vehicle Dispatching and Routing of On-Demand Intercity Ride-Pooling Services: A Multi-Agent Hierarchical Reinforcement Learning Approach**|Jinhua Si et.al.|[2307.06742](http://arxiv.org/abs/2307.06742)|null|
+|**2023-07-13**|**Why Guided Dialog Policy Learning performs well? Understanding the role of adversarial learning and its alternative**|Sho Shimoyama et.al.|[2307.06721](http://arxiv.org/abs/2307.06721)|null|
+|**2023-07-13**|**Aeolus Ocean -- A simulation environment for the autonomous COLREG-compliant navigation of Unmanned Surface Vehicles using Deep Reinforcement Learning and Maritime Object Detection**|Andrew Alexander Vekinis et.al.|[2307.06688](http://arxiv.org/abs/2307.06688)|null|
+|**2023-07-13**|**Image Transformation Sequence Retrieval with General Reinforcement Learning**|Enrique Mas-Candela et.al.|[2307.06630](http://arxiv.org/abs/2307.06630)|null|
+|**2023-07-13**|**Prescriptive Process Monitoring Under Resource Constraints: A Reinforcement Learning Approach**|Mahmoud Shoush et.al.|[2307.06564](http://arxiv.org/abs/2307.06564)|null|
 |**2023-07-12**|**Budgeting Counterfactual for Offline RL**|Yao Liu et.al.|[2307.06328](http://arxiv.org/abs/2307.06328)|null|
 |**2023-07-12**|**DSSE: a drone swarm search environment**|Manuel Castanares et.al.|[2307.06240](http://arxiv.org/abs/2307.06240)|null|
 |**2023-07-12**|**Learning Decentralized Partially Observable Mean Field Control for Artificial Collective Behavior**|Kai Cui et.al.|[2307.06175](http://arxiv.org/abs/2307.06175)|null|
@@ -722,6 +733,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917](http://arxiv.org/abs/2307.06917)|null|
+|**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698](http://arxiv.org/abs/2307.06698)|null|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
 |**2023-07-12**|**An Effective and Efficient Time-aware Entity Alignment Framework via Two-aspect Three-view Label Propagation**|Li Cai et.al.|[2307.06013](http://arxiv.org/abs/2307.06013)|null|
 |**2023-07-11**|**An Open-Source Knowledge Graph Ecosystem for the Life Sciences**|Tiffany J. Callahan et.al.|[2307.05727](http://arxiv.org/abs/2307.05727)|null|
