@@ -37,6 +37,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Deep reinforcement learning for the dynamic vehicle dispatching problem: An event-based approach**|Edyvalberty Alenquer Cordeiro et.al.|[2307.07508](http://arxiv.org/abs/2307.07508)|null|
+|**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296](http://arxiv.org/abs/2307.07296)|null|
+|**2023-07-14**|**Safe DreamerV3: Safe Reinforcement Learning with World Models**|Weidong Huang et.al.|[2307.07176](http://arxiv.org/abs/2307.07176)|null|
+|**2023-07-13**|**Robotic Manipulation Datasets for Offline Compositional Reinforcement Learning**|Marcel Hussing et.al.|[2307.07091](http://arxiv.org/abs/2307.07091)|**[link](https://github.com/lifelong-ml/offline-compositional-rl-datasets)**|
+|**2023-07-13**|**Safe Reinforcement Learning as Wasserstein Variational Inference: Formal Methods for Interpretability**|Yanran Wang et.al.|[2307.07084](http://arxiv.org/abs/2307.07084)|null|
+|**2023-07-13**|**Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement**|Hui Yuan et.al.|[2307.07055](http://arxiv.org/abs/2307.07055)|null|
 |**2023-07-13**|**Min-Max Optimization under Delays**|Arman Adibi et.al.|[2307.06886](http://arxiv.org/abs/2307.06886)|null|
 |**2023-07-13**|**The complexity of non-stationary reinforcement learning**|Christos Papadimitriou et.al.|[2307.06877](http://arxiv.org/abs/2307.06877)|null|
 |**2023-07-13**|**Defeating Proactive Jammers Using Deep Reinforcement Learning for Resource-Constrained IoT Networks**|Abubakar Sani Ali et.al.|[2307.06796](http://arxiv.org/abs/2307.06796)|null|
@@ -745,6 +751,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
+|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
+|**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|null|
 |**2023-07-13**|**LLM-assisted Knowledge Graph Engineering: Experiments with ChatGPT**|Lars-Peter Meyer et.al.|[2307.06917](http://arxiv.org/abs/2307.06917)|null|
 |**2023-07-13**|**IntelliGraphs: Datasets for Benchmarking Knowledge Graph Generation**|Thiviyan Thanapalasingam et.al.|[2307.06698](http://arxiv.org/abs/2307.06698)|**[link](https://github.com/thiviyant/intelligraphs)**|
 |**2023-07-11**|**SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]**|Renzo Angles et.al.|[2307.06119](http://arxiv.org/abs/2307.06119)|null|
