@@ -1,4 +1,4 @@
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,12 +31,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**A Multiobjective Reinforcement Learning Framework for Microgrid Energy Management**|M. Vivienne Liu et.al.|[2307.08692](http://arxiv.org/abs/2307.08692)|null|
+|**2023-07-17**|**Lightweight ML-based Runtime Prefetcher Selection on Many-core Platforms**|Erika S. Alcorta et.al.|[2307.08635](http://arxiv.org/abs/2307.08635)|null|
+|**2023-07-17**|**LuckyMera: a Modular AI Framework for Building Hybrid NetHack Agents**|Luigi Quarantiello et.al.|[2307.08532](http://arxiv.org/abs/2307.08532)|**[link](https://github.com/pervasive-ai-lab/luckymera)**|
+|**2023-07-17**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
+|**2023-07-17**|**A Novel Multiagent Flexibility Aggregation Framework**|Stavros Orfanoudakis et.al.|[2307.08401](http://arxiv.org/abs/2307.08401)|null|
+|**2023-07-17**|**Image-based Regularization for Action Smoothness in Autonomous Miniature Racing Car with Deep Reinforcement Learning**|Hoang-Giang Cao et.al.|[2307.08230](http://arxiv.org/abs/2307.08230)|null|
+|**2023-07-17**|**Can Euclidean Symmetry be Leveraged in Reinforcement Learning and Planning?**|Linfeng Zhao et.al.|[2307.08226](http://arxiv.org/abs/2307.08226)|null|
+|**2023-07-17**|**Robot motor learning shows emergence of frequency-modulated, robust swimming with an invariant Strouhal-number**|Hankun Deng et.al.|[2307.08178](http://arxiv.org/abs/2307.08178)|null|
+|**2023-07-16**|**Credit Assignment: Challenges and Opportunities in Developing Human-like AI Agents**|Thuy Ngoc Nguyen et.al.|[2307.08171](http://arxiv.org/abs/2307.08171)|null|
+|**2023-07-16**|**Discovering User Types: Mapping User Traits by Task-Specific Behaviors in Reinforcement Learning**|L. L. Ankile et.al.|[2307.08169](http://arxiv.org/abs/2307.08169)|null|
 |**2023-07-13**|**Deep reinforcement learning for the dynamic vehicle dispatching problem: An event-based approach**|Edyvalberty Alenquer Cordeiro et.al.|[2307.07508](http://arxiv.org/abs/2307.07508)|null|
 |**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296](http://arxiv.org/abs/2307.07296)|null|
 |**2023-07-14**|**Safe DreamerV3: Safe Reinforcement Learning with World Models**|Weidong Huang et.al.|[2307.07176](http://arxiv.org/abs/2307.07176)|null|
@@ -724,7 +734,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -745,12 +755,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
+|**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024](http://arxiv.org/abs/2307.08024)|null|
+|**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851](http://arxiv.org/abs/2307.07851)|null|
+|**2023-07-15**|**Explainable AI with counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764](http://arxiv.org/abs/2307.07764)|null|
+|**2023-07-15**|**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph**|Jiashuo Sun et.al.|[2307.07697](http://arxiv.org/abs/2307.07697)|null|
 |**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
 |**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
 |**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|null|
@@ -1012,5 +1027,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
 

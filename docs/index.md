@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.17
+## Updated on 2023.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -29,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**A Multiobjective Reinforcement Learning Framework for Microgrid Energy Management**|M. Vivienne Liu et.al.|[2307.08692](http://arxiv.org/abs/2307.08692)|null|
+|**2023-07-17**|**Lightweight ML-based Runtime Prefetcher Selection on Many-core Platforms**|Erika S. Alcorta et.al.|[2307.08635](http://arxiv.org/abs/2307.08635)|null|
+|**2023-07-17**|**LuckyMera: a Modular AI Framework for Building Hybrid NetHack Agents**|Luigi Quarantiello et.al.|[2307.08532](http://arxiv.org/abs/2307.08532)|**[link](https://github.com/pervasive-ai-lab/luckymera)**|
+|**2023-07-17**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
+|**2023-07-17**|**A Novel Multiagent Flexibility Aggregation Framework**|Stavros Orfanoudakis et.al.|[2307.08401](http://arxiv.org/abs/2307.08401)|null|
+|**2023-07-17**|**Image-based Regularization for Action Smoothness in Autonomous Miniature Racing Car with Deep Reinforcement Learning**|Hoang-Giang Cao et.al.|[2307.08230](http://arxiv.org/abs/2307.08230)|null|
+|**2023-07-17**|**Can Euclidean Symmetry be Leveraged in Reinforcement Learning and Planning?**|Linfeng Zhao et.al.|[2307.08226](http://arxiv.org/abs/2307.08226)|null|
+|**2023-07-17**|**Robot motor learning shows emergence of frequency-modulated, robust swimming with an invariant Strouhal-number**|Hankun Deng et.al.|[2307.08178](http://arxiv.org/abs/2307.08178)|null|
+|**2023-07-16**|**Credit Assignment: Challenges and Opportunities in Developing Human-like AI Agents**|Thuy Ngoc Nguyen et.al.|[2307.08171](http://arxiv.org/abs/2307.08171)|null|
+|**2023-07-16**|**Discovering User Types: Mapping User Traits by Task-Specific Behaviors in Reinforcement Learning**|L. L. Ankile et.al.|[2307.08169](http://arxiv.org/abs/2307.08169)|null|
 |**2023-07-13**|**Deep reinforcement learning for the dynamic vehicle dispatching problem: An event-based approach**|Edyvalberty Alenquer Cordeiro et.al.|[2307.07508](http://arxiv.org/abs/2307.07508)|null|
 |**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296](http://arxiv.org/abs/2307.07296)|null|
 |**2023-07-14**|**Safe DreamerV3: Safe Reinforcement Learning with World Models**|Weidong Huang et.al.|[2307.07176](http://arxiv.org/abs/2307.07176)|null|
@@ -739,6 +749,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
+|**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024](http://arxiv.org/abs/2307.08024)|null|
+|**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851](http://arxiv.org/abs/2307.07851)|null|
+|**2023-07-15**|**Explainable AI with counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764](http://arxiv.org/abs/2307.07764)|null|
+|**2023-07-15**|**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph**|Jiashuo Sun et.al.|[2307.07697](http://arxiv.org/abs/2307.07697)|null|
 |**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
 |**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
 |**2023-07-13**|**Towards Populating Generalizable Engineering Design Knowledge**|L Siddharth et.al.|[2307.06985](http://arxiv.org/abs/2307.06985)|null|
