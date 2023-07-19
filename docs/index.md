@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -29,6 +29,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Control of Small Spacecraft by Optimal Output Regulation: A Reinforcement Learning Approach**|Joao Leonardo Silva Cotta et.al.|[2307.09428](http://arxiv.org/abs/2307.09428)|null|
+|**2023-07-18**|**Data Cross-Segmentation for Improved Generalization in Reinforcement Learning Based Algorithmic Trading**|Vikram Duvvur et.al.|[2307.09377](http://arxiv.org/abs/2307.09377)|null|
+|**2023-07-18**|**Distributed 3D-Beam Reforming for Hovering-Tolerant UAVs Communication over Coexistence: A Deep-Q Learning for Intelligent Space-Air-Ground Integrated Networks**|Sudhanshu Arya et.al.|[2307.09325](http://arxiv.org/abs/2307.09325)|null|
+|**2023-07-18**|**Task Space Control of Hydraulic Construction Machines using Reinforcement Learning**|Hyung Joo Lee et.al.|[2307.09246](http://arxiv.org/abs/2307.09246)|null|
+|**2023-07-18**|**Machine-directed gravitational-wave counterpart discovery**|Niharika Sravan et.al.|[2307.09213](http://arxiv.org/abs/2307.09213)|null|
+|**2023-07-18**|**Learning Dynamic Attribute-factored World Models for Efficient Multi-object Reinforcement Learning**|Fan Feng et.al.|[2307.09205](http://arxiv.org/abs/2307.09205)|null|
+|**2023-07-18**|**Detection of entangled states supported by reinforcement learning**|Jia-Hao Cao et.al.|[2307.09176](http://arxiv.org/abs/2307.09176)|null|
+|**2023-07-18**|**Mining of Single-Class by Active Learning for Semantic Segmentation**|Hugues Lambert et.al.|[2307.09109](http://arxiv.org/abs/2307.09109)|null|
+|**2023-07-18**|**A Hybrid Optimization and Deep RL Approach for Resource Allocation in Semi-GF NOMA Networks**|Duc-Dung Tran et.al.|[2307.09061](http://arxiv.org/abs/2307.09061)|null|
+|**2023-07-18**|**QMNet: Importance-Aware Message Exchange for Decentralized Multi-Agent Reinforcement Learning**|Xiufeng Huang et.al.|[2307.09051](http://arxiv.org/abs/2307.09051)|null|
 |**2023-07-17**|**A Multiobjective Reinforcement Learning Framework for Microgrid Energy Management**|M. Vivienne Liu et.al.|[2307.08692](http://arxiv.org/abs/2307.08692)|null|
 |**2023-07-17**|**Lightweight ML-based Runtime Prefetcher Selection on Many-core Platforms**|Erika S. Alcorta et.al.|[2307.08635](http://arxiv.org/abs/2307.08635)|null|
 |**2023-07-17**|**LuckyMera: a Modular AI Framework for Building Hybrid NetHack Agents**|Luigi Quarantiello et.al.|[2307.08532](http://arxiv.org/abs/2307.08532)|**[link](https://github.com/pervasive-ai-lab/luckymera)**|

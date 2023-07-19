@@ -1,4 +1,4 @@
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,12 +31,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Control of Small Spacecraft by Optimal Output Regulation: A Reinforcement Learning Approach**|Joao Leonardo Silva Cotta et.al.|[2307.09428](http://arxiv.org/abs/2307.09428)|null|
+|**2023-07-18**|**Data Cross-Segmentation for Improved Generalization in Reinforcement Learning Based Algorithmic Trading**|Vikram Duvvur et.al.|[2307.09377](http://arxiv.org/abs/2307.09377)|null|
+|**2023-07-18**|**Distributed 3D-Beam Reforming for Hovering-Tolerant UAVs Communication over Coexistence: A Deep-Q Learning for Intelligent Space-Air-Ground Integrated Networks**|Sudhanshu Arya et.al.|[2307.09325](http://arxiv.org/abs/2307.09325)|null|
+|**2023-07-18**|**Task Space Control of Hydraulic Construction Machines using Reinforcement Learning**|Hyung Joo Lee et.al.|[2307.09246](http://arxiv.org/abs/2307.09246)|null|
+|**2023-07-18**|**Machine-directed gravitational-wave counterpart discovery**|Niharika Sravan et.al.|[2307.09213](http://arxiv.org/abs/2307.09213)|null|
+|**2023-07-18**|**Learning Dynamic Attribute-factored World Models for Efficient Multi-object Reinforcement Learning**|Fan Feng et.al.|[2307.09205](http://arxiv.org/abs/2307.09205)|null|
+|**2023-07-18**|**Detection of entangled states supported by reinforcement learning**|Jia-Hao Cao et.al.|[2307.09176](http://arxiv.org/abs/2307.09176)|null|
+|**2023-07-18**|**Mining of Single-Class by Active Learning for Semantic Segmentation**|Hugues Lambert et.al.|[2307.09109](http://arxiv.org/abs/2307.09109)|null|
+|**2023-07-18**|**A Hybrid Optimization and Deep RL Approach for Resource Allocation in Semi-GF NOMA Networks**|Duc-Dung Tran et.al.|[2307.09061](http://arxiv.org/abs/2307.09061)|null|
+|**2023-07-18**|**QMNet: Importance-Aware Message Exchange for Decentralized Multi-Agent Reinforcement Learning**|Xiufeng Huang et.al.|[2307.09051](http://arxiv.org/abs/2307.09051)|null|
 |**2023-07-17**|**A Multiobjective Reinforcement Learning Framework for Microgrid Energy Management**|M. Vivienne Liu et.al.|[2307.08692](http://arxiv.org/abs/2307.08692)|null|
 |**2023-07-17**|**Lightweight ML-based Runtime Prefetcher Selection on Many-core Platforms**|Erika S. Alcorta et.al.|[2307.08635](http://arxiv.org/abs/2307.08635)|null|
 |**2023-07-17**|**LuckyMera: a Modular AI Framework for Building Hybrid NetHack Agents**|Luigi Quarantiello et.al.|[2307.08532](http://arxiv.org/abs/2307.08532)|**[link](https://github.com/pervasive-ai-lab/luckymera)**|
@@ -734,7 +744,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -755,7 +765,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -1027,5 +1037,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
