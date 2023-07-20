@@ -1,4 +1,4 @@
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,12 +31,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160](http://arxiv.org/abs/2307.10160)|null|
+|**2023-07-19**|**Benchmarking Potential Based Rewards for Learning Humanoid Locomotion**|Se Hwan Jeon et.al.|[2307.10142](http://arxiv.org/abs/2307.10142)|**[link](https://github.com/se-hwan/pbrs-humanoid)**|
+|**2023-07-19**|**BERRY: Bit Error Robustness for Energy-Efficient Reinforcement Learning-Based Autonomous Systems**|Zishen Wan et.al.|[2307.10041](http://arxiv.org/abs/2307.10041)|null|
+|**2023-07-19**|**Adjoint-based machine learning for active flow control**|Xuemin Liu et.al.|[2307.09980](http://arxiv.org/abs/2307.09980)|null|
+|**2023-07-19**|**PyTAG: Challenges and Opportunities for Reinforcement Learning in Tabletop Games**|Martin Balla et.al.|[2307.09905](http://arxiv.org/abs/2307.09905)|**[link](https://github.com/martinballa/pytag)**|
+|**2023-07-19**|**Amortised Design Optimization for Item Response Theory**|Antti Keurulainen et.al.|[2307.09891](http://arxiv.org/abs/2307.09891)|null|
+|**2023-07-19**|**A reinforcement learning approach for VQA validation: an application to diabetic macular edema grading**|Tatiana Fountoukidou et.al.|[2307.09886](http://arxiv.org/abs/2307.09886)|null|
+|**2023-07-19**|**A3D: Adaptive, Accurate, and Autonomous Navigation for Edge-Assisted Drones**|Liekang Zeng et.al.|[2307.09880](http://arxiv.org/abs/2307.09880)|null|
+|**2023-07-19**|**Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network**|Jinzhu Mao et.al.|[2307.09866](http://arxiv.org/abs/2307.09866)|**[link](https://github.com/tsinghua-fib-lab/kdd2023-id546-urbaninfra)**|
+|**2023-07-19**|**Reinforcement Learning for Credit Index Option Hedging**|Francesco Mandelli et.al.|[2307.09844](http://arxiv.org/abs/2307.09844)|null|
 |**2023-07-18**|**Control of Small Spacecraft by Optimal Output Regulation: A Reinforcement Learning Approach**|Joao Leonardo Silva Cotta et.al.|[2307.09428](http://arxiv.org/abs/2307.09428)|null|
 |**2023-07-18**|**Data Cross-Segmentation for Improved Generalization in Reinforcement Learning Based Algorithmic Trading**|Vikram Duvvur et.al.|[2307.09377](http://arxiv.org/abs/2307.09377)|null|
 |**2023-07-18**|**Distributed 3D-Beam Reforming for Hovering-Tolerant UAVs Communication over Coexistence: A Deep-Q Learning for Intelligent Space-Air-Ground Integrated Networks**|Sudhanshu Arya et.al.|[2307.09325](http://arxiv.org/abs/2307.09325)|null|
@@ -744,7 +754,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -765,16 +775,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|null|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Multi-Grained Multimodal Interaction Network for Entity Linking**|Pengfei Luo et.al.|[2307.09721](http://arxiv.org/abs/2307.09721)|**[link](https://github.com/pengfei-luo/mimic)**|
 |**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
 |**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024](http://arxiv.org/abs/2307.08024)|null|
 |**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851](http://arxiv.org/abs/2307.07851)|null|
-|**2023-07-15**|**Explainable AI with counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764](http://arxiv.org/abs/2307.07764)|null|
+|**2023-07-15**|**Explainable AI with counterfactual paths**|Bastian Pfeifer et.al.|[2307.07764](http://arxiv.org/abs/2307.07764)|**[link](https://github.com/pievos101/cpath)**|
 |**2023-07-15**|**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model with Knowledge Graph**|Jiashuo Sun et.al.|[2307.07697](http://arxiv.org/abs/2307.07697)|null|
 |**2023-07-14**|**PG-Triggers: Triggers for Property Graphs**|Alessia Gagliardi et.al.|[2307.07354](http://arxiv.org/abs/2307.07354)|null|
 |**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312](http://arxiv.org/abs/2307.07312)|null|
@@ -1037,5 +1048,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
 
