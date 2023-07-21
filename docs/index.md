@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**ESASCF: Expertise Extraction, Generalization and Reply Framework for an Optimized Automation of Network Security Compliance**|Mohamed C. Ghanem et.al.|[2307.10967](http://arxiv.org/abs/2307.10967)|null|
 |**2023-03-20**|**Maximizing Penetration Testing Success with Effective Reconnaissance Techniques using ChatGPT**|Sheetal Temara et.al.|[2307.06391](http://arxiv.org/abs/2307.06391)|null|
 |**2023-06-07**|**Development of a System Vulnerability Analysis Tool for Assessment of Complex Mission Critical Systems**|Matthew Tassava et.al.|[2306.04280](http://arxiv.org/abs/2306.04280)|null|
 |**2023-06-07**|**Development and Analysis of P2SCP: A Paradigm for Penetration Testing of Systems that Cannot be Subjected to the Risk of Penetration Testing**|Jeremy Straub et.al.|[2306.04279](http://arxiv.org/abs/2306.04279)|null|
@@ -29,6 +30,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback**|Marcel Torne et.al.|[2307.11049](http://arxiv.org/abs/2307.11049)|**[link](https://github.com/improbable-ai/human-guided-exploration)**|
+|**2023-07-20**|**A Definition of Continual Reinforcement Learning**|David Abel et.al.|[2307.11046](http://arxiv.org/abs/2307.11046)|null|
+|**2023-07-20**|**On the Convergence of Bounded Agents**|David Abel et.al.|[2307.11044](http://arxiv.org/abs/2307.11044)|null|
+|**2023-07-20**|**PASTA: Pretrained Action-State Transformer Agents**|Raphael Boige et.al.|[2307.10936](http://arxiv.org/abs/2307.10936)|null|
+|**2023-07-20**|**FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback**|Ashish Singh et.al.|[2307.10867](http://arxiv.org/abs/2307.10867)|**[link](https://github.com/figcapshf/figcapshf)**|
+|**2023-07-20**|**Goal-Conditioned Reinforcement Learning with Disentanglement-based Reachability Planning**|Zhifeng Qian et.al.|[2307.10846](http://arxiv.org/abs/2307.10846)|null|
+|**2023-07-20**|**Reparameterized Policy Learning for Multimodal Trajectory Optimization**|Zhiao Huang et.al.|[2307.10710](http://arxiv.org/abs/2307.10710)|null|
+|**2023-07-20**|**An Adaptive Dual-level Reinforcement Learning Approach for Optimal Trade Execution**|Soohan Kim et.al.|[2307.10649](http://arxiv.org/abs/2307.10649)|null|
+|**2023-07-20**|**Pluvio: Assembly Clone Search for Out-of-domain Architectures and Libraries through Transfer Learning and Conditional Variational Information Bottleneck**|Zhiwei Fu et.al.|[2307.10631](http://arxiv.org/abs/2307.10631)|null|
+|**2023-07-20**|**Adaptive Control of Resource Flow to Optimize Construction Work and Cash Flow via Online Deep Reinforcement Learning**|Can Jiang et.al.|[2307.10574](http://arxiv.org/abs/2307.10574)|null|
 |**2023-07-19**|**Robust Driving Policy Learning with Guided Meta Reinforcement Learning**|Kanghoon Lee et.al.|[2307.10160](http://arxiv.org/abs/2307.10160)|null|
 |**2023-07-19**|**Benchmarking Potential Based Rewards for Learning Humanoid Locomotion**|Se Hwan Jeon et.al.|[2307.10142](http://arxiv.org/abs/2307.10142)|**[link](https://github.com/se-hwan/pbrs-humanoid)**|
 |**2023-07-19**|**BERRY: Bit Error Robustness for Energy-Efficient Reinforcement Learning-Based Autonomous Systems**|Zishen Wan et.al.|[2307.10041](http://arxiv.org/abs/2307.10041)|null|
@@ -769,6 +780,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**A Constraint-based Recommender System via RDF Knowledge Graphs**|Ngoc Luyen Le et.al.|[2307.10702](http://arxiv.org/abs/2307.10702)|null|
+|**2023-07-20**|**A Personalized Recommender System Based-on Knowledge Graph Embeddings**|Ngoc Luyen Le et.al.|[2307.10680](http://arxiv.org/abs/2307.10680)|null|
+|**2023-07-20**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543](http://arxiv.org/abs/2307.10543)|**[link](https://github.com/windylee0822/trea)**|
+|**2023-07-14**|**Exploring Link Prediction over Hyper-Relational Temporal Knowledge Graphs Enhanced with Time-Invariant Relational Knowledge**|Zifeng Ding et.al.|[2307.10219](http://arxiv.org/abs/2307.10219)|null|
 |**2023-07-19**|**Multi-Grained Multimodal Interaction Network for Entity Linking**|Pengfei Luo et.al.|[2307.09721](http://arxiv.org/abs/2307.09721)|**[link](https://github.com/pengfei-luo/mimic)**|
 |**2023-07-17**|**Neurosymbolic AI for Reasoning on Biomedical Knowledge Graphs**|Lauren Nicole DeLong et.al.|[2307.08411](http://arxiv.org/abs/2307.08411)|null|
 |**2023-07-16**|**Bayesian inference for data-efficient, explainable, and safe robotic motion planning: A review**|Chengmin Zhou et.al.|[2307.08024](http://arxiv.org/abs/2307.08024)|null|
