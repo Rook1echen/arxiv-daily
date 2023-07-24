@@ -38,6 +38,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**The birth-death-suppression Markov process and wildfires**|George Hulsey et.al.|[2307.11726](http://arxiv.org/abs/2307.11726)|null|
+|**2023-07-21**|**A Reinforcement Learning Framework with Region-Awareness and Shared Path Experience for Efficient Routing in Networks-on-Chip**|Kamil Khan et.al.|[2307.11712](http://arxiv.org/abs/2307.11712)|null|
+|**2023-07-21**|**JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning**|Kaiwen Wang et.al.|[2307.11704](http://arxiv.org/abs/2307.11704)|null|
+|**2023-07-21**|**Deep Reinforcement Learning Based System for Intraoperative Hyperspectral Video Autofocusing**|Charlie Budd et.al.|[2307.11638](http://arxiv.org/abs/2307.11638)|null|
+|**2023-07-21**|**Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization**|Xiangsen Wang et.al.|[2307.11620](http://arxiv.org/abs/2307.11620)|null|
+|**2023-07-21**|**Towards practical reinforcement learning for tokamak magnetic control**|Brendan D. Tracey et.al.|[2307.11546](http://arxiv.org/abs/2307.11546)|null|
+|**2023-07-21**|**An Analysis of Multi-Agent Reinforcement Learning for Decentralized Inventory Control Systems**|Marwan Mousa et.al.|[2307.11432](http://arxiv.org/abs/2307.11432)|null|
+|**2023-07-21**|**Towards Better Fairness-Utility Trade-off: A Comprehensive Measurement-Based Reinforcement Learning Framework**|Simiao Zhang et.al.|[2307.11379](http://arxiv.org/abs/2307.11379)|null|
+|**2023-07-21**|**Diverse Offline Imitation via Fenchel Duality**|Marin Vlastelica et.al.|[2307.11373](http://arxiv.org/abs/2307.11373)|null|
+|**2023-07-21**|**Bridging the Reality Gap of Reinforcement Learning based Traffic Signal Control using Domain Randomization and Meta Learning**|Arthur Müller et.al.|[2307.11357](http://arxiv.org/abs/2307.11357)|null|
 |**2023-07-20**|**Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback**|Marcel Torne et.al.|[2307.11049](http://arxiv.org/abs/2307.11049)|**[link](https://github.com/improbable-ai/human-guided-exploration)**|
 |**2023-07-20**|**A Definition of Continual Reinforcement Learning**|David Abel et.al.|[2307.11046](http://arxiv.org/abs/2307.11046)|null|
 |**2023-07-20**|**On the Convergence of Bounded Agents**|David Abel et.al.|[2307.11044](http://arxiv.org/abs/2307.11044)|null|
@@ -792,6 +802,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719](http://arxiv.org/abs/2307.11719)|null|
+|**2023-07-21**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610](http://arxiv.org/abs/2307.11610)|null|
+|**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346](http://arxiv.org/abs/2307.11346)|null|
+|**2023-07-20**|**Towards Ontologically Grounded and Language-Agnostic Knowledge Graphs**|Walid S. Saba et.al.|[2307.11206](http://arxiv.org/abs/2307.11206)|null|
 |**2023-07-20**|**A Constraint-based Recommender System via RDF Knowledge Graphs**|Ngoc Luyen Le et.al.|[2307.10702](http://arxiv.org/abs/2307.10702)|null|
 |**2023-07-20**|**A Personalized Recommender System Based-on Knowledge Graph Embeddings**|Ngoc Luyen Le et.al.|[2307.10680](http://arxiv.org/abs/2307.10680)|null|
 |**2023-07-20**|**TREA: Tree-Structure Reasoning Schema for Conversational Recommendation**|Wendi Li et.al.|[2307.10543](http://arxiv.org/abs/2307.10543)|**[link](https://github.com/windylee0822/trea)**|
