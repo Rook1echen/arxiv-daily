@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -54,7 +54,7 @@ layout: default
 |**2023-07-18**|**Data Cross-Segmentation for Improved Generalization in Reinforcement Learning Based Algorithmic Trading**|Vikram Duvvur et.al.|[2307.09377](http://arxiv.org/abs/2307.09377)|null|
 |**2023-07-18**|**Distributed 3D-Beam Reforming for Hovering-Tolerant UAVs Communication over Coexistence: A Deep-Q Learning for Intelligent Space-Air-Ground Integrated Networks**|Sudhanshu Arya et.al.|[2307.09325](http://arxiv.org/abs/2307.09325)|null|
 |**2023-07-18**|**Task Space Control of Hydraulic Construction Machines using Reinforcement Learning**|Hyung Joo Lee et.al.|[2307.09246](http://arxiv.org/abs/2307.09246)|null|
-|**2023-07-18**|**Machine-directed gravitational-wave counterpart discovery**|Niharika Sravan et.al.|[2307.09213](http://arxiv.org/abs/2307.09213)|null|
+|**2023-07-18**|**Machine-directed gravitational-wave counterpart discovery**|Niharika Sravan et.al.|[2307.09213](http://arxiv.org/abs/2307.09213)|**[link](https://github.com/niharika-sravan/pythia)**|
 |**2023-07-18**|**Learning Dynamic Attribute-factored World Models for Efficient Multi-object Reinforcement Learning**|Fan Feng et.al.|[2307.09205](http://arxiv.org/abs/2307.09205)|null|
 |**2023-07-18**|**Detection of entangled states supported by reinforcement learning**|Jia-Hao Cao et.al.|[2307.09176](http://arxiv.org/abs/2307.09176)|null|
 |**2023-07-18**|**Mining of Single-Class by Active Learning for Semantic Segmentation**|Hugues Lambert et.al.|[2307.09109](http://arxiv.org/abs/2307.09109)|null|
@@ -95,7 +95,7 @@ layout: default
 |**2023-07-12**|**Prompt Generate Train (PGT): A framework for few-shot domain adaptation, alignment, and uncertainty calibration of a retriever augmented generation (RAG) model for domain specific open book question-answering**|C. S. Krishna et.al.|[2307.05915](http://arxiv.org/abs/2307.05915)|null|
 |**2023-07-12**|**PID-Inspired Inductive Biases for Deep Reinforcement Learning in Partially Observable Control Tasks**|Ian Char et.al.|[2307.05891](http://arxiv.org/abs/2307.05891)|**[link](https://github.com/ianchar/gpide)**|
 |**2023-07-12**|**FAIRO: Fairness-aware Adaptation in Sequential-Decision Making for Human-in-the-Loop Systems**|Tianyu Zhao et.al.|[2307.05857](http://arxiv.org/abs/2307.05857)|null|
-|**2023-07-12**|**Hybrid discrete-continuous compilation of trapped-ion quantum circuits with deep reinforcement learning**|Francesco Preti et.al.|[2307.05744](http://arxiv.org/abs/2307.05744)|null|
+|**2023-07-12**|**Hybrid discrete-continuous compilation of trapped-ion quantum circuits with deep reinforcement learning**|Francesco Preti et.al.|[2307.05744](http://arxiv.org/abs/2307.05744)|**[link](https://github.com/franz3105/rl_ion_gates)**|
 |**2023-07-11**|**Channel Selection for Wi-Fi 7 Multi-Link Operation via Optimistic-Weighted VDN and Parallel Transfer Reinforcement Learning**|Pedro Enrique Iturria-Rivera et.al.|[2307.05419](http://arxiv.org/abs/2307.05419)|null|
 |**2023-07-11**|**Boosting Feedback Efficiency of Interactive Reinforcement Learning by Adaptive Learning from Scores**|Shukai Liu et.al.|[2307.05405](http://arxiv.org/abs/2307.05405)|**[link](https://github.com/sskkai/interactive-scoring-irl)**|
 |**2023-07-11**|**A Survey From Distributed Machine Learning to Distributed Deep Learning**|Mohammad Dehghani et.al.|[2307.05232](http://arxiv.org/abs/2307.05232)|null|
@@ -564,7 +564,7 @@ layout: default
 |**2023-04-30**|**Model-free Motion Planning of Autonomous Agents for Complex Tasks in Partially Observable Environments**|Junchao Li et.al.|[2305.00561](http://arxiv.org/abs/2305.00561)|**[link](https://github.com/junchaoli001/model-free_drl_lstm_on_pomdp_with_ldgba)**|
 |**2023-04-30**|**SRL-Assisted AFM: Generating Planar Unstructured Quadrilateral Meshes with Supervised and Reinforcement Learning-Assisted Advancing Front Method**|Hua Tong et.al.|[2305.00540](http://arxiv.org/abs/2305.00540)|null|
 |**2023-04-30**|**Learning Achievement Structure for Structured Exploration in Domains with Sparse Reward**|Zihan Zhou et.al.|[2305.00508](http://arxiv.org/abs/2305.00508)|**[link](https://github.com/pairlab/iclr-23-sea)**|
-|**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867](http://arxiv.org/abs/2304.14867)|null|
+|**2023-04-28**|**Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models**|Yu-An Liu et.al.|[2304.14867](http://arxiv.org/abs/2304.14867)|**[link](https://github.com/ict-bigdatalab/tara)**|
 |**2023-04-28**|**A Federated Reinforcement Learning Framework for Link Activation in Multi-link Wi-Fi Networks**|Rashid Ali et.al.|[2304.14720](http://arxiv.org/abs/2304.14720)|null|
 |**2023-04-28**|**X-RLflow: Graph Reinforcement Learning for Neural Network Subgraphs Transformation**|Guoliang He et.al.|[2304.14698](http://arxiv.org/abs/2304.14698)|**[link](https://github.com/ucamrl/xrlflow)**|
 |**2023-04-28**|**ALL-E: Aesthetics-guided Low-light Image Enhancement**|Ling Li et.al.|[2304.14610](http://arxiv.org/abs/2304.14610)|null|
@@ -810,7 +810,7 @@ layout: default
 |**2023-07-05**|**Power-up! What Can Generative Models Do for Human Computation Workflows?**|Garrett Allen et.al.|[2307.02243](http://arxiv.org/abs/2307.02243)|null|
 |**2023-07-05**|**Combating Confirmation Bias: A Unified Pseudo-Labeling Framework for Entity Alignment**|Qijie Ding et.al.|[2307.02075](http://arxiv.org/abs/2307.02075)|null|
 |**2023-07-04**|**Concept2Box: Joint Geometric Embeddings for Learning Two-View Knowledge Graphs**|Zijie Huang et.al.|[2307.01933](http://arxiv.org/abs/2307.01933)|null|
-|**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709](http://arxiv.org/abs/2307.01709)|null|
+|**2023-07-04**|**Dipping PLMs Sauce: Bridging Structure and Text for Effective Knowledge Graph Completion via Conditional Soft Prompting**|Chen Chen et.al.|[2307.01709](http://arxiv.org/abs/2307.01709)|**[link](https://github.com/chenchens190009/csprom-kg)**|
 |**2023-07-04**|**Knowledge Graph for NLG in the context of conversational agents**|Hussam Ghanem et.al.|[2307.01548](http://arxiv.org/abs/2307.01548)|null|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128](http://arxiv.org/abs/2307.01128)|null|
 |**2023-07-03**|**CollabKG: A Learnable Human-Machine-Cooperative Information Extraction Toolkit for (Event) Knowledge Graph Construction**|Xiang Wei et.al.|[2307.00769](http://arxiv.org/abs/2307.00769)|null|
