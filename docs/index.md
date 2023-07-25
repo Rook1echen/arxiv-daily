@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -30,6 +30,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Parallel $Q$ -Learning: Scaling Off-policy Reinforcement Learning under Massively Parallel Simulation**|Zechu Li et.al.|[2307.12983](http://arxiv.org/abs/2307.12983)|null|
+|**2023-07-24**|**A Connection between One-Step Regularization and Critic Regularization in Reinforcement Learning**|Benjamin Eysenbach et.al.|[2307.12968](http://arxiv.org/abs/2307.12968)|**[link](https://github.com/ben-eysenbach/ac-connection)**|
+|**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950](http://arxiv.org/abs/2307.12950)|null|
+|**2023-07-24**|**Boosting Punctuation Restoration with Data Generation and Reinforcement Learning**|Viet Dac Lai et.al.|[2307.12949](http://arxiv.org/abs/2307.12949)|**[link](https://github.com/laiviet/pr-rl)**|
+|**2023-07-24**|**Theoretically Guaranteed Policy Improvement Distilled from Model-Based Planning**|Chuming Li et.al.|[2307.12933](http://arxiv.org/abs/2307.12933)|null|
+|**2023-07-24**|**Consensus-based Participatory Budgeting for Legitimacy: Decision Support via Multi-agent Reinforcement Learning**|Srijoni Majumdar et.al.|[2307.12915](http://arxiv.org/abs/2307.12915)|null|
+|**2023-07-24**|**QAmplifyNet: Pushing the Boundaries of Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum - Classical Neural Network**|Md Abrar Jahin et.al.|[2307.12906](http://arxiv.org/abs/2307.12906)|null|
+|**2023-07-24**|**RRAML: Reinforced Retrieval Augmented Machine Learning**|Andrea Bacciu et.al.|[2307.12798](http://arxiv.org/abs/2307.12798)|null|
+|**2023-07-24**|**Analyzing the Strategy of Propaganda using Inverse Reinforcement Learning: Evidence from the 2022 Russian Invasion of Ukraine**|Dominique Geissler et.al.|[2307.12788](http://arxiv.org/abs/2307.12788)|null|
+|**2023-07-24**|**Policy Gradient Optimal Correlation Search for Variance Reduction in Monte Carlo simulation and Maximum Optimal Transport**|Pierre Bras et.al.|[2307.12703](http://arxiv.org/abs/2307.12703)|null|
 |**2023-07-21**|**The birth-death-suppression Markov process and wildfires**|George Hulsey et.al.|[2307.11726](http://arxiv.org/abs/2307.11726)|null|
 |**2023-07-21**|**A Reinforcement Learning Framework with Region-Awareness and Shared Path Experience for Efficient Routing in Networks-on-Chip**|Kamil Khan et.al.|[2307.11712](http://arxiv.org/abs/2307.11712)|null|
 |**2023-07-21**|**JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning**|Kaiwen Wang et.al.|[2307.11704](http://arxiv.org/abs/2307.11704)|null|
@@ -790,8 +800,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
+|**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179](http://arxiv.org/abs/2307.12179)|null|
+|**2023-07-22**|**Named Entity Resolution in Personal Knowledge Graphs**|Mayank Kejriwal et.al.|[2307.12173](http://arxiv.org/abs/2307.12173)|null|
+|**2023-07-22**|**Fast Knowledge Graph Completion using Graphics Processing Units**|Chun-Hee Lee et.al.|[2307.12059](http://arxiv.org/abs/2307.12059)|null|
 |**2023-07-21**|**Benchmark datasets for biomedical knowledge graphs with negative statements**|Rita T. Sousa et.al.|[2307.11719](http://arxiv.org/abs/2307.11719)|null|
-|**2023-07-21**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610](http://arxiv.org/abs/2307.11610)|null|
+|**2023-07-24**|**CausE: Towards Causal Knowledge Graph Embedding**|Yichi Zhang et.al.|[2307.11610](http://arxiv.org/abs/2307.11610)|null|
 |**2023-07-21**|**CohortGPT: An Enhanced GPT for Participant Recruitment in Clinical Study**|Zihan Guan et.al.|[2307.11346](http://arxiv.org/abs/2307.11346)|null|
 |**2023-07-20**|**Towards Ontologically Grounded and Language-Agnostic Knowledge Graphs**|Walid S. Saba et.al.|[2307.11206](http://arxiv.org/abs/2307.11206)|null|
 |**2023-07-20**|**A Constraint-based Recommender System via RDF Knowledge Graphs**|Ngoc Luyen Le et.al.|[2307.10702](http://arxiv.org/abs/2307.10702)|null|
