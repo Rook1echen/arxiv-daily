@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -30,6 +30,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Reinforcement Learning by Guided Safe Exploration**|Qisong Yang et.al.|[2307.14316](http://arxiv.org/abs/2307.14316)|null|
+|**2023-07-26**|**LiDAR-based drone navigation with reinforcement learning**|Pawel Miera et.al.|[2307.14313](http://arxiv.org/abs/2307.14313)|null|
+|**2023-07-26**|**A Constraint Enforcement Deep Reinforcement Learning Framework for Optimal Energy Storage Systems Dispatch**|Shengren Hou et.al.|[2307.14304](http://arxiv.org/abs/2307.14304)|**[link](https://github.com/ShengrenHou/Energy-management-MIP-Deep-Reinforcement-Learning)**|
+|**2023-07-26**|**Sim-to-Real Model-Based and Model-Free Deep Reinforcement Learning for Tactile Pushing**|Max Yang et.al.|[2307.14272](http://arxiv.org/abs/2307.14272)|null|
+|**2023-07-26**|**Improving International Climate Policy via Mutually Conditional Binding Commitments**|Jobst Heitzig et.al.|[2307.14266](http://arxiv.org/abs/2307.14266)|null|
+|**2023-07-26**|**Efficient Learning of Discrete-Continuous Computation Graphs**|David Friede et.al.|[2307.14193](http://arxiv.org/abs/2307.14193)|**[link](https://github.com/nec-research/dccg)**|
+|**2023-07-26**|**Unveiling Security, Privacy, and Ethical Concerns of ChatGPT**|Xiaodong Wu et.al.|[2307.14192](http://arxiv.org/abs/2307.14192)|null|
+|**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|null|
+|**2023-07-26**|**MorphoLander: Reinforcement Learning Based Landing of a Group of Drones on the Adaptive Morphogenetic UAV**|Sausar Karaf et.al.|[2307.14147](http://arxiv.org/abs/2307.14147)|null|
+|**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|null|
 |**2023-07-25**|**Safety Margins for Reinforcement Learning**|Alexander Grushin et.al.|[2307.13642](http://arxiv.org/abs/2307.13642)|null|
 |**2023-07-25**|**Settling the Sample Complexity of Online Reinforcement Learning**|Zihan Zhang et.al.|[2307.13586](http://arxiv.org/abs/2307.13586)|null|
 |**2023-07-25**|**On Solving the Rubik's Cube with Domain-Independent Planners Using Standard Representations**|Bharath Muppasani et.al.|[2307.13552](http://arxiv.org/abs/2307.13552)|null|
@@ -810,6 +820,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
 |**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179](http://arxiv.org/abs/2307.12179)|null|
