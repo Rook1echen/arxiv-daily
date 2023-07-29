@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.28
+## Updated on 2023.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -32,8 +32,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-27**|**Thinker: Learning to Plan and Act**|Stephen Chung et.al.|[2307.14993](http://arxiv.org/abs/2307.14993)|**[link](https://github.com/anonymous-scrl/thinker)**|
 |**2023-07-27**|**PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback**|Bo Shen et.al.|[2307.14936](http://arxiv.org/abs/2307.14936)|null|
-|**2023-07-27**|**Machine Learning-powered Pricing of the Multidimensional Passport Option**|Josef Teichmann et.al.|[2307.14887](http://arxiv.org/abs/2307.14887)|null|
-|**2023-07-27**|**MatrixWorld: A pursuit-evasion platform for safe multi-agent coordination and autocurricula**|Lijun Sun et.al.|[2307.14854](http://arxiv.org/abs/2307.14854)|null|
+|**2023-07-27**|**Machine Learning-powered Pricing of the Multidimensional Passport Option**|Josef Teichmann et.al.|[2307.14887](http://arxiv.org/abs/2307.14887)|**[link](https://github.com/hannasw/ml4passportoptions)**|
+|**2023-07-27**|**MatrixWorld: A pursuit-evasion platform for safe multi-agent coordination and autocurricula**|Lijun Sun et.al.|[2307.14854](http://arxiv.org/abs/2307.14854)|**[link](https://github.com/lijunsun90/matrixworld)**|
 |**2023-07-27**|**FLARE: Fingerprinting Deep Reinforcement Learning Agents using Universal Adversarial Masks**|Buse G. A. Tekgul et.al.|[2307.14751](http://arxiv.org/abs/2307.14751)|null|
 |**2023-07-27**|**Enhanced quantum state preparation via stochastic prediction of neural network**|Chao-Chao Li et.al.|[2307.14715](http://arxiv.org/abs/2307.14715)|null|
 |**2023-07-27**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626](http://arxiv.org/abs/2307.14626)|null|
