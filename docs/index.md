@@ -30,6 +30,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690](http://arxiv.org/abs/2307.15690)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
+|**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671](http://arxiv.org/abs/2307.15671)|null|
+|**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621](http://arxiv.org/abs/2307.15621)|**[link](https://github.com/awesomelemon/pbt-nas)**|
+|**2023-07-28**|**Learning to Open Doors with an Aerial Manipulator**|Eugenio Cuniato et.al.|[2307.15581](http://arxiv.org/abs/2307.15581)|null|
+|**2023-07-28**|**Learning to Collaborate by Grouping: a Consensus-oriented Strategy for Multi-agent Reinforcement Learning**|Jingqing Ruan et.al.|[2307.15530](http://arxiv.org/abs/2307.15530)|null|
+|**2023-07-28**|**ETHER: Aligning Emergent Communication for Hindsight Experience Replay**|Kevin Denamganaï et.al.|[2307.15494](http://arxiv.org/abs/2307.15494)|null|
+|**2023-07-28**|**SpaceRIS: LEO Satellite Coverage Maximization in 6G Sub-THz Networks by MAPPO DRL and Whale Optimization**|Sheikh Salman Hassan et.al.|[2307.15469](http://arxiv.org/abs/2307.15469)|null|
+|**2023-07-28**|**Worrisome Properties of Neural Network Controllers and Their Symbolic Representations**|Jacek Cyranka et.al.|[2307.15456](http://arxiv.org/abs/2307.15456)|null|
+|**2023-07-28**|**Autonomous Payload Thermal Control**|Alejandro D. Mousist et.al.|[2307.15438](http://arxiv.org/abs/2307.15438)|null|
+|**2023-07-28**|**Improvable Gap Balancing for Multi-Task Learning**|Yanqi Dai et.al.|[2307.15429](http://arxiv.org/abs/2307.15429)|**[link](https://github.com/yanqidai/igb4mtl)**|
 |**2023-07-27**|**Thinker: Learning to Plan and Act**|Stephen Chung et.al.|[2307.14993](http://arxiv.org/abs/2307.14993)|**[link](https://github.com/anonymous-scrl/thinker)**|
 |**2023-07-27**|**PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback**|Bo Shen et.al.|[2307.14936](http://arxiv.org/abs/2307.14936)|null|
 |**2023-07-27**|**Machine Learning-powered Pricing of the Multidimensional Passport Option**|Josef Teichmann et.al.|[2307.14887](http://arxiv.org/abs/2307.14887)|**[link](https://github.com/hannasw/ml4passportoptions)**|
@@ -830,6 +840,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284](http://arxiv.org/abs/2307.15284)|null|
 |**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
