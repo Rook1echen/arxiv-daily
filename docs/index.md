@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -30,6 +30,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Modulation-Enhanced Excitation for Continuous-Time Reinforcement Learning via Symmetric Kronecker Products**|Brent A. Wallace et.al.|[2307.16862](http://arxiv.org/abs/2307.16862)|null|
+|**2023-07-31**|**Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives**|Haoyang Liu et.al.|[2307.16851](http://arxiv.org/abs/2307.16851)|null|
+|**2023-07-31**|**Deep Reinforcement Learning of Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping**|Dmytro Pavlichenko et.al.|[2307.16752](http://arxiv.org/abs/2307.16752)|null|
+|**2023-07-31**|**Learning whom to trust in navigation: dynamically switching between classical and neural planning**|Sombit Dey et.al.|[2307.16710](http://arxiv.org/abs/2307.16710)|null|
+|**2023-07-31**|**End-to-End Reinforcement Learning for Torque Based Variable Height Hopping**|Raghav Soni et.al.|[2307.16676](http://arxiv.org/abs/2307.16676)|null|
+|**2023-07-31**|**ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning**|Junxiong Wang et.al.|[2307.16540](http://arxiv.org/abs/2307.16540)|null|
+|**2023-07-31**|**Cooperative Multi-Agent Constrained POMDPs: Strong Duality and Primal-Dual Reinforcement Learning with Approximate Information States**|Nouman Khan et.al.|[2307.16536](http://arxiv.org/abs/2307.16536)|null|
+|**2023-07-31**|**Value-Informed Skill Chaining for Policy Learning of Long-Horizon Tasks with Surgical Robot**|Tao Huang et.al.|[2307.16503](http://arxiv.org/abs/2307.16503)|**[link](https://github.com/med-air/viskill)**|
+|**2023-07-31**|**Learning Generalizable Tool Use with Non-rigid Grasp-pose Registration**|Malte Mosbach et.al.|[2307.16499](http://arxiv.org/abs/2307.16499)|null|
+|**2023-07-31**|**Distributionally Robust Safety Filter for Learning-Based Control in Active Distribution Systems**|Hoang Tien Nguyen et.al.|[2307.16351](http://arxiv.org/abs/2307.16351)|null|
 |**2023-07-28**|**Benchmarking Offline Reinforcement Learning on Real-Robot Hardware**|Nico Gürtler et.al.|[2307.15690](http://arxiv.org/abs/2307.15690)|**[link](https://github.com/rr-learning/trifinger_rl_datasets)**|
 |**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671](http://arxiv.org/abs/2307.15671)|null|
 |**2023-07-28**|**Shrink-Perturb Improves Architecture Mixing during Population Based Training for Neural Architecture Search**|Alexander Chebykin et.al.|[2307.15621](http://arxiv.org/abs/2307.15621)|**[link](https://github.com/awesomelemon/pbt-nas)**|
@@ -840,6 +850,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**Word Sense Disambiguation as a Game of Neurosymbolic Darts**|Tiansi Dong et.al.|[2307.16663](http://arxiv.org/abs/2307.16663)|null|
+|**2023-07-31**|**The World Literature Knowledge Graph**|Marco Antonio Stranisci et.al.|[2307.16659](http://arxiv.org/abs/2307.16659)|null|
+|**2023-07-30**|**Question Answering with Deep Neural Networks for Semi-Structured Heterogeneous Genealogical Knowledge Graphs**|Omri Suissa et.al.|[2307.16214](http://arxiv.org/abs/2307.16214)|**[link](https://github.com/omrivm/uncle-bert)**|
+|**2023-07-30**|**Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment**|Zhuo Chen et.al.|[2307.16210](http://arxiv.org/abs/2307.16210)|**[link](https://github.com/zjukg/umaea)**|
+|**2023-07-30**|**Around the GLOBE: Numerical Aggregation Question-Answering on Heterogeneous Genealogical Knowledge Graphs with Deep Neural Networks**|Omri Suissa et.al.|[2307.16208](http://arxiv.org/abs/2307.16208)|null|
+|**2023-07-30**|**Synthesizing Event-centric Knowledge Graphs of Daily Activities Using Virtual Space**|Shusaku Egami et.al.|[2307.16206](http://arxiv.org/abs/2307.16206)|**[link](https://github.com/aistairc/virtualhome2kg)**|
+|**2023-07-28**|**Dialogue Shaping: Empowering Agents through NPC Interaction**|Wei Zhou et.al.|[2307.15833](http://arxiv.org/abs/2307.15833)|null|
+|**2023-07-28**|**Select and Augment: Enhanced Dense Retrieval Knowledge Graph Augmentation**|Micheal Abaho et.al.|[2307.15776](http://arxiv.org/abs/2307.15776)|null|
 |**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284](http://arxiv.org/abs/2307.15284)|null|
 |**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|null|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
