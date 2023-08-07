@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -72,7 +72,7 @@ layout: default
 |**2023-07-28**|**Learning to Collaborate by Grouping: a Consensus-oriented Strategy for Multi-agent Reinforcement Learning**|Jingqing Ruan et.al.|[2307.15530](http://arxiv.org/abs/2307.15530)|null|
 |**2023-07-28**|**ETHER: Aligning Emergent Communication for Hindsight Experience Replay**|Kevin Denamganaï et.al.|[2307.15494](http://arxiv.org/abs/2307.15494)|null|
 |**2023-07-28**|**SpaceRIS: LEO Satellite Coverage Maximization in 6G Sub-THz Networks by MAPPO DRL and Whale Optimization**|Sheikh Salman Hassan et.al.|[2307.15469](http://arxiv.org/abs/2307.15469)|null|
-|**2023-07-28**|**Worrisome Properties of Neural Network Controllers and Their Symbolic Representations**|Jacek Cyranka et.al.|[2307.15456](http://arxiv.org/abs/2307.15456)|null|
+|**2023-07-28**|**Worrisome Properties of Neural Network Controllers and Their Symbolic Representations**|Jacek Cyranka et.al.|[2307.15456](http://arxiv.org/abs/2307.15456)|**[link](https://github.com/mimuw-rl/worrisome-nn)**|
 |**2023-07-28**|**Autonomous Payload Thermal Control**|Alejandro D. Mousist et.al.|[2307.15438](http://arxiv.org/abs/2307.15438)|null|
 |**2023-07-28**|**Improvable Gap Balancing for Multi-Task Learning**|Yanqi Dai et.al.|[2307.15429](http://arxiv.org/abs/2307.15429)|**[link](https://github.com/yanqidai/igb4mtl)**|
 |**2023-07-27**|**Thinker: Learning to Plan and Act**|Stephen Chung et.al.|[2307.14993](http://arxiv.org/abs/2307.14993)|**[link](https://github.com/anonymous-scrl/thinker)**|
@@ -403,7 +403,7 @@ layout: default
 |**2023-06-06**|**Enabling Efficient Interaction between an Algorithm Agent and an LLM: A Reinforcement Learning Approach**|Bin Hu et.al.|[2306.03604](http://arxiv.org/abs/2306.03604)|**[link](https://github.com/zjlab-ammi/llm4rl)**|
 |**2023-06-06**|**State Regularized Policy Optimization on Data with Dynamics Shift**|Zhenghai Xue et.al.|[2306.03552](http://arxiv.org/abs/2306.03552)|null|
 |**2023-06-06**|**BackpropTools: A Fast, Portable Deep Reinforcement Learning Library for Continuous Control**|Jonas Eschmann et.al.|[2306.03530](http://arxiv.org/abs/2306.03530)|**[link](https://github.com/backproptools/backproptools)**|
-|**2023-06-06**|**A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch**|Federico Ceola et.al.|[2306.03484](http://arxiv.org/abs/2306.03484)|null|
+|**2023-06-06**|**A Grasp Pose is All You Need: Learning Multi-fingered Grasping with Deep Reinforcement Learning from Vision and Touch**|Federico Ceola et.al.|[2306.03484](http://arxiv.org/abs/2306.03484)|**[link](https://github.com/hsp-iit/rl-icub-dexterous-manipulation)**|
 |**2023-06-05**|**Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs**|Alexander K. Lew et.al.|[2306.03081](http://arxiv.org/abs/2306.03081)|**[link](https://github.com/probcomp/llamppl)**|
 |**2023-06-05**|**A General Perspective on Objectives of Reinforcement Learning**|Long Yang et.al.|[2306.03074](http://arxiv.org/abs/2306.03074)|null|
 |**2023-06-05**|**Explore to Generalize in Zero-Shot RL**|Ev Zisselman et.al.|[2306.03072](http://arxiv.org/abs/2306.03072)|null|
