@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|null|
 |**2023-07-24**|**Getting pwn'd by AI: Penetration Testing with Large Language Models**|Andreas Happe et.al.|[2308.00121](http://arxiv.org/abs/2308.00121)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
 |**2023-07-20**|**ESASCF: Expertise Extraction, Generalization and Reply Framework for an Optimized Automation of Network Security Compliance**|Mohamed C. Ghanem et.al.|[2307.10967](http://arxiv.org/abs/2307.10967)|null|
 |**2023-03-20**|**Maximizing Penetration Testing Success with Effective Reconnaissance Techniques using ChatGPT**|Sheetal Temara et.al.|[2307.06391](http://arxiv.org/abs/2307.06391)|null|
@@ -31,6 +32,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Nonprehensile Planar Manipulation through Reinforcement Learning with Multimodal Categorical Exploration**|Juan Del Aguila Ferrandis et.al.|[2308.02459](http://arxiv.org/abs/2308.02459)|null|
+|**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|null|
+|**2023-08-04**|**Learning Optimal Admission Control in Partially Observable Queueing Networks**|Jonatha Anselmi et.al.|[2308.02391](http://arxiv.org/abs/2308.02391)|null|
+|**2023-08-04**|**Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control**|Dong Chen et.al.|[2308.02345](http://arxiv.org/abs/2308.02345)|null|
+|**2023-08-04**|**ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation**|Chenglong Wang et.al.|[2308.02223](http://arxiv.org/abs/2308.02223)|null|
+|**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|null|
+|**2023-08-04**|**Learning to Shape by Grinding: Cutting-surface-aware Model-based Reinforcement Learning**|Takumi Hachimine et.al.|[2308.02150](http://arxiv.org/abs/2308.02150)|null|
+|**2023-08-04**|**Deep Reinforcement Learning Empowered Rate Selection of XP-HARQ**|Da Wu et.al.|[2308.02140](http://arxiv.org/abs/2308.02140)|null|
 |**2023-08-03**|**Thespian: Multi-Character Text Role-Playing Game Agents**|Christopher Cui et.al.|[2308.01872](http://arxiv.org/abs/2308.01872)|null|
 |**2023-08-03**|**Job Shop Scheduling via Deep Reinforcement Learning: a Sequence to Sequence approach**|Giovanni Bonetta et.al.|[2308.01797](http://arxiv.org/abs/2308.01797)|null|
 |**2023-08-03**|**Bag of Policies for Distributional Deep Exploration**|Asen Nachkov et.al.|[2308.01759](http://arxiv.org/abs/2308.01759)|null|
@@ -875,6 +884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects**|Jiapu Wang et.al.|[2308.02457](http://arxiv.org/abs/2308.02457)|null|
+|**2023-08-04**|**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation from Text**|Nandana Mihindukulasooriya et.al.|[2308.02357](http://arxiv.org/abs/2308.02357)|null|
 |**2023-08-03**|**Towards Self-organizing Personal Knowledge Assistants in Evolving Corporate Memories**|Christian Jilek et.al.|[2308.01732](http://arxiv.org/abs/2308.01732)|null|
 |**2023-08-03**|**Interleaving GANs with knowledge graphs to support design creativity for book covers**|Alexandru Motogna et.al.|[2308.01626](http://arxiv.org/abs/2308.01626)|**[link](https://github.com/alexmotogna/generatorapi)**|
 |**2023-08-02**|**Literal-Aware Knowledge Graph Embedding for Welding Quality Monitoring: A Bosch Case**|Zhipeng Tan et.al.|[2308.01105](http://arxiv.org/abs/2308.01105)|null|
