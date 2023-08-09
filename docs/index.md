@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|null|
+|**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|**[link](https://github.com/vmayoral/exploitflow)**|
 |**2023-08-07**|**Getting pwn'd by AI: Penetration Testing with Large Language Models**|Andreas Happe et.al.|[2308.00121](http://arxiv.org/abs/2308.00121)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
 |**2023-07-20**|**ESASCF: Expertise Extraction, Generalization and Reply Framework for an Optimized Automation of Network Security Compliance**|Mohamed C. Ghanem et.al.|[2307.10967](http://arxiv.org/abs/2307.10967)|null|
 |**2023-03-20**|**Maximizing Penetration Testing Success with Effective Reconnaissance Techniques using ChatGPT**|Sheetal Temara et.al.|[2307.06391](http://arxiv.org/abs/2307.06391)|null|
@@ -32,6 +32,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Learning Evaluation Models from Large Language Models for Sequence Generation**|Chenglong Wang et.al.|[2308.04386](http://arxiv.org/abs/2308.04386)|null|
+|**2023-08-08**|**RLHF-Blender: A Configurable Interactive Interface for Learning from Diverse Human Feedback**|Yannick Metz et.al.|[2308.04332](http://arxiv.org/abs/2308.04332)|null|
+|**2023-08-08**|**Actor-Critic with variable time discretization via sustained actions**|Jakub Łyskawa et.al.|[2308.04299](http://arxiv.org/abs/2308.04299)|null|
+|**2023-08-08**|**BarlowRL: Barlow Twins for Data-Efficient Reinforcement Learning**|Omer Veysel Cagatan et.al.|[2308.04263](http://arxiv.org/abs/2308.04263)|null|
+|**2023-08-08**|**Real-Time Progressive Learning: Mutually Reinforcing Learning and Control with Neural-Network-Based Selective Memory**|Yiming Fei et.al.|[2308.04223](http://arxiv.org/abs/2308.04223)|null|
+|**2023-08-08**|**Collaborative Edge Caching: a Meta Reinforcement Learning Approach with Edge Sampling**|Bowei He et.al.|[2308.04205](http://arxiv.org/abs/2308.04205)|null|
+|**2023-08-08**|**Communication-Efficient Cooperative Multi-Agent PPO via Regulated Segment Mixture in Internet of Vehicles**|Xiaoxue Yu et.al.|[2308.04198](http://arxiv.org/abs/2308.04198)|null|
+|**2023-08-08**|**Optimizing Adaptive Video Streaming with Human Feedback**|Tianchi Huang et.al.|[2308.04132](http://arxiv.org/abs/2308.04132)|null|
+|**2023-08-08**|**Heterogeneous 360 Degree Videos in Metaverse: Differentiated Reinforcement Learning Approaches**|Wenhan Yu et.al.|[2308.04083](http://arxiv.org/abs/2308.04083)|null|
+|**2023-08-08**|**Online identification and control of PDEs via Reinforcement Learning methods**|Alessandro Alla et.al.|[2308.04068](http://arxiv.org/abs/2308.04068)|null|
 |**2023-08-07**|**QDax: A Library for Quality-Diversity and Population-based Algorithms with Hardware Acceleration**|Felix Chalumeau et.al.|[2308.03665](http://arxiv.org/abs/2308.03665)|null|
 |**2023-08-07**|**Mamba: Bringing Multi-Dimensional ABR to WebRTC**|Yueheng Li et.al.|[2308.03643](http://arxiv.org/abs/2308.03643)|null|
 |**2023-08-07**|**Zhongjing: Enhancing the Chinese Medical Capabilities of Large Language Model through Expert Feedback and Real-world Multi-turn Dialogue**|Songhua Yang et.al.|[2308.03549](http://arxiv.org/abs/2308.03549)|null|
@@ -894,6 +904,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
+|**2023-08-08**|**A Benchmarking Study of Matching Algorithms for Knowledge Graph Entity Alignment**|Nhat-Minh Dao et.al.|[2308.03961](http://arxiv.org/abs/2308.03961)|null|
+|**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929](http://arxiv.org/abs/2308.03929)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
 |**2023-08-07**|**A Polystore Architecture Using Knowledge Graphs to Support Queries on Heterogeneous Data Stores**|Leonardo Guerreiro Azevedo et.al.|[2308.03584](http://arxiv.org/abs/2308.03584)|null|
 |**2023-08-07**|**Biomedical Knowledge Graph Embeddings with Negative Statements**|Rita T. Sousa et.al.|[2308.03447](http://arxiv.org/abs/2308.03447)|**[link](https://github.com/liseda-lab/truewalks)**|
