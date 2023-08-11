@@ -1,4 +1,4 @@
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,12 +34,19 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**A Comparison of Classical and Deep Reinforcement Learning Methods for HVAC Control**|Marshall Wang et.al.|[2308.05711](http://arxiv.org/abs/2308.05711)|null|
+|**2023-08-10**|**Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2308.05701](http://arxiv.org/abs/2308.05701)|null|
+|**2023-08-10**|**Proximal Policy Optimization Actual Combat: Manipulating Output Tokenizer Length**|Miao Fan et.al.|[2308.05585](http://arxiv.org/abs/2308.05585)|null|
+|**2023-08-10**|**Provably Efficient Algorithm for Nonstationary Low-Rank MDPs**|Yuan Cheng et.al.|[2308.05471](http://arxiv.org/abs/2308.05471)|null|
+|**2023-08-10**|**Beyond Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization**|Hongyang Du et.al.|[2308.05384](http://arxiv.org/abs/2308.05384)|null|
+|**2023-08-10**|**RLSAC: Reinforcement Learning enhanced Sample Consensus for End-to-End Robust Estimation**|Chang Nie et.al.|[2308.05318](http://arxiv.org/abs/2308.05318)|**[link](https://github.com/irmvlab/rlsac)**|
+|**2023-08-09**|**High-dimensional reinforcement learning for optimization and control of ultracold quantum gases**|Nicholas Milson et.al.|[2308.05216](http://arxiv.org/abs/2308.05216)|null|
 |**2023-08-09**|**Bayesian Inverse Transition Learning for Offline Settings**|Leo Benac et.al.|[2308.05075](http://arxiv.org/abs/2308.05075)|null|
 |**2023-08-09**|**Collaborative Wideband Spectrum Sensing and Scheduling for Networked UAVs in UTM Systems**|Sravan Reddy Chintareddy et.al.|[2308.05036](http://arxiv.org/abs/2308.05036)|null|
 |**2023-08-09**|**Improving Autonomous Separation Assurance through Distributed Reinforcement Learning with Attention Networks**|Marc W. Brittain et.al.|[2308.04958](http://arxiv.org/abs/2308.04958)|null|
@@ -898,7 +905,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|null|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -919,12 +926,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**C5: Towards Better Conversation Comprehension and Contextual Continuity for ChatGPT**|Pan Liang et.al.|[2308.05567](http://arxiv.org/abs/2308.05567)|null|
+|**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317](http://arxiv.org/abs/2308.05317)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579](http://arxiv.org/abs/2308.04579)|null|
 |**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
@@ -1234,5 +1243,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
