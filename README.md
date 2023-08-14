@@ -40,6 +40,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212](http://arxiv.org/abs/2308.06212)|null|
+|**2023-08-11**|**Learning Control Policies for Variable Objectives from Offline Data**|Marc Weber et.al.|[2308.06127](http://arxiv.org/abs/2308.06127)|null|
+|**2023-08-11**|**Reinforcement Logic Rule Learning for Temporal Point Processes**|Chao Yang et.al.|[2308.06094](http://arxiv.org/abs/2308.06094)|null|
+|**2023-08-11**|**Safeguarding Learning-based Control for Smart Energy Systems with Sampling Specifications**|Chih-Hong Cheng et.al.|[2308.06069](http://arxiv.org/abs/2308.06069)|null|
+|**2023-08-11**|**The Impact of Overall Optimization on Warehouse Automation**|Hiroshi Yoshitake et.al.|[2308.06036](http://arxiv.org/abs/2308.06036)|null|
+|**2023-08-11**|**Controlling Character Motions without Observable Driving Source**|Weiyuan Li et.al.|[2308.06025](http://arxiv.org/abs/2308.06025)|null|
+|**2023-08-11**|**CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation**|Chao Feng et.al.|[2308.05978](http://arxiv.org/abs/2308.05978)|null|
+|**2023-08-11**|**A Deep Recurrent-Reinforcement Learning Method for Intelligent AutoScaling of Serverless Functions**|Siddharth Agarwal et.al.|[2308.05937](http://arxiv.org/abs/2308.05937)|null|
+|**2023-08-11**|**Learning to Team-Based Navigation: A Review of Deep Reinforcement Learning Techniques for Multi-Agent Pathfinding**|Jaehoon Chung et.al.|[2308.05893](http://arxiv.org/abs/2308.05893)|null|
 |**2023-08-10**|**A Comparison of Classical and Deep Reinforcement Learning Methods for HVAC Control**|Marshall Wang et.al.|[2308.05711](http://arxiv.org/abs/2308.05711)|null|
 |**2023-08-10**|**Exploring the Potential of World Models for Anomaly Detection in Autonomous Driving**|Daniel Bogdoll et.al.|[2308.05701](http://arxiv.org/abs/2308.05701)|null|
 |**2023-08-10**|**Proximal Policy Optimization Actual Combat: Manipulating Output Tokenizer Length**|Miao Fan et.al.|[2308.05585](http://arxiv.org/abs/2308.05585)|null|
@@ -936,7 +945,7 @@
 |**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317](http://arxiv.org/abs/2308.05317)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**RECipe: Does a Multi-Modal Recipe Knowledge Graph Fit a Multi-Purpose Recommendation System?**|Ali Pesaranghader et.al.|[2308.04579](http://arxiv.org/abs/2308.04579)|null|
-|**2023-08-08**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
+|**2023-08-11**|**Predicting Drug-Drug Interactions Using Knowledge Graphs**|Lizzy Farrugia et.al.|[2308.04172](http://arxiv.org/abs/2308.04172)|null|
 |**2023-08-08**|**A Benchmarking Study of Matching Algorithms for Knowledge Graph Entity Alignment**|Nhat-Minh Dao et.al.|[2308.03961](http://arxiv.org/abs/2308.03961)|null|
 |**2023-08-07**|**Establishing Trust in ChatGPT BioMedical Generated Text: An Ontology-Based Knowledge Graph to Validate Disease-Symptom Links**|Ahmed Abdeen Hamed et.al.|[2308.03929](http://arxiv.org/abs/2308.03929)|null|
 |**2023-08-07**|**SemOpenAlex: The Scientific Landscape in 26 Billion RDF Triples**|Michael Färber et.al.|[2308.03671](http://arxiv.org/abs/2308.03671)|null|
