@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-13**|**PentestGPT: An LLM-empowered Automatic Penetration Testing Tool**|Gelei Deng et.al.|[2308.06782](http://arxiv.org/abs/2308.06782)|null|
 |**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|**[link](https://github.com/vmayoral/exploitflow)**|
 |**2023-08-07**|**Getting pwn'd by AI: Penetration Testing with Large Language Models**|Andreas Happe et.al.|[2308.00121](http://arxiv.org/abs/2308.00121)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
 |**2023-07-20**|**ESASCF: Expertise Extraction, Generalization and Reply Framework for an Optimized Automation of Network Security Compliance**|Mohamed C. Ghanem et.al.|[2307.10967](http://arxiv.org/abs/2307.10967)|null|
@@ -32,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308](http://arxiv.org/abs/2308.07308)|null|
+|**2023-08-14**|**Dialogue for Prompting: a Policy-Gradient-Based Discrete Prompt Optimization for Few-shot Learning**|Chengzhengxu Li et.al.|[2308.07272](http://arxiv.org/abs/2308.07272)|null|
+|**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
+|**2023-08-14**|**Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads**|Dingheng Mo et.al.|[2308.07013](http://arxiv.org/abs/2308.07013)|null|
+|**2023-08-14**|**Routing Recovery for UAV Networks with Deliberate Attacks: A Reinforcement Learning based Approach**|Sijie He et.al.|[2308.06973](http://arxiv.org/abs/2308.06973)|null|
+|**2023-08-14**|**AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation**|Ziru Liu et.al.|[2308.06965](http://arxiv.org/abs/2308.06965)|null|
+|**2023-08-14**|**Insurance pricing on price comparison websites via reinforcement learning**|Tanut Treetanthiploet et.al.|[2308.06935](http://arxiv.org/abs/2308.06935)|null|
+|**2023-08-13**|**Reinforcement Graph Clustering with Unknown Cluster Number**|Yue Liu et.al.|[2308.06827](http://arxiv.org/abs/2308.06827)|**[link](https://github.com/yueliu1999/awesome-deep-graph-clustering)**|
+|**2023-08-13**|**Optimal strategies for kiiking: active pumping to invert a swing**|Petur Bryde et.al.|[2308.06818](http://arxiv.org/abs/2308.06818)|null|
+|**2023-08-13**|**Exploring the Optimal Cycle for Quantum Heat Engine using Reinforcement Learning**|Gao-xiang Deng et.al.|[2308.06794](http://arxiv.org/abs/2308.06794)|null|
 |**2023-08-11**|**A Large Language Model Enhanced Conversational Recommender System**|Yue Feng et.al.|[2308.06212](http://arxiv.org/abs/2308.06212)|null|
 |**2023-08-11**|**Learning Control Policies for Variable Objectives from Offline Data**|Marc Weber et.al.|[2308.06127](http://arxiv.org/abs/2308.06127)|null|
 |**2023-08-11**|**Reinforcement Logic Rule Learning for Temporal Point Processes**|Chao Yang et.al.|[2308.06094](http://arxiv.org/abs/2308.06094)|null|
@@ -929,6 +940,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
+|**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
+|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|
+|**2023-08-12**|**Approximate Answering of Graph Queries**|Michael Cochez et.al.|[2308.06585](http://arxiv.org/abs/2308.06585)|null|
+|**2023-08-12**|**HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion**|Zhiwei Hu et.al.|[2308.06512](http://arxiv.org/abs/2308.06512)|**[link](https://github.com/zhiweihu1103/hkgc-hyperformer)**|
+|**2023-08-12**|**Generating Faithful Text From a Knowledge Graph with Noisy Reference Text**|Tahsina Hashem et.al.|[2308.06488](http://arxiv.org/abs/2308.06488)|null|
+|**2023-08-11**|**Large Language Models and Knowledge Graphs: Opportunities and Challenges**|Jeff Z. Pan et.al.|[2308.06374](http://arxiv.org/abs/2308.06374)|null|
 |**2023-08-10**|**C5: Towards Better Conversation Comprehension and Contextual Continuity for ChatGPT**|Pan Liang et.al.|[2308.05567](http://arxiv.org/abs/2308.05567)|null|
 |**2023-08-10**|**Few-Shot Data-to-Text Generation via Unified Representation and Multi-Source Learning**|Alexander Hanbo Li et.al.|[2308.05317](http://arxiv.org/abs/2308.05317)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
