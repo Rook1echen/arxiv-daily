@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -33,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Dyadic Reinforcement Learning**|Shuangning Li et.al.|[2308.07843](http://arxiv.org/abs/2308.07843)|**[link](https://github.com/statisticalreinforcementlearninglab/roadmap2.0testbed)**|
+|**2023-08-15**|**Deep reinforcement learning for process design: Review and perspective**|Qinghe Gao et.al.|[2308.07822](http://arxiv.org/abs/2308.07822)|null|
+|**2023-08-15**|**Learning to Identify Critical States for Reinforcement Learning from Videos**|Haozhe Liu et.al.|[2308.07795](http://arxiv.org/abs/2308.07795)|**[link](https://github.com/ai-initiative-kaust/videorlcs)**|
+|**2023-08-15**|**Real Robot Challenge 2022: Learning Dexterous Manipulation from Offline Data in the Real World**|Nico Gürtler et.al.|[2308.07741](http://arxiv.org/abs/2308.07741)|null|
+|**2023-08-15**|**Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods**|Debraj Chakraborty et.al.|[2308.07738](http://arxiv.org/abs/2308.07738)|null|
+|**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
+|**2023-08-15**|**Q-Learning for Continuous State and Action MDPs under Average Cost Criteria**|Ali Devran Kara et.al.|[2308.07591](http://arxiv.org/abs/2308.07591)|null|
+|**2023-08-15**|**Reinforcement Learning (RL) Augmented Cold Start Frequency Reduction in Serverless Computing**|Siddharth Agarwal et.al.|[2308.07541](http://arxiv.org/abs/2308.07541)|null|
+|**2023-08-15**|**Distilling Knowledge from Resource Management Algorithms to Neural Networks: A Unified Training Assistance Approach**|Longfei Ma et.al.|[2308.07511](http://arxiv.org/abs/2308.07511)|null|
+|**2023-08-14**|**Adaptive Tracking of a Single-Rigid-Body Character in Various Environments**|Taesoo Kwon et.al.|[2308.07491](http://arxiv.org/abs/2308.07491)|null|
 |**2023-08-14**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308](http://arxiv.org/abs/2308.07308)|null|
 |**2023-08-14**|**Dialogue for Prompting: a Policy-Gradient-Based Discrete Prompt Optimization for Few-shot Learning**|Chengzhengxu Li et.al.|[2308.07272](http://arxiv.org/abs/2308.07272)|null|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
@@ -921,6 +931,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
 |**2023-06-20**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|null|
 |**2023-05-23**|**Learning from demonstrations: An intuitive VR environment for imitation learning of construction robots**|Kangkang Duan et.al.|[2305.14584](http://arxiv.org/abs/2305.14584)|null|
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
@@ -940,6 +951,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|null|
+|**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
 |**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
 |**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
 |**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|

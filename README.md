@@ -1,4 +1,4 @@
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,12 +35,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Dyadic Reinforcement Learning**|Shuangning Li et.al.|[2308.07843](http://arxiv.org/abs/2308.07843)|**[link](https://github.com/statisticalreinforcementlearninglab/roadmap2.0testbed)**|
+|**2023-08-15**|**Deep reinforcement learning for process design: Review and perspective**|Qinghe Gao et.al.|[2308.07822](http://arxiv.org/abs/2308.07822)|null|
+|**2023-08-15**|**Learning to Identify Critical States for Reinforcement Learning from Videos**|Haozhe Liu et.al.|[2308.07795](http://arxiv.org/abs/2308.07795)|**[link](https://github.com/ai-initiative-kaust/videorlcs)**|
+|**2023-08-15**|**Real Robot Challenge 2022: Learning Dexterous Manipulation from Offline Data in the Real World**|Nico Gürtler et.al.|[2308.07741](http://arxiv.org/abs/2308.07741)|null|
+|**2023-08-15**|**Formally-Sharp DAgger for MCTS: Lower-Latency Monte Carlo Tree Search using Data Aggregation with Formal Methods**|Debraj Chakraborty et.al.|[2308.07738](http://arxiv.org/abs/2308.07738)|null|
+|**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
+|**2023-08-15**|**Q-Learning for Continuous State and Action MDPs under Average Cost Criteria**|Ali Devran Kara et.al.|[2308.07591](http://arxiv.org/abs/2308.07591)|null|
+|**2023-08-15**|**Reinforcement Learning (RL) Augmented Cold Start Frequency Reduction in Serverless Computing**|Siddharth Agarwal et.al.|[2308.07541](http://arxiv.org/abs/2308.07541)|null|
+|**2023-08-15**|**Distilling Knowledge from Resource Management Algorithms to Neural Networks: A Unified Training Assistance Approach**|Longfei Ma et.al.|[2308.07511](http://arxiv.org/abs/2308.07511)|null|
+|**2023-08-14**|**Adaptive Tracking of a Single-Rigid-Body Character in Various Environments**|Taesoo Kwon et.al.|[2308.07491](http://arxiv.org/abs/2308.07491)|null|
 |**2023-08-14**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308](http://arxiv.org/abs/2308.07308)|null|
 |**2023-08-14**|**Dialogue for Prompting: a Policy-Gradient-Based Discrete Prompt Optimization for Few-shot Learning**|Chengzhengxu Li et.al.|[2308.07272](http://arxiv.org/abs/2308.07272)|null|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
@@ -925,12 +935,13 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
 |**2023-06-20**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|null|
 |**2023-05-23**|**Learning from demonstrations: An intuitive VR environment for imitation learning of construction robots**|Kangkang Duan et.al.|[2305.14584](http://arxiv.org/abs/2305.14584)|null|
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
@@ -946,12 +957,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|null|
+|**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
 |**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
 |**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
 |**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|
@@ -1270,5 +1283,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
