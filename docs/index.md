@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -33,6 +33,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520](http://arxiv.org/abs/2308.08520)|null|
+|**2023-08-16**|**Eliciting Risk Aversion with Inverse Reinforcement Learning via Interactive Questioning**|Ziteng Cheng et.al.|[2308.08427](http://arxiv.org/abs/2308.08427)|null|
+|**2023-08-16**|**Quantum-enhanced policy iteration on the example of a mountain car**|Egor E. Nuzhin et.al.|[2308.08348](http://arxiv.org/abs/2308.08348)|null|
+|**2023-08-16**|**Deep Reinforcement Learning based Joint Spectrum Allocation and Configuration Design for STAR-RIS-Assisted V2X Communications**|Pyae Sone Aung et.al.|[2308.08279](http://arxiv.org/abs/2308.08279)|null|
+|**2023-08-16**|**Accelerated Design of Block Copolymers: An Unbiased Exploration Strategy via Fusion of Molecular Dynamics Simulations and Machine Learning**|Jan Michael Y. Carrillo et.al.|[2308.08226](http://arxiv.org/abs/2308.08226)|null|
+|**2023-08-16**|**A Robust Integrated Multi-Strategy Bus Control System via Deep Reinforcement Learning**|Qinghui Nie et.al.|[2308.08179](http://arxiv.org/abs/2308.08179)|null|
+|**2023-08-15**|**A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes**|Akhilesh Raj et.al.|[2308.08069](http://arxiv.org/abs/2308.08069)|null|
+|**2023-08-15**|**Planning to Learn: A Novel Algorithm for Active Learning during Model-Based Planning**|Rowan Hodson et.al.|[2308.08029](http://arxiv.org/abs/2308.08029)|null|
 |**2023-08-15**|**Dyadic Reinforcement Learning**|Shuangning Li et.al.|[2308.07843](http://arxiv.org/abs/2308.07843)|**[link](https://github.com/statisticalreinforcementlearninglab/roadmap2.0testbed)**|
 |**2023-08-15**|**Deep reinforcement learning for process design: Review and perspective**|Qinghe Gao et.al.|[2308.07822](http://arxiv.org/abs/2308.07822)|null|
 |**2023-08-15**|**Learning to Identify Critical States for Reinforcement Learning from Videos**|Haozhe Liu et.al.|[2308.07795](http://arxiv.org/abs/2308.07795)|**[link](https://github.com/ai-initiative-kaust/videorlcs)**|
@@ -951,6 +959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
+|**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|null|
+|**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
+|**2023-08-14**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942](http://arxiv.org/abs/2308.07942)|null|
 |**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|null|
 |**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
 |**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
