@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -39,8 +39,8 @@ layout: default
 |**2023-08-16**|**Deep Reinforcement Learning based Joint Spectrum Allocation and Configuration Design for STAR-RIS-Assisted V2X Communications**|Pyae Sone Aung et.al.|[2308.08279](http://arxiv.org/abs/2308.08279)|null|
 |**2023-08-16**|**Accelerated Design of Block Copolymers: An Unbiased Exploration Strategy via Fusion of Molecular Dynamics Simulations and Machine Learning**|Jan Michael Y. Carrillo et.al.|[2308.08226](http://arxiv.org/abs/2308.08226)|null|
 |**2023-08-16**|**A Robust Integrated Multi-Strategy Bus Control System via Deep Reinforcement Learning**|Qinghui Nie et.al.|[2308.08179](http://arxiv.org/abs/2308.08179)|null|
-|**2023-08-15**|**A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes**|Akhilesh Raj et.al.|[2308.08069](http://arxiv.org/abs/2308.08069)|null|
-|**2023-08-15**|**Planning to Learn: A Novel Algorithm for Active Learning during Model-Based Planning**|Rowan Hodson et.al.|[2308.08029](http://arxiv.org/abs/2308.08029)|null|
+|**2023-08-15**|**A Reinforcement Learning Approach for Performance-aware Reduction in Power Consumption of Data Center Compute Nodes**|Akhilesh Raj et.al.|[2308.08069](http://arxiv.org/abs/2308.08069)|**[link](https://github.com/akhileshraj91/generalized_rl_anl)**|
+|**2023-08-15**|**Planning to Learn: A Novel Algorithm for Active Learning during Model-Based Planning**|Rowan Hodson et.al.|[2308.08029](http://arxiv.org/abs/2308.08029)|**[link](https://github.com/rowanlibr/sophisticated-learning)**|
 |**2023-08-15**|**Dyadic Reinforcement Learning**|Shuangning Li et.al.|[2308.07843](http://arxiv.org/abs/2308.07843)|**[link](https://github.com/statisticalreinforcementlearninglab/roadmap2.0testbed)**|
 |**2023-08-15**|**Deep reinforcement learning for process design: Review and perspective**|Qinghe Gao et.al.|[2308.07822](http://arxiv.org/abs/2308.07822)|null|
 |**2023-08-15**|**Learning to Identify Critical States for Reinforcement Learning from Videos**|Haozhe Liu et.al.|[2308.07795](http://arxiv.org/abs/2308.07795)|**[link](https://github.com/ai-initiative-kaust/videorlcs)**|
@@ -960,14 +960,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
-|**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|null|
+|**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
 |**2023-08-14**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942](http://arxiv.org/abs/2308.07942)|null|
 |**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|null|
 |**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
 |**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
 |**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
-|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|
+|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|**[link](https://github.com/zjukg/maco)**|
 |**2023-08-12**|**Approximate Answering of Graph Queries**|Michael Cochez et.al.|[2308.06585](http://arxiv.org/abs/2308.06585)|null|
 |**2023-08-12**|**HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion**|Zhiwei Hu et.al.|[2308.06512](http://arxiv.org/abs/2308.06512)|**[link](https://github.com/zhiweihu1103/hkgc-hyperformer)**|
 |**2023-08-12**|**Generating Faithful Text From a Knowledge Graph with Noisy Reference Text**|Tahsina Hashem et.al.|[2308.06488](http://arxiv.org/abs/2308.06488)|null|
