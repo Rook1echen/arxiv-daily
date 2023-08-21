@@ -1,4 +1,4 @@
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
 
 ## attack graph
 
@@ -73,7 +73,7 @@
 |**2023-08-11**|**Learning Control Policies for Variable Objectives from Offline Data**|Marc Weber et.al.|[2308.06127](http://arxiv.org/abs/2308.06127)|null|
 |**2023-08-11**|**Reinforcement Logic Rule Learning for Temporal Point Processes**|Chao Yang et.al.|[2308.06094](http://arxiv.org/abs/2308.06094)|null|
 |**2023-08-11**|**Safeguarding Learning-based Control for Smart Energy Systems with Sampling Specifications**|Chih-Hong Cheng et.al.|[2308.06069](http://arxiv.org/abs/2308.06069)|null|
-|**2023-08-11**|**The Impact of Overall Optimization on Warehouse Automation**|Hiroshi Yoshitake et.al.|[2308.06036](http://arxiv.org/abs/2308.06036)|null|
+|**2023-08-11**|**The Impact of Overall Optimization on Warehouse Automation**|Hiroshi Yoshitake et.al.|[2308.06036](http://arxiv.org/abs/2308.06036)|**[link](https://github.com/16444take/aope-sim)**|
 |**2023-08-11**|**Controlling Character Motions without Observable Driving Source**|Weiyuan Li et.al.|[2308.06025](http://arxiv.org/abs/2308.06025)|null|
 |**2023-08-11**|**CyberForce: A Federated Reinforcement Learning Framework for Malware Mitigation**|Chao Feng et.al.|[2308.05978](http://arxiv.org/abs/2308.05978)|null|
 |**2023-08-11**|**A Deep Recurrent-Reinforcement Learning Method for Intelligent AutoScaling of Serverless Functions**|Siddharth Agarwal et.al.|[2308.05937](http://arxiv.org/abs/2308.05937)|null|
@@ -419,7 +419,7 @@
 |**2023-06-16**|**Fairness in Preference-based Reinforcement Learning**|Umer Siddique et.al.|[2306.09995](http://arxiv.org/abs/2306.09995)|null|
 |**2023-06-16**|**Creating Multi-Level Skill Hierarchies in Reinforcement Learning**|Joshua B. Evans et.al.|[2306.09980](http://arxiv.org/abs/2306.09980)|null|
 |**2023-06-16**|**The Evolution theory of Learning: From Natural Selection to Reinforcement Learning**|Taboubi Ahmed et.al.|[2306.09961](http://arxiv.org/abs/2306.09961)|null|
-|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|null|
+|**2023-06-16**|**Query-Free Evasion Attacks Against Machine Learning-Based Malware Detectors with Generative Adversarial Networks**|Daniel Gibert et.al.|[2306.09925](http://arxiv.org/abs/2306.09925)|**[link](https://github.com/danielgibert/adv_mlw_examples_generation_with_gans)**|
 |**2023-06-16**|**Jumanji: a Diverse Suite of Scalable Reinforcement Learning Environments in JAX**|Clément Bonnet et.al.|[2306.09884](http://arxiv.org/abs/2306.09884)|**[link](https://github.com/instadeepai/jumanji)**|
 |**2023-06-16**|**Actor-Critic Model Predictive Control**|Angel Romero et.al.|[2306.09852](http://arxiv.org/abs/2306.09852)|null|
 |**2023-06-16**|**Sample-Efficient On-Policy Imitation Learning from Observations**|João A. Cândido Ramos et.al.|[2306.09805](http://arxiv.org/abs/2306.09805)|null|
@@ -915,7 +915,7 @@
 |**2023-04-03**|**Enabling A Network AI Gym for Autonomous Cyber Agents**|Li Li et.al.|[2304.01366](http://arxiv.org/abs/2304.01366)|null|
 |**2023-04-03**|**Empirical Design in Reinforcement Learning**|Andrew Patterson et.al.|[2304.01315](http://arxiv.org/abs/2304.01315)|null|
 |**2023-04-03**|**PyFlyt -- UAV Simulation Environments for Reinforcement Learning Research**|Jun Jet Tai et.al.|[2304.01305](http://arxiv.org/abs/2304.01305)|**[link](https://github.com/jjshoots/pyflyt)**|
-|**2023-04-03**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203](http://arxiv.org/abs/2304.01203)|null|
+|**2023-04-03**|**Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning**|Tongzhou Wang et.al.|[2304.01203](http://arxiv.org/abs/2304.01203)|**[link](https://github.com/quasimetric-learning/quasimetric-rl)**|
 |**2023-04-03**|**DribbleBot: Dynamic Legged Manipulation in the Wild**|Yandong Ji et.al.|[2304.01159](http://arxiv.org/abs/2304.01159)|null|
 |**2023-04-03**|**Action Pick-up in Dynamic Action Space Reinforcement Learning**|Jiaqi Ye et.al.|[2304.00873](http://arxiv.org/abs/2304.00873)|null|
 |**2023-04-03**|**Swarm Reinforcement Learning For Adaptive Mesh Refinement**|Niklas Freymuth et.al.|[2304.00818](http://arxiv.org/abs/2304.00818)|**[link](https://github.com/niklasfreymuth/asmr)**|
@@ -943,7 +943,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -965,7 +965,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -1295,5 +1295,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230820>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
 
