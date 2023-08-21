@@ -9,14 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-17**|**Smart Bulbs can be Hacked to Hack into your Household**|Davide Bonaventura et.al.|[2308.09019](http://arxiv.org/abs/2308.09019)|null|
 |**2023-08-13**|**PentestGPT: An LLM-empowered Automatic Penetration Testing Tool**|Gelei Deng et.al.|[2308.06782](http://arxiv.org/abs/2308.06782)|null|
 |**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|**[link](https://github.com/vmayoral/exploitflow)**|
-|**2023-08-07**|**Getting pwn'd by AI: Penetration Testing with Large Language Models**|Andreas Happe et.al.|[2308.00121](http://arxiv.org/abs/2308.00121)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
+|**2023-08-17**|**Getting pwn'd by AI: Penetration Testing with Large Language Models**|Andreas Happe et.al.|[2308.00121](http://arxiv.org/abs/2308.00121)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
 |**2023-07-20**|**ESASCF: Expertise Extraction, Generalization and Reply Framework for an Optimized Automation of Network Security Compliance**|Mohamed C. Ghanem et.al.|[2307.10967](http://arxiv.org/abs/2307.10967)|null|
 |**2023-03-20**|**Maximizing Penetration Testing Success with Effective Reconnaissance Techniques using ChatGPT**|Sheetal Temara et.al.|[2307.06391](http://arxiv.org/abs/2307.06391)|null|
 |**2023-06-07**|**Development of a System Vulnerability Analysis Tool for Assessment of Complex Mission Critical Systems**|Matthew Tassava et.al.|[2306.04280](http://arxiv.org/abs/2306.04280)|null|
 |**2023-06-07**|**Development and Analysis of P2SCP: A Paradigm for Penetration Testing of Systems that Cannot be Subjected to the Risk of Penetration Testing**|Jeremy Straub et.al.|[2306.04279](http://arxiv.org/abs/2306.04279)|null|
-|**2023-05-26**|**NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios**|Jaromír Janisch et.al.|[2305.17246](http://arxiv.org/abs/2305.17246)|**[link](https://github.com/jaromiru/nasimemu)**|
+|**2023-08-18**|**NASimEmu: Network Attack Simulator & Emulator for Training Agents Generalizing to Novel Scenarios**|Jaromír Janisch et.al.|[2305.17246](http://arxiv.org/abs/2305.17246)|**[link](https://github.com/jaromiru/nasimemu)**|
 |**2023-06-30**|**Interactive Greybox Penetration Testing on Cloud Access Control with IAM Modeling and Deep Reinforcement Learning**|Yang Hu et.al.|[2304.14540](http://arxiv.org/abs/2304.14540)|null|
 |**2023-03-07**|**A relation between undrained CPTu results and the state parameter for liquefiable soils**|Lluís Monforte et.al.|[2303.03841](http://arxiv.org/abs/2303.03841)|null|
 |**2023-02-15**|**AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce**|Sudip Mittal et.al.|[2302.07953](http://arxiv.org/abs/2302.07953)|null|
@@ -33,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Reduced Order Modeling of a MOOSE-based Advanced Manufacturing Model with Operator Learning**|Mahmoud Yaseen et.al.|[2308.09691](http://arxiv.org/abs/2308.09691)|null|
+|**2023-08-18**|**Learning Computational Efficient Bots with Costly Features**|Anthony Kobanda et.al.|[2308.09629](http://arxiv.org/abs/2308.09629)|null|
+|**2023-08-18**|**Breaking the Complexity Barrier in Compositional Minimax Optimization**|Jin Liu et.al.|[2308.09604](http://arxiv.org/abs/2308.09604)|null|
+|**2023-08-18**|**WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct**|Haipeng Luo et.al.|[2308.09583](http://arxiv.org/abs/2308.09583)|**[link](https://github.com/nlpxucan/wizardlm)**|
+|**2023-08-18**|**Integrating Expert Guidance for Efficient Learning of Safe Overtaking in Autonomous Driving Using Deep Reinforcement Learning**|Jinxiong Lu et.al.|[2308.09456](http://arxiv.org/abs/2308.09456)|null|
+|**2023-08-18**|**Robust Quadrupedal Locomotion via Risk-Averse Policy Learning**|Jiyuan Shi et.al.|[2308.09405](http://arxiv.org/abs/2308.09405)|null|
+|**2023-08-18**|**Leveraging Large Language Models for DRL-Based Anti-Jamming Strategies in Zero Touch Networks**|Abubakar S. Ali et.al.|[2308.09376](http://arxiv.org/abs/2308.09376)|null|
+|**2023-08-18**|**Learning in Cooperative Multiagent Systems Using Cognitive and Machine Models**|Thuy Ngoc Nguyen et.al.|[2308.09219](http://arxiv.org/abs/2308.09219)|**[link](https://github.com/ddm-lab/greedy-hysteretic-lenient-maibl)**|
+|**2023-08-17**|**Data-driven Integrated Sensing and Communication: Recent Advances, Challenges, and Future Prospects**|Hammam Salem et.al.|[2308.09090](http://arxiv.org/abs/2308.09090)|null|
+|**2023-08-17**|**Fast Decision Support for Air Traffic Management at Urban Air Mobility Vertiports using Graph Learning**|Prajit KrisshnaKumar et.al.|[2308.09075](http://arxiv.org/abs/2308.09075)|null|
 |**2023-08-16**|**Painter: Teaching Auto-regressive Language Models to Draw Sketches**|Reza Pourreza et.al.|[2308.08520](http://arxiv.org/abs/2308.08520)|null|
 |**2023-08-16**|**Eliciting Risk Aversion with Inverse Reinforcement Learning via Interactive Questioning**|Ziteng Cheng et.al.|[2308.08427](http://arxiv.org/abs/2308.08427)|null|
 |**2023-08-16**|**Quantum-enhanced policy iteration on the example of a mountain car**|Egor E. Nuzhin et.al.|[2308.08348](http://arxiv.org/abs/2308.08348)|null|
@@ -959,6 +970,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
+|**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
+|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
+|**2023-08-15**|**KMF: Knowledge-Aware Multi-Faceted Representation Learning for Zero-Shot Node Classification**|Likang Wu et.al.|[2308.08563](http://arxiv.org/abs/2308.08563)|null|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
