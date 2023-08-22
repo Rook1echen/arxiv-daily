@@ -1,4 +1,4 @@
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Stabilizing Unsupervised Environment Design with a Learned Adversary**|Ishita Mediratta et.al.|[2308.10797](http://arxiv.org/abs/2308.10797)|null|
+|**2023-08-21**|**CoMIX: A Multi-agent Reinforcement Learning Training Architecture for Efficient Decentralized Coordination and Independent Decision Making**|Giovanni Minelli et.al.|[2308.10721](http://arxiv.org/abs/2308.10721)|null|
+|**2023-08-21**|**A Safe Deep Reinforcement Learning Approach for Energy Efficient Federated Learning in Wireless Communication Networks**|Nikolaos Koursioumpas et.al.|[2308.10664](http://arxiv.org/abs/2308.10664)|null|
+|**2023-08-21**|**Reinforcement Learning Based Sensor Optimization for Bio-markers**|Sajal Khandelwal et.al.|[2308.10649](http://arxiv.org/abs/2308.10649)|null|
+|**2023-08-21**|**A Homogenization Approach for Gradient-Dominated Stochastic Optimization**|Jiyuan Tan et.al.|[2308.10630](http://arxiv.org/abs/2308.10630)|null|
+|**2023-08-21**|**Solving multi-armed bandit problems using a chaotic microresonator comb**|Jonathan Cuevas et.al.|[2308.10590](http://arxiv.org/abs/2308.10590)|null|
+|**2023-08-20**|**Arena: A Learning-based Synchronization Scheme for Hierarchical Federated Learning--Technical Report**|Tianyu Qi et.al.|[2308.10298](http://arxiv.org/abs/2308.10298)|null|
+|**2023-08-20**|**Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi**|Hadi Nekoei et.al.|[2308.10284](http://arxiv.org/abs/2308.10284)|null|
+|**2023-08-20**|**Activation Addition: Steering Language Models Without Optimization**|Alex Turner et.al.|[2308.10248](http://arxiv.org/abs/2308.10248)|null|
+|**2023-08-20**|**Soft Decomposed Policy-Critic: Bridging the Gap for Effective Continuous Control with Discrete RL**|Yechen Zhang et.al.|[2308.10203](http://arxiv.org/abs/2308.10203)|null|
 |**2023-08-18**|**Reduced Order Modeling of a MOOSE-based Advanced Manufacturing Model with Operator Learning**|Mahmoud Yaseen et.al.|[2308.09691](http://arxiv.org/abs/2308.09691)|null|
 |**2023-08-18**|**Learning Computational Efficient Bots with Costly Features**|Anthony Kobanda et.al.|[2308.09629](http://arxiv.org/abs/2308.09629)|null|
 |**2023-08-18**|**Breaking the Complexity Barrier in Compositional Minimax Optimization**|Jin Liu et.al.|[2308.09604](http://arxiv.org/abs/2308.09604)|null|
@@ -954,7 +964,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -976,12 +986,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|null|
+|**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
+|**2023-08-20**|**FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt**|Zhixiao Qi et.al.|[2308.10173](http://arxiv.org/abs/2308.10173)|null|
+|**2023-08-20**|**Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?**|Kai Sun et.al.|[2308.10168](http://arxiv.org/abs/2308.10168)|null|
+|**2023-08-17**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|null|
 |**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
 |**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
 |**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
@@ -1310,5 +1325,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230821>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
 
