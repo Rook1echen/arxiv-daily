@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272](http://arxiv.org/abs/2308.12272)|null|
+|**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270](http://arxiv.org/abs/2308.12270)|**[link](https://github.com/ademiadeniji/lamp)**|
+|**2023-08-23**|**Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments**|Maria Rigaki et.al.|[2308.12086](http://arxiv.org/abs/2308.12086)|null|
+|**2023-08-23**|**Identifying Reaction-Aware Driving Styles of Stochastic Model Predictive Controlled Vehicles by Inverse Reinforcement Learning**|Ni Dang et.al.|[2308.12069](http://arxiv.org/abs/2308.12069)|null|
+|**2023-08-23**|**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**|Jian Hu et.al.|[2308.12050](http://arxiv.org/abs/2308.12050)|null|
+|**2023-08-23**|**Prompt-Based Length Controlled Generation with Reinforcement Learning**|Renlong Jie et.al.|[2308.12030](http://arxiv.org/abs/2308.12030)|null|
+|**2023-08-23**|**RamseyRL: A Framework for Intelligent Ramsey Number Counterexample Searching**|Steve Vott et.al.|[2308.11943](http://arxiv.org/abs/2308.11943)|null|
+|**2023-08-23**|**Diverse Policies Converge in Reward-free Markov Decision Processe**|Fanqi Lin et.al.|[2308.11924](http://arxiv.org/abs/2308.11924)|**[link](https://github.com/openrl-lab/diversepolicies)**|
+|**2023-08-23**|**A deep reinforcement learning approach for real-time demand-responsive railway rescheduling to mitigate station overcrowding using mobile data**|Enze Liu et.al.|[2308.11849](http://arxiv.org/abs/2308.11849)|null|
+|**2023-08-23**|**${\rm E}(3)$ -Equivariant Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning**|Dingyang Chen et.al.|[2308.11842](http://arxiv.org/abs/2308.11842)|**[link](https://github.com/dchen48/e3ac)**|
 |**2023-08-22**|**A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks**|Fuhui Zhou et.al.|[2308.11402](http://arxiv.org/abs/2308.11402)|null|
 |**2023-08-22**|**Boundary-RL: Reinforcement Learning for Weakly-Supervised Prostate Segmentation in TRUS Images**|Weixi Yi et.al.|[2308.11376](http://arxiv.org/abs/2308.11376)|null|
 |**2023-08-22**|**Careful at Estimation and Bold at Exploration**|Xing Chen et.al.|[2308.11348](http://arxiv.org/abs/2308.11348)|null|
@@ -990,6 +1000,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
+|**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
+|**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
 |**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422](http://arxiv.org/abs/2308.11422)|null|
 |**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|null|
 |**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
