@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**BridgeData V2: A Dataset for Robot Learning at Scale**|Homer Walke et.al.|[2308.12952](http://arxiv.org/abs/2308.12952)|**[link](https://github.com/rail-berkeley/BridgeData-V2)**|
+|**2023-08-24**|**An Efficient Distributed Multi-Agent Reinforcement Learning for EV Charging Network Control**|Amin Shojaeighadikolaei et.al.|[2308.12921](http://arxiv.org/abs/2308.12921)|null|
+|**2023-08-24**|**Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning**|Hazim Alzorgan et.al.|[2308.12843](http://arxiv.org/abs/2308.12843)|null|
+|**2023-08-24**|**Intentionally-underestimated Value Function at Terminal State for Temporal-difference Learning with Mis-designed Reward**|Taisuke Kobayashi et.al.|[2308.12772](http://arxiv.org/abs/2308.12772)|null|
+|**2023-08-24**|**Reinforcement learning informed evolutionary search for autonomous systems testing**|Dmytro Humeniuk et.al.|[2308.12762](http://arxiv.org/abs/2308.12762)|null|
+|**2023-08-24**|**Robust Computation Offloading and Trajectory Optimization for Multi-UAV-Assisted MEC: A Multi-Agent DRL Approach**|Bin Li et.al.|[2308.12756](http://arxiv.org/abs/2308.12756)|null|
+|**2023-08-24**|**Continuous Reinforcement Learning-based Dynamic Difficulty Adjustment in a Visual Working Memory Game**|Masoud Rahimi et.al.|[2308.12726](http://arxiv.org/abs/2308.12726)|null|
+|**2023-08-24**|**APART: Diverse Skill Discovery using All Pairs with Ascending Reward and DropouT**|Hadar Schreiber Galler et.al.|[2308.12649](http://arxiv.org/abs/2308.12649)|null|
+|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|null|
+|**2023-08-24**|**Predator-prey survival pressure is sufficient to evolve swarming behaviors**|Jianan Li et.al.|[2308.12624](http://arxiv.org/abs/2308.12624)|null|
 |**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272](http://arxiv.org/abs/2308.12272)|null|
 |**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270](http://arxiv.org/abs/2308.12270)|**[link](https://github.com/ademiadeniji/lamp)**|
 |**2023-08-23**|**Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments**|Maria Rigaki et.al.|[2308.12086](http://arxiv.org/abs/2308.12086)|null|
@@ -1000,6 +1010,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|null|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
 |**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
