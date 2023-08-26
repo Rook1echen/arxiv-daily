@@ -1,4 +1,4 @@
-## Updated on 2023.08.25
+## Updated on 2023.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## attack graph
 
@@ -50,7 +50,7 @@
 |**2023-08-24**|**Robust Computation Offloading and Trajectory Optimization for Multi-UAV-Assisted MEC: A Multi-Agent DRL Approach**|Bin Li et.al.|[2308.12756](http://arxiv.org/abs/2308.12756)|null|
 |**2023-08-24**|**Continuous Reinforcement Learning-based Dynamic Difficulty Adjustment in a Visual Working Memory Game**|Masoud Rahimi et.al.|[2308.12726](http://arxiv.org/abs/2308.12726)|null|
 |**2023-08-24**|**APART: Diverse Skill Discovery using All Pairs with Ascending Reward and DropouT**|Hadar Schreiber Galler et.al.|[2308.12649](http://arxiv.org/abs/2308.12649)|null|
-|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|null|
+|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|**[link](https://github.com/ait-aecid/alert-data-set)**|
 |**2023-08-24**|**Predator-prey survival pressure is sufficient to evolve swarming behaviors**|Jianan Li et.al.|[2308.12624](http://arxiv.org/abs/2308.12624)|null|
 |**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272](http://arxiv.org/abs/2308.12272)|null|
 |**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270](http://arxiv.org/abs/2308.12270)|**[link](https://github.com/ademiadeniji/lamp)**|
@@ -994,7 +994,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1016,18 +1016,18 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|null|
+|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|**[link](https://github.com/ait-aecid/alert-data-set)**|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
 |**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
 |**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422](http://arxiv.org/abs/2308.11422)|null|
-|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|null|
+|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|**[link](https://github.com/applemax1992/ipck)**|
 |**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
 |**2023-08-20**|**FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt**|Zhixiao Qi et.al.|[2308.10173](http://arxiv.org/abs/2308.10173)|null|
 |**2023-08-20**|**Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?**|Kai Sun et.al.|[2308.10168](http://arxiv.org/abs/2308.10168)|null|
@@ -1360,5 +1360,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230826>back to top</a>)</p>
 

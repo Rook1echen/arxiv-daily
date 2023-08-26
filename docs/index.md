@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.25
+## Updated on 2023.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -42,7 +42,7 @@ layout: default
 |**2023-08-24**|**Robust Computation Offloading and Trajectory Optimization for Multi-UAV-Assisted MEC: A Multi-Agent DRL Approach**|Bin Li et.al.|[2308.12756](http://arxiv.org/abs/2308.12756)|null|
 |**2023-08-24**|**Continuous Reinforcement Learning-based Dynamic Difficulty Adjustment in a Visual Working Memory Game**|Masoud Rahimi et.al.|[2308.12726](http://arxiv.org/abs/2308.12726)|null|
 |**2023-08-24**|**APART: Diverse Skill Discovery using All Pairs with Ascending Reward and DropouT**|Hadar Schreiber Galler et.al.|[2308.12649](http://arxiv.org/abs/2308.12649)|null|
-|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|null|
+|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|**[link](https://github.com/ait-aecid/alert-data-set)**|
 |**2023-08-24**|**Predator-prey survival pressure is sufficient to evolve swarming behaviors**|Jianan Li et.al.|[2308.12624](http://arxiv.org/abs/2308.12624)|null|
 |**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272](http://arxiv.org/abs/2308.12272)|null|
 |**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270](http://arxiv.org/abs/2308.12270)|**[link](https://github.com/ademiadeniji/lamp)**|
@@ -1010,12 +1010,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|null|
+|**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|**[link](https://github.com/ait-aecid/alert-data-set)**|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
 |**2023-08-22**|**Knowledge Graph Prompting for Multi-Document Question Answering**|Yu Wang et.al.|[2308.11730](http://arxiv.org/abs/2308.11730)|null|
 |**2023-08-22**|**Recommending Analogical APIs via Knowledge Graph Embedding**|Mingwei Liu et.al.|[2308.11422](http://arxiv.org/abs/2308.11422)|null|
-|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|null|
+|**2023-08-21**|**Incorprating Prompt tuning for Commit classification with prior Knowledge**|Jiajun Tong et.al.|[2308.10576](http://arxiv.org/abs/2308.10576)|**[link](https://github.com/applemax1992/ipck)**|
 |**2023-08-21**|**KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**|Nicolas Heist et.al.|[2308.10537](http://arxiv.org/abs/2308.10537)|null|
 |**2023-08-20**|**FoodGPT: A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt**|Zhixiao Qi et.al.|[2308.10173](http://arxiv.org/abs/2308.10173)|null|
 |**2023-08-20**|**Head-to-Tail: How Knowledgeable are Large Language Models (LLM)? A.K.A. Will LLMs Replace Knowledge Graphs?**|Kai Sun et.al.|[2308.10168](http://arxiv.org/abs/2308.10168)|null|
