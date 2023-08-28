@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Towards Optimal Head-to-head Autonomous Racing with Curriculum Reinforcement Learning**|Dvij Kalaria et.al.|[2308.13491](http://arxiv.org/abs/2308.13491)|null|
+|**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
+|**2023-08-25**|**Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities**|Yanjie Song et.al.|[2308.13420](http://arxiv.org/abs/2308.13420)|null|
+|**2023-08-25**|**JAX-LOB: A GPU-Accelerated limit order book simulator to unlock large scale reinforcement learning for trading**|Sascha Frey et.al.|[2308.13289](http://arxiv.org/abs/2308.13289)|null|
+|**2023-08-25**|**Integrating LLMs and Decision Transformers for Language Grounded Generative Quality-Diversity**|Achkan Salehi et.al.|[2308.13278](http://arxiv.org/abs/2308.13278)|null|
+|**2023-08-25**|**A Game of Bundle Adjustment -- Learning Efficient Convergence**|Amir Belder et.al.|[2308.13270](http://arxiv.org/abs/2308.13270)|null|
+|**2023-08-25**|**Model-free Reinforcement Learning with Stochastic Reward Stabilization for Recommender Systems**|Tianchi Cai et.al.|[2308.13246](http://arxiv.org/abs/2308.13246)|null|
+|**2023-08-25**|**Joint Band Assignment and Beam Management using Hierarchical Reinforcement Learning for Multi-Band Communication**|Dohyun Kim et.al.|[2308.13202](http://arxiv.org/abs/2308.13202)|null|
+|**2023-08-25**|**Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers**|Jiawen Xie et.al.|[2308.13191](http://arxiv.org/abs/2308.13191)|null|
+|**2023-08-25**|**Learn With Imagination: Safe Set Guided State-wise Constrained Policy Optimization**|Weiye Zhao et.al.|[2308.13140](http://arxiv.org/abs/2308.13140)|null|
 |**2023-08-24**|**BridgeData V2: A Dataset for Robot Learning at Scale**|Homer Walke et.al.|[2308.12952](http://arxiv.org/abs/2308.12952)|**[link](https://github.com/rail-berkeley/BridgeData-V2)**|
 |**2023-08-24**|**An Efficient Distributed Multi-Agent Reinforcement Learning for EV Charging Network Control**|Amin Shojaeighadikolaei et.al.|[2308.12921](http://arxiv.org/abs/2308.12921)|null|
 |**2023-08-24**|**Actuator Trajectory Planning for UAVs with Overhead Manipulator using Reinforcement Learning**|Hazim Alzorgan et.al.|[2308.12843](http://arxiv.org/abs/2308.12843)|null|
@@ -1010,6 +1020,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
+|**2023-08-25**|**Representing Timed Automata and Timing Anomalies of Cyber-Physical Production Systems in Knowledge Graphs**|Tom Westermann et.al.|[2308.13433](http://arxiv.org/abs/2308.13433)|null|
+|**2023-08-25**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|null|
+|**2023-08-23**|**An approach based on Open Research Knowledge Graph for Knowledge Acquisition from scientific papers**|Azanzi Jiomekong et.al.|[2308.12981](http://arxiv.org/abs/2308.12981)|null|
 |**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|**[link](https://github.com/ait-aecid/alert-data-set)**|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
 |**2023-08-23**|**Relational Concept Based Models**|Pietro Barbiero et.al.|[2308.11991](http://arxiv.org/abs/2308.11991)|null|
