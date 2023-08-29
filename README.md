@@ -1,4 +1,4 @@
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Learning Visual Tracking and Reaching with Deep Reinforcement Learning on a UR10e Robotic Arm**|Colin Bellinger et.al.|[2308.14652](http://arxiv.org/abs/2308.14652)|**[link](https://github.com/cbellinger27/bendrl_reacher_tracker)**|
+|**2023-08-28**|**Edge Generation Scheduling for DAG Tasks using Deep Reinforcement Learning**|Binqi Sun et.al.|[2308.14647](http://arxiv.org/abs/2308.14647)|null|
+|**2023-08-28**|**Recent Progress in Energy Management of Connected Hybrid Electric Vehicles Using Reinforcement Learning**|Min Hua et.al.|[2308.14602](http://arxiv.org/abs/2308.14602)|null|
+|**2023-08-28**|**S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction**|Emanuele Santellani et.al.|[2308.14598](http://arxiv.org/abs/2308.14598)|null|
+|**2023-08-28**|**Deep Reinforcement Learning for Uplink Scheduling in NOMA-URLLC Networks**|Benoît-Marie Robaglia et.al.|[2308.14523](http://arxiv.org/abs/2308.14523)|null|
+|**2023-08-28**|**Context-Aware Composition of Agent Policies by Markov Decision Process Entity Embeddings and Agent Ensembles**|Nicole Merkle et.al.|[2308.14521](http://arxiv.org/abs/2308.14521)|**[link](https://github.com/nmerkle/sw_journal)**|
+|**2023-08-28**|**Shielded Reinforcement Learning for Hybrid Systems**|Asger Horn Brorholt et.al.|[2308.14424](http://arxiv.org/abs/2308.14424)|null|
+|**2023-08-28**|**Target-independent XLA optimization using Reinforcement Learning**|Milan Ganai et.al.|[2308.14364](http://arxiv.org/abs/2308.14364)|null|
+|**2023-08-28**|**Simple Modification of the Upper Confidence Bound Algorithm by Generalized Weighted Averages**|Nobuhito Manome et.al.|[2308.14350](http://arxiv.org/abs/2308.14350)|**[link](https://github.com/manome/python-mab)**|
+|**2023-08-28**|**Reinforcement Learning for Generative AI: A Survey**|Yuanjiang Cao et.al.|[2308.14328](http://arxiv.org/abs/2308.14328)|null|
 |**2023-08-25**|**Towards Optimal Head-to-head Autonomous Racing with Curriculum Reinforcement Learning**|Dvij Kalaria et.al.|[2308.13491](http://arxiv.org/abs/2308.13491)|null|
 |**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
 |**2023-08-25**|**Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities**|Yanjie Song et.al.|[2308.13420](http://arxiv.org/abs/2308.13420)|null|
@@ -1004,7 +1014,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1026,12 +1036,21 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**RESTORE: Graph Embedding Assessment Through Reconstruction**|Hong Yung Yip et.al.|[2308.14659](http://arxiv.org/abs/2308.14659)|null|
+|**2023-08-28**|**Context-Aware Composition of Agent Policies by Markov Decision Process Entity Embeddings and Agent Ensembles**|Nicole Merkle et.al.|[2308.14521](http://arxiv.org/abs/2308.14521)|**[link](https://github.com/nmerkle/sw_journal)**|
+|**2023-08-28**|**Biomedical Entity Linking with Triple-aware Pre-Training**|Xi Yan et.al.|[2308.14429](http://arxiv.org/abs/2308.14429)|null|
+|**2023-08-28**|**DISC-MedLLM: Bridging General Large Language Models and Real-World Medical Consultation**|Zhijie Bao et.al.|[2308.14346](http://arxiv.org/abs/2308.14346)|null|
+|**2023-08-28**|**Leveraging A Medical Knowledge Graph into Large Language Models for Diagnosis Prediction**|Yanjun Gao et.al.|[2308.14321](http://arxiv.org/abs/2308.14321)|null|
+|**2023-08-27**|**Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact**|Xin Luna Dong et.al.|[2308.14217](http://arxiv.org/abs/2308.14217)|null|
+|**2023-08-26**|**Exploring Large Language Models for Knowledge Graph Completion**|Liang Yao et.al.|[2308.13916](http://arxiv.org/abs/2308.13916)|**[link](https://github.com/yao8839836/kg-llm)**|
+|**2023-08-26**|**i-Align: an interpretable knowledge graph alignment model**|Bayu Distiawan Trisedya et.al.|[2308.13755](http://arxiv.org/abs/2308.13755)|null|
+|**2023-08-25**|**Rethinking Language Models as Symbolic Knowledge Graphs**|Vishwas Mruthyunjaya et.al.|[2308.13676](http://arxiv.org/abs/2308.13676)|null|
 |**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
 |**2023-08-25**|**Representing Timed Automata and Timing Anomalies of Cyber-Physical Production Systems in Knowledge Graphs**|Tom Westermann et.al.|[2308.13433](http://arxiv.org/abs/2308.13433)|null|
 |**2023-08-25**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|null|
@@ -1374,5 +1393,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230829>back to top</a>)</p>
 
