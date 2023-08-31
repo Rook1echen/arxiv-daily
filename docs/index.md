@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,7 +34,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-29**|**Policy composition in reinforcement learning via multi-objective policy optimization**|Shruti Mishra et.al.|[2308.15470](http://arxiv.org/abs/2308.15470)|null|
+|**2023-08-30**|**EnsembleFollower: A Hybrid Car-Following Framework Based On Reinforcement Learning and Hierarchical Planning**|Xu Han et.al.|[2308.16008](http://arxiv.org/abs/2308.16008)|null|
+|**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|null|
+|**2023-08-30**|**Iterative Reward Shaping using Human Feedback for Correcting Reward Misspecification**|Jasmina Gajcin et.al.|[2308.15969](http://arxiv.org/abs/2308.15969)|**[link](https://github.com/anonymous902109/iters)**|
+|**2023-08-30**|**Cyclophobic Reinforcement Learning**|Stefan Sylvius Wagner et.al.|[2308.15911](http://arxiv.org/abs/2308.15911)|null|
+|**2023-08-30**|**Learning the References of Online Model Predictive Control for Urban Self-Driving**|Yubin Wang et.al.|[2308.15808](http://arxiv.org/abs/2308.15808)|null|
+|**2023-08-30**|**Benchmarking Robustness and Generalization in Multi-Agent Systems: A Case Study on Neural MMO**|Yangkun Chen et.al.|[2308.15802](http://arxiv.org/abs/2308.15802)|null|
+|**2023-08-29**|**Deep Reinforcement Learning Based Framework for Mobile Energy Disseminator Dispatching to Charge On-the-Road Electric Vehicles**|Jiaming Wang et.al.|[2308.15656](http://arxiv.org/abs/2308.15656)|null|
+|**2023-08-29**|**Adversarial Style Transfer for Robust Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2308.15550](http://arxiv.org/abs/2308.15550)|null|
+|**2023-08-30**|**Policy composition in reinforcement learning via multi-objective policy optimization**|Shruti Mishra et.al.|[2308.15470](http://arxiv.org/abs/2308.15470)|null|
 |**2023-08-29**|**Online Overexposed Pixels Hallucination in Videos with Adaptive Reference Frame Selection**|Yazhou Xing et.al.|[2308.15462](http://arxiv.org/abs/2308.15462)|null|
 |**2023-08-29**|**Decentralized Multi-agent Reinforcement Learning based State-of-Charge Balancing Strategy for Distributed Energy Storage System**|Zheng Xiong et.al.|[2308.15394](http://arxiv.org/abs/2308.15394)|null|
 |**2023-08-29**|**On the improvement of model-predictive controllers**|L. Féret et.al.|[2308.15157](http://arxiv.org/abs/2308.15157)|null|
@@ -1040,6 +1048,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
+|**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
+|**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
+|**2023-08-30**|**A Logic Programming Approach to Global Logistics in a Co-Design Environment**|Emmanuelle Dietz et.al.|[2308.15892](http://arxiv.org/abs/2308.15892)|null|
+|**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|null|
 |**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
 |**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
 |**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
