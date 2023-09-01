@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.31
+## Updated on 2023.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**D-VAT: End-to-End Visual Active Tracking for Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2308.16874](http://arxiv.org/abs/2308.16874)|null|
+|**2023-08-31**|**Reinforcement learning for safety-critical control of an automated vehicle**|Florian Thaler et.al.|[2308.16767](http://arxiv.org/abs/2308.16767)|null|
+|**2023-08-31**|**The Power of MEME: Adversarial Malware Creation with Model-Based Reinforcement Learning**|Maria Rigaki et.al.|[2308.16562](http://arxiv.org/abs/2308.16562)|**[link](https://github.com/stratosphereips/meme_malware_rl)**|
+|**2023-08-31**|**A Policy Adaptation Method for Implicit Multitask Reinforcement Learning Problems**|Satoshi Yamamori et.al.|[2308.16471](http://arxiv.org/abs/2308.16471)|null|
+|**2023-08-31**|**Multi-Objective Decision Transformers for Offline Reinforcement Learning**|Abdelghani Ghanem et.al.|[2308.16379](http://arxiv.org/abs/2308.16379)|null|
+|**2023-08-30**|**A reinforcement learning based construction material supply strategy using robotic crane and computer vision for building reconstruction after an earthquake**|Yifei Xiao et.al.|[2308.16280](http://arxiv.org/abs/2308.16280)|null|
 |**2023-08-30**|**EnsembleFollower: A Hybrid Car-Following Framework Based On Reinforcement Learning and Hierarchical Planning**|Xu Han et.al.|[2308.16008](http://arxiv.org/abs/2308.16008)|null|
 |**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|null|
 |**2023-08-30**|**Iterative Reward Shaping using Human Feedback for Correcting Reward Misspecification**|Jasmina Gajcin et.al.|[2308.15969](http://arxiv.org/abs/2308.15969)|**[link](https://github.com/anonymous902109/iters)**|
@@ -1048,6 +1054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
 |**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
 |**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
 |**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
