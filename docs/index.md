@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.01
+## Updated on 2023.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
