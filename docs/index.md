@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -57,7 +57,7 @@ layout: default
 |**2023-08-29**|**R^3: On-device Real-Time Deep Reinforcement Learning for Autonomous Robotics**|Zexin Li et.al.|[2308.15039](http://arxiv.org/abs/2308.15039)|null|
 |**2023-08-29**|**Distributed multi-agent target search and tracking with Gaussian process and reinforcement learning**|Jigang Kim et.al.|[2308.14971](http://arxiv.org/abs/2308.14971)|null|
 |**2023-08-29**|**Improving Reinforcement Learning Training Regimes for Social Robot Navigation**|Adam Sigal et.al.|[2308.14947](http://arxiv.org/abs/2308.14947)|**[link](https://github.com/raise-lab/soc-nav-training)**|
-|**2023-08-28**|**Reinforcement Learning for Sampling on Temporal Medical Imaging Sequences**|Zhishen Huang et.al.|[2308.14946](http://arxiv.org/abs/2308.14946)|null|
+|**2023-08-28**|**Reinforcement Learning for Sampling on Temporal Medical Imaging Sequences**|Zhishen Huang et.al.|[2308.14946](http://arxiv.org/abs/2308.14946)|**[link](https://github.com/zhishenhuang/rlsamp)**|
 |**2023-08-28**|**Learning Visual Tracking and Reaching with Deep Reinforcement Learning on a UR10e Robotic Arm**|Colin Bellinger et.al.|[2308.14652](http://arxiv.org/abs/2308.14652)|**[link](https://github.com/cbellinger27/bendrl_reacher_tracker)**|
 |**2023-08-28**|**Edge Generation Scheduling for DAG Tasks using Deep Reinforcement Learning**|Binqi Sun et.al.|[2308.14647](http://arxiv.org/abs/2308.14647)|null|
 |**2023-08-28**|**Recent Progress in Energy Management of Connected Hybrid Electric Vehicles Using Reinforcement Learning**|Min Hua et.al.|[2308.14602](http://arxiv.org/abs/2308.14602)|null|
@@ -72,7 +72,7 @@ layout: default
 |**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
 |**2023-08-25**|**Reinforcement Learning-assisted Evolutionary Algorithm: A Survey and Research Opportunities**|Yanjie Song et.al.|[2308.13420](http://arxiv.org/abs/2308.13420)|null|
 |**2023-08-25**|**JAX-LOB: A GPU-Accelerated limit order book simulator to unlock large scale reinforcement learning for trading**|Sascha Frey et.al.|[2308.13289](http://arxiv.org/abs/2308.13289)|null|
-|**2023-08-25**|**Integrating LLMs and Decision Transformers for Language Grounded Generative Quality-Diversity**|Achkan Salehi et.al.|[2308.13278](http://arxiv.org/abs/2308.13278)|null|
+|**2023-08-25**|**Integrating LLMs and Decision Transformers for Language Grounded Generative Quality-Diversity**|Achkan Salehi et.al.|[2308.13278](http://arxiv.org/abs/2308.13278)|**[link](https://github.com/salehiac/languagegroundedqd)**|
 |**2023-08-25**|**A Game of Bundle Adjustment -- Learning Efficient Convergence**|Amir Belder et.al.|[2308.13270](http://arxiv.org/abs/2308.13270)|null|
 |**2023-08-25**|**Model-free Reinforcement Learning with Stochastic Reward Stabilization for Recommender Systems**|Tianchi Cai et.al.|[2308.13246](http://arxiv.org/abs/2308.13246)|null|
 |**2023-08-25**|**Joint Band Assignment and Beam Management using Hierarchical Reinforcement Learning for Multi-Band Communication**|Dohyun Kim et.al.|[2308.13202](http://arxiv.org/abs/2308.13202)|null|
@@ -90,7 +90,7 @@ layout: default
 |**2023-08-24**|**Predator-prey survival pressure is sufficient to evolve swarming behaviors**|Jianan Li et.al.|[2308.12624](http://arxiv.org/abs/2308.12624)|null|
 |**2023-08-23**|**Simple is Better and Large is Not Enough: Towards Ensembling of Foundational Language Models**|Nancy Tyagi et.al.|[2308.12272](http://arxiv.org/abs/2308.12272)|null|
 |**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270](http://arxiv.org/abs/2308.12270)|**[link](https://github.com/ademiadeniji/lamp)**|
-|**2023-08-23**|**Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments**|Maria Rigaki et.al.|[2308.12086](http://arxiv.org/abs/2308.12086)|null|
+|**2023-08-23**|**Out of the Cage: How Stochastic Parrots Win in Cyber Security Environments**|Maria Rigaki et.al.|[2308.12086](http://arxiv.org/abs/2308.12086)|**[link](https://github.com/stratosphereips/netsecgame)**|
 |**2023-08-23**|**Identifying Reaction-Aware Driving Styles of Stochastic Model Predictive Controlled Vehicles by Inverse Reinforcement Learning**|Ni Dang et.al.|[2308.12069](http://arxiv.org/abs/2308.12069)|null|
 |**2023-08-23**|**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**|Jian Hu et.al.|[2308.12050](http://arxiv.org/abs/2308.12050)|null|
 |**2023-08-23**|**Prompt-Based Length Controlled Generation with Reinforcement Learning**|Renlong Jie et.al.|[2308.12030](http://arxiv.org/abs/2308.12030)|null|
@@ -1060,7 +1060,7 @@ layout: default
 |**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
 |**2023-08-30**|**A Logic Programming Approach to Global Logistics in a Co-Design Environment**|Emmanuelle Dietz et.al.|[2308.15892](http://arxiv.org/abs/2308.15892)|null|
 |**2023-08-30**|**Knowledge-grounded Natural Language Recommendation Explanation**|Anthony Colas et.al.|[2308.15813](http://arxiv.org/abs/2308.15813)|null|
-|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|null|
+|**2023-08-30**|**Representing the Disciplinary Structure of Physics: A Comparative Evaluation of Graph and Text Embedding Methods**|Isabel Constantino et.al.|[2308.15706](http://arxiv.org/abs/2308.15706)|**[link](https://github.com/sabsconstantino/emb-comp-aps)**|
 |**2023-08-29**|**KGConv, a Conversational Corpus grounded in Wikidata**|Quentin Brabant et.al.|[2308.15298](http://arxiv.org/abs/2308.15298)|null|
 |**2023-08-29**|**Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation**|Meng Yuan et.al.|[2308.15244](http://arxiv.org/abs/2308.15244)|null|
 |**2023-08-29**|**Ontologies in Digital Twins: A Systematic Literature Review**|Erkan Karabulut et.al.|[2308.15168](http://arxiv.org/abs/2308.15168)|null|
@@ -1077,7 +1077,7 @@ layout: default
 |**2023-08-25**|**Rethinking Language Models as Symbolic Knowledge Graphs**|Vishwas Mruthyunjaya et.al.|[2308.13676](http://arxiv.org/abs/2308.13676)|null|
 |**2023-08-25**|**Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability of Language Models**|Nancy Tyagi et.al.|[2308.13467](http://arxiv.org/abs/2308.13467)|null|
 |**2023-08-25**|**Representing Timed Automata and Timing Anomalies of Cyber-Physical Production Systems in Knowledge Graphs**|Tom Westermann et.al.|[2308.13433](http://arxiv.org/abs/2308.13433)|null|
-|**2023-08-25**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|null|
+|**2023-08-25**|**Knowledge-Based Version Incompatibility Detection for Deep Learning**|Zhongkai Zhao et.al.|[2308.13276](http://arxiv.org/abs/2308.13276)|**[link](https://github.com/kkz20/decide)**|
 |**2023-08-23**|**An approach based on Open Research Knowledge Graph for Knowledge Acquisition from scientific papers**|Azanzi Jiomekong et.al.|[2308.12981](http://arxiv.org/abs/2308.12981)|null|
 |**2023-08-24**|**Introducing a New Alert Data Set for Multi-Step Attack Analysis**|Max Landauer et.al.|[2308.12627](http://arxiv.org/abs/2308.12627)|**[link](https://github.com/ait-aecid/alert-data-set)**|
 |**2023-08-23**|**LKPNR: LLM and KG for Personalized News Recommendation Framework**|Chen hao et.al.|[2308.12028](http://arxiv.org/abs/2308.12028)|**[link](https://github.com/xuan-zw/lkpnr)**|
@@ -1097,7 +1097,7 @@ layout: default
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
 |**2023-08-14**|**Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis**|Akash Anil et.al.|[2308.07942](http://arxiv.org/abs/2308.07942)|**[link](https://github.com/anilakash/indkgc)**|
-|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|null|
+|**2023-08-15**|**A Comprehensive Study on Knowledge Graph Embedding over Relational Patterns Based on Rule Learning**|Long Jin et.al.|[2308.07889](http://arxiv.org/abs/2308.07889)|**[link](https://github.com/zjukg/comprehensive-study-over-relational-patterns)**|
 |**2023-08-15**|**Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph**|Yi Liu et.al.|[2308.07752](http://arxiv.org/abs/2308.07752)|null|
 |**2023-08-14**|**Can Knowledge Graphs Simplify Text?**|Anthony Colas et.al.|[2308.06975](http://arxiv.org/abs/2308.06975)|null|
 |**2023-08-13**|**3D Scene Graph Prediction on Point Clouds Using Knowledge Graphs**|Yiding Qiu et.al.|[2308.06719](http://arxiv.org/abs/2308.06719)|null|
