@@ -34,6 +34,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498](http://arxiv.org/abs/2309.00498)|null|
+|**2023-09-01**|**How Does Forecasting Affect the Convergence of DRL Techniques in O-RAN Slicing?**|Ahmad M. Nagib et.al.|[2309.00489](http://arxiv.org/abs/2309.00489)|null|
+|**2023-09-01**|**End-to-end Lidar-Driven Reinforcement Learning for Autonomous Racing**|Meraj Mammadov et.al.|[2309.00296](http://arxiv.org/abs/2309.00296)|null|
+|**2023-09-01**|**RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback**|Harrison Lee et.al.|[2309.00267](http://arxiv.org/abs/2309.00267)|null|
+|**2023-09-01**|**Suicidal Pedestrian: Generation of Safety-Critical Scenarios for Autonomous Vehicles**|Yuhang Yang et.al.|[2309.00249](http://arxiv.org/abs/2309.00249)|null|
+|**2023-09-01**|**JoTR: A Joint Transformer and Reinforcement Learning Framework for Dialog Policy Learning**|Wai-Chung Kwan et.al.|[2309.00230](http://arxiv.org/abs/2309.00230)|**[link](https://github.com/kwanwaichung/jotr)**|
+|**2023-09-01**|**Parallel Distributional Prioritized Deep Reinforcement Learning for Unmanned Aerial Vehicles**|Alisson Henrique Kolling et.al.|[2309.00176](http://arxiv.org/abs/2309.00176)|null|
+|**2023-08-31**|**Multi Agent DeepRL based Joint Power and Subchannel Allocation in IAB networks**|Lakshya Jagadish et.al.|[2309.00144](http://arxiv.org/abs/2309.00144)|null|
+|**2023-08-31**|**RePo: Resilient Model-Based Reinforcement Learning by Regularizing Posterior Predictability**|Chuning Zhu et.al.|[2309.00082](http://arxiv.org/abs/2309.00082)|null|
 |**2023-08-31**|**D-VAT: End-to-End Visual Active Tracking for Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2308.16874](http://arxiv.org/abs/2308.16874)|null|
 |**2023-08-31**|**Reinforcement learning for safety-critical control of an automated vehicle**|Florian Thaler et.al.|[2308.16767](http://arxiv.org/abs/2308.16767)|null|
 |**2023-08-31**|**The Power of MEME: Adversarial Malware Creation with Model-Based Reinforcement Learning**|Maria Rigaki et.al.|[2308.16562](http://arxiv.org/abs/2308.16562)|**[link](https://github.com/stratosphereips/meme_malware_rl)**|
@@ -1054,6 +1063,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550](http://arxiv.org/abs/2309.00550)|**[link](https://github.com/andreeaiana/nemig)**|
+|**2023-09-01**|**On the Aggregation of Rules for Knowledge Graph Completion**|Patrick Betz et.al.|[2309.00306](http://arxiv.org/abs/2309.00306)|null|
 |**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
 |**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
 |**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
