@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Neurosymbolic Meta-Reinforcement Lookahead Learning Achieves Safe Self-Driving in Non-Stationary Environments**|Haozhe Lei et.al.|[2309.02328](http://arxiv.org/abs/2309.02328)|null|
+|**2023-09-05**|**Second International Workshop on Adaptive Cyber Defense, 2023**|Li Li et.al.|[2309.02247](http://arxiv.org/abs/2309.02247)|null|
+|**2023-09-05**|**Dialog Action-Aware Transformer for Dialog Policy Learning**|Huimin Wang et.al.|[2309.02240](http://arxiv.org/abs/2309.02240)|null|
+|**2023-09-05**|**Distributionally Robust Model-based Reinforcement Learning with Large State Spaces**|Shyam Sundhar Ramesh et.al.|[2309.02236](http://arxiv.org/abs/2309.02236)|null|
+|**2023-09-05**|**Personalized Federated Deep Reinforcement Learning-based Trajectory Optimization for Multi-UAV Assisted Edge Computing**|Zhengrong Song et.al.|[2309.02193](http://arxiv.org/abs/2309.02193)|null|
+|**2023-09-05**|**Model-based Offline Policy Optimization with Adversarial Network**|Junming Yang et.al.|[2309.02157](http://arxiv.org/abs/2309.02157)|null|
+|**2023-09-05**|**Drag Reduction in Flows Past 2D and 3D Circular Cylinders Through Deep Reinforcement Learning**|Michail Chatzimanolakis et.al.|[2309.02109](http://arxiv.org/abs/2309.02109)|null|
+|**2023-09-05**|**Quantum Circuit Distillation and Compression**|Shunsuke Daimon et.al.|[2309.01911](http://arxiv.org/abs/2309.01911)|null|
+|**2023-09-05**|**A Survey on Physics Informed Reinforcement Learning: Review and Open Problems**|Chayan Banerjee et.al.|[2309.01909](http://arxiv.org/abs/2309.01909)|null|
+|**2023-09-04**|**LoopTune: Optimizing Tensor Computations with Reinforcement Learning**|Dejan Grubisic et.al.|[2309.01825](http://arxiv.org/abs/2309.01825)|null|
 |**2023-09-01**|**Application of Deep Learning Methods in Monitoring and Optimization of Electric Power Systems**|Ognjen Kundacina et.al.|[2309.00498](http://arxiv.org/abs/2309.00498)|null|
 |**2023-09-01**|**How Does Forecasting Affect the Convergence of DRL Techniques in O-RAN Slicing?**|Ahmad M. Nagib et.al.|[2309.00489](http://arxiv.org/abs/2309.00489)|null|
 |**2023-09-01**|**End-to-end Lidar-Driven Reinforcement Learning for Autonomous Racing**|Meraj Mammadov et.al.|[2309.00296](http://arxiv.org/abs/2309.00296)|null|
@@ -1044,7 +1054,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
-|**2023-06-20**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|null|
+|**2023-09-02**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|null|
 |**2023-05-23**|**Learning from demonstrations: An intuitive VR environment for imitation learning of construction robots**|Kangkang Duan et.al.|[2305.14584](http://arxiv.org/abs/2305.14584)|null|
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
@@ -1063,6 +1073,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|null|
+|**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538](http://arxiv.org/abs/2309.01538)|null|
+|**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370](http://arxiv.org/abs/2309.01370)|null|
+|**2023-09-03**|**DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version)**|Jiaxin Jiang et.al.|[2309.01199](http://arxiv.org/abs/2309.01199)|null|
+|**2023-09-03**|**End-to-End Learning on Multimodal Knowledge Graphs**|W. X. Wilcke et.al.|[2309.01169](http://arxiv.org/abs/2309.01169)|null|
+|**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917](http://arxiv.org/abs/2309.00917)|null|
 |**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550](http://arxiv.org/abs/2309.00550)|**[link](https://github.com/andreeaiana/nemig)**|
 |**2023-09-01**|**On the Aggregation of Rules for Knowledge Graph Completion**|Patrick Betz et.al.|[2309.00306](http://arxiv.org/abs/2309.00306)|null|
 |**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
