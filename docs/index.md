@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Learning to Recharge: UAV Coverage Path Planning through Deep Reinforcement Learning**|Mirco Theile et.al.|[2309.03157](http://arxiv.org/abs/2309.03157)|null|
+|**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|null|
+|**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997](http://arxiv.org/abs/2309.02997)|null|
+|**2023-09-06**|**An Offline Learning Approach to Propagator Models**|Eyal Neuman et.al.|[2309.02994](http://arxiv.org/abs/2309.02994)|null|
+|**2023-09-06**|**Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models**|Pierre Schumacher et.al.|[2309.02976](http://arxiv.org/abs/2309.02976)|null|
+|**2023-09-06**|**Drag-reduction strategies in wall-bounded turbulent flows using deep reinforcement learning**|L. Guastoni et.al.|[2309.02943](http://arxiv.org/abs/2309.02943)|null|
+|**2023-09-06**|**Reinforcement Learning Based Gasoline Blending Optimization: Achieving More Efficient Nonlinear Online Blending of Fuels**|Muyi Huang et.al.|[2309.02929](http://arxiv.org/abs/2309.02929)|null|
+|**2023-09-06**|**On Reducing Undesirable Behavior in Deep Reinforcement Learning Models**|Ophir Carmel et.al.|[2309.02869](http://arxiv.org/abs/2309.02869)|null|
+|**2023-09-06**|**Near-continuous time Reinforcement Learning for continuous state-action spaces**|Lorenzo Croissant et.al.|[2309.02815](http://arxiv.org/abs/2309.02815)|null|
+|**2023-09-06**|**Technical Report: A Contact-aware Feedback CPG System for Learning-based Locomotion Control in a Soft Snake Robot**|Xuan Liu et.al.|[2309.02781](http://arxiv.org/abs/2309.02781)|null|
 |**2023-09-05**|**Neurosymbolic Meta-Reinforcement Lookahead Learning Achieves Safe Self-Driving in Non-Stationary Environments**|Haozhe Lei et.al.|[2309.02328](http://arxiv.org/abs/2309.02328)|null|
 |**2023-09-05**|**Second International Workshop on Adaptive Cyber Defense, 2023**|Li Li et.al.|[2309.02247](http://arxiv.org/abs/2309.02247)|null|
 |**2023-09-05**|**Dialog Action-Aware Transformer for Dialog Policy Learning**|Huimin Wang et.al.|[2309.02240](http://arxiv.org/abs/2309.02240)|null|
@@ -1073,6 +1083,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118](http://arxiv.org/abs/2309.03118)|null|
+|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|null|
 |**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538](http://arxiv.org/abs/2309.01538)|null|
 |**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370](http://arxiv.org/abs/2309.01370)|null|
