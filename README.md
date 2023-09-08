@@ -1,4 +1,4 @@
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891](http://arxiv.org/abs/2309.03891)|null|
+|**2023-09-07**|**Bootstrapping Adaptive Human-Machine Interfaces with Offline Reinforcement Learning**|Jensen Gao et.al.|[2309.03839](http://arxiv.org/abs/2309.03839)|null|
+|**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|null|
+|**2023-09-07**|**Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning**|Chengmin Zhou et.al.|[2309.03758](http://arxiv.org/abs/2309.03758)|null|
+|**2023-09-07**|**A State Representation for Diminishing Rewards**|Ted Moskovitz et.al.|[2309.03710](http://arxiv.org/abs/2309.03710)|null|
+|**2023-09-07**|**Chat Failures and Troubles: Reasons and Solutions**|Manal Helal et.al.|[2309.03708](http://arxiv.org/abs/2309.03708)|null|
+|**2023-09-07**|**Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments**|Manuel Eberhardinger et.al.|[2309.03651](http://arxiv.org/abs/2309.03651)|null|
+|**2023-09-07**|**NeuroCodeBench: a plain C neural network benchmark for software verification**|Edoardo Manino et.al.|[2309.03617](http://arxiv.org/abs/2309.03617)|null|
+|**2023-09-07**|**Navigation Through Endoluminal Channels Using Q-Learning**|Oded Medina et.al.|[2309.03615](http://arxiv.org/abs/2309.03615)|null|
+|**2023-09-07**|**Deep Reinforcement Learning Enabled Joint Deployment and Beamforming in STAR-RIS Assisted Networks**|Zhuoyuan Ma et.al.|[2309.03520](http://arxiv.org/abs/2309.03520)|null|
 |**2023-09-06**|**Learning to Recharge: UAV Coverage Path Planning through Deep Reinforcement Learning**|Mirco Theile et.al.|[2309.03157](http://arxiv.org/abs/2309.03157)|null|
 |**2023-09-06**|**ORL-AUDITOR: Dataset Auditing in Offline Deep Reinforcement Learning**|Linkang Du et.al.|[2309.03081](http://arxiv.org/abs/2309.03081)|null|
 |**2023-09-06**|**Multi-log grasping using reinforcement learning and virtual visual servoing**|Erik Wallin et.al.|[2309.02997](http://arxiv.org/abs/2309.02997)|null|
@@ -1067,7 +1077,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1089,12 +1099,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
+|**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|null|
+|**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
+|**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227](http://arxiv.org/abs/2309.03227)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118](http://arxiv.org/abs/2309.03118)|null|
 |**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|null|
 |**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|null|
@@ -1468,5 +1482,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230907>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230908>back to top</a>)</p>
 
