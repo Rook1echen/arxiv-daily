@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.09
+## Updated on 2023.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -36,7 +36,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891](http://arxiv.org/abs/2309.03891)|null|
 |**2023-09-07**|**Bootstrapping Adaptive Human-Machine Interfaces with Offline Reinforcement Learning**|Jensen Gao et.al.|[2309.03839](http://arxiv.org/abs/2309.03839)|null|
-|**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|null|
+|**2023-09-07**|**CPU frequency scheduling of real-time applications on embedded devices with temporal encoding-based deep reinforcement learning**|Ti Zhou et.al.|[2309.03779](http://arxiv.org/abs/2309.03779)|**[link](https://github.com/coladog/tinyagent)**|
 |**2023-09-07**|**Hybrid of representation learning and reinforcement learning for dynamic and complex robotic motion planning**|Chengmin Zhou et.al.|[2309.03758](http://arxiv.org/abs/2309.03758)|null|
 |**2023-09-07**|**A State Representation for Diminishing Rewards**|Ted Moskovitz et.al.|[2309.03710](http://arxiv.org/abs/2309.03710)|null|
 |**2023-09-07**|**Chat Failures and Troubles: Reasons and Solutions**|Manal Helal et.al.|[2309.03708](http://arxiv.org/abs/2309.03708)|null|
