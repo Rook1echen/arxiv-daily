@@ -1,4 +1,4 @@
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665](http://arxiv.org/abs/2309.05665)|null|
+|**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655](http://arxiv.org/abs/2309.05655)|null|
+|**2023-09-11**|**Task-Oriented Cross-System Design for Timely and Accurate Modeling in the Metaverse**|Zhen Meng et.al.|[2309.05622](http://arxiv.org/abs/2309.05622)|null|
+|**2023-09-11**|**A Comparative Analysis of Deep Reinforcement Learning-based xApps in O-RAN**|Maria Tsampazi et.al.|[2309.05621](http://arxiv.org/abs/2309.05621)|null|
+|**2023-09-11**|**Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning**|Marin Vlastelica et.al.|[2309.05582](http://arxiv.org/abs/2309.05582)|null|
+|**2023-09-11**|**Physics-informed reinforcement learning via probabilistic co-adjustment functions**|Nat Wannawas et.al.|[2309.05404](http://arxiv.org/abs/2309.05404)|null|
+|**2023-09-11**|**Career Path Recommendations for Long-term Income Maximization: A Reinforcement Learning Approach**|Spyros Avlonitis et.al.|[2309.05391](http://arxiv.org/abs/2309.05391)|null|
+|**2023-09-11**|**Learning Geometric Representations of Objects via Interaction**|Alfredo Reichlin et.al.|[2309.05346](http://arxiv.org/abs/2309.05346)|**[link](https://github.com/reichlin/geomrepobj)**|
+|**2023-09-11**|**A DRL-based Reflection Enhancement Method for RIS-assisted Multi-receiver Communications**|Wei Wang et.al.|[2309.05343](http://arxiv.org/abs/2309.05343)|null|
+|**2023-09-11**|**Effect of Adapting to Human Preferences on Trust in Human-Robot Teaming**|Shreyas Bhat et.al.|[2309.05179](http://arxiv.org/abs/2309.05179)|null|
 |**2023-09-08**|**Subwords as Skills: Tokenization for Sparse-Reward Reinforcement Learning**|David Yunis et.al.|[2309.04459](http://arxiv.org/abs/2309.04459)|null|
 |**2023-09-08**|**Seeing-Eye Quadruped Navigation with Force Responsive Locomotion Control**|David DeFazio et.al.|[2309.04370](http://arxiv.org/abs/2309.04370)|null|
 |**2023-09-08**|**Actor critic learning algorithms for mean-field control with moment neural networks**|Huyên Pham et.al.|[2309.04317](http://arxiv.org/abs/2309.04317)|null|
@@ -1082,14 +1092,14 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
-|**2023-09-02**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|null|
+|**2023-09-02**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|**[link](https://github.com/yiwei-liao/isac)**|
 |**2023-05-23**|**Learning from demonstrations: An intuitive VR environment for imitation learning of construction robots**|Kangkang Duan et.al.|[2305.14584](http://arxiv.org/abs/2305.14584)|null|
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
@@ -1104,20 +1114,22 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**UniKG: A Benchmark and Universal Embedding for Large-Scale Knowledge Graphs**|Yide Qiu et.al.|[2309.05269](http://arxiv.org/abs/2309.05269)|**[link](https://github.com/yide-qiu/unikg)**|
+|**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818](http://arxiv.org/abs/2309.04818)|null|
 |**2023-09-08**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
 |**2023-09-04**|**Learning a Patent-Informed Biomedical Knowledge Graph Reveals Technological Potential of Drug Repositioning Candidates**|Yongseung Jegal et.al.|[2309.03227](http://arxiv.org/abs/2309.03227)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118](http://arxiv.org/abs/2309.03118)|null|
-|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|null|
-|**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|null|
+|**2023-09-06**|**Universal Preprocessing Operators for Embedding Knowledge Graphs with Literals**|Patryk Preisner et.al.|[2309.03023](http://arxiv.org/abs/2309.03023)|**[link](https://gitlab.com/patryk.preisner/mkga)**|
+|**2023-09-04**|**DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research**|Yu-Neng Chuang et.al.|[2309.01808](http://arxiv.org/abs/2309.01808)|**[link](https://github.com/ynchuang/discoverpath)**|
 |**2023-09-04**|**ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning**|Linhao Luo et.al.|[2309.01538](http://arxiv.org/abs/2309.01538)|null|
 |**2023-09-04**|**ReOnto: A Neuro-Symbolic Approach for Biomedical Relation Extraction**|Monika Jain et.al.|[2309.01370](http://arxiv.org/abs/2309.01370)|null|
 |**2023-09-03**|**DKWS: A Distributed System for Keyword Search on Massive Graphs (Complete Version)**|Jiaxin Jiang et.al.|[2309.01199](http://arxiv.org/abs/2309.01199)|null|
@@ -1488,5 +1500,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
 
