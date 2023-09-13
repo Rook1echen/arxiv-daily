@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,7 +34,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-11**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665](http://arxiv.org/abs/2309.05665)|null|
+|**2023-09-12**|**Modeling Cognitive-Affective Processes with Appraisal and Reinforcement Learning**|Jiayi Zhang et.al.|[2309.06367](http://arxiv.org/abs/2309.06367)|null|
+|**2023-09-12**|**Toward Discretization-Consistent Closure Schemes for Large Eddy Simulation Using Reinforcement Learning**|Andrea Beck et.al.|[2309.06260](http://arxiv.org/abs/2309.06260)|null|
+|**2023-09-12**|**Risk-Aware Reinforcement Learning through Optimal Transport Theory**|Ali Baheri et.al.|[2309.06239](http://arxiv.org/abs/2309.06239)|null|
+|**2023-09-12**|**Fidelity-Induced Interpretable Policy Extraction for Reinforcement Learning**|Xiao Liu et.al.|[2309.06097](http://arxiv.org/abs/2309.06097)|null|
+|**2023-09-12**|**Update Monte Carlo tree search (UMCTS) algorithm for heuristic global search of sizing optimization problems for truss structures**|Fu-Yao Ko et.al.|[2309.06045](http://arxiv.org/abs/2309.06045)|null|
+|**2023-09-12**|**Emergent Communication in Multi-Agent Reinforcement Learning for Future Wireless Networks**|Marwa Chafii et.al.|[2309.06021](http://arxiv.org/abs/2309.06021)|null|
+|**2023-09-12**|**Life-inspired Interoceptive Artificial Intelligence for Autonomous and Adaptive Agents**|Sungwoo Lee et.al.|[2309.05999](http://arxiv.org/abs/2309.05999)|null|
+|**2023-09-11**|**Reinforcement Learning for Supply Chain Attacks Against Frequency and Voltage Control**|Amr S. Mohamed et.al.|[2309.05814](http://arxiv.org/abs/2309.05814)|null|
+|**2023-09-12**|**Robot Parkour Learning**|Ziwen Zhuang et.al.|[2309.05665](http://arxiv.org/abs/2309.05665)|null|
 |**2023-09-11**|**Dynamic Handover: Throw and Catch with Bimanual Hands**|Binghao Huang et.al.|[2309.05655](http://arxiv.org/abs/2309.05655)|null|
 |**2023-09-11**|**Task-Oriented Cross-System Design for Timely and Accurate Modeling in the Metaverse**|Zhen Meng et.al.|[2309.05622](http://arxiv.org/abs/2309.05622)|null|
 |**2023-09-11**|**A Comparative Analysis of Deep Reinforcement Learning-based xApps in O-RAN**|Maria Tsampazi et.al.|[2309.05621](http://arxiv.org/abs/2309.05621)|null|
@@ -1108,9 +1116,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081](http://arxiv.org/abs/2309.06081)|null|
+|**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
+|**2023-09-10**|**Knowledge-based Refinement of Scientific Publication Knowledge Graphs**|Siwen Yan et.al.|[2309.05681](http://arxiv.org/abs/2309.05681)|null|
 |**2023-09-11**|**UniKG: A Benchmark and Universal Embedding for Large-Scale Knowledge Graphs**|Yide Qiu et.al.|[2309.05269](http://arxiv.org/abs/2309.05269)|**[link](https://github.com/yide-qiu/unikg)**|
 |**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818](http://arxiv.org/abs/2309.04818)|null|
-|**2023-09-08**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|null|
+|**2023-09-12**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
 |**2023-09-06**|**Temporal Inductive Path Neural Network for Temporal Knowledge Graph Reasoning**|Hao Dong et.al.|[2309.03251](http://arxiv.org/abs/2309.03251)|null|
