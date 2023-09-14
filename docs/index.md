@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**RAIN: Your Language Models Can Align Themselves without Finetuning**|Yuhui Li et.al.|[2309.07124](http://arxiv.org/abs/2309.07124)|null|
+|**2023-09-13**|**Characterizing Speed Performance of Multi-Agent Reinforcement Learning**|Samuel Wiggins et.al.|[2309.07108](http://arxiv.org/abs/2309.07108)|null|
+|**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|null|
+|**2023-09-13**|**Efficient Reinforcement Learning for Jumping Monopods**|Riccardo Bussola et.al.|[2309.07038](http://arxiv.org/abs/2309.07038)|**[link](https://github.com/mfocchi/jump_rl)**|
+|**2023-09-13**|**Learning to Explore Indoor Environments using Autonomous Micro Aerial Vehicles**|Yuezhan Tao et.al.|[2309.06986](http://arxiv.org/abs/2309.06986)|null|
+|**2023-09-13**|**Enhancing the Performance of Multi-Agent Reinforcement Learning for Controlling HVAC Systems**|Daniel Bayer et.al.|[2309.06940](http://arxiv.org/abs/2309.06940)|null|
+|**2023-09-13**|**Investigating the Impact of Action Representations in Policy Gradient Algorithms**|Jan Schneider et.al.|[2309.06921](http://arxiv.org/abs/2309.06921)|null|
+|**2023-09-13**|**Dynamic control of self-assembly of quasicrystalline structures through reinforcement learning**|Uyen Tu Lieu et.al.|[2309.06869](http://arxiv.org/abs/2309.06869)|null|
+|**2023-09-13**|**Safe Reinforcement Learning with Dual Robustness**|Zeyang Li et.al.|[2309.06835](http://arxiv.org/abs/2309.06835)|null|
+|**2023-09-13**|**Self-Refined Large Language Model as Automated Reward Function Designer for Deep Reinforcement Learning in Robotics**|Jiayang Song et.al.|[2309.06687](http://arxiv.org/abs/2309.06687)|**[link](https://github.com/zhehuazhou/llm_reward_design)**|
 |**2023-09-12**|**Modeling Cognitive-Affective Processes with Appraisal and Reinforcement Learning**|Jiayi Zhang et.al.|[2309.06367](http://arxiv.org/abs/2309.06367)|null|
 |**2023-09-12**|**Toward Discretization-Consistent Closure Schemes for Large Eddy Simulation Using Reinforcement Learning**|Andrea Beck et.al.|[2309.06260](http://arxiv.org/abs/2309.06260)|null|
 |**2023-09-12**|**Risk-Aware Reinforcement Learning through Optimal Transport Theory**|Ali Baheri et.al.|[2309.06239](http://arxiv.org/abs/2309.06239)|null|
@@ -1116,6 +1126,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-13**|**Modeling Dislocation Dynamics Data Using Semantic Web Technologies**|Ahmad Zainul Ihsan et.al.|[2309.06930](http://arxiv.org/abs/2309.06930)|null|
+|**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814](http://arxiv.org/abs/2309.06814)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081](http://arxiv.org/abs/2309.06081)|null|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
 |**2023-09-10**|**Knowledge-based Refinement of Scientific Publication Knowledge Graphs**|Siwen Yan et.al.|[2309.05681](http://arxiv.org/abs/2309.05681)|null|
