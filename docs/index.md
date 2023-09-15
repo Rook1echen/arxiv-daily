@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Physically Plausible Full-Body Hand-Object Interaction Synthesis**|Jona Braun et.al.|[2309.07907](http://arxiv.org/abs/2309.07907)|null|
+|**2023-09-14**|**VAPOR: Holonomic Legged Robot Navigation in Outdoor Vegetation Using Offline Reinforcement Learning**|Kasun Weerakoon et.al.|[2309.07832](http://arxiv.org/abs/2309.07832)|null|
+|**2023-09-14**|**Goal Space Abstraction in Hierarchical Reinforcement Learning via Set-Based Reachability Analysis**|Mehdi Zadem et.al.|[2309.07675](http://arxiv.org/abs/2309.07675)|null|
+|**2023-09-14**|**Physics-constrained robust learning of open-form PDEs from limited and noisy data**|Mengge Du et.al.|[2309.07672](http://arxiv.org/abs/2309.07672)|null|
+|**2023-09-14**|**Equivariant Data Augmentation for Generalization in Offline Reinforcement Learning**|Cristina Pinneri et.al.|[2309.07578](http://arxiv.org/abs/2309.07578)|null|
+|**2023-09-14**|**Proximal Bellman mappings for reinforcement learning and their application to robust adaptive filtering**|Yuki Akiyama et.al.|[2309.07548](http://arxiv.org/abs/2309.07548)|null|
+|**2023-09-14**|**Deep Reinforcement Learning-based Scheduling in Edge and Fog Computing Environments**|Zhiyu Wang et.al.|[2309.07407](http://arxiv.org/abs/2309.07407)|null|
+|**2023-09-14**|**On Autonomous Agents in a Cyber Defence Environment**|Mitchell Kiely et.al.|[2309.07388](http://arxiv.org/abs/2309.07388)|null|
+|**2023-09-14**|**Rates of Convergence in Certain Native Spaces of Approximations used in Reinforcement Learning**|Ali Bouland et.al.|[2309.07383](http://arxiv.org/abs/2309.07383)|null|
+|**2023-09-13**|**Curriculum-based Sensing Reduction in Simulation to Real-World Transfer for In-hand Manipulation**|Lingfeng Tao et.al.|[2309.07350](http://arxiv.org/abs/2309.07350)|null|
 |**2023-09-13**|**RAIN: Your Language Models Can Align Themselves without Finetuning**|Yuhui Li et.al.|[2309.07124](http://arxiv.org/abs/2309.07124)|null|
 |**2023-09-13**|**Characterizing Speed Performance of Multi-Agent Reinforcement Learning**|Samuel Wiggins et.al.|[2309.07108](http://arxiv.org/abs/2309.07108)|null|
 |**2023-09-13**|**UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons**|Sicheng Yang et.al.|[2309.07051](http://arxiv.org/abs/2309.07051)|null|
@@ -1126,13 +1136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis**|Aarthi Venkat et.al.|[2309.07813](http://arxiv.org/abs/2309.07813)|null|
+|**2023-09-14**|**DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2309.07545](http://arxiv.org/abs/2309.07545)|null|
+|**2023-09-13**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230](http://arxiv.org/abs/2309.07230)|null|
 |**2023-09-13**|**Modeling Dislocation Dynamics Data Using Semantic Web Technologies**|Ahmad Zainul Ihsan et.al.|[2309.06930](http://arxiv.org/abs/2309.06930)|null|
 |**2023-09-13**|**Comparative Analysis of Contextual Relation Extraction based on Deep Learning Models**|R. Priyadharshini et.al.|[2309.06814](http://arxiv.org/abs/2309.06814)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081](http://arxiv.org/abs/2309.06081)|null|
 |**2023-09-12**|**Knowledge-Guided Short-Context Action Anticipation in Human-Centric Videos**|Sarthak Bhagat et.al.|[2309.05943](http://arxiv.org/abs/2309.05943)|null|
 |**2023-09-10**|**Knowledge-based Refinement of Scientific Publication Knowledge Graphs**|Siwen Yan et.al.|[2309.05681](http://arxiv.org/abs/2309.05681)|null|
 |**2023-09-11**|**UniKG: A Benchmark and Universal Embedding for Large-Scale Knowledge Graphs**|Yide Qiu et.al.|[2309.05269](http://arxiv.org/abs/2309.05269)|**[link](https://github.com/yide-qiu/unikg)**|
-|**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818](http://arxiv.org/abs/2309.04818)|null|
+|**2023-09-09**|**Graph Vertex Model**|Tanmoy Sarkar et.al.|[2309.04818](http://arxiv.org/abs/2309.04818)|**[link](https://gitlab.com/ijskrajncgroup1/neovm)**|
 |**2023-09-12**|**The CALLA Dataset: Probing LLMs' Interactive Knowledge Acquisition from Chinese Medical Literature**|Yanrui Du et.al.|[2309.04198](http://arxiv.org/abs/2309.04198)|null|
 |**2023-09-07**|**Extending Transductive Knowledge Graph Embedding Models for Inductive Logical Relational Inference**|Thomas Gebhart et.al.|[2309.03773](http://arxiv.org/abs/2309.03773)|null|
 |**2023-09-07**|**PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips**|Nicolas Hubert et.al.|[2309.03685](http://arxiv.org/abs/2309.03685)|**[link](https://github.com/nicolas-hbt/pygraft)**|
