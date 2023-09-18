@@ -34,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589](http://arxiv.org/abs/2309.08589)|null|
+|**2023-09-15**|**A Bayesian Approach to Robust Inverse Reinforcement Learning**|Ran Wei et.al.|[2309.08571](http://arxiv.org/abs/2309.08571)|**[link](https://github.com/rw422scarlet/bmirl_tf)**|
+|**2023-09-15**|**Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources**|Yikuan Li et.al.|[2309.08560](http://arxiv.org/abs/2309.08560)|null|
+|**2023-09-15**|**A Spiking Binary Neuron -- Detector of Causal Links**|Mikhail Kiselev et.al.|[2309.08476](http://arxiv.org/abs/2309.08476)|null|
+|**2023-09-15**|**Sim-to-Real Brush Manipulation using Behavior Cloning and Reinforcement Learning**|Biao Jia et.al.|[2309.08457](http://arxiv.org/abs/2309.08457)|null|
+|**2023-09-15**|**Reward Engineering for Generating Semi-structured Explanation**|Jiuzhou Han et.al.|[2309.08347](http://arxiv.org/abs/2309.08347)|**[link](https://github.com/jiuzhouh/reward-engineering-for-generating-seg)**|
+|**2023-09-15**|**Optimal Mobility and Communication Strategy to Maximize the Value of Information in IoT Networks**|Zijing Wang et.al.|[2309.08297](http://arxiv.org/abs/2309.08297)|null|
+|**2023-09-15**|**Quantitative and Qualitative Evaluation of Reinforcement Learning Policies for Autonomous Vehicles**|Laura Ferrarotti et.al.|[2309.08254](http://arxiv.org/abs/2309.08254)|null|
+|**2023-09-15**|**RELAX: Reinforcement Learning Enabled 2D-LiDAR Autonomous System for Parsimonious UAVs**|Guanlin Wu et.al.|[2309.08095](http://arxiv.org/abs/2309.08095)|null|
+|**2023-09-14**|**Smart Helper-Aided F-RANs: Improving Delay and Reducing Fronthaul Load**|Hesameddin Mokhtarzadeh et.al.|[2309.07975](http://arxiv.org/abs/2309.07975)|null|
 |**2023-09-14**|**Physically Plausible Full-Body Hand-Object Interaction Synthesis**|Jona Braun et.al.|[2309.07907](http://arxiv.org/abs/2309.07907)|null|
 |**2023-09-14**|**VAPOR: Holonomic Legged Robot Navigation in Outdoor Vegetation Using Offline Reinforcement Learning**|Kasun Weerakoon et.al.|[2309.07832](http://arxiv.org/abs/2309.07832)|null|
 |**2023-09-14**|**Goal Space Abstraction in Hierarchical Reinforcement Learning via Set-Based Reachability Analysis**|Mehdi Zadem et.al.|[2309.07675](http://arxiv.org/abs/2309.07675)|null|
@@ -1136,6 +1146,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-15**|**"Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs**|Cheng Qian et.al.|[2309.08594](http://arxiv.org/abs/2309.08594)|**[link](https://github.com/qiancheng0/ekd_impacts_pkg)**|
+|**2023-09-15**|**Research on Joint Representation Learning Methods for Entity Neighborhood Information and Description Information**|Le Xiao et.al.|[2309.08100](http://arxiv.org/abs/2309.08100)|null|
+|**2023-09-14**|**A Data Source for Reasoning Embodied Agents**|Jack Lanchantin et.al.|[2309.07974](http://arxiv.org/abs/2309.07974)|**[link](https://github.com/facebookresearch/neuralmemory)**|
 |**2023-09-14**|**Directed Scattering for Knowledge Graph-based Cellular Signaling Analysis**|Aarthi Venkat et.al.|[2309.07813](http://arxiv.org/abs/2309.07813)|null|
 |**2023-09-14**|**DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph**|Debayan Banerjee et.al.|[2309.07545](http://arxiv.org/abs/2309.07545)|null|
 |**2023-09-13**|**ESRO: Experience Assisted Service Reliability against Outages**|Sarthak Chakraborty et.al.|[2309.07230](http://arxiv.org/abs/2309.07230)|**[link](https://github.com/sarthak-chakraborty/esro)**|
