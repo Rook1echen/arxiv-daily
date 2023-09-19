@@ -1,4 +1,4 @@
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**OptiRoute: A Heuristic-assisted Deep Reinforcement Learning Framework for UAV-UGV Collaborative Route Planning**|Md Safwan Mondal et.al.|[2309.09942](http://arxiv.org/abs/2309.09942)|null|
+|**2023-09-18**|**Deep Reinforcement Learning for the Joint Control of Traffic Light Signaling and Vehicle Speed Advice**|Johannes V. S. Busch et.al.|[2309.09881](http://arxiv.org/abs/2309.09881)|null|
+|**2023-09-18**|**Privileged to Predicted: Towards Sensorimotor Reinforcement Learning for Urban Driving**|Ege Onat Özsüer et.al.|[2309.09756](http://arxiv.org/abs/2309.09756)|null|
+|**2023-09-18**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
+|**2023-09-18**|**Towards Socially Responsive Autonomous Vehicles: A Reinforcement Learning Framework with Driving Priors and Coordination Awareness**|Jiaqi Liu et.al.|[2309.09726](http://arxiv.org/abs/2309.09726)|null|
+|**2023-09-18**|**Two-Stage Learning of Highly Dynamic Motions with Rigid and Articulated Soft Quadrupeds**|Francecso Vezzi et.al.|[2309.09682](http://arxiv.org/abs/2309.09682)|null|
+|**2023-09-18**|**Mechanic Maker 2.0: Reinforcement Learning for Evaluating Generated Rules**|Johor Jara Gonzalez et.al.|[2309.09476](http://arxiv.org/abs/2309.09476)|null|
+|**2023-09-18**|**Exploring and Learning in Sparse Linear MDPs without Computationally Intractable Oracles**|Noah Golowich et.al.|[2309.09457](http://arxiv.org/abs/2309.09457)|null|
+|**2023-09-18**|**Guided Online Distillation: Promoting Safe Reinforcement Learning by Offline Demonstration**|Jinning Li et.al.|[2309.09408](http://arxiv.org/abs/2309.09408)|null|
+|**2023-09-17**|**Sim-to-Real Deep Reinforcement Learning with Manipulators for Pick-and-place**|Wenxing Liu et.al.|[2309.09247](http://arxiv.org/abs/2309.09247)|null|
 |**2023-09-15**|**Chain-of-Thought Reasoning is a Policy Improvement Operator**|Hugh Zhang et.al.|[2309.08589](http://arxiv.org/abs/2309.08589)|null|
 |**2023-09-15**|**A Bayesian Approach to Robust Inverse Reinforcement Learning**|Ran Wei et.al.|[2309.08571](http://arxiv.org/abs/2309.08571)|**[link](https://github.com/rw422scarlet/bmirl_tf)**|
 |**2023-09-15**|**Deep Reinforcement Learning for Efficient and Fair Allocation of Health Care Resources**|Yikuan Li et.al.|[2309.08560](http://arxiv.org/abs/2309.08560)|null|
@@ -1130,7 +1140,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1152,12 +1162,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-17**|**Model-based Subsampling for Knowledge Graph Completion**|Xincan Feng et.al.|[2309.09296](http://arxiv.org/abs/2309.09296)|null|
+|**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong et.al.|[2309.09069](http://arxiv.org/abs/2309.09069)|null|
+|**2023-09-16**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045](http://arxiv.org/abs/2309.09045)|null|
+|**2023-09-16**|**Semantic Information Extraction for Text Data with Probability Graph**|Zhouxiang Zhao et.al.|[2309.08879](http://arxiv.org/abs/2309.08879)|null|
+|**2023-09-15**|**Reproducible Domain-Specific Knowledge Graphs in the Life Sciences: a Systematic Literature Review**|Samira Babalou et.al.|[2309.08754](http://arxiv.org/abs/2309.08754)|null|
 |**2023-09-15**|**"Merge Conflicts!" Exploring the Impacts of External Distractors to Parametric Knowledge Graphs**|Cheng Qian et.al.|[2309.08594](http://arxiv.org/abs/2309.08594)|**[link](https://github.com/qiancheng0/ekd_impacts_pkg)**|
 |**2023-09-15**|**Research on Joint Representation Learning Methods for Entity Neighborhood Information and Description Information**|Le Xiao et.al.|[2309.08100](http://arxiv.org/abs/2309.08100)|null|
 |**2023-09-14**|**A Data Source for Reasoning Embodied Agents**|Jack Lanchantin et.al.|[2309.07974](http://arxiv.org/abs/2309.07974)|**[link](https://github.com/facebookresearch/neuralmemory)**|
@@ -1549,5 +1564,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230918>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230919>back to top</a>)</p>
 
