@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Evaluating the Impact of ChatGPT on Exercises of a Software Security Course**|Jingyue Li et.al.|[2309.10085](http://arxiv.org/abs/2309.10085)|null|
 |**2023-08-17**|**Smart Bulbs can be Hacked to Hack into your Household**|Davide Bonaventura et.al.|[2308.09019](http://arxiv.org/abs/2308.09019)|null|
 |**2023-08-13**|**PentestGPT: An LLM-empowered Automatic Penetration Testing Tool**|Gelei Deng et.al.|[2308.06782](http://arxiv.org/abs/2308.06782)|null|
 |**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|**[link](https://github.com/vmayoral/exploitflow)**|
@@ -34,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788](http://arxiv.org/abs/2309.10788)|null|
+|**2023-09-19**|**MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**|Xingyao Wang et.al.|[2309.10691](http://arxiv.org/abs/2309.10691)|null|
+|**2023-09-19**|**Learning Adaptive Safety for Multi-Agent Systems**|Luigi Berducci et.al.|[2309.10657](http://arxiv.org/abs/2309.10657)|**[link](https://github.com/luigiberducci/learning_adaptive_safety)**|
+|**2023-09-19**|**PDRL: Multi-Agent based Reinforcement Learning for Predictive Monitoring**|Thanveer Shaik et.al.|[2309.10576](http://arxiv.org/abs/2309.10576)|null|
+|**2023-09-19**|**Task Graph offloading via Deep Reinforcement Learning in Mobile Edge Computing**|Jiagang Liu et.al.|[2309.10569](http://arxiv.org/abs/2309.10569)|null|
+|**2023-09-19**|**Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities**|Osher Azulay et.al.|[2309.10409](http://arxiv.org/abs/2309.10409)|null|
+|**2023-09-19**|**Differentiable Quantum Architecture Search for Quantum Reinforcement Learning**|Yize Sun et.al.|[2309.10392](http://arxiv.org/abs/2309.10392)|null|
+|**2023-09-19**|**FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning**|Thanveer Shaik et.al.|[2309.10283](http://arxiv.org/abs/2309.10283)|null|
+|**2023-09-19**|**Crowd-Aware Multi-Agent Pathfinding With Boosted Curriculum Reinforcement Learning**|Phu Pham et.al.|[2309.10275](http://arxiv.org/abs/2309.10275)|null|
+|**2023-09-19**|**Memory-based Controllers for Efficient Data-driven Control of Soft Robots**|Yuzhe Wu et.al.|[2309.10273](http://arxiv.org/abs/2309.10273)|null|
 |**2023-09-18**|**OptiRoute: A Heuristic-assisted Deep Reinforcement Learning Framework for UAV-UGV Collaborative Route Planning**|Md Safwan Mondal et.al.|[2309.09942](http://arxiv.org/abs/2309.09942)|null|
 |**2023-09-18**|**Deep Reinforcement Learning for the Joint Control of Traffic Light Signaling and Vehicle Speed Advice**|Johannes V. S. Busch et.al.|[2309.09881](http://arxiv.org/abs/2309.09881)|null|
 |**2023-09-18**|**Privileged to Predicted: Towards Sensorimotor Reinforcement Learning for Urban Driving**|Ege Onat Özsüer et.al.|[2309.09756](http://arxiv.org/abs/2309.09756)|null|
@@ -1156,6 +1167,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|null|
+|**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
+|**2023-09-18**|**SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback**|Christopher Richardson et.al.|[2309.10015](http://arxiv.org/abs/2309.10015)|null|
 |**2023-09-17**|**Model-based Subsampling for Knowledge Graph Completion**|Xincan Feng et.al.|[2309.09296](http://arxiv.org/abs/2309.09296)|null|
 |**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong et.al.|[2309.09069](http://arxiv.org/abs/2309.09069)|null|
 |**2023-09-16**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045](http://arxiv.org/abs/2309.09045)|null|
