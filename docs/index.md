@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -35,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-20**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489](http://arxiv.org/abs/2309.11489)|null|
+|**2023-09-20**|**Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning**|Jingkai Sun et.al.|[2309.11359](http://arxiv.org/abs/2309.11359)|null|
+|**2023-09-20**|**Hierarchical Multi-Agent Reinforcement Learning for Air Combat Maneuvering**|Ardian Selmonaj et.al.|[2309.11247](http://arxiv.org/abs/2309.11247)|null|
+|**2023-09-20**|**OpenChat: Advancing Open-source Language Models with Mixed-Quality Data**|Guan Wang et.al.|[2309.11235](http://arxiv.org/abs/2309.11235)|null|
+|**2023-09-20**|**Traffic-Aware Hierarchical Beam Selection for Cell-Free Massive MIMO**|Chenyang Wang et.al.|[2309.11137](http://arxiv.org/abs/2309.11137)|null|
+|**2023-09-20**|**Receding-Constraint Model Predictive Control using a Learned Approximate Control-Invariant Set**|Gianni Lunardi et.al.|[2309.11124](http://arxiv.org/abs/2309.11124)|null|
+|**2023-09-20**|**Delays in Reinforcement Learning**|Pierre Liotet et.al.|[2309.11096](http://arxiv.org/abs/2309.11096)|null|
+|**2023-09-20**|**Practical Probabilistic Model-based Deep Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**|Wenjun Huang et.al.|[2309.11089](http://arxiv.org/abs/2309.11089)|null|
+|**2023-09-20**|**Safe and Robust Multi-Agent Reinforcement Learning for Connected Autonomous Vehicles under State Perturbations**|Zhili Zhang et.al.|[2309.11057](http://arxiv.org/abs/2309.11057)|null|
+|**2023-09-20**|**AI-Driven Patient Monitoring with Multi-Agent Deep Reinforcement Learning**|Thanveer Shaik et.al.|[2309.10980](http://arxiv.org/abs/2309.10980)|null|
 |**2023-09-19**|**Physics-Informed Machine Learning for Data Anomaly Detection, Classification, Localization, and Mitigation: A Review, Challenges, and Path Forward**|Mehdi Jabbari Zideh et.al.|[2309.10788](http://arxiv.org/abs/2309.10788)|null|
 |**2023-09-19**|**MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback**|Xingyao Wang et.al.|[2309.10691](http://arxiv.org/abs/2309.10691)|null|
 |**2023-09-19**|**Learning Adaptive Safety for Multi-Agent Systems**|Luigi Berducci et.al.|[2309.10657](http://arxiv.org/abs/2309.10657)|**[link](https://github.com/luigiberducci/learning_adaptive_safety)**|
@@ -1167,10 +1177,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|null|
+|**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
+|**2023-09-20**|**Knowledge Graph Question Answering for Materials Science (KGQA4MAT): Developing Natural Language Interface for Metal-Organic Frameworks Knowledge Graph (MOF-KG)**|Yuan An et.al.|[2309.11361](http://arxiv.org/abs/2309.11361)|null|
+|**2023-09-20**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|null|
+|**2023-09-19**|**Classifying Organizations for Food System Ontologies using Natural Language Processing**|Tianyu Jiang et.al.|[2309.10880](http://arxiv.org/abs/2309.10880)|null|
+|**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|**[link](https://github.com/chuanyus/udcea)**|
 |**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
 |**2023-09-18**|**SYNDICOM: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback**|Christopher Richardson et.al.|[2309.10015](http://arxiv.org/abs/2309.10015)|null|
-|**2023-09-17**|**Model-based Subsampling for Knowledge Graph Completion**|Xincan Feng et.al.|[2309.09296](http://arxiv.org/abs/2309.09296)|null|
+|**2023-09-17**|**Model-based Subsampling for Knowledge Graph Completion**|Xincan Feng et.al.|[2309.09296](http://arxiv.org/abs/2309.09296)|**[link](https://github.com/xincanfeng/ms_kge)**|
 |**2023-09-16**|**Constructing a Knowledge Graph for Vietnamese Legal Cases with Heterogeneous Graphs**|Thi-Hai-Yen Vuong et.al.|[2309.09069](http://arxiv.org/abs/2309.09069)|null|
 |**2023-09-16**|**Temporal Smoothness Regularisers for Neural Link Predictors**|Manuel Dileo et.al.|[2309.09045](http://arxiv.org/abs/2309.09045)|null|
 |**2023-09-16**|**Semantic Information Extraction for Text Data with Probability Graph**|Zhouxiang Zhao et.al.|[2309.08879](http://arxiv.org/abs/2309.08879)|null|
