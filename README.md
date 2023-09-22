@@ -1,4 +1,4 @@
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,12 +37,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**See to Touch: Learning Tactile Dexterity through Visual Incentives**|Irmak Guzey et.al.|[2309.12300](http://arxiv.org/abs/2309.12300)|null|
+|**2023-09-21**|**AceGPT, Localizing Large Language Models in Arabic**|Huang Huang et.al.|[2309.12053](http://arxiv.org/abs/2309.12053)|**[link](https://github.com/freedomintelligence/acegpt)**|
+|**2023-09-21**|**Optimizing V2V Unicast Communication Transmission with Reinforcement Learning and Vehicle Clustering**|Yu Wang et.al.|[2309.12052](http://arxiv.org/abs/2309.12052)|null|
+|**2023-09-21**|**Safe Hierarchical Reinforcement Learning for CubeSat Task Scheduling Based on Energy Consumption**|Mahya Ramezani et.al.|[2309.12004](http://arxiv.org/abs/2309.12004)|null|
+|**2023-09-21**|**UAV Swarm Deployment and Trajectory for 3D Area Coverage via Reinforcement Learning**|Jia He et.al.|[2309.11992](http://arxiv.org/abs/2309.11992)|null|
+|**2023-09-21**|**Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study**|Panagiotis Petropoulakis et.al.|[2309.11984](http://arxiv.org/abs/2309.11984)|null|
+|**2023-09-21**|**Learning to Recover for Safe Reinforcement Learning**|Haoyu Wang et.al.|[2309.11907](http://arxiv.org/abs/2309.11907)|null|
+|**2023-09-21**|**Latency-Aware Radio Resource Optimization in Learning-Based Cloud-Aided Small Cell Wireless Networks**|Tamoor-ul-Hassan Syed et.al.|[2309.11892](http://arxiv.org/abs/2309.11892)|null|
+|**2023-09-21**|**Improve the efficiency of deep reinforcement learning through semantic exploration guided by natural language**|Zhourui Guo et.al.|[2309.11753](http://arxiv.org/abs/2309.11753)|null|
+|**2023-09-20**|**Hierarchical reinforcement learning with natural language subgoals**|Arun Ahuja et.al.|[2309.11564](http://arxiv.org/abs/2309.11564)|null|
 |**2023-09-20**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489](http://arxiv.org/abs/2309.11489)|null|
 |**2023-09-20**|**Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning**|Jingkai Sun et.al.|[2309.11359](http://arxiv.org/abs/2309.11359)|null|
 |**2023-09-20**|**Hierarchical Multi-Agent Reinforcement Learning for Air Combat Maneuvering**|Ardian Selmonaj et.al.|[2309.11247](http://arxiv.org/abs/2309.11247)|null|
@@ -1161,7 +1171,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1183,15 +1193,20 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**A knowledge representation approach for construction contract knowledge modeling**|Chunmo Zheng et.al.|[2309.12132](http://arxiv.org/abs/2309.12132)|null|
+|**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
+|**2023-09-21**|**SLHCat: Mapping Wikipedia Categories and Lists to DBpedia by Leveraging Semantic, Lexical, and Hierarchical Features**|Zhaoyi Wang et.al.|[2309.11791](http://arxiv.org/abs/2309.11791)|null|
+|**2023-09-20**|**Construction of Paired Knowledge Graph-Text Datasets Informed by Cyclic Evaluation**|Ali Mousavi et.al.|[2309.11669](http://arxiv.org/abs/2309.11669)|null|
+|**2023-09-20**|**Learning Complete Topology-Aware Correlations Between Relations for Inductive Link Prediction**|Jie Wang et.al.|[2309.11528](http://arxiv.org/abs/2309.11528)|null|
 |**2023-09-20**|**Bravo MaRDI: A Wikibase Powered Knowledge Graph on Mathematics**|Moritz Schubotz et.al.|[2309.11484](http://arxiv.org/abs/2309.11484)|null|
 |**2023-09-20**|**Knowledge Graph Question Answering for Materials Science (KGQA4MAT): Developing Natural Language Interface for Metal-Organic Frameworks Knowledge Graph (MOF-KG)**|Yuan An et.al.|[2309.11361](http://arxiv.org/abs/2309.11361)|null|
-|**2023-09-20**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|null|
+|**2023-09-21**|**Retrieve-Rewrite-Answer: A KG-to-Text Enhanced LLMs Framework for Knowledge Graph Question Answering**|Yike Wu et.al.|[2309.11206](http://arxiv.org/abs/2309.11206)|null|
 |**2023-09-19**|**Classifying Organizations for Food System Ontologies using Natural Language Processing**|Tianyu Jiang et.al.|[2309.10880](http://arxiv.org/abs/2309.10880)|null|
 |**2023-09-19**|**Unsupervised Deep Cross-Language Entity Alignment**|Chuanyu Jiang et.al.|[2309.10598](http://arxiv.org/abs/2309.10598)|**[link](https://github.com/chuanyus/udcea)**|
 |**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
@@ -1592,5 +1607,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230922>back to top</a>)</p>
 
