@@ -35,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041](http://arxiv.org/abs/2309.13041)|null|
+|**2023-09-22**|**Boosting Studies of Multi-Agent Reinforcement Learning on Google Research Football Environment: the Past, Present, and Future**|Yan Song et.al.|[2309.12951](http://arxiv.org/abs/2309.12951)|**[link](https://github.com/jidiai/GRF_MARL)**|
+|**2023-09-22**|**EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading**|Molei Qin et.al.|[2309.12891](http://arxiv.org/abs/2309.12891)|null|
+|**2023-09-22**|**Reward Function Design for Crowd Simulation via Reinforcement Learning**|Ariel Kwiatkowski et.al.|[2309.12841](http://arxiv.org/abs/2309.12841)|null|
+|**2023-09-22**|**OmniDrones: An Efficient and Flexible Platform for Reinforcement Learning in Drone Control**|Botian Xu et.al.|[2309.12825](http://arxiv.org/abs/2309.12825)|null|
+|**2023-09-22**|**Teacher-Student Reinforcement Learning for Mapless Navigation using a Planetary Space Rover**|Anton Bjørndahl Mortensen et.al.|[2309.12807](http://arxiv.org/abs/2309.12807)|null|
+|**2023-09-22**|**Learning to Walk and Fly with Adversarial Motion Priors**|Giuseppe L'Erario et.al.|[2309.12784](http://arxiv.org/abs/2309.12784)|null|
+|**2023-09-22**|**H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps**|Haoyi Niu et.al.|[2309.12716](http://arxiv.org/abs/2309.12716)|null|
+|**2023-09-22**|**Counterfactual Conservative Q Learning for Offline Multi-agent Reinforcement Learning**|Jianzhun Shao et.al.|[2309.12696](http://arxiv.org/abs/2309.12696)|null|
+|**2023-09-22**|**How to Fine-tune the Model: Unified Model Shift and Model Bias Policy Optimization**|Hai Zhang et.al.|[2309.12671](http://arxiv.org/abs/2309.12671)|null|
 |**2023-09-21**|**See to Touch: Learning Tactile Dexterity through Visual Incentives**|Irmak Guzey et.al.|[2309.12300](http://arxiv.org/abs/2309.12300)|null|
 |**2023-09-21**|**AceGPT, Localizing Large Language Models in Arabic**|Huang Huang et.al.|[2309.12053](http://arxiv.org/abs/2309.12053)|**[link](https://github.com/freedomintelligence/acegpt)**|
 |**2023-09-21**|**Optimizing V2V Unicast Communication Transmission with Reinforcement Learning and Vehicle Clustering**|Yu Wang et.al.|[2309.12052](http://arxiv.org/abs/2309.12052)|null|
@@ -1187,6 +1197,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**KG-MDL: Mining Graph Patterns in Knowledge Graphs with the MDL Principle**|Francesco Bariatti et.al.|[2309.12908](http://arxiv.org/abs/2309.12908)|null|
+|**2023-09-22**|**Defeasible Reasoning with Knowledge Graphs**|Dave Raggett et.al.|[2309.12731](http://arxiv.org/abs/2309.12731)|null|
+|**2023-09-21**|**Knowledge Graph Embedding: An Overview**|Xiou Ge et.al.|[2309.12501](http://arxiv.org/abs/2309.12501)|null|
+|**2023-09-21**|**Event Prediction using Case-Based Reasoning over Knowledge Graphs**|Sola Shirai et.al.|[2309.12423](http://arxiv.org/abs/2309.12423)|**[link](https://github.com/solashirai/www-evcbr)**|
 |**2023-09-21**|**A knowledge representation approach for construction contract knowledge modeling**|Chunmo Zheng et.al.|[2309.12132](http://arxiv.org/abs/2309.12132)|null|
 |**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
 |**2023-09-21**|**SLHCat: Mapping Wikipedia Categories and Lists to DBpedia by Leveraging Semantic, Lexical, and Hierarchical Features**|Zhaoyi Wang et.al.|[2309.11791](http://arxiv.org/abs/2309.11791)|null|
