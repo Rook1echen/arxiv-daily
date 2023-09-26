@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -35,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning**|Lukas Schneider et.al.|[2309.14246](http://arxiv.org/abs/2309.14246)|null|
+|**2023-09-25**|**Enhancing data efficiency in reinforcement learning: a novel imagination mechanism based on mesh information propagation**|Zihang Wang et.al.|[2309.14243](http://arxiv.org/abs/2309.14243)|**[link](https://github.com/zero-coder/fecam)**|
+|**2023-09-25**|**Hierarchical Reinforcement Learning based on Planning Operators**|Jing Zhang et.al.|[2309.14237](http://arxiv.org/abs/2309.14237)|null|
+|**2023-09-25**|**MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation**|Patrick Lancaster et.al.|[2309.14236](http://arxiv.org/abs/2309.14236)|null|
+|**2023-09-25**|**Combined sizing and layout optimization of truss structures via update Monte Carlo tree search (UMCTS) algorithm**|Fu-Yao Ko et.al.|[2309.14231](http://arxiv.org/abs/2309.14231)|null|
+|**2023-09-25**|**HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation**|Annan Tang et.al.|[2309.14225](http://arxiv.org/abs/2309.14225)|null|
+|**2023-09-25**|**Designing and evaluating an online reinforcement learning agent for physical exercise recommendations in N-of-1 trials**|Dominik Meier et.al.|[2309.14156](http://arxiv.org/abs/2309.14156)|null|
+|**2023-09-25**|**Tracking Control for a Spherical Pendulum via Curriculum Reinforcement Learning**|Pascal Klink et.al.|[2309.14096](http://arxiv.org/abs/2309.14096)|null|
+|**2023-09-25**|**On the Benefit of Optimal Transport for Curriculum Reinforcement Learning**|Pascal Klink et.al.|[2309.14091](http://arxiv.org/abs/2309.14091)|null|
+|**2023-09-25**|**Comprehensive Overview of Named Entity Recognition: Models, Domain-Specific Applications and Challenges**|Kalyani Pakhale et.al.|[2309.14084](http://arxiv.org/abs/2309.14084)|null|
 |**2023-09-22**|**Robotic Offline RL from Internet Videos via Value-Function Pre-Training**|Chethan Bhateja et.al.|[2309.13041](http://arxiv.org/abs/2309.13041)|null|
 |**2023-09-22**|**Boosting Studies of Multi-Agent Reinforcement Learning on Google Research Football Environment: the Past, Present, and Future**|Yan Song et.al.|[2309.12951](http://arxiv.org/abs/2309.12951)|**[link](https://github.com/jidiai/GRF_MARL)**|
 |**2023-09-22**|**EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading**|Molei Qin et.al.|[2309.12891](http://arxiv.org/abs/2309.12891)|null|
@@ -1197,6 +1207,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|null|
+|**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|null|
+|**2023-09-24**|**Multiple Relations Classification using Imbalanced Predictions Adaptation**|Sakher Khalil Alqaaidi et.al.|[2309.13718](http://arxiv.org/abs/2309.13718)|**[link](https://github.com/sa5r/mrca)**|
+|**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625](http://arxiv.org/abs/2309.13625)|null|
+|**2023-09-24**|**VisionKG: Unleashing the Power of Visual Datasets via Knowledge Graph**|Jicheng Yuan et.al.|[2309.13610](http://arxiv.org/abs/2309.13610)|null|
+|**2023-09-23**|**On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation**|Haibo Ye et.al.|[2309.13384](http://arxiv.org/abs/2309.13384)|null|
+|**2023-09-22**|**Insights from an OTTR-centric Ontology Engineering Methodology**|Moritz Blum et.al.|[2309.13130](http://arxiv.org/abs/2309.13130)|null|
 |**2023-09-22**|**KG-MDL: Mining Graph Patterns in Knowledge Graphs with the MDL Principle**|Francesco Bariatti et.al.|[2309.12908](http://arxiv.org/abs/2309.12908)|null|
 |**2023-09-22**|**Defeasible Reasoning with Knowledge Graphs**|Dave Raggett et.al.|[2309.12731](http://arxiv.org/abs/2309.12731)|null|
 |**2023-09-21**|**Knowledge Graph Embedding: An Overview**|Xiou Ge et.al.|[2309.12501](http://arxiv.org/abs/2309.12501)|null|
