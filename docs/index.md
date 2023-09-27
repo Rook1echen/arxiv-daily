@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -35,6 +35,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Towards High Efficient Long-horizon Planning with Expert-guided Motion-encoding Tree Search**|Tong Zhou et.al.|[2309.15079](http://arxiv.org/abs/2309.15079)|null|
+|**2023-09-26**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2309.15060](http://arxiv.org/abs/2309.15060)|null|
+|**2023-09-26**|**Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding**|Jiacheng Liu et.al.|[2309.15028](http://arxiv.org/abs/2309.15028)|null|
+|**2023-09-26**|**Tempo Adaption in Non-stationary Reinforcement Learning**|Hyunin Lee et.al.|[2309.14989](http://arxiv.org/abs/2309.14989)|null|
+|**2023-09-26**|**Recurrent Hypernetworks are Surprisingly Strong in Meta-RL**|Jacob Beck et.al.|[2309.14970](http://arxiv.org/abs/2309.14970)|null|
+|**2023-09-26**|**Less Is More: Robust Robot Learning via Partially Observable Multi-Agent Reinforcement Learning**|Wenshuai Zhao et.al.|[2309.14792](http://arxiv.org/abs/2309.14792)|null|
+|**2023-09-26**|**Age Minimization in Massive IoT via UAV Swarm: A Multi-agent Reinforcement Learning Approach**|Eslam Eldeeb et.al.|[2309.14757](http://arxiv.org/abs/2309.14757)|null|
+|**2023-09-26**|**Effective Multi-Agent Deep Reinforcement Learning Control with Relative Entropy Regularization**|Chenyang Miao et.al.|[2309.14727](http://arxiv.org/abs/2309.14727)|**[link](https://github.com/AdrienLin1/MACDPP)**|
+|**2023-09-26**|**Gray-box Adversarial Attack of Deep Reinforcement Learning-based Trading Agents**|Foozhan Ataiefard et.al.|[2309.14615](http://arxiv.org/abs/2309.14615)|null|
+|**2023-09-26**|**Decoding trust: A reinforcement learning perspective**|Guozhong Zheng et.al.|[2309.14598](http://arxiv.org/abs/2309.14598)|null|
 |**2023-09-25**|**Learning Risk-Aware Quadrupedal Locomotion using Distributional Reinforcement Learning**|Lukas Schneider et.al.|[2309.14246](http://arxiv.org/abs/2309.14246)|null|
 |**2023-09-25**|**Enhancing data efficiency in reinforcement learning: a novel imagination mechanism based on mesh information propagation**|Zihang Wang et.al.|[2309.14243](http://arxiv.org/abs/2309.14243)|**[link](https://github.com/zero-coder/fecam)**|
 |**2023-09-25**|**Hierarchical Reinforcement Learning based on Planning Operators**|Jing Zhang et.al.|[2309.14237](http://arxiv.org/abs/2309.14237)|null|
@@ -1207,10 +1217,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|null|
+|**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|null|
+|**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|**[link](https://github.com/jia-zhang666/grm_layer)**|
 |**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|null|
 |**2023-09-24**|**Multiple Relations Classification using Imbalanced Predictions Adaptation**|Sakher Khalil Alqaaidi et.al.|[2309.13718](http://arxiv.org/abs/2309.13718)|**[link](https://github.com/sa5r/mrca)**|
-|**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625](http://arxiv.org/abs/2309.13625)|null|
+|**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625](http://arxiv.org/abs/2309.13625)|**[link](https://github.com/lixinustc/graphadapter)**|
 |**2023-09-24**|**VisionKG: Unleashing the Power of Visual Datasets via Knowledge Graph**|Jicheng Yuan et.al.|[2309.13610](http://arxiv.org/abs/2309.13610)|null|
 |**2023-09-23**|**On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation**|Haibo Ye et.al.|[2309.13384](http://arxiv.org/abs/2309.13384)|null|
 |**2023-09-22**|**Insights from an OTTR-centric Ontology Engineering Methodology**|Moritz Blum et.al.|[2309.13130](http://arxiv.org/abs/2309.13130)|null|
