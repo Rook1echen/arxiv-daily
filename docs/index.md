@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Raijū: Reinforcement Learning-Guided Post-Exploitation for Automating Security Assessment of Network Systems**|Van-Hau Pham et.al.|[2309.15518](http://arxiv.org/abs/2309.15518)|null|
 |**2023-09-18**|**Evaluating the Impact of ChatGPT on Exercises of a Software Security Course**|Jingyue Li et.al.|[2309.10085](http://arxiv.org/abs/2309.10085)|null|
 |**2023-08-17**|**Smart Bulbs can be Hacked to Hack into your Household**|Davide Bonaventura et.al.|[2308.09019](http://arxiv.org/abs/2308.09019)|null|
 |**2023-08-13**|**PentestGPT: An LLM-empowered Automatic Penetration Testing Tool**|Gelei Deng et.al.|[2308.06782](http://arxiv.org/abs/2308.06782)|null|
@@ -35,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**AI in Software Engineering: Case Studies and Prospects**|Lei Wang et.al.|[2309.15768](http://arxiv.org/abs/2309.15768)|null|
+|**2023-09-27**|**Data-Driven Latent Space Representation for Robust Bipedal Locomotion Learning**|Guillermo A. Castillo et.al.|[2309.15740](http://arxiv.org/abs/2309.15740)|null|
+|**2023-09-27**|**Provably Efficient Exploration in Constrained Reinforcement Learning:Posterior Sampling Is All You Need**|Danil Provodin et.al.|[2309.15737](http://arxiv.org/abs/2309.15737)|null|
+|**2023-09-27**|**End-to-End Streaming Video Temporal Action Segmentation with Reinforce Learning**|Wujun Wen et.al.|[2309.15683](http://arxiv.org/abs/2309.15683)|**[link](https://github.com/Thinksky5124/SVTAS)**|
+|**2023-09-27**|**Tactile-based Active Inference for Force-Controlled Peg-in-Hole Insertions**|Tatsuya Kamijo et.al.|[2309.15681](http://arxiv.org/abs/2309.15681)|null|
+|**2023-09-27**|**Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization**|Bang Giang Le et.al.|[2309.15603](http://arxiv.org/abs/2309.15603)|null|
+|**2023-09-27**|**Raijū: Reinforcement Learning-Guided Post-Exploitation for Automating Security Assessment of Network Systems**|Van-Hau Pham et.al.|[2309.15518](http://arxiv.org/abs/2309.15518)|null|
+|**2023-09-27**|**Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem**|Kuo-Hao Ho et.al.|[2309.15517](http://arxiv.org/abs/2309.15517)|null|
+|**2023-09-27**|**Towards Human-Like RL: Taming Non-Naturalistic Behavior in Deep RL via Adaptive Behavioral Costs in 3D Games**|Kuo-Hao Ho et.al.|[2309.15484](http://arxiv.org/abs/2309.15484)|null|
+|**2023-09-27**|**DTC: Deep Tracking Control -- A Unifying Approach to Model-Based Planning and Reinforcement-Learning for Versatile and Robust Locomotion**|Fabian Jenelten et.al.|[2309.15462](http://arxiv.org/abs/2309.15462)|null|
 |**2023-09-26**|**Towards High Efficient Long-horizon Planning with Expert-guided Motion-encoding Tree Search**|Tong Zhou et.al.|[2309.15079](http://arxiv.org/abs/2309.15079)|null|
 |**2023-09-26**|**Learning-Based Latency-Constrained Fronthaul Compression Optimization in C-RAN**|Axel Grönland et.al.|[2309.15060](http://arxiv.org/abs/2309.15060)|null|
 |**2023-09-26**|**Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding**|Jiacheng Liu et.al.|[2309.15028](http://arxiv.org/abs/2309.15028)|null|
@@ -1197,6 +1208,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**In-Hand Re-grasp Manipulation with Passive Dynamic Actions via Imitation Learning**|Dehao Wei et.al.|[2309.15455](http://arxiv.org/abs/2309.15455)|null|
 |**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
 |**2023-09-02**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|**[link](https://github.com/yiwei-liao/isac)**|
 |**2023-05-23**|**Learning from demonstrations: An intuitive VR environment for imitation learning of construction robots**|Kangkang Duan et.al.|[2305.14584](http://arxiv.org/abs/2305.14584)|null|
@@ -1217,6 +1229,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641](http://arxiv.org/abs/2309.15641)|null|
+|**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427](http://arxiv.org/abs/2309.15427)|null|
 |**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|null|
 |**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|**[link](https://github.com/jia-zhang666/grm_layer)**|
 |**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|null|
