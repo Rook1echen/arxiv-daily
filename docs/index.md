@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -38,7 +38,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663](http://arxiv.org/abs/2309.16663)|null|
 |**2023-09-28**|**Robust Offline Reinforcement Learning -- Certify the Confidence Interval**|Jiarui Yao et.al.|[2309.16631](http://arxiv.org/abs/2309.16631)|null|
-|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609](http://arxiv.org/abs/2309.16609)|null|
+|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609](http://arxiv.org/abs/2309.16609)|**[link](https://github.com/QwenLM/Qwen-7B)**|
 |**2023-09-28**|**Uncertainty-Aware Decision Transformer for Stochastic Driving Environments**|Zenan Li et.al.|[2309.16397](http://arxiv.org/abs/2309.16397)|null|
 |**2023-09-28**|**RLLTE: Long-Term Evolution Project of Reinforcement Learning**|Mingqi Yuan et.al.|[2309.16382](http://arxiv.org/abs/2309.16382)|null|
 |**2023-09-28**|**Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks**|Eleftherios Triantafyllidis et.al.|[2309.16347](http://arxiv.org/abs/2309.16347)|null|
