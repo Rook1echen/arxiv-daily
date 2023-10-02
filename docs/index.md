@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -42,7 +42,7 @@ layout: default
 |**2023-09-28**|**Uncertainty-Aware Decision Transformer for Stochastic Driving Environments**|Zenan Li et.al.|[2309.16397](http://arxiv.org/abs/2309.16397)|null|
 |**2023-09-28**|**RLLTE: Long-Term Evolution Project of Reinforcement Learning**|Mingqi Yuan et.al.|[2309.16382](http://arxiv.org/abs/2309.16382)|null|
 |**2023-09-28**|**Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks**|Eleftherios Triantafyllidis et.al.|[2309.16347](http://arxiv.org/abs/2309.16347)|null|
-|**2023-09-28**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**|Qirui Mi et.al.|[2309.16307](http://arxiv.org/abs/2309.16307)|null|
+|**2023-09-28**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**|Qirui Mi et.al.|[2309.16307](http://arxiv.org/abs/2309.16307)|**[link](https://github.com/jidiai/taxai)**|
 |**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|null|
 |**2023-09-28**|**Efficiency Separation between RL Methods: Model-Free, Model-Based and Goal-Conditioned**|Brieuc Pinon et.al.|[2309.16291](http://arxiv.org/abs/2309.16291)|null|
 |**2023-09-28**|**Cooperation Dynamics in Multi-Agent Systems: Exploring Game-Theoretic Scenarios with Mean-Field Equilibria**|Vaigarai Sathi et.al.|[2309.16263](http://arxiv.org/abs/2309.16263)|null|
@@ -61,7 +61,7 @@ layout: default
 |**2023-09-26**|**Making PPO even better: Value-Guided Monte-Carlo Tree Search decoding**|Jiacheng Liu et.al.|[2309.15028](http://arxiv.org/abs/2309.15028)|null|
 |**2023-09-26**|**Tempo Adaption in Non-stationary Reinforcement Learning**|Hyunin Lee et.al.|[2309.14989](http://arxiv.org/abs/2309.14989)|null|
 |**2023-09-26**|**Recurrent Hypernetworks are Surprisingly Strong in Meta-RL**|Jacob Beck et.al.|[2309.14970](http://arxiv.org/abs/2309.14970)|null|
-|**2023-09-26**|**Less Is More: Robust Robot Learning via Partially Observable Multi-Agent Reinforcement Learning**|Wenshuai Zhao et.al.|[2309.14792](http://arxiv.org/abs/2309.14792)|null|
+|**2023-09-26**|**Less Is More: Robust Robot Learning via Partially Observable Multi-Agent Reinforcement Learning**|Wenshuai Zhao et.al.|[2309.14792](http://arxiv.org/abs/2309.14792)|**[link](https://github.com/tiers/partially-observable-marl)**|
 |**2023-09-26**|**Age Minimization in Massive IoT via UAV Swarm: A Multi-agent Reinforcement Learning Approach**|Eslam Eldeeb et.al.|[2309.14757](http://arxiv.org/abs/2309.14757)|null|
 |**2023-09-26**|**Effective Multi-Agent Deep Reinforcement Learning Control with Relative Entropy Regularization**|Chenyang Miao et.al.|[2309.14727](http://arxiv.org/abs/2309.14727)|**[link](https://github.com/AdrienLin1/MACDPP)**|
 |**2023-09-26**|**Gray-box Adversarial Attack of Deep Reinforcement Learning-based Trading Agents**|Foozhan Ataiefard et.al.|[2309.14615](http://arxiv.org/abs/2309.14615)|null|
@@ -72,7 +72,7 @@ layout: default
 |**2023-09-25**|**MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation**|Patrick Lancaster et.al.|[2309.14236](http://arxiv.org/abs/2309.14236)|null|
 |**2023-09-25**|**Combined sizing and layout optimization of truss structures via update Monte Carlo tree search (UMCTS) algorithm**|Fu-Yao Ko et.al.|[2309.14231](http://arxiv.org/abs/2309.14231)|null|
 |**2023-09-25**|**HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation**|Annan Tang et.al.|[2309.14225](http://arxiv.org/abs/2309.14225)|null|
-|**2023-09-25**|**Designing and evaluating an online reinforcement learning agent for physical exercise recommendations in N-of-1 trials**|Dominik Meier et.al.|[2309.14156](http://arxiv.org/abs/2309.14156)|null|
+|**2023-09-25**|**Designing and evaluating an online reinforcement learning agent for physical exercise recommendations in N-of-1 trials**|Dominik Meier et.al.|[2309.14156](http://arxiv.org/abs/2309.14156)|**[link](https://github.com/hialab/reinforcement-learning-agents-in-n-of-1-trials)**|
 |**2023-09-25**|**Tracking Control for a Spherical Pendulum via Curriculum Reinforcement Learning**|Pascal Klink et.al.|[2309.14096](http://arxiv.org/abs/2309.14096)|null|
 |**2023-09-25**|**On the Benefit of Optimal Transport for Curriculum Reinforcement Learning**|Pascal Klink et.al.|[2309.14091](http://arxiv.org/abs/2309.14091)|null|
 |**2023-09-25**|**Comprehensive Overview of Named Entity Recognition: Models, Domain-Specific Applications and Challenges**|Kalyani Pakhale et.al.|[2309.14084](http://arxiv.org/abs/2309.14084)|null|
@@ -84,7 +84,7 @@ layout: default
 |**2023-09-22**|**Teacher-Student Reinforcement Learning for Mapless Navigation using a Planetary Space Rover**|Anton Bjørndahl Mortensen et.al.|[2309.12807](http://arxiv.org/abs/2309.12807)|null|
 |**2023-09-22**|**Learning to Walk and Fly with Adversarial Motion Priors**|Giuseppe L'Erario et.al.|[2309.12784](http://arxiv.org/abs/2309.12784)|null|
 |**2023-09-22**|**H2O+: An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps**|Haoyi Niu et.al.|[2309.12716](http://arxiv.org/abs/2309.12716)|null|
-|**2023-09-22**|**Counterfactual Conservative Q Learning for Offline Multi-agent Reinforcement Learning**|Jianzhun Shao et.al.|[2309.12696](http://arxiv.org/abs/2309.12696)|null|
+|**2023-09-22**|**Counterfactual Conservative Q Learning for Offline Multi-agent Reinforcement Learning**|Jianzhun Shao et.al.|[2309.12696](http://arxiv.org/abs/2309.12696)|**[link](https://github.com/thu-rllab/CFCQL)**|
 |**2023-09-22**|**How to Fine-tune the Model: Unified Model Shift and Model Bias Policy Optimization**|Hai Zhang et.al.|[2309.12671](http://arxiv.org/abs/2309.12671)|null|
 |**2023-09-21**|**See to Touch: Learning Tactile Dexterity through Visual Incentives**|Irmak Guzey et.al.|[2309.12300](http://arxiv.org/abs/2309.12300)|null|
 |**2023-09-21**|**AceGPT, Localizing Large Language Models in Arabic**|Huang Huang et.al.|[2309.12053](http://arxiv.org/abs/2309.12053)|**[link](https://github.com/freedomintelligence/acegpt)**|
@@ -421,7 +421,7 @@ layout: default
 |**2023-07-31**|**Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives**|Haoyang Liu et.al.|[2307.16851](http://arxiv.org/abs/2307.16851)|null|
 |**2023-07-31**|**Deep Reinforcement Learning of Dexterous Pre-grasp Manipulation for Human-like Functional Categorical Grasping**|Dmytro Pavlichenko et.al.|[2307.16752](http://arxiv.org/abs/2307.16752)|null|
 |**2023-07-31**|**Learning whom to trust in navigation: dynamically switching between classical and neural planning**|Sombit Dey et.al.|[2307.16710](http://arxiv.org/abs/2307.16710)|null|
-|**2023-07-31**|**End-to-End Reinforcement Learning for Torque Based Variable Height Hopping**|Raghav Soni et.al.|[2307.16676](http://arxiv.org/abs/2307.16676)|null|
+|**2023-07-31**|**End-to-End Reinforcement Learning for Torque Based Variable Height Hopping**|Raghav Soni et.al.|[2307.16676](http://arxiv.org/abs/2307.16676)|**[link](https://github.com/dfki-ric-underactuated-lab/hopping_leg)**|
 |**2023-07-31**|**ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning**|Junxiong Wang et.al.|[2307.16540](http://arxiv.org/abs/2307.16540)|null|
 |**2023-07-31**|**Cooperative Multi-Agent Constrained POMDPs: Strong Duality and Primal-Dual Reinforcement Learning with Approximate Information States**|Nouman Khan et.al.|[2307.16536](http://arxiv.org/abs/2307.16536)|null|
 |**2023-07-31**|**Value-Informed Skill Chaining for Policy Learning of Long-Horizon Tasks with Surgical Robot**|Tao Huang et.al.|[2307.16503](http://arxiv.org/abs/2307.16503)|**[link](https://github.com/med-air/viskill)**|
@@ -441,7 +441,7 @@ layout: default
 |**2023-07-27**|**PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback**|Bo Shen et.al.|[2307.14936](http://arxiv.org/abs/2307.14936)|null|
 |**2023-07-27**|**Machine Learning-powered Pricing of the Multidimensional Passport Option**|Josef Teichmann et.al.|[2307.14887](http://arxiv.org/abs/2307.14887)|**[link](https://github.com/hannasw/ml4passportoptions)**|
 |**2023-07-27**|**MatrixWorld: A pursuit-evasion platform for safe multi-agent coordination and autocurricula**|Lijun Sun et.al.|[2307.14854](http://arxiv.org/abs/2307.14854)|**[link](https://github.com/lijunsun90/matrixworld)**|
-|**2023-07-27**|**FLARE: Fingerprinting Deep Reinforcement Learning Agents using Universal Adversarial Masks**|Buse G. A. Tekgul et.al.|[2307.14751](http://arxiv.org/abs/2307.14751)|null|
+|**2023-07-27**|**FLARE: Fingerprinting Deep Reinforcement Learning Agents using Universal Adversarial Masks**|Buse G. A. Tekgul et.al.|[2307.14751](http://arxiv.org/abs/2307.14751)|**[link](https://github.com/ssg-research/flare)**|
 |**2023-07-27**|**Enhanced quantum state preparation via stochastic prediction of neural network**|Chao-Chao Li et.al.|[2307.14715](http://arxiv.org/abs/2307.14715)|null|
 |**2023-07-27**|**Multi-Agent Graph Reinforcement Learning based On-Demand Wireless Energy Transfer in Multi-UAV-aided IoT Network**|Ze Yu Zhao et.al.|[2307.14626](http://arxiv.org/abs/2307.14626)|null|
 |**2023-07-27**|**Evaluation of Safety Constraints in Autonomous Navigation with Deep Reinforcement Learning**|Brian Angulo et.al.|[2307.14568](http://arxiv.org/abs/2307.14568)|null|
@@ -476,7 +476,7 @@ layout: default
 |**2023-07-24**|**QAmplifyNet: Pushing the Boundaries of Supply Chain Backorder Prediction Using Interpretable Hybrid Quantum - Classical Neural Network**|Md Abrar Jahin et.al.|[2307.12906](http://arxiv.org/abs/2307.12906)|null|
 |**2023-07-24**|**RRAML: Reinforced Retrieval Augmented Machine Learning**|Andrea Bacciu et.al.|[2307.12798](http://arxiv.org/abs/2307.12798)|null|
 |**2023-07-24**|**Analyzing the Strategy of Propaganda using Inverse Reinforcement Learning: Evidence from the 2022 Russian Invasion of Ukraine**|Dominique Geissler et.al.|[2307.12788](http://arxiv.org/abs/2307.12788)|null|
-|**2023-07-24**|**Policy Gradient Optimal Correlation Search for Variance Reduction in Monte Carlo simulation and Maximum Optimal Transport**|Pierre Bras et.al.|[2307.12703](http://arxiv.org/abs/2307.12703)|null|
+|**2023-07-24**|**Policy Gradient Optimal Correlation Search for Variance Reduction in Monte Carlo simulation and Maximum Optimal Transport**|Pierre Bras et.al.|[2307.12703](http://arxiv.org/abs/2307.12703)|**[link](https://github.com/bras-p/relocor)**|
 |**2023-07-21**|**The birth-death-suppression Markov process and wildfires**|George Hulsey et.al.|[2307.11726](http://arxiv.org/abs/2307.11726)|null|
 |**2023-07-21**|**A Reinforcement Learning Framework with Region-Awareness and Shared Path Experience for Efficient Routing in Networks-on-Chip**|Kamil Khan et.al.|[2307.11712](http://arxiv.org/abs/2307.11712)|null|
 |**2023-07-21**|**JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning**|Kaiwen Wang et.al.|[2307.11704](http://arxiv.org/abs/2307.11704)|null|
@@ -1304,7 +1304,7 @@ layout: default
 |**2023-09-02**|**Knowledge Graph Embeddings for Multi-Lingual Structured Representations of Radiology Reports**|Tom van Sonsbeek et.al.|[2309.00917](http://arxiv.org/abs/2309.00917)|**[link](https://github.com/tjvsonsbeek/knowledge_graphs_for_radiology_reports)**|
 |**2023-09-01**|**NeMig -- A Bilingual News Collection and Knowledge Graph about Migration**|Andreea Iana et.al.|[2309.00550](http://arxiv.org/abs/2309.00550)|**[link](https://github.com/andreeaiana/nemig)**|
 |**2023-09-01**|**On the Aggregation of Rules for Knowledge Graph Completion**|Patrick Betz et.al.|[2309.00306](http://arxiv.org/abs/2309.00306)|null|
-|**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|null|
+|**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622](http://arxiv.org/abs/2308.16622)|**[link](https://github.com/aksw/llm-kg-bench)**|
 |**2023-08-30**|**AsyncET: Asynchronous Learning for Knowledge Graph Entity Typing with Auxiliary Relations**|Yun-Cheng Wang et.al.|[2308.16055](http://arxiv.org/abs/2308.16055)|null|
 |**2023-08-30**|**An Approach to Evaluate User Interfaces in a Scholarly Knowledge Communication Domain**|Denis Obrezkov et.al.|[2308.15909](http://arxiv.org/abs/2308.15909)|null|
 |**2023-08-30**|**Nemo: First Glimpse of a New Rule Engine**|Alex Ivliev et.al.|[2308.15897](http://arxiv.org/abs/2308.15897)|**[link](https://github.com/knowsys/nemo)**|
@@ -1341,7 +1341,7 @@ layout: default
 |**2023-08-22**|**MindMap: Knowledge Graph Prompting Sparks Graph of Thoughts in Large Language Models**|Yilin Wen et.al.|[2308.09729](http://arxiv.org/abs/2308.09729)|**[link](https://github.com/wyl-willing/MindMap)**|
 |**2023-08-18**|**Semantic relatedness in DBpedia: A comparative and experimental assessment**|Anna Formica et.al.|[2308.09502](http://arxiv.org/abs/2308.09502)|null|
 |**2023-08-17**|**Semantic Information for Object Detection**|Jean-Francois Nies et.al.|[2308.08990](http://arxiv.org/abs/2308.08990)|null|
-|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|null|
+|**2023-08-17**|**Development of a Knowledge Graph Embeddings Model for Pain**|Jaya Chaturvedi et.al.|[2308.08904](http://arxiv.org/abs/2308.08904)|**[link](https://github.com/jayachaturvedi/pain_in_mental_health)**|
 |**2023-08-15**|**KMF: Knowledge-Aware Multi-Faceted Representation Learning for Zero-Shot Node Classification**|Likang Wu et.al.|[2308.08563](http://arxiv.org/abs/2308.08563)|null|
 |**2023-08-14**|**Knowledge Prompt-tuning for Sequential Recommendation**|Jianyang Zhai et.al.|[2308.08459](http://arxiv.org/abs/2308.08459)|**[link](https://github.com/zhaijianyang/kp4sr)**|
 |**2023-08-16**|**PDPK: A Framework to Synthesise Process Data and Corresponding Procedural Knowledge for Manufacturing**|Richard Nordsieck et.al.|[2308.08371](http://arxiv.org/abs/2308.08371)|**[link](https://github.com/0x14d/embedding-operator-knowledge)**|
