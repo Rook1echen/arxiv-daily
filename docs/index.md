@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems**|Dipam Patel et.al.|[2309.17433](http://arxiv.org/abs/2309.17433)|null|
+|**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
+|**2023-09-29**|**Adversarial Imitation Learning from Visual Observations using Latent Information**|Vittorio Giammarino et.al.|[2309.17371](http://arxiv.org/abs/2309.17371)|null|
+|**2023-09-29**|**Estimation and Inference in Distributional Reinforcement Learning**|Liangyu Zhang et.al.|[2309.17262](http://arxiv.org/abs/2309.17262)|null|
+|**2023-09-29**|**MORPH: Design Co-optimization with Reinforcement Learning via a Differentiable Hardware Model Proxy**|Zhanpeng He et.al.|[2309.17227](http://arxiv.org/abs/2309.17227)|null|
+|**2023-09-29**|**Memory Gym: Partially Observable Challenges to Memory-Based Agents in Endless Episodes**|Marco Pleines et.al.|[2309.17207](http://arxiv.org/abs/2309.17207)|**[link](https://github.com/marcometer/endless-memory-gym)**|
+|**2023-09-29**|**Meta Reinforcement Learning for Fast Spectrum Sharing in Vehicular Networks**|Kai Huang et.al.|[2309.17185](http://arxiv.org/abs/2309.17185)|null|
+|**2023-09-29**|**RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds**|Wanpeng Zhang et.al.|[2309.17176](http://arxiv.org/abs/2309.17176)|null|
+|**2023-09-29**|**Too Big, so Fail? -- Enabling Neural Construction Methods to Solve Large-Scale Routing Problems**|Jonas K. Falkner et.al.|[2309.17089](http://arxiv.org/abs/2309.17089)|**[link](https://github.com/jokofa/nrr)**|
+|**2023-09-29**|**Double-Layer Power Control for Mobile Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning**|Ziheng Liu et.al.|[2309.17079](http://arxiv.org/abs/2309.17079)|null|
 |**2023-09-28**|**HyperPPO: A scalable method for finding small policies for robotic control**|Shashank Hegde et.al.|[2309.16663](http://arxiv.org/abs/2309.16663)|null|
 |**2023-09-28**|**Robust Offline Reinforcement Learning -- Certify the Confidence Interval**|Jiarui Yao et.al.|[2309.16631](http://arxiv.org/abs/2309.16631)|null|
 |**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609](http://arxiv.org/abs/2309.16609)|**[link](https://github.com/QwenLM/Qwen-7B)**|
@@ -1225,7 +1235,7 @@ layout: default
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
-|**2023-02-09**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
+|**2023-09-29**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
 |**2022-10-18**|**Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving**|Eli Bronstein et.al.|[2210.09539](http://arxiv.org/abs/2210.09539)|null|
 |**2023-03-06**|**Follow The Rules: Online Signal Temporal Logic Tree Search for Guided Imitation Learning in Stochastic Domains**|Jasmine Jerry Aloor et.al.|[2209.13737](http://arxiv.org/abs/2209.13737)|**[link](https://github.com/castacks/mcts-stl-planning)**|
 |**2022-09-21**|**Goal-Aware Generative Adversarial Imitation Learning from Imperfect Demonstration for Robotic Cloth Manipulation**|Yoshihisa Tsurumine et.al.|[2209.10149](http://arxiv.org/abs/2209.10149)|null|
@@ -1239,6 +1249,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Knowledge Graphs for the Life Sciences: Recent Developments, Challenges and Opportunities**|Jiaoyan Chen et.al.|[2309.17255](http://arxiv.org/abs/2309.17255)|null|
+|**2023-09-29**|**Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?**|Johannes Frey et.al.|[2309.17122](http://arxiv.org/abs/2309.17122)|null|
+|**2023-09-29**|**SAppKG: Mobile App Recommendation Using Knowledge Graph and Side Information-A Secure Framework**|Daksh Dave et.al.|[2309.17115](http://arxiv.org/abs/2309.17115)|null|
+|**2023-09-29**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113](http://arxiv.org/abs/2309.17113)|null|
 |**2023-09-28**|**Navigating Healthcare Insights: A Birds Eye View of Explainability with Knowledge Graphs**|Satvik Garg et.al.|[2309.16593](http://arxiv.org/abs/2309.16593)|null|
 |**2023-09-28**|**Leveraging Pre-trained Language Models for Time Interval Prediction in Text-Enhanced Temporal Knowledge Graphs**|Duygu Sezen Islakoglu et.al.|[2309.16357](http://arxiv.org/abs/2309.16357)|**[link](https://github.com/duyguislakoglu/temt)**|
 |**2023-09-28**|**A Framework to Assess Knowledge Graphs Accountability**|Jennie Andersen et.al.|[2309.16285](http://arxiv.org/abs/2309.16285)|null|
