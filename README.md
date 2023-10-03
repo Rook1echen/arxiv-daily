@@ -1,4 +1,4 @@
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231003>back to top</a>)</p>
 
 ## attack graph
 
@@ -46,8 +46,8 @@
 |---|---|---|---|---|
 |**2023-09-29**|**DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems**|Dipam Patel et.al.|[2309.17433](http://arxiv.org/abs/2309.17433)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
-|**2023-09-29**|**Adversarial Imitation Learning from Visual Observations using Latent Information**|Vittorio Giammarino et.al.|[2309.17371](http://arxiv.org/abs/2309.17371)|null|
-|**2023-09-29**|**Estimation and Inference in Distributional Reinforcement Learning**|Liangyu Zhang et.al.|[2309.17262](http://arxiv.org/abs/2309.17262)|null|
+|**2023-09-29**|**Adversarial Imitation Learning from Visual Observations using Latent Information**|Vittorio Giammarino et.al.|[2309.17371](http://arxiv.org/abs/2309.17371)|**[link](https://github.com/vittoriogiammarino/ail_from_visual_obs)**|
+|**2023-09-29**|**Estimation and Inference in Distributional Reinforcement Learning**|Liangyu Zhang et.al.|[2309.17262](http://arxiv.org/abs/2309.17262)|**[link](https://github.com/zhangliangyu32/estimationandinferencedistributionalrl)**|
 |**2023-09-29**|**MORPH: Design Co-optimization with Reinforcement Learning via a Differentiable Hardware Model Proxy**|Zhanpeng He et.al.|[2309.17227](http://arxiv.org/abs/2309.17227)|null|
 |**2023-09-29**|**Memory Gym: Partially Observable Challenges to Memory-Based Agents in Endless Episodes**|Marco Pleines et.al.|[2309.17207](http://arxiv.org/abs/2309.17207)|**[link](https://github.com/marcometer/endless-memory-gym)**|
 |**2023-09-29**|**Meta Reinforcement Learning for Fast Spectrum Sharing in Vehicular Networks**|Kai Huang et.al.|[2309.17185](http://arxiv.org/abs/2309.17185)|null|
@@ -1232,7 +1232,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231003>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1255,7 +1255,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231003>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -1264,7 +1264,7 @@
 |**2023-09-29**|**Knowledge Graphs for the Life Sciences: Recent Developments, Challenges and Opportunities**|Jiaoyan Chen et.al.|[2309.17255](http://arxiv.org/abs/2309.17255)|null|
 |**2023-09-29**|**Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?**|Johannes Frey et.al.|[2309.17122](http://arxiv.org/abs/2309.17122)|null|
 |**2023-09-29**|**SAppKG: Mobile App Recommendation Using Knowledge Graph and Side Information-A Secure Framework**|Daksh Dave et.al.|[2309.17115](http://arxiv.org/abs/2309.17115)|null|
-|**2023-09-29**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113](http://arxiv.org/abs/2309.17113)|null|
+|**2023-09-29**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113](http://arxiv.org/abs/2309.17113)|**[link](https://github.com/francescoferrini/multirelationalgnn)**|
 |**2023-09-28**|**Navigating Healthcare Insights: A Birds Eye View of Explainability with Knowledge Graphs**|Satvik Garg et.al.|[2309.16593](http://arxiv.org/abs/2309.16593)|null|
 |**2023-09-28**|**Leveraging Pre-trained Language Models for Time Interval Prediction in Text-Enhanced Temporal Knowledge Graphs**|Duygu Sezen Islakoglu et.al.|[2309.16357](http://arxiv.org/abs/2309.16357)|**[link](https://github.com/duyguislakoglu/temt)**|
 |**2023-09-28**|**A Framework to Assess Knowledge Graphs Accountability**|Jennie Andersen et.al.|[2309.16285](http://arxiv.org/abs/2309.16285)|null|
@@ -1693,5 +1693,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231002>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231003>back to top</a>)</p>
 
