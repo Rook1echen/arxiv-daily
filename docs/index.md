@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.03
+## Updated on 2023.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**What do we learn from a large-scale study of pre-trained visual representations in sim and real environments?**|Sneha Silwal et.al.|[2310.02219](http://arxiv.org/abs/2310.02219)|null|
+|**2023-10-03**|**Towards a Unified Framework for Sequential Decision Making**|Carlos Núñez-Molina et.al.|[2310.02167](http://arxiv.org/abs/2310.02167)|null|
+|**2023-10-03**|**Navigating Uncertainty in ESG Investing**|Jiayue Zhang et.al.|[2310.02163](http://arxiv.org/abs/2310.02163)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054](http://arxiv.org/abs/2310.02054)|null|
+|**2023-10-03**|**Probabilistic Reach-Avoid for Bayesian Neural Networks**|Matthew Wicker et.al.|[2310.01951](http://arxiv.org/abs/2310.01951)|**[link](https://github.com/matthewwicker/bnnreachavoid)**|
+|**2023-10-03**|**Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency**|Francisco Roldan Sanchez et.al.|[2310.01827](http://arxiv.org/abs/2310.01827)|**[link](https://github.com/franroldans/qmp-her)**|
+|**2023-10-03**|**Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI**|Emily Jin et.al.|[2310.01824](http://arxiv.org/abs/2310.01824)|**[link](https://github.com/stanfordvl/mini_behavior)**|
+|**2023-10-03**|**Differentially Encoded Observation Spaces for Perceptive Reinforcement Learning**|Lev Grossman et.al.|[2310.01767](http://arxiv.org/abs/2310.01767)|**[link](https://github.com/a2r-lab/diffcompressdrl)**|
+|**2023-10-03**|**Blending Imitation and Reinforcement Learning for Robust Policy Improvement**|Xuefeng Liu et.al.|[2310.01737](http://arxiv.org/abs/2310.01737)|null|
+|**2023-10-03**|**On Representation Complexity of Model-based and Model-free Reinforcement Learning**|Hanlin Zhu et.al.|[2310.01706](http://arxiv.org/abs/2310.01706)|null|
 |**2023-09-29**|**DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems**|Dipam Patel et.al.|[2309.17433](http://arxiv.org/abs/2309.17433)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
 |**2023-09-29**|**Adversarial Imitation Learning from Visual Observations using Latent Information**|Vittorio Giammarino et.al.|[2309.17371](http://arxiv.org/abs/2309.17371)|**[link](https://github.com/vittoriogiammarino/ail_from_visual_obs)**|
@@ -1249,6 +1259,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Strong Faithfulness for ELH Ontology Embeddings**|Victor Lacerda et.al.|[2310.02198](http://arxiv.org/abs/2310.02198)|null|
+|**2023-10-03**|**Large Language Models Meet Knowledge Graphs to Answer Factoid Questions**|Mikhail Salnikov et.al.|[2310.02166](http://arxiv.org/abs/2310.02166)|null|
+|**2023-10-02**|**Threat Modelling in Internet of Things (IoT) Environment Using Dynamic Attack Graphs**|Marwa Salayma et.al.|[2310.01689](http://arxiv.org/abs/2310.01689)|null|
+|**2023-10-02**|**Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph**|Ziyu Zhao et.al.|[2310.01080](http://arxiv.org/abs/2310.01080)|null|
+|**2023-10-02**|**Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models**|Chenhan Yuan et.al.|[2310.01074](http://arxiv.org/abs/2310.01074)|null|
+|**2023-10-02**|**KGEx: Explaining Knowledge Graph Embeddings via Subgraph Sampling and Knowledge Distillation**|Vasileios Baltatzis et.al.|[2310.01065](http://arxiv.org/abs/2310.01065)|null|
+|**2023-10-02**|**Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning**|Linhao Luo et.al.|[2310.01061](http://arxiv.org/abs/2310.01061)|**[link](https://github.com/rmanluo/reasoning-on-graphs)**|
+|**2023-10-02**|**Organized Event Participant Prediction Enhanced by Social Media Retweeting Data**|Yihong Zhang et.al.|[2310.00896](http://arxiv.org/abs/2310.00896)|null|
+|**2023-10-01**|**Streamlining Attack Tree Generation: A Fragment-Based Approach**|Irdin Pekaric et.al.|[2310.00654](http://arxiv.org/abs/2310.00654)|null|
+|**2023-10-01**|**TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation**|Yubo Gao et.al.|[2310.00569](http://arxiv.org/abs/2310.00569)|null|
 |**2023-09-29**|**Knowledge Graphs for the Life Sciences: Recent Developments, Challenges and Opportunities**|Jiaoyan Chen et.al.|[2309.17255](http://arxiv.org/abs/2309.17255)|null|
 |**2023-09-29**|**Benchmarking the Abilities of Large Language Models for RDF Knowledge Graph Creation and Comprehension: How Well Do LLMs Speak Turtle?**|Johannes Frey et.al.|[2309.17122](http://arxiv.org/abs/2309.17122)|null|
 |**2023-09-29**|**SAppKG: Mobile App Recommendation Using Knowledge Graph and Side Information-A Secure Framework**|Daksh Dave et.al.|[2309.17115](http://arxiv.org/abs/2309.17115)|null|
