@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022](http://arxiv.org/abs/2310.03022)|null|
+|**2023-10-04**|**Proximal Policy Optimization-Based Reinforcement Learning Approach for DC-DC Boost Converter Control: A Comparative Evaluation Against Traditional Control Techniques**|Utsab Saha et.al.|[2310.02945](http://arxiv.org/abs/2310.02945)|null|
+|**2023-10-04**|**Searching for High-Value Molecules Using Reinforcement Learning and Transformers**|Raj Ghugare et.al.|[2310.02902](http://arxiv.org/abs/2310.02902)|null|
+|**2023-10-04**|**Learning to Scale Logits for Temperature-Conditional GFlowNets**|Minsu Kim et.al.|[2310.02823](http://arxiv.org/abs/2310.02823)|null|
+|**2023-10-04**|**Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design**|Matthew Thomas Jackson et.al.|[2310.02782](http://arxiv.org/abs/2310.02782)|null|
+|**2023-10-04**|**Reward Model Ensembles Help Mitigate Overoptimization**|Thomas Coste et.al.|[2310.02743](http://arxiv.org/abs/2310.02743)|null|
+|**2023-10-04**|**Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance**|Weirui Ye et.al.|[2310.02635](http://arxiv.org/abs/2310.02635)|null|
+|**2023-10-04**|**RLTrace: Synthesizing High-Quality System Call Traces for OS Fuzz Testing**|Wei Chen et.al.|[2310.02609](http://arxiv.org/abs/2310.02609)|null|
+|**2023-10-04**|**Multi-Agent Reinforcement Learning for Power Grid Topology Optimization**|Erica van der Sar et.al.|[2310.02605](http://arxiv.org/abs/2310.02605)|null|
+|**2023-10-04**|**Online Estimation and Inference for Robust Policy Evaluation in Reinforcement Learning**|Weidong Liu et.al.|[2310.02581](http://arxiv.org/abs/2310.02581)|null|
 |**2023-10-03**|**What do we learn from a large-scale study of pre-trained visual representations in sim and real environments?**|Sneha Silwal et.al.|[2310.02219](http://arxiv.org/abs/2310.02219)|null|
 |**2023-10-03**|**Towards a Unified Framework for Sequential Decision Making**|Carlos Núñez-Molina et.al.|[2310.02167](http://arxiv.org/abs/2310.02167)|null|
 |**2023-10-03**|**Navigating Uncertainty in ESG Investing**|Jiayue Zhang et.al.|[2310.02163](http://arxiv.org/abs/2310.02163)|null|
@@ -1259,11 +1269,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**A ModelOps-based Framework for Intelligent Medical Knowledge Extraction**|Hongxin Ding et.al.|[2310.02593](http://arxiv.org/abs/2310.02593)|null|
 |**2023-10-03**|**Strong Faithfulness for ELH Ontology Embeddings**|Victor Lacerda et.al.|[2310.02198](http://arxiv.org/abs/2310.02198)|null|
 |**2023-10-03**|**Large Language Models Meet Knowledge Graphs to Answer Factoid Questions**|Mikhail Salnikov et.al.|[2310.02166](http://arxiv.org/abs/2310.02166)|null|
 |**2023-10-02**|**Threat Modelling in Internet of Things (IoT) Environment Using Dynamic Attack Graphs**|Marwa Salayma et.al.|[2310.01689](http://arxiv.org/abs/2310.01689)|null|
 |**2023-10-02**|**Rel2Graph: Automated Mapping From Relational Databases to a Unified Property Knowledge Graph**|Ziyu Zhao et.al.|[2310.01080](http://arxiv.org/abs/2310.01080)|null|
-|**2023-10-02**|**Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models**|Chenhan Yuan et.al.|[2310.01074](http://arxiv.org/abs/2310.01074)|null|
+|**2023-10-02**|**Back to the Future: Towards Explainable Temporal Reasoning with Large Language Models**|Chenhan Yuan et.al.|[2310.01074](http://arxiv.org/abs/2310.01074)|**[link](https://github.com/chenhan97/timellama)**|
 |**2023-10-02**|**KGEx: Explaining Knowledge Graph Embeddings via Subgraph Sampling and Knowledge Distillation**|Vasileios Baltatzis et.al.|[2310.01065](http://arxiv.org/abs/2310.01065)|null|
 |**2023-10-02**|**Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning**|Linhao Luo et.al.|[2310.01061](http://arxiv.org/abs/2310.01061)|**[link](https://github.com/rmanluo/reasoning-on-graphs)**|
 |**2023-10-02**|**Organized Event Participant Prediction Enhanced by Social Media Retweeting Data**|Yihong Zhang et.al.|[2310.00896](http://arxiv.org/abs/2310.00896)|null|
