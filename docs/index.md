@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
+|**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718](http://arxiv.org/abs/2310.03718)|null|
+|**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
+|**2023-10-05**|**Beyond One-Preference-for-All: Multi-Objective Direct Preference Optimization**|Zhanhui Zhou et.al.|[2310.03708](http://arxiv.org/abs/2310.03708)|null|
+|**2023-10-05**|**Enhancing Exfiltration Path Analysis Using Reinforcement Learning**|Riddam Rishu et.al.|[2310.03667](http://arxiv.org/abs/2310.03667)|null|
+|**2023-10-05**|**Solving a Class of Non-Convex Minimax Optimization in Federated Learning**|Xidong Wu et.al.|[2310.03613](http://arxiv.org/abs/2310.03613)|null|
+|**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|null|
+|**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581](http://arxiv.org/abs/2310.03581)|null|
+|**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511](http://arxiv.org/abs/2310.03511)|null|
+|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|null|
 |**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022](http://arxiv.org/abs/2310.03022)|null|
 |**2023-10-04**|**Proximal Policy Optimization-Based Reinforcement Learning Approach for DC-DC Boost Converter Control: A Comparative Evaluation Against Traditional Control Techniques**|Utsab Saha et.al.|[2310.02945](http://arxiv.org/abs/2310.02945)|null|
 |**2023-10-04**|**Searching for High-Value Molecules Using Reinforcement Learning and Transformers**|Raj Ghugare et.al.|[2310.02902](http://arxiv.org/abs/2310.02902)|null|
@@ -1269,6 +1279,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**RouteKG: A knowledge graph-based framework for route prediction on road networks**|Yihong Tang et.al.|[2310.03617](http://arxiv.org/abs/2310.03617)|null|
+|**2023-10-05**|**BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**|Zifeng Wang et.al.|[2310.03320](http://arxiv.org/abs/2310.03320)|null|
+|**2023-10-05**|**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**|Zeyuan Wang et.al.|[2310.03269](http://arxiv.org/abs/2310.03269)|null|
+|**2023-10-05**|**Know2BIO: A Comprehensive Dual-View Benchmark for Evolving Biomedical Knowledge Graphs**|Yijia Xiao et.al.|[2310.03221](http://arxiv.org/abs/2310.03221)|**[link](https://github.com/yijia-xiao/know2bio)**|
 |**2023-10-04**|**A ModelOps-based Framework for Intelligent Medical Knowledge Extraction**|Hongxin Ding et.al.|[2310.02593](http://arxiv.org/abs/2310.02593)|null|
 |**2023-10-03**|**Strong Faithfulness for ELH Ontology Embeddings**|Victor Lacerda et.al.|[2310.02198](http://arxiv.org/abs/2310.02198)|null|
 |**2023-10-03**|**Large Language Models Meet Knowledge Graphs to Answer Factoid Questions**|Mikhail Salnikov et.al.|[2310.02166](http://arxiv.org/abs/2310.02166)|null|
