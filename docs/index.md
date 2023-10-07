@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.06
+## Updated on 2023.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -45,7 +45,7 @@ layout: default
 |**2023-10-05**|**Output Feedback Reinforcement Learning with Parameter Optimisation for Temperature Control in a Material Extrusion Additive Manufacturing system**|Eleni Zavrakli et.al.|[2310.03599](http://arxiv.org/abs/2310.03599)|null|
 |**2023-10-05**|**Resilient Legged Local Navigation: Learning to Traverse with Compromised Perception End-to-End**|Jin Jin et.al.|[2310.03581](http://arxiv.org/abs/2310.03581)|null|
 |**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511](http://arxiv.org/abs/2310.03511)|null|
-|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|null|
+|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507](http://arxiv.org/abs/2310.03507)|**[link](https://github.com/ajsvb/rl_path_tracing)**|
 |**2023-10-04**|**Decision ConvFormer: Local Filtering in MetaFormer is Sufficient for Decision Making**|Jeonghye Kim et.al.|[2310.03022](http://arxiv.org/abs/2310.03022)|null|
 |**2023-10-04**|**Proximal Policy Optimization-Based Reinforcement Learning Approach for DC-DC Boost Converter Control: A Comparative Evaluation Against Traditional Control Techniques**|Utsab Saha et.al.|[2310.02945](http://arxiv.org/abs/2310.02945)|null|
 |**2023-10-04**|**Searching for High-Value Molecules Using Reinforcement Learning and Transformers**|Raj Ghugare et.al.|[2310.02902](http://arxiv.org/abs/2310.02902)|null|
