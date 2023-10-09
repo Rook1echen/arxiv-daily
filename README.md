@@ -44,6 +44,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413](http://arxiv.org/abs/2310.04413)|null|
+|**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406](http://arxiv.org/abs/2310.04406)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
+|**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373](http://arxiv.org/abs/2310.04373)|null|
+|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|null|
+|**2023-10-06**|**Applying Reinforcement Learning to Option Pricing and Hedging**|Zoran Stoiljkovic et.al.|[2310.04336](http://arxiv.org/abs/2310.04336)|null|
+|**2023-10-06**|**Adjustable Robust Reinforcement Learning for Online 3D Bin Packing**|Yuxin Pan et.al.|[2310.04323](http://arxiv.org/abs/2310.04323)|null|
+|**2023-10-06**|**Searching for Optimal Runtime Assurance via Reachability and Reinforcement Learning**|Kristina Miller et.al.|[2310.04288](http://arxiv.org/abs/2310.04288)|null|
+|**2023-10-06**|**DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories**|Matteo El-Hariry et.al.|[2310.04266](http://arxiv.org/abs/2310.04266)|null|
+|**2023-10-06**|**Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning**|Moritz Lange et.al.|[2310.04241](http://arxiv.org/abs/2310.04241)|null|
+|**2023-10-06**|**Lending Interaction Wings to Recommender Systems with Conversational Agents**|Jiarui Jin et.al.|[2310.04230](http://arxiv.org/abs/2310.04230)|null|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718](http://arxiv.org/abs/2310.03718)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
@@ -1291,6 +1301,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932](http://arxiv.org/abs/2310.03932)|null|
+|**2023-10-05**|**Contextualized Structural Self-supervised Learning for Ontology Matching**|Zhu Wang et.al.|[2310.03840](http://arxiv.org/abs/2310.03840)|**[link](https://github.com/ellenzhuwang/lakermap)**|
 |**2023-10-03**|**RouteKG: A knowledge graph-based framework for route prediction on road networks**|Yihong Tang et.al.|[2310.03617](http://arxiv.org/abs/2310.03617)|null|
 |**2023-10-05**|**BioBridge: Bridging Biomedical Foundation Models via Knowledge Graph**|Zifeng Wang et.al.|[2310.03320](http://arxiv.org/abs/2310.03320)|null|
 |**2023-10-05**|**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**|Zeyuan Wang et.al.|[2310.03269](http://arxiv.org/abs/2310.03269)|null|
