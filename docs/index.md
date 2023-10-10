@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**SALMON: Self-Alignment with Principle-Following Reward Models**|Zhiqing Sun et.al.|[2310.05910](http://arxiv.org/abs/2310.05910)|null|
+|**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858](http://arxiv.org/abs/2310.05858)|null|
+|**2023-10-09**|**A Simple Open-Loop Baseline for Reinforcement Learning Locomotion Tasks**|Antonin Raffin et.al.|[2310.05808](http://arxiv.org/abs/2310.05808)|null|
+|**2023-10-09**|**Aligning Language Models with Human Preferences via a Bayesian Approach**|Jiashuo Wang et.al.|[2310.05782](http://arxiv.org/abs/2310.05782)|**[link](https://github.com/wangjs9/aligned-dpm)**|
+|**2023-10-09**|**RateRL: A Framework for Developing RL-Based Rate Adaptation Algorithms in ns-3**|Ruben Queiros et.al.|[2310.05772](http://arxiv.org/abs/2310.05772)|null|
+|**2023-10-09**|**Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement Learning**|Trevor McInroe et.al.|[2310.05723](http://arxiv.org/abs/2310.05723)|null|
+|**2023-10-09**|**DecAP: Decaying Action Priors for Accelerated Learning of Torque-Based Legged Locomotion Policies**|Shivam Sood et.al.|[2310.05714](http://arxiv.org/abs/2310.05714)|null|
+|**2023-10-09**|**Imitator Learning: Achieve Out-of-the-Box Imitation Ability in Variable Environments**|Xiong-Hui Chen et.al.|[2310.05712](http://arxiv.org/abs/2310.05712)|null|
+|**2023-10-09**|**Hierarchical Reinforcement Learning for Temporal Pattern Prediction**|Faith Johnson et.al.|[2310.05695](http://arxiv.org/abs/2310.05695)|null|
+|**2023-10-09**|**Multi-timestep models for Model-based Reinforcement Learning**|Abdelhakim Benechehab et.al.|[2310.05672](http://arxiv.org/abs/2310.05672)|null|
 |**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413](http://arxiv.org/abs/2310.04413)|null|
 |**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406](http://arxiv.org/abs/2310.04406)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
 |**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373](http://arxiv.org/abs/2310.04373)|null|
@@ -1275,7 +1285,7 @@ layout: default
 |**2023-05-12**|**An Imitation Learning Based Algorithm Enabling Priori Knowledge Transfer in Modern Electricity Markets for Bayesian Nash Equilibrium Estimation**|Ziqing Zhu et.al.|[2305.06924](http://arxiv.org/abs/2305.06924)|null|
 |**2023-04-04**|**Quantum Imitation Learning**|Zhihao Cheng et.al.|[2304.02480](http://arxiv.org/abs/2304.02480)|null|
 |**2023-02-09**|**Learning to Simulate Daily Activities via Modeling Dynamic Human Needs**|Yuan Yuan et.al.|[2302.10897](http://arxiv.org/abs/2302.10897)|**[link](https://github.com/tsinghua-fib-lab/sand)**|
-|**2023-09-29**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
+|**2023-10-08**|**Hierarchical Generative Adversarial Imitation Learning with Mid-level Input Generation for Autonomous Driving on Urban Environments**|Gustavo Claudio Karl Couto et.al.|[2302.04823](http://arxiv.org/abs/2302.04823)|**[link](https://github.com/gustavokcouto/hgail)**|
 |**2022-10-18**|**Hierarchical Model-Based Imitation Learning for Planning in Autonomous Driving**|Eli Bronstein et.al.|[2210.09539](http://arxiv.org/abs/2210.09539)|null|
 |**2023-03-06**|**Follow The Rules: Online Signal Temporal Logic Tree Search for Guided Imitation Learning in Stochastic Domains**|Jasmine Jerry Aloor et.al.|[2209.13737](http://arxiv.org/abs/2209.13737)|**[link](https://github.com/castacks/mcts-stl-planning)**|
 |**2022-09-21**|**Goal-Aware Generative Adversarial Imitation Learning from Imperfect Demonstration for Robotic Cloth Manipulation**|Yoshihisa Tsurumine et.al.|[2209.10149](http://arxiv.org/abs/2209.10149)|null|
@@ -1289,6 +1299,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution**|Xinze Li et.al.|[2310.05634](http://arxiv.org/abs/2310.05634)|null|
+|**2023-10-09**|**Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths**|Bolin Zhu et.al.|[2310.05364](http://arxiv.org/abs/2310.05364)|**[link](https://github.com/blzhu0823/pathfusion)**|
+|**2023-10-08**|**A Knowledge Graph-Based Search Engine for Robustly Finding Doctors and Locations in the Healthcare Domain**|Mayank Kejriwal et.al.|[2310.05258](http://arxiv.org/abs/2310.05258)|null|
+|**2023-10-08**|**Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction**|Haoran Luo et.al.|[2310.05185](http://arxiv.org/abs/2310.05185)|null|
+|**2023-10-08**|**An Investigation of LLMs' Inefficacy in Understanding Converse Relations**|Chengwen Qi et.al.|[2310.05163](http://arxiv.org/abs/2310.05163)|**[link](https://github.com/3b-group/convre)**|
+|**2023-10-08**|**From Data to Dialogue: Leveraging the Structure of Knowledge Graphs for Conversational Exploratory Search**|Phillip Schneider et.al.|[2310.05150](http://arxiv.org/abs/2310.05150)|**[link](https://github.com/sebischair/kg-conv-exploratory-search)**|
+|**2023-10-08**|**Dynamic Multi-Domain Knowledge Networks for Chest X-ray Report Generation**|Weihua Liu et.al.|[2310.05119](http://arxiv.org/abs/2310.05119)|null|
+|**2023-10-08**|**Domain Knowledge Graph Construction Via A Simple Checker**|Yueling Zeng et.al.|[2310.04949](http://arxiv.org/abs/2310.04949)|null|
+|**2023-10-07**|**Faithful Knowledge Graph Explanations for Commonsense Reasoning**|Weihe Zhai et.al.|[2310.04910](http://arxiv.org/abs/2310.04910)|null|
+|**2023-10-07**|**GradXKG: A Universal Explain-per-use Temporal Knowledge Graph Explainer**|Chenhan Yuan et.al.|[2310.04889](http://arxiv.org/abs/2310.04889)|null|
 |**2023-10-05**|**Bridging Low-level Geometry to High-level Concepts in Visual Servoing of Robot Manipulation Task Using Event Knowledge Graphs and Vision-Language Models**|Chen Jiang et.al.|[2310.03932](http://arxiv.org/abs/2310.03932)|null|
 |**2023-10-05**|**Contextualized Structural Self-supervised Learning for Ontology Matching**|Zhu Wang et.al.|[2310.03840](http://arxiv.org/abs/2310.03840)|**[link](https://github.com/ellenzhuwang/lakermap)**|
 |**2023-10-03**|**RouteKG: A knowledge graph-based framework for route prediction on road networks**|Yihong Tang et.al.|[2310.03617](http://arxiv.org/abs/2310.03617)|null|
