@@ -1,4 +1,4 @@
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,12 +38,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835](http://arxiv.org/abs/2310.06835)|null|
+|**2023-10-10**|**$f$-Policy Gradients: A General Framework for Goal Conditioned RL using $f$ -Divergences**|Siddhant Agarwal et.al.|[2310.06794](http://arxiv.org/abs/2310.06794)|null|
+|**2023-10-10**|**Spectral Entry-wise Matrix Estimation for Low-Rank Reinforcement Learning**|Stefan Stojanovic et.al.|[2310.06793](http://arxiv.org/abs/2310.06793)|null|
+|**2023-10-10**|**Information Content Exploration**|Jacob Chmura et.al.|[2310.06777](http://arxiv.org/abs/2310.06777)|null|
+|**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751](http://arxiv.org/abs/2310.06751)|null|
+|**2023-10-10**|**Near-Optimality of Finite-Memory Codes and Reinforcement Learning for Zero-Delay Coding of Markov Sources**|Liam Cregg et.al.|[2310.06742](http://arxiv.org/abs/2310.06742)|null|
+|**2023-10-10**|**Solving Inverse Problems with REINFORCE**|Chen Xu et.al.|[2310.06711](http://arxiv.org/abs/2310.06711)|null|
+|**2023-10-10**|**Diversity from Human Feedback**|Ren-Jian Wang et.al.|[2310.06648](http://arxiv.org/abs/2310.06648)|null|
+|**2023-10-10**|**BridgeHand2Vec Bridge Hand Representation**|Anna Sztyber-Betley et.al.|[2310.06624](http://arxiv.org/abs/2310.06624)|**[link](https://github.com/johny-b/bridgehand2vec)**|
+|**2023-10-10**|**SYNLOCO: Synthesizing Central Pattern Generator and Reinforcement Learning for Quadruped Locomotion**|Xinyu Zhang et.al.|[2310.06606](http://arxiv.org/abs/2310.06606)|null|
 |**2023-10-09**|**SALMON: Self-Alignment with Principle-Following Reward Models**|Zhiqing Sun et.al.|[2310.05910](http://arxiv.org/abs/2310.05910)|null|
 |**2023-10-09**|**DSAC-T: Distributional Soft Actor-Critic with Three Refinements**|Jingliang Duan et.al.|[2310.05858](http://arxiv.org/abs/2310.05858)|null|
 |**2023-10-09**|**A Simple Open-Loop Baseline for Reinforcement Learning Locomotion Tasks**|Antonin Raffin et.al.|[2310.05808](http://arxiv.org/abs/2310.05808)|null|
@@ -1282,7 +1292,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1305,16 +1315,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Making Large Language Models Perform Better in Knowledge Graph Completion**|Yichi Zhang et.al.|[2310.06671](http://arxiv.org/abs/2310.06671)|null|
+|**2023-10-10**|**Toward Semantic Publishing in Non-Invasive Brain Stimulation: A Comprehensive Analysis of rTMS Studies**|Swathi Anil et.al.|[2310.06517](http://arxiv.org/abs/2310.06517)|null|
+|**2023-10-10**|**Multi-Modal Knowledge Graph Transformer Framework for Multi-Modal Entity Alignment**|Qian Li et.al.|[2310.06365](http://arxiv.org/abs/2310.06365)|**[link](https://github.com/xiaoqian19940510/moalign)**|
 |**2023-10-09**|**Towards Verifiable Generation: A Benchmark for Knowledge-aware Language Model Attribution**|Xinze Li et.al.|[2310.05634](http://arxiv.org/abs/2310.05634)|null|
-|**2023-10-09**|**Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths**|Bolin Zhu et.al.|[2310.05364](http://arxiv.org/abs/2310.05364)|**[link](https://github.com/blzhu0823/pathfusion)**|
+|**2023-10-10**|**Universal Multi-modal Entity Alignment via Iteratively Fusing Modality Similarity Paths**|Bolin Zhu et.al.|[2310.05364](http://arxiv.org/abs/2310.05364)|**[link](https://github.com/blzhu0823/pathfusion)**|
 |**2023-10-08**|**A Knowledge Graph-Based Search Engine for Robustly Finding Doctors and Locations in the Healthcare Domain**|Mayank Kejriwal et.al.|[2310.05258](http://arxiv.org/abs/2310.05258)|null|
-|**2023-10-08**|**Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction**|Haoran Luo et.al.|[2310.05185](http://arxiv.org/abs/2310.05185)|null|
+|**2023-10-08**|**Text2NKG: Fine-Grained N-ary Relation Extraction for N-ary relational Knowledge Graph Construction**|Haoran Luo et.al.|[2310.05185](http://arxiv.org/abs/2310.05185)|**[link](https://github.com/lhrlab/text2nkg)**|
 |**2023-10-08**|**An Investigation of LLMs' Inefficacy in Understanding Converse Relations**|Chengwen Qi et.al.|[2310.05163](http://arxiv.org/abs/2310.05163)|**[link](https://github.com/3b-group/convre)**|
 |**2023-10-08**|**From Data to Dialogue: Leveraging the Structure of Knowledge Graphs for Conversational Exploratory Search**|Phillip Schneider et.al.|[2310.05150](http://arxiv.org/abs/2310.05150)|**[link](https://github.com/sebischair/kg-conv-exploratory-search)**|
 |**2023-10-08**|**Dynamic Multi-Domain Knowledge Networks for Chest X-ray Report Generation**|Weihua Liu et.al.|[2310.05119](http://arxiv.org/abs/2310.05119)|null|
@@ -1770,5 +1783,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
