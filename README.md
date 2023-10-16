@@ -44,6 +44,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Goodhart's Law in Reinforcement Learning**|Jacek Karwowski et.al.|[2310.09144](http://arxiv.org/abs/2310.09144)|null|
+|**2023-10-13**|**Automatic Music Playlist Generation via Simulation-based Reinforcement Learning**|Federico Tomasi et.al.|[2310.09123](http://arxiv.org/abs/2310.09123)|null|
+|**2023-10-13**|**Online Relocating and Matching of Ride-Hailing Services: A Model-Based Modular Approach**|Chang Gao et.al.|[2310.09071](http://arxiv.org/abs/2310.09071)|null|
+|**2023-10-13**|**DATT: Deep Adaptive Trajectory Tracking for Quadrotor Control**|Kevin Huang et.al.|[2310.09053](http://arxiv.org/abs/2310.09053)|null|
+|**2023-10-13**|**Optimal Scheduling of Electric Vehicle Charging with Deep Reinforcement Learning considering End Users Flexibility**|Christoforos Menos-Aikateriniadis et.al.|[2310.09040](http://arxiv.org/abs/2310.09040)|null|
+|**2023-10-13**|**μ-DDRL: A QoS-Aware Distributed Deep Reinforcement Learning Technique for Service Offloading in Fog computing Environments**|Mohammad Goudarzi et.al.|[2310.09003](http://arxiv.org/abs/2310.09003)|null|
+|**2023-10-13**|**Multi-Purpose NLP Chatbot : Design, Methodology & Conclusion**|Shivom Aggarwal et.al.|[2310.08977](http://arxiv.org/abs/2310.08977)|null|
+|**2023-10-13**|**PAGE: Equilibrate Personalization and Generalization in Federated Learning**|Qian Chen et.al.|[2310.08961](http://arxiv.org/abs/2310.08961)|null|
+|**2023-10-13**|**LLaMA Rider: Spurring Large Language Models to Explore the Open World**|Yicheng Feng et.al.|[2310.08922](http://arxiv.org/abs/2310.08922)|null|
+|**2023-10-13**|**Community Membership Hiding as Counterfactual Graph Search via Deep Reinforcement Learning**|Andrea Bernini et.al.|[2310.08909](http://arxiv.org/abs/2310.08909)|null|
 |**2023-10-11**|**Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**|Gustav Nikopensius et.al.|[2310.07613](http://arxiv.org/abs/2310.07613)|null|
 |**2023-10-11**|**Exploiting Causal Graph Priors with Posterior Sampling for Reinforcement Learning**|Mirco Mutti et.al.|[2310.07518](http://arxiv.org/abs/2310.07518)|null|
 |**2023-10-11**|**Sample-Driven Federated Learning for Energy-Efficient and Real-Time IoT Sensing**|Minh Ngoc Luu et.al.|[2310.07497](http://arxiv.org/abs/2310.07497)|**[link](https://github.com/skyd-fl/scfl)**|
@@ -1308,6 +1318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583](http://arxiv.org/abs/2310.08583)|null|
 |**2023-09-27**|**In-Hand Re-grasp Manipulation with Passive Dynamic Actions via Imitation Learning**|Dehao Wei et.al.|[2309.15455](http://arxiv.org/abs/2309.15455)|null|
 |**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
 |**2023-09-02**|**Reasoning over the Air: A Reasoning-based Implicit Semantic-Aware Communication Framework**|Yong Xiao et.al.|[2306.11229](http://arxiv.org/abs/2306.11229)|**[link](https://github.com/yiwei-liao/isac)**|
@@ -1331,6 +1342,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|null|
+|**2023-10-13**|**ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models**|Haoran Luo et.al.|[2310.08975](http://arxiv.org/abs/2310.08975)|**[link](https://github.com/lhrlab/chatkbqa)**|
+|**2023-10-13**|**Relation-aware Ensemble Learning for Knowledge Graph Embedding**|Ling Yue et.al.|[2310.08917](http://arxiv.org/abs/2310.08917)|**[link](https://github.com/lars-research/relens)**|
+|**2023-10-12**|**From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2310.08365](http://arxiv.org/abs/2310.08365)|null|
+|**2023-10-12**|**Expanding the Vocabulary of BERT for Knowledge Base Construction**|Dong Yang et.al.|[2310.08291](http://arxiv.org/abs/2310.08291)|**[link](https://github.com/MaastrichtU-IDS/LMKBC-2023)**|
+|**2023-10-12**|**CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models**|Rui Yang et.al.|[2310.08279](http://arxiv.org/abs/2310.08279)|null|
+|**2023-10-12**|**Open-Set Knowledge-Based Visual Question Answering with Inference Paths**|Jingru Gan et.al.|[2310.08148](http://arxiv.org/abs/2310.08148)|null|
+|**2023-10-12**|**Incorporating Domain Knowledge Graph into Multimodal Movie Genre Classification with Self-Supervised Attention and Contrastive Learning**|Jiaqi Li et.al.|[2310.08032](http://arxiv.org/abs/2310.08032)|**[link](https://github.com/aoluming/IDKG)**|
+|**2023-10-11**|**Framework for Question-Answering in Sanskrit through Automated Construction of Knowledge Graphs**|Hrishikesh Terdalkar et.al.|[2310.07848](http://arxiv.org/abs/2310.07848)|null|
+|**2023-10-11**|**GenTKG: Generative Forecasting on Temporal Knowledge Graph**|Ruotong Liao et.al.|[2310.07793](http://arxiv.org/abs/2310.07793)|null|
 |**2023-10-11**|**Reinforcement Learning-based Knowledge Graph Reasoning for Explainable Fact-checking**|Gustav Nikopensius et.al.|[2310.07613](http://arxiv.org/abs/2310.07613)|null|
 |**2023-10-11**|**Relational Prior Knowledge Graphs for Detection and Instance Segmentation**|Osman Ülger et.al.|[2310.07573](http://arxiv.org/abs/2310.07573)|null|
 |**2023-10-11**|**What can knowledge graph alignment gain with Neuro-Symbolic learning approaches?**|Pedro Giesteira Cotovio et.al.|[2310.07417](http://arxiv.org/abs/2310.07417)|null|
