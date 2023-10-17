@@ -1,4 +1,4 @@
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,12 +38,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Generating Summaries with Controllable Readability Levels**|Leonardo F. R. Ribeiro et.al.|[2310.10623](http://arxiv.org/abs/2310.10623)|null|
+|**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
+|**2023-10-16**|**Sample Complexity of Preference-Based Nonparametric Off-Policy Evaluation with Deep Networks**|Zihao Li et.al.|[2310.10556](http://arxiv.org/abs/2310.10556)|null|
+|**2023-10-16**|**Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey**|Mai Le et.al.|[2310.10549](http://arxiv.org/abs/2310.10549)|null|
+|**2023-10-16**|**Learning optimal integration of spatial and temporal information in noisy chemotaxis**|Albert Alonso et.al.|[2310.10531](http://arxiv.org/abs/2310.10531)|**[link](https://github.com/kirkegaardlab/chemoxrl)**|
+|**2023-10-16**|**Efficient Sim-to-real Transfer of Contact-Rich Manipulation Skills with Online Admittance Residual Learning**|Xiang Zhang et.al.|[2310.10509](http://arxiv.org/abs/2310.10509)|null|
+|**2023-10-16**|**ReMax: A Simple, Effective, and Efficient Method for Aligning Large Language Models**|Ziniu Li et.al.|[2310.10505](http://arxiv.org/abs/2310.10505)|null|
+|**2023-10-16**|**Machine learning in physics: a short guide**|Francisco A. Rodrigues et.al.|[2310.10368](http://arxiv.org/abs/2310.10368)|null|
+|**2023-10-16**|**Unlocking Metasurface Practicality for B5G Networks: AI-assisted RIS Planning**|Guillermo Encinas-Lago et.al.|[2310.10330](http://arxiv.org/abs/2310.10330)|null|
+|**2023-10-16**|**End-to-end Offline Reinforcement Learning for Glycemia Control**|Tristan Beolet et.al.|[2310.10312](http://arxiv.org/abs/2310.10312)|null|
 |**2023-10-13**|**Goodhart's Law in Reinforcement Learning**|Jacek Karwowski et.al.|[2310.09144](http://arxiv.org/abs/2310.09144)|null|
 |**2023-10-13**|**Automatic Music Playlist Generation via Simulation-based Reinforcement Learning**|Federico Tomasi et.al.|[2310.09123](http://arxiv.org/abs/2310.09123)|null|
 |**2023-10-13**|**Online Relocating and Matching of Ride-Hailing Services: A Model-Based Modular Approach**|Chang Gao et.al.|[2310.09071](http://arxiv.org/abs/2310.09071)|null|
@@ -1312,7 +1322,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1336,12 +1346,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical Question Answering Systems**|Sagi Shaier et.al.|[2310.10571](http://arxiv.org/abs/2310.10571)|null|
+|**2023-10-16**|**MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities**|Markus J. Buehler et.al.|[2310.10445](http://arxiv.org/abs/2310.10445)|null|
+|**2023-10-16**|**Node-based Knowledge Graph Contrastive Learning for Medical Relationship Prediction**|Zhiguang Fan et.al.|[2310.10138](http://arxiv.org/abs/2310.10138)|**[link](https://github.com/zhi520/nc-kge)**|
+|**2023-10-15**|**Negative Sampling with Adaptive Denoising Mixup for Knowledge Graph Embedding**|Xiangnan Chen et.al.|[2310.09781](http://arxiv.org/abs/2310.09781)|null|
 |**2023-10-13**|**Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model**|Qichen Ye et.al.|[2310.09089](http://arxiv.org/abs/2310.09089)|null|
 |**2023-10-13**|**ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models**|Haoran Luo et.al.|[2310.08975](http://arxiv.org/abs/2310.08975)|**[link](https://github.com/lhrlab/chatkbqa)**|
 |**2023-10-13**|**Relation-aware Ensemble Learning for Knowledge Graph Embedding**|Ling Yue et.al.|[2310.08917](http://arxiv.org/abs/2310.08917)|**[link](https://github.com/lars-research/relens)**|
@@ -1821,5 +1835,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
