@@ -1,4 +1,4 @@
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Evaluating LLMs for Privilege-Escalation Scenarios**|Andreas Happe et.al.|[2310.11409](http://arxiv.org/abs/2310.11409)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
 |**2023-09-27**|**Raijū: Reinforcement Learning-Guided Post-Exploitation for Automating Security Assessment of Network Systems**|Van-Hau Pham et.al.|[2309.15518](http://arxiv.org/abs/2309.15518)|null|
 |**2023-09-18**|**Evaluating the Impact of ChatGPT on Exercises of a Software Security Course**|Jingyue Li et.al.|[2309.10085](http://arxiv.org/abs/2309.10085)|null|
 |**2023-08-17**|**Smart Bulbs can be Hacked to Hack into your Household**|Davide Bonaventura et.al.|[2308.09019](http://arxiv.org/abs/2308.09019)|null|
@@ -38,12 +39,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
+|**2023-10-18**|**Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning**|Ali Baheri et.al.|[2310.12055](http://arxiv.org/abs/2310.12055)|null|
+|**2023-10-18**|**A General Theoretical Paradigm to Understand Learning from Human Preferences**|Mohammad Gheshlaghi Azar et.al.|[2310.12036](http://arxiv.org/abs/2310.12036)|null|
+|**2023-10-18**|**Improving Generalization of Alignment with Human Preferences through Group Invariant Learning**|Rui Zheng et.al.|[2310.11971](http://arxiv.org/abs/2310.11971)|null|
+|**2023-10-18**|**Accelerated Policy Gradient: On the Nesterov Momentum for Reinforcement Learning**|Yen-Ju Chen et.al.|[2310.11897](http://arxiv.org/abs/2310.11897)|**[link](https://github.com/nycu-rl-bandits-lab/apg)**|
+|**2023-10-18**|**Accelerate Presolve in Large-Scale Linear Programming via Reinforcement Learning**|Yufei Kuang et.al.|[2310.11845](http://arxiv.org/abs/2310.11845)|null|
+|**2023-10-18**|**On The Expressivity of Objective-Specification Formalisms in Reinforcement Learning**|Rohan Subramani et.al.|[2310.11840](http://arxiv.org/abs/2310.11840)|null|
+|**2023-10-18**|**IntentDial: An Intent Graph based Multi-Turn Dialogue System with Reasoning Path Visualization**|Zengguang Hao et.al.|[2310.11818](http://arxiv.org/abs/2310.11818)|null|
+|**2023-10-18**|**Dynamic Resource Management in Integrated NOMA Terrestrial-Satellite Networks using Multi-Agent Reinforcement Learning**|Ali Nauman et.al.|[2310.11814](http://arxiv.org/abs/2310.11814)|null|
+|**2023-10-18**|**NeuroCUT: A Neural Approach for Robust Graph Partitioning**|Rishi Shah et.al.|[2310.11787](http://arxiv.org/abs/2310.11787)|null|
 |**2023-10-16**|**Generating Summaries with Controllable Readability Levels**|Leonardo F. R. Ribeiro et.al.|[2310.10623](http://arxiv.org/abs/2310.10623)|null|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-16**|**Sample Complexity of Preference-Based Nonparametric Off-Policy Evaluation with Deep Networks**|Zihao Li et.al.|[2310.10556](http://arxiv.org/abs/2310.10556)|null|
@@ -1322,7 +1333,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1346,12 +1357,22 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Code Book for the Annotation of Diverse Cross-Document Coreference of Entities in News Articles**|Jakob Vogel et.al.|[2310.12064](http://arxiv.org/abs/2310.12064)|null|
+|**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011](http://arxiv.org/abs/2310.12011)|**[link](https://github.com/hkust-knowcomp/gold)**|
+|**2023-10-18**|**Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs**|Zhiwei Hu et.al.|[2310.12008](http://arxiv.org/abs/2310.12008)|**[link](https://github.com/zhiweihu1103/et-mclet)**|
+|**2023-10-18**|**A Benchmark for Semi-Inductive Link Prediction in Knowledge Graphs**|Adrian Kochsiek et.al.|[2310.11917](http://arxiv.org/abs/2310.11917)|null|
+|**2023-10-18**|**AdaVis: Adaptive and Explainable Visualization Recommendation for Tabular Data**|Songheng Zhang et.al.|[2310.11742](http://arxiv.org/abs/2310.11742)|null|
+|**2023-10-18**|**Descriptive Knowledge Graph in Biomedical Domain**|Kerui Zhu et.al.|[2310.11681](http://arxiv.org/abs/2310.11681)|null|
+|**2023-10-18**|**Open Information Extraction: A Review of Baseline Techniques, Approaches, and Applications**|Serafina Kamp et.al.|[2310.11644](http://arxiv.org/abs/2310.11644)|null|
+|**2023-10-18**|**Systematic Assessment of Factual Knowledge in Large Language Models**|Linhao Luo et.al.|[2310.11638](http://arxiv.org/abs/2310.11638)|null|
+|**2023-10-17**|**Integrating 3D City Data through Knowledge Graphs**|Linfang Ding et.al.|[2310.11555](http://arxiv.org/abs/2310.11555)|null|
+|**2023-10-17**|**Query2Triple: Unified Query Encoding for Answering Diverse Complex Queries over Knowledge Graphs**|Yao Xu et.al.|[2310.11246](http://arxiv.org/abs/2310.11246)|**[link](https://github.com/yaooxu/q2t)**|
 |**2023-10-16**|**Emerging Challenges in Personalized Medicine: Assessing Demographic Effects on Biomedical Question Answering Systems**|Sagi Shaier et.al.|[2310.10571](http://arxiv.org/abs/2310.10571)|null|
 |**2023-10-16**|**MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities**|Markus J. Buehler et.al.|[2310.10445](http://arxiv.org/abs/2310.10445)|null|
 |**2023-10-16**|**Node-based Knowledge Graph Contrastive Learning for Medical Relationship Prediction**|Zhiguang Fan et.al.|[2310.10138](http://arxiv.org/abs/2310.10138)|**[link](https://github.com/zhi520/nc-kge)**|
@@ -1835,5 +1856,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
