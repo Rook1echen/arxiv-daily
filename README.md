@@ -1,4 +1,4 @@
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,12 +39,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Towards Robust Offline Reinforcement Learning under Diverse Data Corruption**|Rui Yang et.al.|[2310.12955](http://arxiv.org/abs/2310.12955)|null|
+|**2023-10-19**|**End-to-End Delay Minimization based on Joint Optimization of DNN Partitioning and Resource Allocation for Cooperative Edge Inference**|Xinrui Ye et.al.|[2310.12937](http://arxiv.org/abs/2310.12937)|null|
+|**2023-10-19**|**Generative Flow Networks as Entropy-Regularized RL**|Daniil Tiapkin et.al.|[2310.12934](http://arxiv.org/abs/2310.12934)|null|
+|**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931](http://arxiv.org/abs/2310.12931)|null|
+|**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921](http://arxiv.org/abs/2310.12921)|null|
+|**2023-10-19**|**Collaborative Adaptation: Learning to Recover from Unforeseen Malfunctions in Multi-Robot Teams**|Yasin Findik et.al.|[2310.12909](http://arxiv.org/abs/2310.12909)|null|
+|**2023-10-19**|**Safe RLHF: Safe Reinforcement Learning from Human Feedback**|Josef Dai et.al.|[2310.12773](http://arxiv.org/abs/2310.12773)|**[link](https://github.com/pku-alignment/safe-rlhf)**|
+|**2023-10-19**|**Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark**|Jiaming Ji et.al.|[2310.12567](http://arxiv.org/abs/2310.12567)|null|
+|**2023-10-19**|**Privacy Preserving Large Language Models: ChatGPT Case Study Based Vision and Framework**|Imdad Ullah et.al.|[2310.12523](http://arxiv.org/abs/2310.12523)|null|
+|**2023-10-19**|**SDGym: Low-Code Reinforcement Learning Environments using System Dynamics Models**|Emmanuel Klu et.al.|[2310.12494](http://arxiv.org/abs/2310.12494)|null|
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103](http://arxiv.org/abs/2310.12103)|null|
 |**2023-10-18**|**Understanding Reward Ambiguity Through Optimal Transport Theory in Inverse Reinforcement Learning**|Ali Baheri et.al.|[2310.12055](http://arxiv.org/abs/2310.12055)|null|
 |**2023-10-18**|**A General Theoretical Paradigm to Understand Learning from Human Preferences**|Mohammad Gheshlaghi Azar et.al.|[2310.12036](http://arxiv.org/abs/2310.12036)|null|
@@ -1333,7 +1343,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1357,17 +1367,21 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724](http://arxiv.org/abs/2310.12724)|null|
+|**2023-10-19**|**PSYCHIC: A Neuro-Symbolic Framework for Knowledge Graph Question-Answering Grounding**|Hanna Abi Akl et.al.|[2310.12638](http://arxiv.org/abs/2310.12638)|null|
+|**2023-10-18**|**Solving Hard Analogy Questions with Relation Embedding Chains**|Nitesh Kumar et.al.|[2310.12379](http://arxiv.org/abs/2310.12379)|**[link](https://github.com/niteshroyal/solvinghardanalogyquestions)**|
+|**2023-10-18**|**Enhancing the Performance of Automated Grade Prediction in MOOC using Graph Representation Learning**|Soheila Farokhi et.al.|[2310.12281](http://arxiv.org/abs/2310.12281)|**[link](https://github.com/dsaatusu/mooper_grade_prediction)**|
 |**2023-10-18**|**Code Book for the Annotation of Diverse Cross-Document Coreference of Entities in News Articles**|Jakob Vogel et.al.|[2310.12064](http://arxiv.org/abs/2310.12064)|null|
 |**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011](http://arxiv.org/abs/2310.12011)|**[link](https://github.com/hkust-knowcomp/gold)**|
 |**2023-10-18**|**Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs**|Zhiwei Hu et.al.|[2310.12008](http://arxiv.org/abs/2310.12008)|**[link](https://github.com/zhiweihu1103/et-mclet)**|
 |**2023-10-18**|**A Benchmark for Semi-Inductive Link Prediction in Knowledge Graphs**|Adrian Kochsiek et.al.|[2310.11917](http://arxiv.org/abs/2310.11917)|null|
-|**2023-10-18**|**AdaVis: Adaptive and Explainable Visualization Recommendation for Tabular Data**|Songheng Zhang et.al.|[2310.11742](http://arxiv.org/abs/2310.11742)|null|
+|**2023-10-18**|**AdaVis: Adaptive and Explainable Visualization Recommendation for Tabular Data**|Songheng Zhang et.al.|[2310.11742](http://arxiv.org/abs/2310.11742)|**[link](https://github.com/alexanderzsh/adavis)**|
 |**2023-10-18**|**Descriptive Knowledge Graph in Biomedical Domain**|Kerui Zhu et.al.|[2310.11681](http://arxiv.org/abs/2310.11681)|null|
 |**2023-10-18**|**Open Information Extraction: A Review of Baseline Techniques, Approaches, and Applications**|Serafina Kamp et.al.|[2310.11644](http://arxiv.org/abs/2310.11644)|null|
 |**2023-10-18**|**Systematic Assessment of Factual Knowledge in Large Language Models**|Linhao Luo et.al.|[2310.11638](http://arxiv.org/abs/2310.11638)|null|
@@ -1856,5 +1870,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231020>back to top</a>)</p>
 
