@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**TD-MPC2: Scalable, Robust World Models for Continuous Control**|Nicklas Hansen et.al.|[2310.16828](http://arxiv.org/abs/2310.16828)|null|
+|**2023-10-25**|**AI Agent as Urban Planner: Steering Stakeholder Dynamics in Urban Planning via Consensus-based Multi-Agent Reinforcement Learning**|Kejiang Qian et.al.|[2310.16772](http://arxiv.org/abs/2310.16772)|null|
+|**2023-10-25**|**SuperHF: Supervised Iterative Learning from Human Feedback**|Gabriel Mukobi et.al.|[2310.16763](http://arxiv.org/abs/2310.16763)|**[link](https://github.com/openfeedback/superhf)**|
+|**2023-10-25**|**MultiPrompter: Cooperative Prompt Optimization with Multi-Agent Reinforcement Learning**|Dong-Ki Kim et.al.|[2310.16730](http://arxiv.org/abs/2310.16730)|null|
+|**2023-10-25**|**Dynamics Generalisation in Reinforcement Learning via Adaptive Context-Aware Policies**|Michael Beukman et.al.|[2310.16686](http://arxiv.org/abs/2310.16686)|**[link](https://github.com/michael-beukman/decisionadapter)**|
+|**2023-10-25**|**BabyStories: Can Reinforcement Learning Teach Baby Language Models to Write Better Stories?**|Xingmeng Zhao et.al.|[2310.16681](http://arxiv.org/abs/2310.16681)|**[link](https://github.com/zephyr1022/babystories-utsa)**|
+|**2023-10-25**|**UAV Pathfinding in Dynamic Obstacle Avoidance with Multi-agent Reinforcement Learning**|Qizhen Wu et.al.|[2310.16659](http://arxiv.org/abs/2310.16659)|null|
+|**2023-10-25**|**Towards Control-Centric Representations in Reinforcement Learning from Images**|Chen Liu et.al.|[2310.16655](http://arxiv.org/abs/2310.16655)|null|
+|**2023-10-25**|**Model predictive control-based value estimation for efficient reinforcement learning**|Qizhen Wu et.al.|[2310.16646](http://arxiv.org/abs/2310.16646)|null|
+|**2023-10-25**|**Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation**|Chengpeng Li et.al.|[2310.16566](http://arxiv.org/abs/2310.16566)|null|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048](http://arxiv.org/abs/2310.16048)|null|
 |**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042](http://arxiv.org/abs/2310.16042)|null|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029](http://arxiv.org/abs/2310.16029)|null|
@@ -1391,6 +1401,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-25**|**Translating Universal Scene Descriptions into Knowledge Graphs for Robotic Environment**|Giang Hoang Nguyen et.al.|[2310.16737](http://arxiv.org/abs/2310.16737)|null|
+|**2023-10-25**|**Streamlining Knowledge Graph Construction with a façade: The SPARQL Anything project**|Luigi Asprino et.al.|[2310.16700](http://arxiv.org/abs/2310.16700)|null|
+|**2023-10-25**|**Faithful Path Language Modelling for Explainable Recommendation over Knowledge Graph**|Giacomo Balloccu et.al.|[2310.16452](http://arxiv.org/abs/2310.16452)|null|
+|**2023-10-25**|**Graph Agent: Explicit Reasoning Agent for Graphs**|Qinyong Wang et.al.|[2310.16421](http://arxiv.org/abs/2310.16421)|null|
+|**2023-10-25**|**Open Knowledge Base Canonicalization with Multi-task Unlearning**|Bingchen Liu et.al.|[2310.16419](http://arxiv.org/abs/2310.16419)|null|
+|**2023-10-24**|**Context-aware explainable recommendations over knowledge graphs**|Jinfeng Zhong et.al.|[2310.16141](http://arxiv.org/abs/2310.16141)|null|
 |**2023-10-24**|**Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation**|Jiaang Li et.al.|[2310.15797](http://arxiv.org/abs/2310.15797)|**[link](https://github.com/jiaangl/randomquantization)**|
 |**2023-10-24**|**Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion**|Kunze Wang et.al.|[2310.15722](http://arxiv.org/abs/2310.15722)|null|
 |**2023-10-24**|**Enhancing Biomedical Lay Summarisation with External Knowledge Graphs**|Tomas Goldsack et.al.|[2310.15702](http://arxiv.org/abs/2310.15702)|**[link](https://github.com/tgoldsack1/enhancing_biomedical_lay_summarisation_with_external_knowledge_graphs)**|
