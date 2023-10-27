@@ -1,4 +1,4 @@
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,12 +39,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**Grow Your Limits: Continuous Improvement with Real-World RL for Robotic Locomotion**|Laura Smith et.al.|[2310.17634](http://arxiv.org/abs/2310.17634)|null|
+|**2023-10-26**|**Neuro-Inspired Fragmentation and Recall to Overcome Catastrophic Forgetting in Curiosity**|Jaedong Hwang et.al.|[2310.17537](http://arxiv.org/abs/2310.17537)|**[link](https://github.com/fietelab/farcuriosity)**|
+|**2023-10-26**|**Learning Regularized Graphon Mean-Field Games with Unknown Graphons**|Fengzhuo Zhang et.al.|[2310.17531](http://arxiv.org/abs/2310.17531)|null|
+|**2023-10-26**|**Adaptive Resource Management for Edge Network Slicing using Incremental Multi-Agent Deep Reinforcement Learning**|Haiyuan Li et.al.|[2310.17523](http://arxiv.org/abs/2310.17523)|null|
+|**2023-10-26**|**Orchestration of Emulator Assisted Mobile Edge Tuning for AI Foundation Models: A Multi-Agent Deep Reinforcement Learning Approach**|Wenhan Yu et.al.|[2310.17492](http://arxiv.org/abs/2310.17492)|null|
+|**2023-10-26**|**FedPEAT: Convergence of Federated Learning, Parameter-Efficient Fine Tuning, and Emulator Assisted Tuning for Artificial Intelligence Foundation Models with Mobile Edge Computing**|Terence Jie Chua et.al.|[2310.17491](http://arxiv.org/abs/2310.17491)|null|
+|**2023-10-26**|**Fair collaborative vehicle routing: A deep multi-agent reinforcement learning approach**|Stephen Mak et.al.|[2310.17485](http://arxiv.org/abs/2310.17485)|null|
+|**2023-10-26**|**Coalitional Bargaining via Reinforcement Learning: An Application to Collaborative Vehicle Routing**|Stephen Mak et.al.|[2310.17458](http://arxiv.org/abs/2310.17458)|null|
+|**2023-10-26**|**Goals are Enough: Inducing AdHoc cooperation among unseen Multi-Agent systems in IMFs**|Kaushik Dey et.al.|[2310.17416](http://arxiv.org/abs/2310.17416)|null|
+|**2023-10-26**|**CQM: Curriculum Reinforcement Learning with a Quantized World Model**|Seungjae Lee et.al.|[2310.17330](http://arxiv.org/abs/2310.17330)|null|
 |**2023-10-25**|**TD-MPC2: Scalable, Robust World Models for Continuous Control**|Nicklas Hansen et.al.|[2310.16828](http://arxiv.org/abs/2310.16828)|null|
 |**2023-10-25**|**AI Agent as Urban Planner: Steering Stakeholder Dynamics in Urban Planning via Consensus-based Multi-Agent Reinforcement Learning**|Kejiang Qian et.al.|[2310.16772](http://arxiv.org/abs/2310.16772)|null|
 |**2023-10-25**|**SuperHF: Supervised Iterative Learning from Human Feedback**|Gabriel Mukobi et.al.|[2310.16763](http://arxiv.org/abs/2310.16763)|**[link](https://github.com/openfeedback/superhf)**|
@@ -1383,7 +1393,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1407,7 +1417,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -1936,5 +1946,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231026>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231027>back to top</a>)</p>
 
