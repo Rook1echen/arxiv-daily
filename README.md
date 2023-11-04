@@ -1,4 +1,4 @@
-## Updated on 2023.11.03
+## Updated on 2023.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231104>back to top</a>)</p>
 
 ## attack graph
 
@@ -1443,7 +1443,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231104>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1467,19 +1467,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231104>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326](http://arxiv.org/abs/2311.01326)|null|
+|**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326](http://arxiv.org/abs/2311.01326)|**[link](https://github.com/screemix/kgc-t5-with-neighbors)**|
 |**2023-11-02**|**Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference**|Qing Huang et.al.|[2311.01266](http://arxiv.org/abs/2311.01266)|null|
 |**2023-11-02**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go Indifferent**|Lorenz Kummer et.al.|[2311.01205](http://arxiv.org/abs/2311.01205)|null|
 |**2023-11-02**|**Distance-Based Propagation for Efficient Knowledge Graph Reasoning**|Harry Shomer et.al.|[2311.01024](http://arxiv.org/abs/2311.01024)|**[link](https://github.com/harryshomer/tagnet)**|
 |**2023-11-01**|**Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements**|Peter A. Zachares et.al.|[2311.00444](http://arxiv.org/abs/2311.00444)|null|
 |**2023-11-01**|**Entity Alignment Method of Science and Technology Patent based on Graph Convolution Network and Information Fusion**|Runze Fang et.al.|[2311.00300](http://arxiv.org/abs/2311.00300)|null|
-|**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287](http://arxiv.org/abs/2311.00287)|null|
+|**2023-11-01**|**Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models**|Ran Xu et.al.|[2311.00287](http://arxiv.org/abs/2311.00287)|**[link](https://github.com/ritaranx/clingen)**|
 |**2023-10-31**|**EXTRACT: Explainable Transparent Control of Bias in Embeddings**|Zhijin Guo et.al.|[2311.00115](http://arxiv.org/abs/2311.00115)|null|
 |**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588](http://arxiv.org/abs/2310.20588)|null|
 |**2023-10-31**|**Linked Papers With Code: The Latest in Machine Learning as an RDF Knowledge Graph**|Michael Färber et.al.|[2310.20475](http://arxiv.org/abs/2310.20475)|**[link](https://github.com/davidlamprecht/linkedpaperswithcode)**|
@@ -2013,5 +2013,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231104>back to top</a>)</p>
 
