@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.04
+## Updated on 2023.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -43,7 +43,7 @@ layout: default
 |**2023-11-02**|**Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability**|Stefan Kambiz Behfar et.al.|[2311.01406](http://arxiv.org/abs/2311.01406)|null|
 |**2023-11-02**|**Learning Realistic Traffic Agents in Closed-loop**|Chris Zhang et.al.|[2311.01394](http://arxiv.org/abs/2311.01394)|null|
 |**2023-11-02**|**Formal Methods for Autonomous Systems**|Tichakorn Wongpiromsarn et.al.|[2311.01258](http://arxiv.org/abs/2311.01258)|null|
-|**2023-11-02**|**EISim: A Platform for Simulating Intelligent Edge Orchestration Solutions**|Henna Kokkonen et.al.|[2311.01224](http://arxiv.org/abs/2311.01224)|null|
+|**2023-11-02**|**EISim: A Platform for Simulating Intelligent Edge Orchestration Solutions**|Henna Kokkonen et.al.|[2311.01224](http://arxiv.org/abs/2311.01224)|**[link](https://github.com/hennas/eisim)**|
 |**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
 |**2023-11-02**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go Indifferent**|Lorenz Kummer et.al.|[2311.01205](http://arxiv.org/abs/2311.01205)|null|
 |**2023-11-02**|**Contrastive Modules with Temporal Attention for Multi-Task Reinforcement Learning**|Siming Lan et.al.|[2311.01075](http://arxiv.org/abs/2311.01075)|null|
