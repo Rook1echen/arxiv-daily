@@ -1,4 +1,4 @@
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
 ## attack graph
 
@@ -75,7 +75,7 @@
 |**2023-10-31**|**Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents**|Woojun Kim et.al.|[2310.20287](http://arxiv.org/abs/2310.20287)|null|
 |**2023-10-31**|**Beyond Average Return in Markov Decision Processes**|Alexandre Marthe et.al.|[2310.20266](http://arxiv.org/abs/2310.20266)|null|
 |**2023-10-31**|**Handover Protocol Learning for LEO Satellite Networks: Access Delay and Collision Minimization**|Ju-Hyung Lee et.al.|[2310.20215](http://arxiv.org/abs/2310.20215)|null|
-|**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|null|
+|**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|**[link](https://github.com/CXU-NWAFU/RSS_algorithm)**|
 |**2023-10-29**|**Real-World Implementation of Reinforcement Learning Based Energy Coordination for a Cluster of Households**|Gargya Gokhale et.al.|[2310.19155](http://arxiv.org/abs/2310.19155)|null|
 |**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
 |**2023-10-29**|**Automaton Distillation: Neuro-Symbolic Transfer Learning for Deep Reinforcement Learning**|Suraj Singireddy et.al.|[2310.19137](http://arxiv.org/abs/2310.19137)|null|
@@ -615,7 +615,7 @@
 |**2023-08-07**|**Learning-based Near-optimal Motion Planning for Intelligent Vehicles with Uncertain Dynamics**|Yang Lu et.al.|[2308.03264](http://arxiv.org/abs/2308.03264)|null|
 |**2023-08-07**|**TempFuser: Learning Tactical and Agile Flight Maneuvers in Aerial Dogfights using a Long Short-Term Temporal Fusion Transformer**|Hyunki Seong et.al.|[2308.03257](http://arxiv.org/abs/2308.03257)|null|
 |**2023-08-04**|**Nonprehensile Planar Manipulation through Reinforcement Learning with Multimodal Categorical Exploration**|Juan Del Aguila Ferrandis et.al.|[2308.02459](http://arxiv.org/abs/2308.02459)|null|
-|**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|null|
+|**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|**[link](https://github.com/srl-ethz/faive_gym_oss)**|
 |**2023-08-04**|**Learning Optimal Admission Control in Partially Observable Queueing Networks**|Jonatha Anselmi et.al.|[2308.02391](http://arxiv.org/abs/2308.02391)|null|
 |**2023-08-04**|**Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control**|Dong Chen et.al.|[2308.02345](http://arxiv.org/abs/2308.02345)|**[link](https://github.com/dongchen06/macacc)**|
 |**2023-08-04**|**ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation**|Chenglong Wang et.al.|[2308.02223](http://arxiv.org/abs/2308.02223)|null|
@@ -623,7 +623,7 @@
 |**2023-08-04**|**Learning to Shape by Grinding: Cutting-surface-aware Model-based Reinforcement Learning**|Takumi Hachimine et.al.|[2308.02150](http://arxiv.org/abs/2308.02150)|null|
 |**2023-08-04**|**Deep Reinforcement Learning Empowered Rate Selection of XP-HARQ**|Da Wu et.al.|[2308.02140](http://arxiv.org/abs/2308.02140)|null|
 |**2023-08-03**|**Thespian: Multi-Character Text Role-Playing Game Agents**|Christopher Cui et.al.|[2308.01872](http://arxiv.org/abs/2308.01872)|null|
-|**2023-08-03**|**Job Shop Scheduling via Deep Reinforcement Learning: a Sequence to Sequence approach**|Giovanni Bonetta et.al.|[2308.01797](http://arxiv.org/abs/2308.01797)|null|
+|**2023-08-03**|**Job Shop Scheduling via Deep Reinforcement Learning: a Sequence to Sequence approach**|Giovanni Bonetta et.al.|[2308.01797](http://arxiv.org/abs/2308.01797)|**[link](https://github.com/dawoz/jsp-deeprl-seq2seq)**|
 |**2023-08-03**|**Bag of Policies for Distributional Deep Exploration**|Asen Nachkov et.al.|[2308.01759](http://arxiv.org/abs/2308.01759)|null|
 |**2023-08-03**|**End-to-End Reinforcement Learning of Koopman Models for Economic Nonlinear MPC**|Daniel Mayfrank et.al.|[2308.01674](http://arxiv.org/abs/2308.01674)|null|
 |**2023-08-03**|**MARLIM: Multi-Agent Reinforcement Learning for Inventory Management**|Rémi Leluc et.al.|[2308.01649](http://arxiv.org/abs/2308.01649)|null|
@@ -1035,7 +1035,7 @@
 |**2023-05-31**|**Handling Large Discrete Action Spaces via Dynamic Neighborhood Construction**|Fabian Akkerman et.al.|[2305.19891](http://arxiv.org/abs/2305.19891)|**[link](https://github.com/tumbais/dynamicneighborhoodconstruction)**|
 |**2023-05-31**|**Adaptive and Explainable Deployment of Navigation Skills via Hierarchical Deep Reinforcement Learning**|Kyowoon Lee et.al.|[2305.19746](http://arxiv.org/abs/2305.19746)|**[link](https://github.com/leekwoon/hrl-nav)**|
 |**2023-05-31**|**Replicability in Reinforcement Learning**|Amin Karbasi et.al.|[2305.19562](http://arxiv.org/abs/2305.19562)|null|
-|**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240](http://arxiv.org/abs/2305.19240)|null|
+|**2023-05-30**|**NetHack is Hard to Hack**|Ulyana Piterbarg et.al.|[2305.19240](http://arxiv.org/abs/2305.19240)|**[link](https://github.com/upiterbarg/hihack)**|
 |**2023-05-30**|**Intent-aligned AI systems deplete human agency: the need for agency foundations research in AI safety**|Catalin Mitelut et.al.|[2305.19223](http://arxiv.org/abs/2305.19223)|null|
 |**2023-05-30**|**Forward-Forward Training of an Optical Neural Network**|Ilker Oguz et.al.|[2305.19170](http://arxiv.org/abs/2305.19170)|null|
 |**2023-05-30**|**DHRL-FNMR: An Intelligent Multicast Routing Approach Based on Deep Hierarchical Reinforcement Learning in SDN**|Miao Ye et.al.|[2305.19077](http://arxiv.org/abs/2305.19077)|**[link](https://github.com/guetye/dhrl-fnmr)**|
@@ -1079,7 +1079,7 @@
 |**2023-05-24**|**Replicable Reinforcement Learning**|Eric Eaton et.al.|[2305.15284](http://arxiv.org/abs/2305.15284)|null|
 |**2023-05-24**|**Successor-Predecessor Intrinsic Exploration**|Changmin Yu et.al.|[2305.15277](http://arxiv.org/abs/2305.15277)|null|
 |**2023-05-24**|**Collaborative World Models: An Online-Offline Transfer RL Approach**|Qi Wang et.al.|[2305.15260](http://arxiv.org/abs/2305.15260)|null|
-|**2023-05-24**|**Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees**|Sharan Vaswani et.al.|[2305.15249](http://arxiv.org/abs/2305.15249)|null|
+|**2023-05-24**|**Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees**|Sharan Vaswani et.al.|[2305.15249](http://arxiv.org/abs/2305.15249)|**[link](https://github.com/amirrezakazemi/acpg)**|
 |**2023-05-24**|**A Mini Review on the utilization of Reinforcement Learning with OPC UA**|Simon Schindler et.al.|[2305.15113](http://arxiv.org/abs/2305.15113)|null|
 |**2023-05-24**|**HuatuoGPT, towards Taming Language Model to Be a Doctor**|Hongbo Zhang et.al.|[2305.15075](http://arxiv.org/abs/2305.15075)|**[link](https://github.com/freedomintelligence/huatuogpt)**|
 |**2023-05-24**|**Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning**|Ximing Lu et.al.|[2305.15065](http://arxiv.org/abs/2305.15065)|null|
@@ -1443,7 +1443,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1467,7 +1467,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -2013,5 +2013,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
