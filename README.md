@@ -1,4 +1,4 @@
-## Updated on 2023.11.06
+## Updated on 2023.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,12 +39,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization**|Kun Lei et.al.|[2311.03351](http://arxiv.org/abs/2311.03351)|null|
+|**2023-11-06**|**A Brain-inspired Theory of Collective Mind Model for Efficient Social Cooperation**|Zhuoya Zhao et.al.|[2311.03150](http://arxiv.org/abs/2311.03150)|null|
+|**2023-11-06**|**Reinforcement Learning for Inverse Linear-quadratic Dynamic Non-cooperative Games**|Emin Martirosyan et.al.|[2311.03044](http://arxiv.org/abs/2311.03044)|null|
+|**2023-11-06**|**Virtual Action Actor-Critic Framework for Exploration (Student Abstract)**|Bumgeun Park et.al.|[2311.02916](http://arxiv.org/abs/2311.02916)|null|
+|**2023-11-06**|**Reinforcement Learning for Safety Testing: Lessons from A Mobile Robot Case Study**|Tom P. Huck et.al.|[2311.02907](http://arxiv.org/abs/2311.02907)|null|
+|**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847](http://arxiv.org/abs/2311.02847)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
+|**2023-11-05**|**ChaTA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs**|Yann Hicke et.al.|[2311.02775](http://arxiv.org/abs/2311.02775)|null|
+|**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|null|
+|**2023-11-05**|**Staged Reinforcement Learning for Complex Tasks through Decomposed Environments**|Rafael Pina et.al.|[2311.02746](http://arxiv.org/abs/2311.02746)|null|
+|**2023-11-05**|**Learning Independently from Causality in Multi-Agent Environments**|Rafael Pina et.al.|[2311.02741](http://arxiv.org/abs/2311.02741)|null|
 |**2023-11-03**|**DeliverAI: Reinforcement Learning Based Distributed Path-Sharing Network for Food Deliveries**|Ashman Mehra et.al.|[2311.02017](http://arxiv.org/abs/2311.02017)|null|
 |**2023-11-03**|**Score Models for Offline Goal-Conditioned Reinforcement Learning**|Harshit Sikchi et.al.|[2311.02013](http://arxiv.org/abs/2311.02013)|null|
 |**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
@@ -1453,12 +1463,13 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-04**|**MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters**|Mohamed Younes et.al.|[2311.02502](http://arxiv.org/abs/2311.02502)|null|
 |**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583](http://arxiv.org/abs/2310.08583)|null|
 |**2023-09-27**|**In-Hand Re-grasp Manipulation with Passive Dynamic Actions via Imitation Learning**|Dehao Wei et.al.|[2309.15455](http://arxiv.org/abs/2309.15455)|null|
 |**2023-08-15**|**Generating Personas for Games with Multimodal Adversarial Imitation Learning**|William Ahlberg et.al.|[2308.07598](http://arxiv.org/abs/2308.07598)|null|
@@ -1477,12 +1488,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**In-Context Learning for Knowledge Base Question Answering for Unmanned Systems based on Large Language Models**|Yunlong Chen et.al.|[2311.02956](http://arxiv.org/abs/2311.02956)|null|
+|**2023-11-05**|**Causal Question Answering with Reinforcement Learning**|Lukas Blübaum et.al.|[2311.02760](http://arxiv.org/abs/2311.02760)|null|
 |**2023-11-03**|**Constructing Temporal Dynamic Knowledge Graphs from Interactive Text-based Games**|Keunwoo Peter Yu et.al.|[2311.01928](http://arxiv.org/abs/2311.01928)|**[link](https://github.com/yukw777/temporal-discrete-graph-updater)**|
 |**2023-11-03**|**$R^3$ -NL2GQL: A Hybrid Models Approach for for Accuracy Enhancing and Hallucinations Mitigation**|Yuhang Zhou et.al.|[2311.01862](http://arxiv.org/abs/2311.01862)|**[link](https://github.com/zhiqix/nl2gql)**|
 |**2023-11-02**|**Better Together: Enhancing Generative Knowledge Graph Completion with Language Models and Neighborhood Information**|Alla Chepurova et.al.|[2311.01326](http://arxiv.org/abs/2311.01326)|**[link](https://github.com/screemix/kgc-t5-with-neighbors)**|
@@ -2025,5 +2038,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231107>back to top</a>)</p>
 
