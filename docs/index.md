@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.08
+## Updated on 2023.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -37,6 +37,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Real-Time Recurrent Reinforcement Learning**|Julian Lemmel et.al.|[2311.04830](http://arxiv.org/abs/2311.04830)|null|
+|**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
+|**2023-11-08**|**Enhancing Multi-Agent Coordination through Common Operating Picture Integration**|Peihong Yu et.al.|[2311.04740](http://arxiv.org/abs/2311.04740)|null|
+|**2023-11-08**|**Social Motion Prediction with Cognitive Hierarchies**|Wentao Zhu et.al.|[2311.04726](http://arxiv.org/abs/2311.04726)|null|
+|**2023-11-08**|**RDGCN: Reinforced Dependency Graph Convolutional Network for Aspect-based Sentiment Analysis**|Xusheng Zhao et.al.|[2311.04467](http://arxiv.org/abs/2311.04467)|**[link](https://github.com/rdgcn/rdgcn)**|
+|**2023-11-07**|**Force-Constrained Visual Policy: Safe Robot-Assisted Dressing via Multi-Modal Sensing**|Zhanyi Sun et.al.|[2311.04390](http://arxiv.org/abs/2311.04390)|null|
+|**2023-11-07**|**Adaptive Stochastic Nonlinear Model Predictive Control with Look-ahead Deep Reinforcement Learning for Autonomous Vehicle Motion Control**|Baha Zarrouki et.al.|[2311.04303](http://arxiv.org/abs/2311.04303)|null|
+|**2023-11-07**|**Compilation of product-formula Hamiltonian simulation via reinforcement learning**|Lea M. Trenkwalder et.al.|[2311.04285](http://arxiv.org/abs/2311.04285)|**[link](https://github.com/leamarion/rl-for-compilation-of-product-formula-hamiltonian-simulation)**|
 |**2023-11-07**|**Interactive Semantic Map Representation for Skill-based Visual Object Navigation**|Tatiana Zemskova et.al.|[2311.04107](http://arxiv.org/abs/2311.04107)|null|
 |**2023-11-07**|**Time-Efficient Reinforcement Learning with Stochastic Stateful Policies**|Firas Al-Hafez et.al.|[2311.04082](http://arxiv.org/abs/2311.04082)|null|
 |**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
@@ -1469,6 +1477,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**Social Motion Prediction with Cognitive Hierarchies**|Wentao Zhu et.al.|[2311.04726](http://arxiv.org/abs/2311.04726)|null|
 |**2023-11-04**|**MAAIP: Multi-Agent Adversarial Interaction Priors for imitation from fighting demonstrations for physics-based characters**|Mohamed Younes et.al.|[2311.02502](http://arxiv.org/abs/2311.02502)|null|
 |**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583](http://arxiv.org/abs/2310.08583)|null|
 |**2023-09-27**|**In-Hand Re-grasp Manipulation with Passive Dynamic Actions via Imitation Learning**|Dehao Wei et.al.|[2309.15455](http://arxiv.org/abs/2309.15455)|null|
@@ -1492,6 +1501,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**FAIR Knowledge Graphs with Semantic Units: a Prototype**|Lars Vogt et.al.|[2311.04761](http://arxiv.org/abs/2311.04761)|null|
+|**2023-11-08**|**Validating ChatGPT Facts through RDF Knowledge Graphs and Sentence Similarity**|Michalis Mountantonakis et.al.|[2311.04524](http://arxiv.org/abs/2311.04524)|null|
+|**2023-11-07**|**Unifying Structure and Language Semantic for Efficient Contrastive Knowledge Graph Completion with Structured Entity Anchors**|Sang-Hyun Je et.al.|[2311.04250](http://arxiv.org/abs/2311.04250)|null|
 |**2023-11-07**|**OLaLa: Ontology Matching with Large Language Models**|Sven Hertling et.al.|[2311.03837](http://arxiv.org/abs/2311.03837)|null|
 |**2023-11-07**|**Scene-Driven Multimodal Knowledge Graph Construction for Embodied AI**|Song Yaoxian et.al.|[2311.03783](http://arxiv.org/abs/2311.03783)|null|
 |**2023-11-07**|**Ensembling Textual and Structure-Based Models for Knowledge Graph Completion**|Ananjan Nandi et.al.|[2311.03780](http://arxiv.org/abs/2311.03780)|null|
