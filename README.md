@@ -45,6 +45,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Multi-Agent Reinforcement Learning for the Low-Level Control of a Quadrotor UAV**|Beomyeol Yu et.al.|[2311.06144](http://arxiv.org/abs/2311.06144)|null|
+|**2023-11-10**|**Intersection-free Robot Manipulation with Soft-Rigid Coupled Incremental Potential Contact**|Wenxin Du et.al.|[2311.05945](http://arxiv.org/abs/2311.05945)|null|
+|**2023-11-10**|**Learning-Augmented Scheduling for Solar-Powered Electric Vehicle Charging**|Tongxin Li et.al.|[2311.05941](http://arxiv.org/abs/2311.05941)|null|
+|**2023-11-10**|**Genetic Algorithm enhanced by Deep Reinforcement Learning in parent selection mechanism and mutation : Minimizing makespan in permutation flow shop scheduling problems**|Maissa Irmouli et.al.|[2311.05937](http://arxiv.org/abs/2311.05937)|null|
+|**2023-11-10**|**Clipped-Objective Policy Gradients for Pessimistic Policy Optimization**|Jared Markowitz et.al.|[2311.05846](http://arxiv.org/abs/2311.05846)|null|
+|**2023-11-10**|**Let's Reinforce Step by Step**|Sarah Pan et.al.|[2311.05821](http://arxiv.org/abs/2311.05821)|null|
+|**2023-11-09**|**Real-time Control of Electric Autonomous Mobility-on-Demand Systems via Graph Reinforcement Learning**|Aaryan Singhal et.al.|[2311.05780](http://arxiv.org/abs/2311.05780)|**[link](https://github.com/stanfordasl/graph-rl-for-eamod)**|
+|**2023-11-09**|**Advancing Algorithmic Trading: A Multi-Technique Enhancement of Deep Q-Network Models**|Gang Hu et.al.|[2311.05743](http://arxiv.org/abs/2311.05743)|null|
 |**2023-11-09**|**LLM Augmented Hierarchical Agents**|Bharat Prakash et.al.|[2311.05596](http://arxiv.org/abs/2311.05596)|null|
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
 |**2023-11-09**|**Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning**|Akrit Mudvari et.al.|[2311.05582](http://arxiv.org/abs/2311.05582)|null|
@@ -1523,6 +1531,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**RSG: Fast Learning Adaptive Skills for Quadruped Robots by Skill Graph**|Hongyin Zhang et.al.|[2311.06015](http://arxiv.org/abs/2311.06015)|null|
 |**2023-11-08**|**FAIR Knowledge Graphs with Semantic Units: a Prototype**|Lars Vogt et.al.|[2311.04761](http://arxiv.org/abs/2311.04761)|null|
 |**2023-11-08**|**Validating ChatGPT Facts through RDF Knowledge Graphs and Sentence Similarity**|Michalis Mountantonakis et.al.|[2311.04524](http://arxiv.org/abs/2311.04524)|null|
 |**2023-11-07**|**Unifying Structure and Language Semantic for Efficient Contrastive Knowledge Graph Completion with Structured Entity Anchors**|Sang-Hyun Je et.al.|[2311.04250](http://arxiv.org/abs/2311.04250)|null|
