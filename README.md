@@ -1,4 +1,4 @@
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,12 +39,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
+|**2023-11-15**|**Grounding or Guesswork? Large Language Models are Presumptive Grounders**|Omar Shaikh et.al.|[2311.09144](http://arxiv.org/abs/2311.09144)|null|
+|**2023-11-15**|**Aligning Neural Machine Translation Models: Human Feedback in Training and Inference**|Miguel Moura Ramos et.al.|[2311.09132](http://arxiv.org/abs/2311.09132)|null|
+|**2023-11-15**|**Assessing the Robustness of Intelligence-Driven Reinforcement Learning**|Lorenzo Nodari et.al.|[2311.09027](http://arxiv.org/abs/2311.09027)|null|
+|**2023-11-15**|**On the Foundation of Distributionally Robust Reinforcement Learning**|Shengbo Wang et.al.|[2311.09018](http://arxiv.org/abs/2311.09018)|null|
+|**2023-11-15**|**Adversarial Attacks to Reward Machine-based Reinforcement Learning**|Lorenzo Nodari et.al.|[2311.09014](http://arxiv.org/abs/2311.09014)|null|
+|**2023-11-15**|**Supported Trust Region Optimization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2311.08935](http://arxiv.org/abs/2311.08935)|null|
+|**2023-11-15**|**Efficiently Escaping Saddle Points for Non-Convex Policy Optimization**|Sadegh Khorasani et.al.|[2311.08914](http://arxiv.org/abs/2311.08914)|null|
+|**2023-11-15**|**An MRL-Based Design Solution for RIS-Assisted MU-MIMO Wireless System under Time-Varying Channels**|Meng-Qian Alexander Wu et.al.|[2311.08840](http://arxiv.org/abs/2311.08840)|null|
+|**2023-11-15**|**A Deep Reinforcement Learning Approach to Efficient Distributed Optimization**|Daokuan Zhu et.al.|[2311.08827](http://arxiv.org/abs/2311.08827)|null|
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393](http://arxiv.org/abs/2311.08393)|null|
 |**2023-11-14**|**Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding**|Guangyu Yang et.al.|[2311.08380](http://arxiv.org/abs/2311.08380)|null|
 |**2023-11-14**|**Workflow-Guided Response Generation for Task-Oriented Dialogue**|Do June Min et.al.|[2311.08300](http://arxiv.org/abs/2311.08300)|null|
@@ -1519,7 +1529,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1545,12 +1555,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?**|Yusuke Sakai et.al.|[2311.09109](http://arxiv.org/abs/2311.09109)|null|
+|**2023-11-15**|**Enhancing Emergency Decision-making with Knowledge Graphs and Large Language Models**|Minze Chen et.al.|[2311.08732](http://arxiv.org/abs/2311.08732)|null|
+|**2023-11-15**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724](http://arxiv.org/abs/2311.08724)|null|
+|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614](http://arxiv.org/abs/2311.08614)|null|
+|**2023-11-14**|**Semi-Structured Chain-of-Thought: Integrating Multiple Sources of Knowledge for Improved Language Model Reasoning**|Xin Su et.al.|[2311.08505](http://arxiv.org/abs/2311.08505)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
 |**2023-11-14**|**Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**|Garima Agrawal et.al.|[2311.07914](http://arxiv.org/abs/2311.07914)|null|
@@ -2114,5 +2129,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231115>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231116>back to top</a>)</p>
 

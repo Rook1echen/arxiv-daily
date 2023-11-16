@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.15
+## Updated on 2023.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -37,6 +37,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
+|**2023-11-15**|**Grounding or Guesswork? Large Language Models are Presumptive Grounders**|Omar Shaikh et.al.|[2311.09144](http://arxiv.org/abs/2311.09144)|null|
+|**2023-11-15**|**Aligning Neural Machine Translation Models: Human Feedback in Training and Inference**|Miguel Moura Ramos et.al.|[2311.09132](http://arxiv.org/abs/2311.09132)|null|
+|**2023-11-15**|**Assessing the Robustness of Intelligence-Driven Reinforcement Learning**|Lorenzo Nodari et.al.|[2311.09027](http://arxiv.org/abs/2311.09027)|null|
+|**2023-11-15**|**On the Foundation of Distributionally Robust Reinforcement Learning**|Shengbo Wang et.al.|[2311.09018](http://arxiv.org/abs/2311.09018)|null|
+|**2023-11-15**|**Adversarial Attacks to Reward Machine-based Reinforcement Learning**|Lorenzo Nodari et.al.|[2311.09014](http://arxiv.org/abs/2311.09014)|null|
+|**2023-11-15**|**Supported Trust Region Optimization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2311.08935](http://arxiv.org/abs/2311.08935)|null|
+|**2023-11-15**|**Efficiently Escaping Saddle Points for Non-Convex Policy Optimization**|Sadegh Khorasani et.al.|[2311.08914](http://arxiv.org/abs/2311.08914)|null|
+|**2023-11-15**|**An MRL-Based Design Solution for RIS-Assisted MU-MIMO Wireless System under Time-Varying Channels**|Meng-Qian Alexander Wu et.al.|[2311.08840](http://arxiv.org/abs/2311.08840)|null|
+|**2023-11-15**|**A Deep Reinforcement Learning Approach to Efficient Distributed Optimization**|Daokuan Zhu et.al.|[2311.08827](http://arxiv.org/abs/2311.08827)|null|
 |**2023-11-14**|**MVSA-Net: Multi-View State-Action Recognition for Robust and Deployable Trajectory Generation**|Ehsan Asali et.al.|[2311.08393](http://arxiv.org/abs/2311.08393)|null|
 |**2023-11-14**|**Direct Preference Optimization for Neural Machine Translation with Minimum Bayes Risk Decoding**|Guangyu Yang et.al.|[2311.08380](http://arxiv.org/abs/2311.08380)|null|
 |**2023-11-14**|**Workflow-Guided Response Generation for Task-Oriented Dialogue**|Do June Min et.al.|[2311.08300](http://arxiv.org/abs/2311.08300)|null|
@@ -1539,6 +1549,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Does Pre-trained Language Model Actually Infer Unseen Links in Knowledge Graph Completion?**|Yusuke Sakai et.al.|[2311.09109](http://arxiv.org/abs/2311.09109)|null|
+|**2023-11-15**|**Enhancing Emergency Decision-making with Knowledge Graphs and Large Language Models**|Minze Chen et.al.|[2311.08732](http://arxiv.org/abs/2311.08732)|null|
+|**2023-11-15**|**Method for Text Entity Linking in Power Distribution Scheduling Oriented to Power Distribution Network Knowledge Graph**|Xiang Li et.al.|[2311.08724](http://arxiv.org/abs/2311.08724)|null|
+|**2023-11-15**|**XplainLLM: A QA Explanation Dataset for Understanding LLM Decision-Making**|Zichen Chen et.al.|[2311.08614](http://arxiv.org/abs/2311.08614)|null|
+|**2023-11-14**|**Semi-Structured Chain-of-Thought: Integrating Multiple Sources of Knowledge for Improved Language Model Reasoning**|Xin Su et.al.|[2311.08505](http://arxiv.org/abs/2311.08505)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-14**|**Insights into Classifying and Mitigating LLMs' Hallucinations**|Alessandro Bruno et.al.|[2311.08117](http://arxiv.org/abs/2311.08117)|null|
 |**2023-11-14**|**Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey**|Garima Agrawal et.al.|[2311.07914](http://arxiv.org/abs/2311.07914)|null|
