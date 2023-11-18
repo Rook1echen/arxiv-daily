@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.17
+## Updated on 2023.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -1560,7 +1560,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-16**|**Graph models for Cybersecurity -- A Survey**|Jasmin Wachter et.al.|[2311.10050](http://arxiv.org/abs/2311.10050)|null|
-|**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841](http://arxiv.org/abs/2311.09841)|null|
+|**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841](http://arxiv.org/abs/2311.09841)|**[link](https://github.com/huntila/scholarly-kgqa)**|
 |**2023-11-16**|**FairytaleCQA: Integrating a Commonsense Knowledge Graph into Children's Storybook Narratives**|Jiaju Chen et.al.|[2311.09756](http://arxiv.org/abs/2311.09756)|null|
 |**2023-11-16**|**Generating Drug Repurposing Hypotheses through the Combination of Disease-Specific Hypergraphs**|Ayush Jain et.al.|[2311.09596](http://arxiv.org/abs/2311.09596)|null|
 |**2023-11-15**|**LOKE: Linked Open Knowledge Extraction for Automated Knowledge Graph Construction**|Jamie McCusker et.al.|[2311.09366](http://arxiv.org/abs/2311.09366)|null|
