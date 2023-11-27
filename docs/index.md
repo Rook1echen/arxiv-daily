@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.26
+## Updated on 2023.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -45,7 +45,7 @@ layout: default
 |**2023-11-22**|**Large Language Model is a Good Policy Teacher for Training Reinforcement Learning Agents**|Zihao Zhou et.al.|[2311.13373](http://arxiv.org/abs/2311.13373)|null|
 |**2023-11-22**|**Probabilistic Inference in Reinforcement Learning Done Right**|Jean Tarbouriech et.al.|[2311.13294](http://arxiv.org/abs/2311.13294)|null|
 |**2023-11-22**|**Intention and Context Elicitation with Large Language Models in the Legal Aid Intake Process**|Nick Goodson et.al.|[2311.13281](http://arxiv.org/abs/2311.13281)|null|
-|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|null|
+|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|**[link](https://github.com/yk7333/d3po)**|
 |**2023-11-22**|**AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems**|Chentao Jia et.al.|[2311.13166](http://arxiv.org/abs/2311.13166)|null|
 |**2023-11-22**|**Enhancing Logical Reasoning in Large Language Models to Facilitate Legal Applications**|Ha-Thanh Nguyen et.al.|[2311.13095](http://arxiv.org/abs/2311.13095)|null|
 |**2023-11-22**|**Learning to Fly in Seconds**|Jonas Eschmann et.al.|[2311.13081](http://arxiv.org/abs/2311.13081)|**[link](https://github.com/arplaboratory/learning-to-fly)**|
@@ -132,7 +132,7 @@ layout: default
 |**2023-11-09**|**Anytime-Constrained Reinforcement Learning**|Jeremy McMahan et.al.|[2311.05511](http://arxiv.org/abs/2311.05511)|**[link](https://github.com/jermcmahan/anytime-constraints)**|
 |**2023-11-09**|**From "What" to "When" -- a Spiking Neural Network Predicting Rare Events and Time to their Occurrence**|Mikhail Kiselev et.al.|[2311.05210](http://arxiv.org/abs/2311.05210)|null|
 |**2023-11-09**|**Counter-Empirical Attacking based on Adversarial Reinforcement Learning for Time-Relevant Scoring System**|Xiangguo Sun et.al.|[2311.05144](http://arxiv.org/abs/2311.05144)|**[link](https://github.com/sheldonresearch/microsoft-scoring-system)**|
-|**2023-11-09**|**Accelerating Exploration with Unlabeled Prior Data**|Qiyang Li et.al.|[2311.05067](http://arxiv.org/abs/2311.05067)|null|
+|**2023-11-09**|**Accelerating Exploration with Unlabeled Prior Data**|Qiyang Li et.al.|[2311.05067](http://arxiv.org/abs/2311.05067)|**[link](https://github.com/facebookresearch/explore)**|
 |**2023-11-08**|**Reinforcement Learning Generalization for Nonlinear Systems Through Dual-Scale Homogeneity Transformations**|Abdel Gafoor Haddad et.al.|[2311.05013](http://arxiv.org/abs/2311.05013)|null|
 |**2023-11-08**|**Real-Time Recurrent Reinforcement Learning**|Julian Lemmel et.al.|[2311.04830](http://arxiv.org/abs/2311.04830)|null|
 |**2023-11-08**|**Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent**|Jan Olle et.al.|[2311.04750](http://arxiv.org/abs/2311.04750)|null|
@@ -884,7 +884,7 @@ layout: default
 |**2023-07-16**|**Credit Assignment: Challenges and Opportunities in Developing Human-like AI Agents**|Thuy Ngoc Nguyen et.al.|[2307.08171](http://arxiv.org/abs/2307.08171)|null|
 |**2023-07-16**|**Discovering User Types: Mapping User Traits by Task-Specific Behaviors in Reinforcement Learning**|L. L. Ankile et.al.|[2307.08169](http://arxiv.org/abs/2307.08169)|null|
 |**2023-07-13**|**Deep reinforcement learning for the dynamic vehicle dispatching problem: An event-based approach**|Edyvalberty Alenquer Cordeiro et.al.|[2307.07508](http://arxiv.org/abs/2307.07508)|null|
-|**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296](http://arxiv.org/abs/2307.07296)|null|
+|**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296](http://arxiv.org/abs/2307.07296)|**[link](https://github.com/goldslime123/explorb-slam-rl)**|
 |**2023-07-14**|**Safe DreamerV3: Safe Reinforcement Learning with World Models**|Weidong Huang et.al.|[2307.07176](http://arxiv.org/abs/2307.07176)|null|
 |**2023-07-13**|**Robotic Manipulation Datasets for Offline Compositional Reinforcement Learning**|Marcel Hussing et.al.|[2307.07091](http://arxiv.org/abs/2307.07091)|**[link](https://github.com/lifelong-ml/offline-compositional-rl-datasets)**|
 |**2023-07-13**|**Safe Reinforcement Learning as Wasserstein Variational Inference: Formal Methods for Interpretability**|Yanran Wang et.al.|[2307.07084](http://arxiv.org/abs/2307.07084)|null|
@@ -916,7 +916,7 @@ layout: default
 |**2023-07-11**|**Control as Probabilistic Inference as an Emergent Communication Mechanism in Multi-Agent Reinforcement Learning**|Tomoaki Nakamura et.al.|[2307.05004](http://arxiv.org/abs/2307.05004)|null|
 |**2023-07-11**|**Empowering recommender systems using automatically generated Knowledge Graphs and Reinforcement Learning**|Ghanshyam Verma et.al.|[2307.04996](http://arxiv.org/abs/2307.04996)|**[link](https://github.com/GhanshyamVerma/Explainable-Recommender-System)**|
 |**2023-07-11**|**Secrets of RLHF in Large Language Models Part I: PPO**|Rui Zheng et.al.|[2307.04964](http://arxiv.org/abs/2307.04964)|**[link](https://github.com/openlmlab/moss-rlhf)**|
-|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|null|
+|**2023-07-11**|**Intrinsically motivated graph exploration using network theories of human curiosity**|Shubhankar P. Patankar et.al.|[2307.04962](http://arxiv.org/abs/2307.04962)|**[link](https://github.com/spatank/curiosity-graphs)**|
 |**2023-07-11**|**Reinforcement Learning with Non-Cumulative Objective**|Wei Cui et.al.|[2307.04957](http://arxiv.org/abs/2307.04957)|null|
 |**2023-07-10**|**Probabilistic Counterexample Guidance for Safer Reinforcement Learning**|Xiaotong Ji et.al.|[2307.04927](http://arxiv.org/abs/2307.04927)|null|
 |**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
