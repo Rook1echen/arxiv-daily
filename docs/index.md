@@ -39,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language**|Di Jin et.al.|[2311.14543](http://arxiv.org/abs/2311.14543)|null|
+|**2023-11-24**|**Digital Twin-Native AI-Driven Service Architecture for Industrial Networks**|Kubra Duran et.al.|[2311.14532](http://arxiv.org/abs/2311.14532)|null|
+|**2023-11-24**|**How to ensure a safe control strategy? Towards a SRL for urban transit autonomous operation**|Zicong Zhao et.al.|[2311.14457](http://arxiv.org/abs/2311.14457)|null|
+|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|null|
+|**2023-11-24**|**Approximation of Convex Envelope Using Reinforcement Learning**|Vivek S. Borkar et.al.|[2311.14421](http://arxiv.org/abs/2311.14421)|null|
+|**2023-11-24**|**Directly Attention Loss Adjusted Prioritized Experience Replay**|Zhuoying Chen et.al.|[2311.14390](http://arxiv.org/abs/2311.14390)|null|
+|**2023-11-24**|**AI-based Attack Graph Generation**|Sangbeom Park et.al.|[2311.14342](http://arxiv.org/abs/2311.14342)|null|
+|**2023-11-24**|**Offline Skill Generalization via Task and Motion Planning**|Shin Watanabe et.al.|[2311.14328](http://arxiv.org/abs/2311.14328)|null|
+|**2023-11-24**|**On optimal tracking portfolio in incomplete markets: The classical control and the reinforcement learning approaches**|Lijun Bo et.al.|[2311.14318](http://arxiv.org/abs/2311.14318)|null|
+|**2023-11-24**|**Multi-modal Instance Refinement for Cross-domain Action Recognition**|Yuan Qing et.al.|[2311.14281](http://arxiv.org/abs/2311.14281)|null|
 |**2023-11-22**|**Risk-sensitive Markov Decision Process and Learning under General Utility Functions**|Zhengqi Wu et.al.|[2311.13589](http://arxiv.org/abs/2311.13589)|null|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443](http://arxiv.org/abs/2311.13443)|null|
 |**2023-11-22**|**From Images to Connections: Can DQN with GNNs learn the Strategic Game of Hex?**|Yannik Keller et.al.|[2311.13414](http://arxiv.org/abs/2311.13414)|**[link](https://github.com/yannikkellerde/gnn_hex)**|
@@ -1598,6 +1608,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**AI-based Attack Graph Generation**|Sangbeom Park et.al.|[2311.14342](http://arxiv.org/abs/2311.14342)|null|
+|**2023-11-22**|**Dynamic Analysis Method for Hidden Dangers in Substation Based on Knowledge Graph**|Weiwei Li et.al.|[2311.13708](http://arxiv.org/abs/2311.13708)|null|
 |**2023-11-22**|**Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting**|Xinyan Guan et.al.|[2311.13314](http://arxiv.org/abs/2311.13314)|null|
 |**2023-11-21**|**MathGloss: Building mathematical glossaries from text**|Lucy Horowitz et.al.|[2311.12649](http://arxiv.org/abs/2311.12649)|null|
 |**2023-11-21**|**Towards a Gateway for Knowledge Graph Schemas Collection, Analysis, and Embedding**|Mattia Fumagalli et.al.|[2311.12465](http://arxiv.org/abs/2311.12465)|null|
