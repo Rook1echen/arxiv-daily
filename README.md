@@ -1,4 +1,4 @@
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**An Internet-wide Penetration Study on NAT Boxes via TCP/IP Side Channel**|Xuan Feng et.al.|[2311.17392](http://arxiv.org/abs/2311.17392)|null|
 |**2023-11-21**|**Towards new challenges of modern Pentest**|Daniel Dalalana Bertoglio et.al.|[2311.12952](http://arxiv.org/abs/2311.12952)|null|
 |**2023-11-17**|**A Novel VAPT Algorithm: Enhancing Web Application Security Trough OWASP top 10 Optimization**|Rui Ventura et.al.|[2311.10450](http://arxiv.org/abs/2311.10450)|null|
 |**2023-10-23**|**Evaluating LLMs for Privilege-Escalation Scenarios**|Andreas Happe et.al.|[2310.11409](http://arxiv.org/abs/2310.11409)|**[link](https://github.com/ipa-lab/hackingBuddyGPT)**|
@@ -41,12 +42,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Maximum Entropy Model Correction in Reinforcement Learning**|Amin Rakhsha et.al.|[2311.17855](http://arxiv.org/abs/2311.17855)|null|
+|**2023-11-29**|**Identifying Dynamic Regulation with Adversarial Surrogates**|Ron Teichner et.al.|[2311.17783](http://arxiv.org/abs/2311.17783)|null|
+|**2023-11-29**|**Q-learning Based Optimal False Data Injection Attack on Probabilistic Boolean Control Networks**|Xianlun Peng et.al.|[2311.17631](http://arxiv.org/abs/2311.17631)|null|
+|**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593](http://arxiv.org/abs/2311.17593)|null|
+|**2023-11-29**|**Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification**|Armin Ghanbarzadeh et.al.|[2311.17587](http://arxiv.org/abs/2311.17587)|null|
+|**2023-11-29**|**Bias Resilient Multi-Step Off-Policy Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2311.17565](http://arxiv.org/abs/2311.17565)|null|
+|**2023-11-29**|**Reinforcement Learning with thermal fluctuations at the nano-scale**|Francesco Boccardo et.al.|[2311.17519](http://arxiv.org/abs/2311.17519)|null|
+|**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514](http://arxiv.org/abs/2311.17514)|null|
+|**2023-11-29**|**Unveiling the Implicit Toxicity in Large Language Models**|Jiaxin Wen et.al.|[2311.17391](http://arxiv.org/abs/2311.17391)|**[link](https://github.com/thu-coai/implicit-toxicity)**|
+|**2023-11-29**|**Data-driven Bandwidth Adaptation for Radio Access Network Slices**|Panagiotis Nikolaidis et.al.|[2311.17347](http://arxiv.org/abs/2311.17347)|null|
 |**2023-11-28**|**Mission-driven Exploration for Accelerated Deep Reinforcement Learning with Temporal Logic Task Specifications**|Jun Wang et.al.|[2311.17059](http://arxiv.org/abs/2311.17059)|null|
 |**2023-11-28**|**An Investigation of Time Reversal Symmetry in Reinforcement Learning**|Brett Barkley et.al.|[2311.17008](http://arxiv.org/abs/2311.17008)|null|
 |**2023-11-28**|**Goal-conditioned Offline Planning from Curious Exploration**|Marco Bagatella et.al.|[2311.16996](http://arxiv.org/abs/2311.16996)|null|
@@ -1608,7 +1619,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1634,12 +1645,13 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Biomedical knowledge graph-enhanced prompt generation for large language models**|Karthik Soman et.al.|[2311.17330](http://arxiv.org/abs/2311.17330)|**[link](https://github.com/BaranziniLab/KG_RAG)**|
 |**2023-11-28**|**Radiology-Aware Model-Based Evaluation Metric for Report Generation**|Amos Calamida et.al.|[2311.16764](http://arxiv.org/abs/2311.16764)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
 |**2023-11-28**|**Evaluation of dynamic characteristics of power grid based on GNN and application on knowledge graph**|Hao Pei et.al.|[2311.16522](http://arxiv.org/abs/2311.16522)|null|
@@ -2233,5 +2245,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
 
