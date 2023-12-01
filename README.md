@@ -1,4 +1,4 @@
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,12 +42,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Language Model Agents Suffer from Compositional Generalization in Web Automation**|Hiroki Furuta et.al.|[2311.18751](http://arxiv.org/abs/2311.18751)|**[link](https://github.com/google-research/google-research)**|
+|**2023-11-30**|**Controlgym: Large-Scale Safety-Critical Control Environments for Benchmarking Reinforcement Learning Algorithms**|Xiangyuan Zhang et.al.|[2311.18736](http://arxiv.org/abs/2311.18736)|**[link](https://github.com/xiangyuan-zhang/controlgym)**|
+|**2023-11-30**|**Predictable Reinforcement Learning Dynamics through Entropy Rate Minimization**|Daniel Jarne Ornia et.al.|[2311.18703](http://arxiv.org/abs/2311.18703)|null|
+|**2023-11-30**|**Handling Cost and Constraints with Off-Policy Deep Reinforcement Learning**|Jared Markowitz et.al.|[2311.18684](http://arxiv.org/abs/2311.18684)|null|
+|**2023-11-30**|**Generalisable Agents for Neural Network Optimisation**|Kale-ab Tessera et.al.|[2311.18598](http://arxiv.org/abs/2311.18598)|null|
+|**2023-11-30**|**Optimizing ZX-Diagrams with Deep Reinforcement Learning**|Maximilian Nägele et.al.|[2311.18588](http://arxiv.org/abs/2311.18588)|**[link](https://github.com/maxnaeg/zxreinforce)**|
+|**2023-11-30**|**Data-efficient Deep Reinforcement Learning for Vehicle Trajectory Control**|Bernd Frauenknecht et.al.|[2311.18393](http://arxiv.org/abs/2311.18393)|null|
+|**2023-11-30**|**URLLC-Awared Resource Allocation for Heterogeneous Vehicular Edge Computing**|Qiong Wu et.al.|[2311.18352](http://arxiv.org/abs/2311.18352)|null|
+|**2023-11-30**|**Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent**|Bianca Marin Moreno et.al.|[2311.18346](http://arxiv.org/abs/2311.18346)|null|
+|**2023-11-30**|**Deep Reinforcement Learning Based Optimal Energy Management of Multi-energy Microgrids with Uncertainties**|Yang Cui et.al.|[2311.18327](http://arxiv.org/abs/2311.18327)|null|
 |**2023-11-29**|**Maximum Entropy Model Correction in Reinforcement Learning**|Amin Rakhsha et.al.|[2311.17855](http://arxiv.org/abs/2311.17855)|null|
 |**2023-11-29**|**Identifying Dynamic Regulation with Adversarial Surrogates**|Ron Teichner et.al.|[2311.17783](http://arxiv.org/abs/2311.17783)|null|
 |**2023-11-29**|**Q-learning Based Optimal False Data Injection Attack on Probabilistic Boolean Control Networks**|Xianlun Peng et.al.|[2311.17631](http://arxiv.org/abs/2311.17631)|null|
@@ -1619,7 +1629,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1645,12 +1655,13 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**Generation of a Compendium of Transcription Factor Cascades and Identification of Potential Therapeutic Targets using Graph Machine Learning**|Sonish Sivarajkumar et.al.|[2311.17969](http://arxiv.org/abs/2311.17969)|null|
 |**2023-11-29**|**Biomedical knowledge graph-enhanced prompt generation for large language models**|Karthik Soman et.al.|[2311.17330](http://arxiv.org/abs/2311.17330)|**[link](https://github.com/BaranziniLab/KG_RAG)**|
 |**2023-11-28**|**Radiology-Aware Model-Based Evaluation Metric for Report Generation**|Amos Calamida et.al.|[2311.16764](http://arxiv.org/abs/2311.16764)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
@@ -2245,5 +2256,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 

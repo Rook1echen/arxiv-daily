@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Language Model Agents Suffer from Compositional Generalization in Web Automation**|Hiroki Furuta et.al.|[2311.18751](http://arxiv.org/abs/2311.18751)|**[link](https://github.com/google-research/google-research)**|
+|**2023-11-30**|**Controlgym: Large-Scale Safety-Critical Control Environments for Benchmarking Reinforcement Learning Algorithms**|Xiangyuan Zhang et.al.|[2311.18736](http://arxiv.org/abs/2311.18736)|**[link](https://github.com/xiangyuan-zhang/controlgym)**|
+|**2023-11-30**|**Predictable Reinforcement Learning Dynamics through Entropy Rate Minimization**|Daniel Jarne Ornia et.al.|[2311.18703](http://arxiv.org/abs/2311.18703)|null|
+|**2023-11-30**|**Handling Cost and Constraints with Off-Policy Deep Reinforcement Learning**|Jared Markowitz et.al.|[2311.18684](http://arxiv.org/abs/2311.18684)|null|
+|**2023-11-30**|**Generalisable Agents for Neural Network Optimisation**|Kale-ab Tessera et.al.|[2311.18598](http://arxiv.org/abs/2311.18598)|null|
+|**2023-11-30**|**Optimizing ZX-Diagrams with Deep Reinforcement Learning**|Maximilian Nägele et.al.|[2311.18588](http://arxiv.org/abs/2311.18588)|**[link](https://github.com/maxnaeg/zxreinforce)**|
+|**2023-11-30**|**Data-efficient Deep Reinforcement Learning for Vehicle Trajectory Control**|Bernd Frauenknecht et.al.|[2311.18393](http://arxiv.org/abs/2311.18393)|null|
+|**2023-11-30**|**URLLC-Awared Resource Allocation for Heterogeneous Vehicular Edge Computing**|Qiong Wu et.al.|[2311.18352](http://arxiv.org/abs/2311.18352)|null|
+|**2023-11-30**|**Efficient Model-Based Concave Utility Reinforcement Learning through Greedy Mirror Descent**|Bianca Marin Moreno et.al.|[2311.18346](http://arxiv.org/abs/2311.18346)|null|
+|**2023-11-30**|**Deep Reinforcement Learning Based Optimal Energy Management of Multi-energy Microgrids with Uncertainties**|Yang Cui et.al.|[2311.18327](http://arxiv.org/abs/2311.18327)|null|
 |**2023-11-29**|**Maximum Entropy Model Correction in Reinforcement Learning**|Amin Rakhsha et.al.|[2311.17855](http://arxiv.org/abs/2311.17855)|null|
 |**2023-11-29**|**Identifying Dynamic Regulation with Adversarial Surrogates**|Ron Teichner et.al.|[2311.17783](http://arxiv.org/abs/2311.17783)|null|
 |**2023-11-29**|**Q-learning Based Optimal False Data Injection Attack on Probabilistic Boolean Control Networks**|Xianlun Peng et.al.|[2311.17631](http://arxiv.org/abs/2311.17631)|null|
@@ -1639,6 +1649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Generation of a Compendium of Transcription Factor Cascades and Identification of Potential Therapeutic Targets using Graph Machine Learning**|Sonish Sivarajkumar et.al.|[2311.17969](http://arxiv.org/abs/2311.17969)|null|
 |**2023-11-29**|**Biomedical knowledge graph-enhanced prompt generation for large language models**|Karthik Soman et.al.|[2311.17330](http://arxiv.org/abs/2311.17330)|**[link](https://github.com/BaranziniLab/KG_RAG)**|
 |**2023-11-28**|**Radiology-Aware Model-Based Evaluation Metric for Report Generation**|Amos Calamida et.al.|[2311.16764](http://arxiv.org/abs/2311.16764)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
