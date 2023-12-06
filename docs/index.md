@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.05
+## Updated on 2023.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976](http://arxiv.org/abs/2312.02976)|null|
+|**2023-12-05**|**Convergence Rates for Stochastic Approximation: Biased Noise with Unbounded Variance, and Applications**|Rajeeva L. Karandikar et.al.|[2312.02828](http://arxiv.org/abs/2312.02828)|null|
+|**2023-12-05**|**Score-Aware Policy-Gradient Methods and Performance Guarantees using Local Lyapunov Conditions: Applications to Product-Form Stochastic Networks and Queueing Systems**|Céline Comte et.al.|[2312.02804](http://arxiv.org/abs/2312.02804)|null|
+|**2023-12-05**|**LExCI: A Framework for Reinforcement Learning with Embedded Systems**|Kevin Badalian et.al.|[2312.02739](http://arxiv.org/abs/2312.02739)|**[link](https://github.com/mechatronics-rwth/lexci-2)**|
+|**2023-12-05**|**Hierarchical Visual Policy Learning for Long-Horizon Robot Manipulation in Densely Cluttered Scenes**|Hecheng Wang et.al.|[2312.02697](http://arxiv.org/abs/2312.02697)|null|
+|**2023-12-05**|**Contact Energy Based Hindsight Experience Prioritization**|Erdi Sayar et.al.|[2312.02677](http://arxiv.org/abs/2312.02677)|null|
+|**2023-12-05**|**A Q-learning approach to the continuous control problem of robot inverted pendulum balancing**|Mohammad Safeea et.al.|[2312.02649](http://arxiv.org/abs/2312.02649)|null|
+|**2023-12-05**|**DanZero+: Dominating the GuanDan Game through Reinforcement Learning**|Youpeng Zhao et.al.|[2312.02561](http://arxiv.org/abs/2312.02561)|**[link](https://github.com/submit-paper/Danzero_plus)**|
+|**2023-12-05**|**PolyFit: A Peg-in-hole Assembly Framework for Unseen Polygon Shapes via Sim-to-real Adaptation**|Geonhyup Lee et.al.|[2312.02531](http://arxiv.org/abs/2312.02531)|null|
+|**2023-12-05**|**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**|Xinyi Yang et.al.|[2312.02522](http://arxiv.org/abs/2312.02522)|null|
 |**2023-12-04**|**Optimizing Camera Configurations for Multi-View Pedestrian Detection**|Yunzhong Hou et.al.|[2312.02144](http://arxiv.org/abs/2312.02144)|null|
 |**2023-12-04**|**Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models**|Xingyuan Zhang et.al.|[2312.02019](http://arxiv.org/abs/2312.02019)|null|
 |**2023-12-04**|**CaRL: Cascade Reinforcement Learning with State Space Splitting for O-RAN based Traffic Steering**|Chuanneng Sun et.al.|[2312.01970](http://arxiv.org/abs/2312.01970)|null|
@@ -1669,6 +1679,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Large Knowledge Model: Perspectives and Challenges**|Huajun Chen et.al.|[2312.02706](http://arxiv.org/abs/2312.02706)|null|
+|**2023-12-05**|**MKA: A Scalable Medical Knowledge Assisted Mechanism for Generative Models on Medical Conversation Tasks**|Ke Liang et.al.|[2312.02496](http://arxiv.org/abs/2312.02496)|**[link](https://github.com/liangke23/knowledge_assisted_medical_dialogue_generation_mechanism)**|
+|**2023-12-04**|**An Evaluation Framework for Mapping News Headlines to Event Classes in a Knowledge Graph**|Steve Fonin Mbouadeu et.al.|[2312.02334](http://arxiv.org/abs/2312.02334)|**[link](https://github.com/mbouadeus/news-headline-event-linking)**|
+|**2023-12-04**|**GNN2R: Weakly-Supervised Rationale-Providing Question Answering over Knowledge Graphs**|Ruijie Wang et.al.|[2312.02317](http://arxiv.org/abs/2312.02317)|**[link](https://github.com/ruijie-wang-uzh/gnn2r)**|
 |**2023-12-04**|**Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large Language Models**|Andrea Papaluca et.al.|[2312.01954](http://arxiv.org/abs/2312.01954)|null|
 |**2023-12-04**|**Prompting Disentangled Embeddings for Knowledge Graph Completion with Pre-trained Language Model**|Yuxia Geng et.al.|[2312.01837](http://arxiv.org/abs/2312.01837)|**[link](https://github.com/genggengcss/pdkgc)**|
 |**2023-12-04**|**Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning**|Wei Chen et.al.|[2312.01601](http://arxiv.org/abs/2312.01601)|null|
