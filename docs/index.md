@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.06
+## Updated on 2023.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer**|Elie Aljalbout et.al.|[2312.03673](http://arxiv.org/abs/2312.03673)|null|
+|**2023-12-06**|**MICRACLE: Inverse Reinforcement and Curriculum Learning Model for Human-inspired Mobile Robot Navigation**|Nihal Gunukula et.al.|[2312.03651](http://arxiv.org/abs/2312.03651)|null|
+|**2023-12-06**|**MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment**|Ziyan Wang et.al.|[2312.03644](http://arxiv.org/abs/2312.03644)|null|
+|**2023-12-06**|**MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations**|Assaf Ben-Kish et.al.|[2312.03631](http://arxiv.org/abs/2312.03631)|null|
+|**2023-12-06**|**Evaluation of Active Feature Acquisition Methods for Static Feature Settings**|Henrik von Kleist et.al.|[2312.03619](http://arxiv.org/abs/2312.03619)|null|
+|**2023-12-06**|**Physical Symbolic Optimization**|Wassim Tenachi et.al.|[2312.03612](http://arxiv.org/abs/2312.03612)|**[link](https://github.com/wassimtenachi/physo)**|
+|**2023-12-06**|**Generalized Contrastive Divergence: Joint Training of Energy-Based Model and Diffusion Model through Inverse Reinforcement Learning**|Sangwoong Yoon et.al.|[2312.03397](http://arxiv.org/abs/2312.03397)|null|
+|**2023-12-06**|**Diffused Task-Agnostic Milestone Planner**|Mineui Hong et.al.|[2312.03395](http://arxiv.org/abs/2312.03395)|null|
+|**2023-12-06**|**Demand response for residential building heating: Effective Monte Carlo Tree Search control based on physics-informed neural networks**|Fabio Pavirani et.al.|[2312.03365](http://arxiv.org/abs/2312.03365)|null|
+|**2023-12-06**|**Masking Behaviors in Epidemiological Networks with Cognitively-plausible Reinforcement Learning**|Konstantinos Mitsopoulos et.al.|[2312.03301](http://arxiv.org/abs/2312.03301)|null|
 |**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976](http://arxiv.org/abs/2312.02976)|null|
 |**2023-12-05**|**Convergence Rates for Stochastic Approximation: Biased Noise with Unbounded Variance, and Applications**|Rajeeva L. Karandikar et.al.|[2312.02828](http://arxiv.org/abs/2312.02828)|null|
 |**2023-12-05**|**Score-Aware Policy-Gradient Methods and Performance Guarantees using Local Lyapunov Conditions: Applications to Product-Form Stochastic Networks and Queueing Systems**|Céline Comte et.al.|[2312.02804](http://arxiv.org/abs/2312.02804)|null|
@@ -1679,6 +1689,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
+|**2023-12-06**|**Dyport: Dynamic Importance-based Hypothesis Generation Benchmarking Technique**|Ilya Tyagin et.al.|[2312.03303](http://arxiv.org/abs/2312.03303)|null|
+|**2023-12-06**|**Bayesian Functional Analysis for Untargeted Metabolomics Data with Matching Uncertainty and Small Sample Sizes**|Guoxuan Ma et.al.|[2312.03257](http://arxiv.org/abs/2312.03257)|null|
+|**2023-12-05**|**Beyond Isolation: Multi-Agent Synergy for Improving Knowledge Graph Construction**|Hongbin Ye et.al.|[2312.03022](http://arxiv.org/abs/2312.03022)|null|
 |**2023-12-05**|**Large Knowledge Model: Perspectives and Challenges**|Huajun Chen et.al.|[2312.02706](http://arxiv.org/abs/2312.02706)|null|
 |**2023-12-05**|**MKA: A Scalable Medical Knowledge Assisted Mechanism for Generative Models on Medical Conversation Tasks**|Ke Liang et.al.|[2312.02496](http://arxiv.org/abs/2312.02496)|**[link](https://github.com/liangke23/knowledge_assisted_medical_dialogue_generation_mechanism)**|
 |**2023-12-04**|**An Evaluation Framework for Mapping News Headlines to Event Classes in a Knowledge Graph**|Steve Fonin Mbouadeu et.al.|[2312.02334](http://arxiv.org/abs/2312.02334)|**[link](https://github.com/mbouadeus/news-headline-event-linking)**|

@@ -1,4 +1,4 @@
-## Updated on 2023.12.06
+## Updated on 2023.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,12 +42,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231207>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer**|Elie Aljalbout et.al.|[2312.03673](http://arxiv.org/abs/2312.03673)|null|
+|**2023-12-06**|**MICRACLE: Inverse Reinforcement and Curriculum Learning Model for Human-inspired Mobile Robot Navigation**|Nihal Gunukula et.al.|[2312.03651](http://arxiv.org/abs/2312.03651)|null|
+|**2023-12-06**|**MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment**|Ziyan Wang et.al.|[2312.03644](http://arxiv.org/abs/2312.03644)|null|
+|**2023-12-06**|**MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations**|Assaf Ben-Kish et.al.|[2312.03631](http://arxiv.org/abs/2312.03631)|null|
+|**2023-12-06**|**Evaluation of Active Feature Acquisition Methods for Static Feature Settings**|Henrik von Kleist et.al.|[2312.03619](http://arxiv.org/abs/2312.03619)|null|
+|**2023-12-06**|**Physical Symbolic Optimization**|Wassim Tenachi et.al.|[2312.03612](http://arxiv.org/abs/2312.03612)|**[link](https://github.com/wassimtenachi/physo)**|
+|**2023-12-06**|**Generalized Contrastive Divergence: Joint Training of Energy-Based Model and Diffusion Model through Inverse Reinforcement Learning**|Sangwoong Yoon et.al.|[2312.03397](http://arxiv.org/abs/2312.03397)|null|
+|**2023-12-06**|**Diffused Task-Agnostic Milestone Planner**|Mineui Hong et.al.|[2312.03395](http://arxiv.org/abs/2312.03395)|null|
+|**2023-12-06**|**Demand response for residential building heating: Effective Monte Carlo Tree Search control based on physics-informed neural networks**|Fabio Pavirani et.al.|[2312.03365](http://arxiv.org/abs/2312.03365)|null|
+|**2023-12-06**|**Masking Behaviors in Epidemiological Networks with Cognitively-plausible Reinforcement Learning**|Konstantinos Mitsopoulos et.al.|[2312.03301](http://arxiv.org/abs/2312.03301)|null|
 |**2023-12-05**|**Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World**|Kiana Ehsani et.al.|[2312.02976](http://arxiv.org/abs/2312.02976)|null|
 |**2023-12-05**|**Convergence Rates for Stochastic Approximation: Biased Noise with Unbounded Variance, and Applications**|Rajeeva L. Karandikar et.al.|[2312.02828](http://arxiv.org/abs/2312.02828)|null|
 |**2023-12-05**|**Score-Aware Policy-Gradient Methods and Performance Guarantees using Local Lyapunov Conditions: Applications to Product-Form Stochastic Networks and Queueing Systems**|Céline Comte et.al.|[2312.02804](http://arxiv.org/abs/2312.02804)|null|
@@ -1659,7 +1669,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231207>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1685,12 +1695,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231207>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
+|**2023-12-06**|**Dyport: Dynamic Importance-based Hypothesis Generation Benchmarking Technique**|Ilya Tyagin et.al.|[2312.03303](http://arxiv.org/abs/2312.03303)|null|
+|**2023-12-06**|**Bayesian Functional Analysis for Untargeted Metabolomics Data with Matching Uncertainty and Small Sample Sizes**|Guoxuan Ma et.al.|[2312.03257](http://arxiv.org/abs/2312.03257)|null|
+|**2023-12-05**|**Beyond Isolation: Multi-Agent Synergy for Improving Knowledge Graph Construction**|Hongbin Ye et.al.|[2312.03022](http://arxiv.org/abs/2312.03022)|null|
 |**2023-12-05**|**Large Knowledge Model: Perspectives and Challenges**|Huajun Chen et.al.|[2312.02706](http://arxiv.org/abs/2312.02706)|null|
 |**2023-12-05**|**MKA: A Scalable Medical Knowledge Assisted Mechanism for Generative Models on Medical Conversation Tasks**|Ke Liang et.al.|[2312.02496](http://arxiv.org/abs/2312.02496)|**[link](https://github.com/liangke23/knowledge_assisted_medical_dialogue_generation_mechanism)**|
 |**2023-12-04**|**An Evaluation Framework for Mapping News Headlines to Event Classes in a Knowledge Graph**|Steve Fonin Mbouadeu et.al.|[2312.02334](http://arxiv.org/abs/2312.02334)|**[link](https://github.com/mbouadeus/news-headline-event-linking)**|
@@ -2297,5 +2311,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231206>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231207>back to top</a>)</p>
 
