@@ -48,6 +48,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**TaskMet: Task-Driven Metric Learning for Model Learning**|Dishank Bansal et.al.|[2312.05250](http://arxiv.org/abs/2312.05250)|null|
+|**2023-12-08**|**Modeling Risk in Reinforcement Learning: A Literature Mapping**|Leonardo Villalobos-Arias et.al.|[2312.05231](http://arxiv.org/abs/2312.05231)|null|
+|**2023-12-08**|**DARLEI: Deep Accelerated Reinforcement Learning with Evolutionary Intelligence**|Saeejith Nair et.al.|[2312.05171](http://arxiv.org/abs/2312.05171)|null|
+|**2023-12-08**|**Onflow: an online portfolio allocation algorithm**|Gabriel Turinici et.al.|[2312.05169](http://arxiv.org/abs/2312.05169)|null|
+|**2023-12-08**|**Multi-Agent Reinforcement Learning via Distributed MPC as a Function Approximator**|Samuel Mallick et.al.|[2312.05166](http://arxiv.org/abs/2312.05166)|null|
+|**2023-12-08**|**A Review of Cooperation in Multi-agent Learning**|Yali Du et.al.|[2312.05162](http://arxiv.org/abs/2312.05162)|null|
+|**2023-12-08**|**Learning to Fly Omnidirectional Micro Aerial Vehicles with an End-To-End Control Network**|Eugenio Cuniato et.al.|[2312.05125](http://arxiv.org/abs/2312.05125)|null|
+|**2023-12-08**|**An Autonomous Driving model with BEV-V2X Perception, Trajectory Prediction and Driving Planning in Complex Traffic Intersections**|Fukang Li et.al.|[2312.05104](http://arxiv.org/abs/2312.05104)|null|
+|**2023-12-08**|**UniTSA: A Universal Reinforcement Learning Framework for V2X Traffic Signal Control**|Maonan Wang et.al.|[2312.05090](http://arxiv.org/abs/2312.05090)|**[link](https://github.com/wmn7/universal_light)**|
+|**2023-12-08**|**Robotic Control of the Deformation of Soft Linear Objects Using Deep Reinforcement Learning**|Mélodie Hani Daniel Zakaria et.al.|[2312.05056](http://arxiv.org/abs/2312.05056)|null|
 |**2023-12-07**|**Data-Driven Robust Reinforcement Learning Control of Uncertain Nonlinear Systems: Towards a Fully-Automated, Insulin-Based Artificial Pancreas**|Alexandros Tanzanakis et.al.|[2312.04503](http://arxiv.org/abs/2312.04503)|null|
 |**2023-12-07**|**Horizon-Free and Instance-Dependent Regret Bounds for Reinforcement Learning with General Function Approximation**|Jiayi Huang et.al.|[2312.04464](http://arxiv.org/abs/2312.04464)|null|
 |**2023-12-07**|**Model-Based Epistemic Variance of Values for Risk-Aware Policy Optimization**|Carlos E. Luis et.al.|[2312.04386](http://arxiv.org/abs/2312.04386)|null|
@@ -1711,6 +1721,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-08**|**Beyond Transduction: A Survey on Inductive, Few Shot, and Zero Shot Link Prediction in Knowledge Graphs**|Nicolas Hubert et.al.|[2312.04997](http://arxiv.org/abs/2312.04997)|null|
+|**2023-12-08**|**Generating Explanations to Understand and Repair Embedding-based Entity Alignment**|Xiaobin Tian et.al.|[2312.04877](http://arxiv.org/abs/2312.04877)|**[link](https://github.com/txb-nju/exea)**|
+|**2023-12-08**|**Using Program Knowledge Graph to Uncover Software Vulnerabilities**|M. Xie et.al.|[2312.04818](http://arxiv.org/abs/2312.04818)|null|
 |**2023-12-07**|**Scalable Knowledge Graph Construction and Inference on Human Genome Variants**|Shivika Prasanna et.al.|[2312.04423](http://arxiv.org/abs/2312.04423)|null|
 |**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
 |**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
