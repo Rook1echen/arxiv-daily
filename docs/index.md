@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.13
+## Updated on 2023.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369](http://arxiv.org/abs/2312.08369)|null|
+|**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365](http://arxiv.org/abs/2312.08365)|null|
+|**2023-12-13**|**Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF**|Anand Siththaranjan et.al.|[2312.08358](http://arxiv.org/abs/2312.08358)|**[link](https://github.com/cassidylaidlaw/hidden-context)**|
+|**2023-12-13**|**Model-Free Verification for Neural Network Controlled Systems**|Han Wang et.al.|[2312.08293](http://arxiv.org/abs/2312.08293)|null|
+|**2023-12-13**|**Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents**|Nolwenn Bernard et.al.|[2312.08041](http://arxiv.org/abs/2312.08041)|null|
+|**2023-12-13**|**Secure Deep Reinforcement Learning for Dynamic Resource Allocation in Wireless MEC Networks**|Xin Hao et.al.|[2312.08016](http://arxiv.org/abs/2312.08016)|null|
+|**2023-12-13**|**Enhancing Robotic Navigation: An Evaluation of Single and Multi-Objective Reinforcement Learning Strategies**|Vicki Young et.al.|[2312.07953](http://arxiv.org/abs/2312.07953)|null|
+|**2023-12-13**|**On Designing Multi-UAV aided Wireless Powered Dynamic Communication via Hierarchical Deep Reinforcement Learning**|Ze Yu Zhao et.al.|[2312.07917](http://arxiv.org/abs/2312.07917)|null|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls**|Mohammadhossein Amouei et.al.|[2312.07885](http://arxiv.org/abs/2312.07885)|**[link](https://github.com/mhamouei/rat)**|
 |**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
 |**2023-12-12**|**ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning**|Xiangyu Yin et.al.|[2312.07392](http://arxiv.org/abs/2312.07392)|null|
 |**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
@@ -1729,6 +1739,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868](http://arxiv.org/abs/2312.07868)|null|
+|**2023-12-11**|**ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion**|Wenbin Guo et.al.|[2312.07589](http://arxiv.org/abs/2312.07589)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-12-11**|**Empirical Basis of Engineering Design Knowledge**|L. Siddharth et.al.|[2312.06355](http://arxiv.org/abs/2312.06355)|null|

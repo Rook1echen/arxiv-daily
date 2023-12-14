@@ -1,4 +1,4 @@
-## Updated on 2023.12.13
+## Updated on 2023.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,12 +42,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369](http://arxiv.org/abs/2312.08369)|null|
+|**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365](http://arxiv.org/abs/2312.08365)|null|
+|**2023-12-13**|**Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF**|Anand Siththaranjan et.al.|[2312.08358](http://arxiv.org/abs/2312.08358)|**[link](https://github.com/cassidylaidlaw/hidden-context)**|
+|**2023-12-13**|**Model-Free Verification for Neural Network Controlled Systems**|Han Wang et.al.|[2312.08293](http://arxiv.org/abs/2312.08293)|null|
+|**2023-12-13**|**Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents**|Nolwenn Bernard et.al.|[2312.08041](http://arxiv.org/abs/2312.08041)|null|
+|**2023-12-13**|**Secure Deep Reinforcement Learning for Dynamic Resource Allocation in Wireless MEC Networks**|Xin Hao et.al.|[2312.08016](http://arxiv.org/abs/2312.08016)|null|
+|**2023-12-13**|**Enhancing Robotic Navigation: An Evaluation of Single and Multi-Objective Reinforcement Learning Strategies**|Vicki Young et.al.|[2312.07953](http://arxiv.org/abs/2312.07953)|null|
+|**2023-12-13**|**On Designing Multi-UAV aided Wireless Powered Dynamic Communication via Hierarchical Deep Reinforcement Learning**|Ze Yu Zhao et.al.|[2312.07917](http://arxiv.org/abs/2312.07917)|null|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**RAT: Reinforcement-Learning-Driven and Adaptive Testing for Vulnerability Discovery in Web Application Firewalls**|Mohammadhossein Amouei et.al.|[2312.07885](http://arxiv.org/abs/2312.07885)|**[link](https://github.com/mhamouei/rat)**|
 |**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
 |**2023-12-12**|**ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning**|Xiangyu Yin et.al.|[2312.07392](http://arxiv.org/abs/2312.07392)|null|
 |**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
@@ -1709,7 +1719,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1735,12 +1745,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
+|**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
+|**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868](http://arxiv.org/abs/2312.07868)|null|
+|**2023-12-11**|**ConvD: Attention Enhanced Dynamic Convolutional Embeddings for Knowledge Graph Completion**|Wenbin Guo et.al.|[2312.07589](http://arxiv.org/abs/2312.07589)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
 |**2023-12-09**|**Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**|Tengfei Ma et.al.|[2312.06682](http://arxiv.org/abs/2312.06682)|null|
 |**2023-12-11**|**Empirical Basis of Engineering Design Knowledge**|L. Siddharth et.al.|[2312.06355](http://arxiv.org/abs/2312.06355)|null|
@@ -2364,5 +2378,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
