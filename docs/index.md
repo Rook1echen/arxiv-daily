@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking**|Jacob Eisenstein et.al.|[2312.09244](http://arxiv.org/abs/2312.09244)|null|
+|**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238](http://arxiv.org/abs/2312.09238)|null|
+|**2023-12-14**|**Vision-Language Models as a Source of Rewards**|Kate Baumli et.al.|[2312.09187](http://arxiv.org/abs/2312.09187)|null|
+|**2023-12-14**|**MRL-PoS: A Multi-agent Reinforcement Learning based Proof of Stake Consensus Algorithm for Blockchain**|Tariqul Islam et.al.|[2312.09123](http://arxiv.org/abs/2312.09123)|null|
+|**2023-12-14**|**Less is more -- the Dispatcher/ Executor principle for multi-task Reinforcement Learning**|Martin Riedmiller et.al.|[2312.09120](http://arxiv.org/abs/2312.09120)|null|
+|**2023-12-14**|**DeepSurveySim: Simulation Software and Benchmark Challenges for Astronomical Observation Scheduling**|Maggie Voetberg et.al.|[2312.09092](http://arxiv.org/abs/2312.09092)|null|
+|**2023-12-14**|**ReCoRe: Regularized Contrastive Representation Learning of World Model**|Rudra P. K. Poudel et.al.|[2312.09056](http://arxiv.org/abs/2312.09056)|null|
+|**2023-12-14**|**Using Surprise Index for Competency Assessment in Autonomous Decision-Making**|Akash Ratheesh et.al.|[2312.09033](http://arxiv.org/abs/2312.09033)|null|
+|**2023-12-14**|**Adaptive parameter sharing for multi-agent reinforcement learning**|Dapeng Li et.al.|[2312.09009](http://arxiv.org/abs/2312.09009)|null|
+|**2023-12-14**|**LiFT: Unsupervised Reinforcement Learning with Foundation Models as Teachers**|Taewook Nam et.al.|[2312.08958](http://arxiv.org/abs/2312.08958)|null|
 |**2023-12-13**|**The Effective Horizon Explains Deep RL Performance in Stochastic Environments**|Cassidy Laidlaw et.al.|[2312.08369](http://arxiv.org/abs/2312.08369)|null|
 |**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365](http://arxiv.org/abs/2312.08365)|null|
 |**2023-12-13**|**Distributional Preference Learning: Understanding and Accounting for Hidden Context in RLHF**|Anand Siththaranjan et.al.|[2312.08358](http://arxiv.org/abs/2312.08358)|**[link](https://github.com/cassidylaidlaw/hidden-context)**|
@@ -1739,6 +1749,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-14**|**NestE: Modeling Nested Relational Structures for Knowledge Graph Reasoning**|Bo Xiong et.al.|[2312.09219](http://arxiv.org/abs/2312.09219)|**[link](https://github.com/xiongbo010/neste)**|
+|**2023-12-14**|**Towards Trustworthy AI Software Development Assistance**|Daniel Maninger et.al.|[2312.09126](http://arxiv.org/abs/2312.09126)|null|
+|**2023-12-14**|**Identifying Planetary Names in Astronomy Papers: A Multi-Step Approach**|Golnaz Shapurian et.al.|[2312.08579](http://arxiv.org/abs/2312.08579)|null|
 |**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
 |**2023-12-13**|**Artificial Intelligence Studies in Cartography: A Review and Synthesis of Methods, Applications, and Ethics**|Yuhao Kang et.al.|[2312.07901](http://arxiv.org/abs/2312.07901)|null|
 |**2023-12-13**|**Graph vs. Sequence: An Empirical Study on Knowledge Forms for Knowledge-Grounded Dialogue**|Yizhe Yang et.al.|[2312.07868](http://arxiv.org/abs/2312.07868)|null|
