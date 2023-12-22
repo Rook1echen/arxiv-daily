@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**CVA Hedging by Risk-Averse Stochastic-Horizon Reinforcement Learning**|Roberto Daluiso et.al.|[2312.14044](http://arxiv.org/abs/2312.14044)|null|
+|**2023-12-21**|**Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing**|Hany Abdulsamad et.al.|[2312.14000](http://arxiv.org/abs/2312.14000)|**[link](https://github.com/hanyas/psoc)**|
+|**2023-12-21**|**Modular Neural Network Policies for Learning In-Flight Object Catching with a Robot Hand-Arm System**|Wenbin Hu et.al.|[2312.13987](http://arxiv.org/abs/2312.13987)|null|
+|**2023-12-21**|**Multi-Agent Probabilistic Ensembles with Trajectory Sampling for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2312.13910](http://arxiv.org/abs/2312.13910)|null|
+|**2023-12-21**|**Variational Quantum Circuit Design for Quantum Reinforcement Learning on Continuous Environments**|Georg Kruse et.al.|[2312.13798](http://arxiv.org/abs/2312.13798)|null|
+|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|null|
+|**2023-12-21**|**Critic-Guided Decision Transformer for Offline Reinforcement Learning**|Yuanfu Wang et.al.|[2312.13716](http://arxiv.org/abs/2312.13716)|null|
+|**2023-12-21**|**Automatic Curriculum Learning with Gradient Reward Signals**|Ryan Campbell et.al.|[2312.13565](http://arxiv.org/abs/2312.13565)|null|
+|**2023-12-20**|**Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity**|Rounak Meyur et.al.|[2312.13476](http://arxiv.org/abs/2312.13476)|null|
 |**2023-12-19**|**Emergence of In-Context Reinforcement Learning from Noise Distillation**|Ilya Zisman et.al.|[2312.12275](http://arxiv.org/abs/2312.12275)|null|
 |**2023-12-19**|**TaskFlex Solver for Multi-Agent Pursuit via Automatic Curriculum Learning**|Jiayu Chen et.al.|[2312.12255](http://arxiv.org/abs/2312.12255)|null|
 |**2023-12-19**|**CUDC: A Curiosity-Driven Unsupervised Data Collection Method with Adaptive Temporal Distances for Offline Reinforcement Learning**|Chenyu Sun et.al.|[2312.12191](http://arxiv.org/abs/2312.12191)|null|
@@ -1770,6 +1780,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881](http://arxiv.org/abs/2312.13881)|null|
+|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|null|
+|**2023-12-21**|**Anchoring Path for Inductive Relation Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2312.13596](http://arxiv.org/abs/2312.13596)|**[link](https://github.com/zhixiangsu/apst)**|
+|**2023-12-20**|**Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity**|Rounak Meyur et.al.|[2312.13476](http://arxiv.org/abs/2312.13476)|null|
+|**2023-12-20**|**Prometheus: Infrastructure Security Posture Analysis with AI-generated Attack Graphs**|Xin Jin et.al.|[2312.13119](http://arxiv.org/abs/2312.13119)|null|
 |**2023-12-19**|**Knowledge Graph Error Detection with Contrastive Confidence Adaption**|Xiangyu Liu et.al.|[2312.12108](http://arxiv.org/abs/2312.12108)|**[link](https://github.com/nju-websoft/cca)**|
 |**2023-12-19**|**Relation-Aware Question Answering for Heterogeneous Knowledge Graphs**|Haowei Du et.al.|[2312.11922](http://arxiv.org/abs/2312.11922)|**[link](https://github.com/yanmenxue/rah-kbqa)**|
 |**2023-12-19**|**A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking**|Shezheng Song et.al.|[2312.11816](http://arxiv.org/abs/2312.11816)|**[link](https://github.com/season1blue/dwe)**|

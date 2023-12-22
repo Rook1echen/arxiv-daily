@@ -1,4 +1,4 @@
-## Updated on 2023.12.21
+## Updated on 2023.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,12 +42,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**CVA Hedging by Risk-Averse Stochastic-Horizon Reinforcement Learning**|Roberto Daluiso et.al.|[2312.14044](http://arxiv.org/abs/2312.14044)|null|
+|**2023-12-21**|**Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing**|Hany Abdulsamad et.al.|[2312.14000](http://arxiv.org/abs/2312.14000)|**[link](https://github.com/hanyas/psoc)**|
+|**2023-12-21**|**Modular Neural Network Policies for Learning In-Flight Object Catching with a Robot Hand-Arm System**|Wenbin Hu et.al.|[2312.13987](http://arxiv.org/abs/2312.13987)|null|
+|**2023-12-21**|**Multi-Agent Probabilistic Ensembles with Trajectory Sampling for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2312.13910](http://arxiv.org/abs/2312.13910)|null|
+|**2023-12-21**|**Variational Quantum Circuit Design for Quantum Reinforcement Learning on Continuous Environments**|Georg Kruse et.al.|[2312.13798](http://arxiv.org/abs/2312.13798)|null|
+|**2023-12-21**|**Open-Source Reinforcement Learning Environments Implemented in MuJoCo with Franka Manipulator**|Zichun Xu et.al.|[2312.13788](http://arxiv.org/abs/2312.13788)|null|
+|**2023-12-21**|**Critic-Guided Decision Transformer for Offline Reinforcement Learning**|Yuanfu Wang et.al.|[2312.13716](http://arxiv.org/abs/2312.13716)|null|
+|**2023-12-21**|**Automatic Curriculum Learning with Gradient Reward Signals**|Ryan Campbell et.al.|[2312.13565](http://arxiv.org/abs/2312.13565)|null|
+|**2023-12-20**|**Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity**|Rounak Meyur et.al.|[2312.13476](http://arxiv.org/abs/2312.13476)|null|
 |**2023-12-19**|**Emergence of In-Context Reinforcement Learning from Noise Distillation**|Ilya Zisman et.al.|[2312.12275](http://arxiv.org/abs/2312.12275)|null|
 |**2023-12-19**|**TaskFlex Solver for Multi-Agent Pursuit via Automatic Curriculum Learning**|Jiayu Chen et.al.|[2312.12255](http://arxiv.org/abs/2312.12255)|null|
 |**2023-12-19**|**CUDC: A Curiosity-Driven Unsupervised Data Collection Method with Adaptive Temporal Distances for Offline Reinforcement Learning**|Chenyu Sun et.al.|[2312.12191](http://arxiv.org/abs/2312.12191)|null|
@@ -1749,7 +1759,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1776,12 +1786,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881](http://arxiv.org/abs/2312.13881)|null|
+|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|null|
+|**2023-12-21**|**Anchoring Path for Inductive Relation Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2312.13596](http://arxiv.org/abs/2312.13596)|**[link](https://github.com/zhixiangsu/apst)**|
+|**2023-12-20**|**Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity**|Rounak Meyur et.al.|[2312.13476](http://arxiv.org/abs/2312.13476)|null|
+|**2023-12-20**|**Prometheus: Infrastructure Security Posture Analysis with AI-generated Attack Graphs**|Xin Jin et.al.|[2312.13119](http://arxiv.org/abs/2312.13119)|null|
 |**2023-12-19**|**Knowledge Graph Error Detection with Contrastive Confidence Adaption**|Xiangyu Liu et.al.|[2312.12108](http://arxiv.org/abs/2312.12108)|**[link](https://github.com/nju-websoft/cca)**|
 |**2023-12-19**|**Relation-Aware Question Answering for Heterogeneous Knowledge Graphs**|Haowei Du et.al.|[2312.11922](http://arxiv.org/abs/2312.11922)|**[link](https://github.com/yanmenxue/rah-kbqa)**|
 |**2023-12-19**|**A Dual-way Enhanced Framework from Text Matching Point of View for Multimodal Entity Linking**|Shezheng Song et.al.|[2312.11816](http://arxiv.org/abs/2312.11816)|**[link](https://github.com/season1blue/dwe)**|
@@ -2430,5 +2445,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20231221>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231222>back to top</a>)</p>
 
