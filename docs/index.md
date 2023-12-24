@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.23
+## Updated on 2023.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -1781,7 +1781,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881](http://arxiv.org/abs/2312.13881)|null|
-|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|null|
+|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|**[link](https://github.com/NacyNiko/HGE)**|
 |**2023-12-21**|**Anchoring Path for Inductive Relation Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2312.13596](http://arxiv.org/abs/2312.13596)|**[link](https://github.com/zhixiangsu/apst)**|
 |**2023-12-20**|**Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity**|Rounak Meyur et.al.|[2312.13476](http://arxiv.org/abs/2312.13476)|null|
 |**2023-12-20**|**Prometheus: Infrastructure Security Posture Analysis with AI-generated Attack Graphs**|Xin Jin et.al.|[2312.13119](http://arxiv.org/abs/2312.13119)|null|
