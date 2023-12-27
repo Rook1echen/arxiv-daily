@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.26
+## Updated on 2023.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**A Bayesian Framework of Deep Reinforcement Learning for Joint O-RAN/MEC Orchestration**|Fahri Wisnu Murti et.al.|[2312.16142](http://arxiv.org/abs/2312.16142)|null|
+|**2023-12-26**|**Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity**|Siqi Lai et.al.|[2312.16044](http://arxiv.org/abs/2312.16044)|**[link](https://github.com/usail-hkust/llmtscs)**|
+|**2023-12-26**|**Aligning Large Language Models with Human Preferences through Representation Engineering**|Wenhao Liu et.al.|[2312.15997](http://arxiv.org/abs/2312.15997)|null|
+|**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[2312.15993](http://arxiv.org/abs/2312.15993)|null|
+|**2023-12-26**|**Optimistic and Pessimistic Actor in RL:Decoupling Exploration and Utilization**|Jingpu Yang et.al.|[2312.15965](http://arxiv.org/abs/2312.15965)|**[link](https://github.com/yydsok/oparl)**|
+|**2023-12-26**|**Reinforcement Unlearning**|Dayong Ye et.al.|[2312.15910](http://arxiv.org/abs/2312.15910)|null|
+|**2023-12-26**|**Generalizable Task Representation Learning for Offline Meta-Reinforcement Learning with Data Limitations**|Renzhe Zhou et.al.|[2312.15909](http://arxiv.org/abs/2312.15909)|**[link](https://github.com/lamda-rl/gentle)**|
+|**2023-12-26**|**PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**|Hangyu Mao et.al.|[2312.15863](http://arxiv.org/abs/2312.15863)|**[link](https://github.com/maohangyu/pdit)**|
+|**2023-12-26**|**Learning Online Policies for Person Tracking in Multi-View Environments**|Keivan Nalaie et.al.|[2312.15858](http://arxiv.org/abs/2312.15858)|null|
+|**2023-12-25**|**A Closed-Loop Multi-perspective Visual Servoing Approach with Reinforcement Learning**|Lei Zhang et.al.|[2312.15809](http://arxiv.org/abs/2312.15809)|null|
 |**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
 |**2023-12-21**|**CVA Hedging by Risk-Averse Stochastic-Horizon Reinforcement Learning**|Roberto Daluiso et.al.|[2312.14044](http://arxiv.org/abs/2312.14044)|null|
 |**2023-12-21**|**Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing**|Hany Abdulsamad et.al.|[2312.14000](http://arxiv.org/abs/2312.14000)|**[link](https://github.com/hanyas/psoc)**|
@@ -1780,8 +1790,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models**|Xinke Jiang et.al.|[2312.15883](http://arxiv.org/abs/2312.15883)|null|
+|**2023-12-26**|**KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph**|Tiezheng Guo et.al.|[2312.15880](http://arxiv.org/abs/2312.15880)|null|
+|**2023-12-26**|**Hypergraph Enhanced Knowledge Tree Prompt Learning for Next-Basket Recommendation**|Zi-Feng Mai et.al.|[2312.15851](http://arxiv.org/abs/2312.15851)|null|
+|**2023-12-25**|**TEILP: Time Prediction over Knowledge Graphs via Logical Reasoning**|Siheng Xiong et.al.|[2312.15816](http://arxiv.org/abs/2312.15816)|null|
+|**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643](http://arxiv.org/abs/2312.15643)|null|
+|**2023-12-25**|**RDF-star2Vec: RDF-star Graph Embeddings for Data Mining**|Shusaku Egami et.al.|[2312.15626](http://arxiv.org/abs/2312.15626)|**[link](https://github.com/aistairc/RDF-star2Vec)**|
+|**2023-12-25**|**Inference of Dependency Knowledge Graph for Electronic Health Records**|Zhiwei Xu et.al.|[2312.15611](http://arxiv.org/abs/2312.15611)|null|
+|**2023-12-22**|**ROS package search for robot software development: a knowledge graph-based approach**|Shuo Wang et.al.|[2312.14781](http://arxiv.org/abs/2312.14781)|null|
 |**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881](http://arxiv.org/abs/2312.13881)|null|
-|**2023-12-21**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|**[link](https://github.com/NacyNiko/HGE)**|
+|**2023-12-25**|**HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces**|Jiaxin Pan et.al.|[2312.13680](http://arxiv.org/abs/2312.13680)|**[link](https://github.com/NacyNiko/HGE)**|
 |**2023-12-21**|**Anchoring Path for Inductive Relation Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2312.13596](http://arxiv.org/abs/2312.13596)|**[link](https://github.com/zhixiangsu/apst)**|
 |**2023-12-20**|**Fortify Your Defenses: Strategic Budget Allocation to Enhance Power Grid Cybersecurity**|Rounak Meyur et.al.|[2312.13476](http://arxiv.org/abs/2312.13476)|null|
 |**2023-12-20**|**Prometheus: Infrastructure Security Posture Analysis with AI-generated Attack Graphs**|Xin Jin et.al.|[2312.13119](http://arxiv.org/abs/2312.13119)|null|
