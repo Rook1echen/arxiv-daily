@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.01
+## Updated on 2024.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -49,7 +49,7 @@ layout: default
 |**2023-12-29**|**Once Burned, Twice Shy? The Effect of Stock Market Bubbles on Traders that Learn by Experience**|Haibei Zhu et.al.|[2312.17472](http://arxiv.org/abs/2312.17472)|null|
 |**2023-12-28**|**Beyond PID Controllers: PPO with Neuralized PID Policy for Proton Beam Intensity Control in Mu2e**|Chenwei Xu et.al.|[2312.17372](http://arxiv.org/abs/2312.17372)|null|
 |**2023-12-28**|**Rethinking Model-based, Policy-based, and Value-based Reinforcement Learning via the Lens of Representation Complexity**|Guhao Feng et.al.|[2312.17248](http://arxiv.org/abs/2312.17248)|null|
-|**2023-12-28**|**Resilient Constrained Reinforcement Learning**|Dongsheng Ding et.al.|[2312.17194](http://arxiv.org/abs/2312.17194)|null|
+|**2023-12-29**|**Resilient Constrained Reinforcement Learning**|Dongsheng Ding et.al.|[2312.17194](http://arxiv.org/abs/2312.17194)|null|
 |**2023-12-28**|**Can Active Sampling Reduce Causal Confusion in Offline Reinforcement Learning?**|Gunshi Gupta et.al.|[2312.17168](http://arxiv.org/abs/2312.17168)|**[link](https://github.com/gunshi/offline_active_rl)**|
 |**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116](http://arxiv.org/abs/2312.17116)|**[link](https://github.com/wadiuvatzy/sam-g)**|
 |**2023-12-28**|**When Metaverses Meet Vehicle Road Cooperation: Multi-Agent DRL-Based Stackelberg Game for Vehicular Twins Migration**|Jiawen Kang et.al.|[2312.17081](http://arxiv.org/abs/2312.17081)|null|
