@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.02
+## Updated on 2024.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -40,6 +40,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Learning-based agricultural management in partially observable environments subject to climate variability**|Zhaoan Wang et.al.|[2401.01273](http://arxiv.org/abs/2401.01273)|null|
+|**2024-01-02**|**Mirror Descent for Stochastic Control Problems with Measure-valued Controls**|Bekzhan Kerimkulov et.al.|[2401.01198](http://arxiv.org/abs/2401.01198)|null|
+|**2024-01-02**|**Deep Learning Driven Buffer-Aided Cooperative Networks for B5G/6G: Challenges, Solutions, and Future Opportunities**|Peng Xu et.al.|[2401.01195](http://arxiv.org/abs/2401.01195)|null|
+|**2024-01-02**|**Reinforcement Learning for SAR View Angle Inversion with Differentiable SAR Renderer**|Yanni Wang et.al.|[2401.01165](http://arxiv.org/abs/2401.01165)|null|
+|**2024-01-02**|**Enhancing Communication Efficiency of Semantic Transmission via Joint Processing Technique**|Xumin Pu et.al.|[2401.01143](http://arxiv.org/abs/2401.01143)|null|
+|**2024-01-02**|**Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach**|Chong Huang et.al.|[2401.01140](http://arxiv.org/abs/2401.01140)|null|
+|**2024-01-02**|**Global Convergence of Natural Policy Gradient with Hessian-aided Momentum Variance Reduction**|Jie Feng et.al.|[2401.01084](http://arxiv.org/abs/2401.01084)|null|
+|**2024-01-01**|**Data Assimilation in Chaotic Systems Using Deep Reinforcement Learning**|Mohamad Abed El Rahman Hammoud et.al.|[2401.00916](http://arxiv.org/abs/2401.00916)|null|
+|**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|null|
+|**2024-01-01**|**Personalized Dynamic Pricing Policy for Electric Vehicles: Reinforcement learning approach**|Sangjun Bae et.al.|[2401.00661](http://arxiv.org/abs/2401.00661)|null|
 |**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606](http://arxiv.org/abs/2312.17606)|null|
 |**2023-12-29**|**Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2312.17552](http://arxiv.org/abs/2312.17552)|null|
 |**2023-12-29**|**Design Space Exploration of Approximate Computing Techniques with a Reinforcement Learning Approach**|Sepide Saeedi et.al.|[2312.17525](http://arxiv.org/abs/2312.17525)|null|
@@ -1808,6 +1818,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183](http://arxiv.org/abs/2401.01183)|**[link](https://github.com/alibabaresearch/damo-convai)**|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
+|**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761](http://arxiv.org/abs/2401.00761)|null|
+|**2023-12-31**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608](http://arxiv.org/abs/2401.00608)|null|
+|**2023-12-31**|**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**|Chaojie Wang et.al.|[2401.00426](http://arxiv.org/abs/2401.00426)|null|
+|**2023-12-31**|**FusionMind -- Improving question and answering with external context fusion**|Shreyas Verma et.al.|[2401.00388](http://arxiv.org/abs/2401.00388)|null|
+|**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
 |**2023-12-27**|**Conversational Question Answering with Reformulations over Knowledge Graph**|Lihui Liu et.al.|[2312.17269](http://arxiv.org/abs/2312.17269)|null|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|

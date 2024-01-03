@@ -1,4 +1,4 @@
-## Updated on 2024.01.02
+## Updated on 2024.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,12 +42,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Learning-based agricultural management in partially observable environments subject to climate variability**|Zhaoan Wang et.al.|[2401.01273](http://arxiv.org/abs/2401.01273)|null|
+|**2024-01-02**|**Mirror Descent for Stochastic Control Problems with Measure-valued Controls**|Bekzhan Kerimkulov et.al.|[2401.01198](http://arxiv.org/abs/2401.01198)|null|
+|**2024-01-02**|**Deep Learning Driven Buffer-Aided Cooperative Networks for B5G/6G: Challenges, Solutions, and Future Opportunities**|Peng Xu et.al.|[2401.01195](http://arxiv.org/abs/2401.01195)|null|
+|**2024-01-02**|**Reinforcement Learning for SAR View Angle Inversion with Differentiable SAR Renderer**|Yanni Wang et.al.|[2401.01165](http://arxiv.org/abs/2401.01165)|null|
+|**2024-01-02**|**Enhancing Communication Efficiency of Semantic Transmission via Joint Processing Technique**|Xumin Pu et.al.|[2401.01143](http://arxiv.org/abs/2401.01143)|null|
+|**2024-01-02**|**Joint Offloading and Resource Allocation for Hybrid Cloud and Edge Computing in SAGINs: A Decision Assisted Hybrid Action Space Deep Reinforcement Learning Approach**|Chong Huang et.al.|[2401.01140](http://arxiv.org/abs/2401.01140)|null|
+|**2024-01-02**|**Global Convergence of Natural Policy Gradient with Hessian-aided Momentum Variance Reduction**|Jie Feng et.al.|[2401.01084](http://arxiv.org/abs/2401.01084)|null|
+|**2024-01-01**|**Data Assimilation in Chaotic Systems Using Deep Reinforcement Learning**|Mohamad Abed El Rahman Hammoud et.al.|[2401.00916](http://arxiv.org/abs/2401.00916)|null|
+|**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|null|
+|**2024-01-01**|**Personalized Dynamic Pricing Policy for Electric Vehicles: Reinforcement learning approach**|Sangjun Bae et.al.|[2401.00661](http://arxiv.org/abs/2401.00661)|null|
 |**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606](http://arxiv.org/abs/2312.17606)|null|
 |**2023-12-29**|**Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2312.17552](http://arxiv.org/abs/2312.17552)|null|
 |**2023-12-29**|**Design Space Exploration of Approximate Computing Techniques with a Reinforcement Learning Approach**|Sepide Saeedi et.al.|[2312.17525](http://arxiv.org/abs/2312.17525)|null|
@@ -1787,7 +1797,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1814,12 +1824,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183](http://arxiv.org/abs/2401.01183)|**[link](https://github.com/alibabaresearch/damo-convai)**|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
+|**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761](http://arxiv.org/abs/2401.00761)|null|
+|**2023-12-31**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608](http://arxiv.org/abs/2401.00608)|null|
+|**2023-12-31**|**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**|Chaojie Wang et.al.|[2401.00426](http://arxiv.org/abs/2401.00426)|null|
+|**2023-12-31**|**FusionMind -- Improving question and answering with external context fusion**|Shreyas Verma et.al.|[2401.00388](http://arxiv.org/abs/2401.00388)|null|
+|**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429](http://arxiv.org/abs/2312.17429)|null|
 |**2023-12-27**|**Conversational Question Answering with Reformulations over Knowledge Graph**|Lihui Liu et.al.|[2312.17269](http://arxiv.org/abs/2312.17269)|null|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
@@ -2487,5 +2504,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240102>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240103>back to top</a>)</p>
 
