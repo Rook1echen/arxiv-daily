@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.01.04
+## Updated on 2024.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Shadow Blade: A tool to interact with attack vectors**|Ariel R. Ril et.al.|[2401.01960](http://arxiv.org/abs/2401.01960)|null|
 |**2023-11-29**|**An Internet-wide Penetration Study on NAT Boxes via TCP/IP Side Channel**|Xuan Feng et.al.|[2311.17392](http://arxiv.org/abs/2311.17392)|null|
 |**2023-11-21**|**Towards new challenges of modern Pentest**|Daniel Dalalana Bertoglio et.al.|[2311.12952](http://arxiv.org/abs/2311.12952)|null|
 |**2023-11-17**|**A Novel VAPT Algorithm: Enhancing Web Application Security Trough OWASP top 10 Optimization**|Rui Ventura et.al.|[2311.10450](http://arxiv.org/abs/2311.10450)|null|
@@ -40,6 +41,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**A Survey Analyzing Generalization in Deep Reinforcement Learning**|Ezgi Korkmaz et.al.|[2401.02349](http://arxiv.org/abs/2401.02349)|null|
+|**2024-01-04**|**A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2401.02325](http://arxiv.org/abs/2401.02325)|null|
+|**2024-01-04**|**Policy-regularized Offline Multi-objective Reinforcement Learning**|Qian Lin et.al.|[2401.02244](http://arxiv.org/abs/2401.02244)|**[link](https://github.com/qianlin04/prmorl)**|
+|**2024-01-04**|**Trajectory-Oriented Policy Optimization with Sparse Rewards**|Guojian Wang et.al.|[2401.02225](http://arxiv.org/abs/2401.02225)|null|
+|**2024-01-04**|**OFDM-Based Digital Semantic Communication with Importance Awareness**|Chuanhong Liu et.al.|[2401.02178](http://arxiv.org/abs/2401.02178)|null|
+|**2024-01-04**|**Human-in-the-Loop Policy Optimization for Preference-Based Multi-Objective Reinforcement Learning**|Ke Li et.al.|[2401.02160](http://arxiv.org/abs/2401.02160)|null|
+|**2024-01-04**|**ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers**|Chen Zheng et.al.|[2401.02072](http://arxiv.org/abs/2401.02072)|null|
+|**2024-01-03**|**Shadow Blade: A tool to interact with attack vectors**|Ariel R. Ril et.al.|[2401.01960](http://arxiv.org/abs/2401.01960)|null|
 |**2024-01-03**|**NODEC: Neural ODE For Optimal Control of Unknown Dynamical Systems**|Cheng Chi et.al.|[2401.01836](http://arxiv.org/abs/2401.01836)|null|
 |**2024-01-03**|**Optimizing UAV-UGV Coalition Operations: A Hybrid Clustering and Multi-Agent Reinforcement Learning Approach for Path Planning in Obstructed Environment**|Shamyo Brotee et.al.|[2401.01481](http://arxiv.org/abs/2401.01481)|null|
 |**2024-01-02**|**Learning-based agricultural management in partially observable environments subject to climate variability**|Zhaoan Wang et.al.|[2401.01273](http://arxiv.org/abs/2401.01273)|null|
@@ -1820,6 +1829,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290](http://arxiv.org/abs/2401.02290)|null|
+|**2024-01-04**|**Joint Multi-Facts Reasoning Network For Complex Temporal Question Answering Over Knowledge Graph**|Rikui Huang et.al.|[2401.02212](http://arxiv.org/abs/2401.02212)|null|
+|**2024-01-03**|**Shadow Blade: A tool to interact with attack vectors**|Ariel R. Ril et.al.|[2401.01960](http://arxiv.org/abs/2401.01960)|null|
 |**2024-01-03**|**Evaluating Large Language Models in Semantic Parsing for Conversational Question Answering over Knowledge Graphs**|Phillip Schneider et.al.|[2401.01711](http://arxiv.org/abs/2401.01711)|**[link](https://github.com/sebischair/llm-sp-cqa)**|
 |**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183](http://arxiv.org/abs/2401.01183)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
