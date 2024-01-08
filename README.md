@@ -1,4 +1,4 @@
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
 
 ## attack graph
 
@@ -69,8 +69,8 @@
 |**2024-01-01**|**Data Assimilation in Chaotic Systems Using Deep Reinforcement Learning**|Mohamad Abed El Rahman Hammoud et.al.|[2401.00916](http://arxiv.org/abs/2401.00916)|null|
 |**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|null|
 |**2024-01-01**|**Personalized Dynamic Pricing Policy for Electric Vehicles: Reinforcement learning approach**|Sangjun Bae et.al.|[2401.00661](http://arxiv.org/abs/2401.00661)|null|
-|**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606](http://arxiv.org/abs/2312.17606)|null|
-|**2023-12-29**|**Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2312.17552](http://arxiv.org/abs/2312.17552)|null|
+|**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606](http://arxiv.org/abs/2312.17606)|**[link](https://github.com/wentdong/adapt)**|
+|**2023-12-29**|**Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2312.17552](http://arxiv.org/abs/2312.17552)|**[link](https://github.com/isarlab-department-engineering/trackingmav)**|
 |**2023-12-29**|**Design Space Exploration of Approximate Computing Techniques with a Reinforcement Learning Approach**|Sepide Saeedi et.al.|[2312.17525](http://arxiv.org/abs/2312.17525)|null|
 |**2023-12-29**|**Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion**|Young-Ha Shin et.al.|[2312.17507](http://arxiv.org/abs/2312.17507)|null|
 |**2023-12-29**|**HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning**|Hao Wang et.al.|[2312.17503](http://arxiv.org/abs/2312.17503)|null|
@@ -1808,7 +1808,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1835,7 +1835,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -2414,7 +2414,7 @@
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|**[link](https://github.com/stevenzhb/cadge)**|
 |**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
 |**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
-|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|null|
+|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|**[link](https://github.com/siyuyuan/analogykb)**|
 |**2023-05-10**|**Multi-hop Commonsense Knowledge Injection Framework for Zero-Shot Commonsense Question Answering**|Xin Guan et.al.|[2305.05936](http://arxiv.org/abs/2305.05936)|null|
 |**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
 |**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
@@ -2519,5 +2519,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240107>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240108>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -61,8 +61,8 @@ layout: default
 |**2024-01-01**|**Data Assimilation in Chaotic Systems Using Deep Reinforcement Learning**|Mohamad Abed El Rahman Hammoud et.al.|[2401.00916](http://arxiv.org/abs/2401.00916)|null|
 |**2024-01-01**|**Polynomial-time Approximation Scheme for Equilibriums of Games**|Hongbo Sun et.al.|[2401.00747](http://arxiv.org/abs/2401.00747)|null|
 |**2024-01-01**|**Personalized Dynamic Pricing Policy for Electric Vehicles: Reinforcement learning approach**|Sangjun Bae et.al.|[2401.00661](http://arxiv.org/abs/2401.00661)|null|
-|**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606](http://arxiv.org/abs/2312.17606)|null|
-|**2023-12-29**|**Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2312.17552](http://arxiv.org/abs/2312.17552)|null|
+|**2023-12-29**|**Adaptive Control Strategy for Quadruped Robots in Actuator Degradation Scenarios**|Xinyuan Wu et.al.|[2312.17606](http://arxiv.org/abs/2312.17606)|**[link](https://github.com/wentdong/adapt)**|
+|**2023-12-29**|**Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles**|Alberto Dionigi et.al.|[2312.17552](http://arxiv.org/abs/2312.17552)|**[link](https://github.com/isarlab-department-engineering/trackingmav)**|
 |**2023-12-29**|**Design Space Exploration of Approximate Computing Techniques with a Reinforcement Learning Approach**|Sepide Saeedi et.al.|[2312.17525](http://arxiv.org/abs/2312.17525)|null|
 |**2023-12-29**|**Actuator-Constrained Reinforcement Learning for High-Speed Quadrupedal Locomotion**|Young-Ha Shin et.al.|[2312.17507](http://arxiv.org/abs/2312.17507)|null|
 |**2023-12-29**|**HiBid: A Cross-Channel Constrained Bidding System with Budget Allocation by Hierarchical Offline Deep Reinforcement Learning**|Hao Wang et.al.|[2312.17503](http://arxiv.org/abs/2312.17503)|null|
@@ -2402,7 +2402,7 @@ layout: default
 |**2023-05-10**|**CADGE: Context-Aware Dialogue Generation Enhanced with Graph-Structured Knowledge Aggregation**|Hongbo Zhanga et.al.|[2305.06294](http://arxiv.org/abs/2305.06294)|**[link](https://github.com/stevenzhb/cadge)**|
 |**2023-05-10**|**Few-shot Link Prediction on N-ary Facts**|Jiyao Wei et.al.|[2305.06104](http://arxiv.org/abs/2305.06104)|null|
 |**2023-05-10**|**Building Interoperable Electronic Health Records as Purpose-Driven Knowledge Graphs**|Simone Bocca et.al.|[2305.06088](http://arxiv.org/abs/2305.06088)|null|
-|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|null|
+|**2023-05-10**|**ANALOGYKB: Unlocking Analogical Reasoning of Language Models with A Million-scale Knowledge Base**|Siyu Yuan et.al.|[2305.05994](http://arxiv.org/abs/2305.05994)|**[link](https://github.com/siyuyuan/analogykb)**|
 |**2023-05-10**|**Multi-hop Commonsense Knowledge Injection Framework for Zero-Shot Commonsense Question Answering**|Xin Guan et.al.|[2305.05936](http://arxiv.org/abs/2305.05936)|null|
 |**2023-05-10**|**Representation Learning for Person or Entity-centric Knowledge Graphs: An Application in Healthcare**|Christos Theodoropoulos et.al.|[2305.05640](http://arxiv.org/abs/2305.05640)|**[link](https://github.com/ibm/hspo-ontology)**|
 |**2023-05-09**|**COKE: A Cognitive Knowledge Graph for Machine Theory of Mind**|Jincenzi Wu et.al.|[2305.05390](http://arxiv.org/abs/2305.05390)|null|
