@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**A Minimaximalist Approach to Reinforcement Learning from Human Feedback**|Gokul Swamy et.al.|[2401.04056](http://arxiv.org/abs/2401.04056)|null|
+|**2024-01-08**|**Behavioural Cloning in VizDoom**|Ryan Spick et.al.|[2401.03993](http://arxiv.org/abs/2401.03993)|null|
+|**2024-01-08**|**Guiding drones by information gain**|Alouette van Hove et.al.|[2401.03947](http://arxiv.org/abs/2401.03947)|null|
+|**2024-01-08**|**Using reinforcement learning to improve drone-based inference of greenhouse gas fluxes**|Alouette van Hove et.al.|[2401.03932](http://arxiv.org/abs/2401.03932)|**[link](https://github.com/alouetteuio/hotspot_nmi)**|
+|**2024-01-08**|**A Tensor Network Implementation of Multi Agent Reinforcement Learning**|Sunny Howard et.al.|[2401.03896](http://arxiv.org/abs/2401.03896)|null|
+|**2024-01-08**|**Inverse Reinforcement Learning with Sub-optimal Experts**|Riccardo Poiani et.al.|[2401.03857](http://arxiv.org/abs/2401.03857)|null|
+|**2024-01-08**|**Long-term Safe Reinforcement Learning with Binary Feedback**|Akifumi Wachi et.al.|[2401.03786](http://arxiv.org/abs/2401.03786)|null|
+|**2024-01-07**|**NovelGym: A Flexible Ecosystem for Hybrid Planning and Learning Agents Designed for Open Worlds**|Shivam Goel et.al.|[2401.03546](http://arxiv.org/abs/2401.03546)|null|
+|**2024-01-07**|**ClusterComm: Discrete Communication in Decentralized MARL using Internal Representation Clustering**|Robert Müller et.al.|[2401.03504](http://arxiv.org/abs/2401.03504)|null|
+|**2024-01-07**|**Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence**|Philip Jordan et.al.|[2401.03489](http://arxiv.org/abs/2401.03489)|null|
 |**2024-01-05**|**A unified uncertainty-aware exploration: Combining epistemic and aleatory uncertainty**|Parvin Malekzadeh et.al.|[2401.02914](http://arxiv.org/abs/2401.02914)|null|
 |**2024-01-05**|**Deep Reinforcement Learning for Local Path Following of an Autonomous Formula SAE Vehicle**|Harvey Merton et.al.|[2401.02903](http://arxiv.org/abs/2401.02903)|null|
 |**2024-01-05**|**Synergistic Formulaic Alpha Generation for Quantitative Trading based on Reinforcement Learning**|Hong-Gi Shin et.al.|[2401.02710](http://arxiv.org/abs/2401.02710)|null|
@@ -1837,6 +1847,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-07**|**Text Classification Based on Knowledge Graphs and Improved Attention Mechanism**|Siyu Li et.al.|[2401.03591](http://arxiv.org/abs/2401.03591)|null|
+|**2024-01-06**|**A Joint-Reasoning based Disease Q&A System**|Prakash Chandra Sukhwal et.al.|[2401.03181](http://arxiv.org/abs/2401.03181)|null|
 |**2024-01-04**|**Path-based Explanation for Knowledge Graph Completion**|Heng Chang et.al.|[2401.02290](http://arxiv.org/abs/2401.02290)|null|
 |**2024-01-04**|**Joint Multi-Facts Reasoning Network For Complex Temporal Question Answering Over Knowledge Graph**|Rikui Huang et.al.|[2401.02212](http://arxiv.org/abs/2401.02212)|null|
 |**2024-01-03**|**Shadow Blade: A tool to interact with attack vectors**|Ariel R. Ril et.al.|[2401.01960](http://arxiv.org/abs/2401.01960)|null|
@@ -1844,7 +1856,7 @@ layout: default
 |**2024-01-02**|**Unifying Structured Data as Graph for Data-to-Text Pre-Training**|Shujie Li et.al.|[2401.01183](http://arxiv.org/abs/2401.01183)|**[link](https://github.com/alibabaresearch/damo-convai)**|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
 |**2024-01-01**|**The Earth is Flat? Unveiling Factual Errors in Large Language Models**|Wenxuan Wang et.al.|[2401.00761](http://arxiv.org/abs/2401.00761)|null|
-|**2023-12-31**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608](http://arxiv.org/abs/2401.00608)|null|
+|**2024-01-08**|**Bringing Back the Context: Camera Trap Species Identification as Link Prediction on Multimodal Knowledge Graphs**|Vardaan Pahuja et.al.|[2401.00608](http://arxiv.org/abs/2401.00608)|null|
 |**2023-12-31**|**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**|Chaojie Wang et.al.|[2401.00426](http://arxiv.org/abs/2401.00426)|null|
 |**2023-12-31**|**FusionMind -- Improving question and answering with external context fusion**|Shreyas Verma et.al.|[2401.00388](http://arxiv.org/abs/2401.00388)|null|
 |**2023-12-30**|**ReasoningLM: Enabling Structural Subgraph Reasoning in Pre-trained Language Models for Question Answering over Knowledge Graph**|Jinhao Jiang et.al.|[2401.00158](http://arxiv.org/abs/2401.00158)|null|
