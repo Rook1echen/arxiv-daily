@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.11
+## Updated on 2024.01.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -44,7 +44,7 @@ layout: default
 |**2024-01-10**|**ReACT: Reinforcement Learning for Controller Parametrization using B-Spline Geometries**|Thomas Rudolf et.al.|[2401.05251](http://arxiv.org/abs/2401.05251)|null|
 |**2024-01-10**|**Taming "data-hungry" reinforcement learning? Stability in continuous state-action spaces**|Yaqi Duan et.al.|[2401.05233](http://arxiv.org/abs/2401.05233)|null|
 |**2024-01-10**|**Modelling, Positioning, and Deep Reinforcement Learning Path Tracking Control of Scaled Robotic Vehicles: Design and Experimental Validation**|Carmine Caponio et.al.|[2401.05194](http://arxiv.org/abs/2401.05194)|null|
-|**2024-01-10**|**DRL-based Latency-Aware Network Slicing in O-RAN with Time-Varying SLAs**|Raoul Raftopoulos et.al.|[2401.05042](http://arxiv.org/abs/2401.05042)|null|
+|**2024-01-11**|**DRL-based Latency-Aware Network Slicing in O-RAN with Time-Varying SLAs**|Raoul Raftopoulos et.al.|[2401.05042](http://arxiv.org/abs/2401.05042)|null|
 |**2024-01-10**|**Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk**|Dennis Ulmer et.al.|[2401.05033](http://arxiv.org/abs/2401.05033)|null|
 |**2024-01-10**|**An Information Theoretic Approach to Interaction-Grounded Learning**|Xiaoyan Hu et.al.|[2401.05015](http://arxiv.org/abs/2401.05015)|null|
 |**2024-01-10**|**Advancing ECG Diagnosis Using Reinforcement Learning on Global Waveform Variations Related to P Wave and PR Interval**|Rumsha Fatima et.al.|[2401.04938](http://arxiv.org/abs/2401.04938)|null|
