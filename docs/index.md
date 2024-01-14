@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.13
+## Updated on 2024.01.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|**[link](https://github.com/rucaibox/rlmec)**|
+|**2024-01-11**|**Secrets of RLHF in Large Language Models Part II: Reward Modeling**|Binghai Wang et.al.|[2401.06080](http://arxiv.org/abs/2401.06080)|**[link](https://github.com/openlmlab/moss-rlhf)**|
+|**2024-01-11**|**Spatial-Aware Deep Reinforcement Learning for the Traveling Officer Problem**|Niklas Strauß et.al.|[2401.05969](http://arxiv.org/abs/2401.05969)|null|
+|**2024-01-11**|**Machine Learning Insides OptVerse AI Solver: Design Principles and Applications**|Xijun Li et.al.|[2401.05960](http://arxiv.org/abs/2401.05960)|null|
+|**2024-01-11**|**Optimistic Model Rollouts for Pessimistic Offline Policy Optimization**|Yuanzhao Zhai et.al.|[2401.05899](http://arxiv.org/abs/2401.05899)|null|
+|**2024-01-11**|**Safe reinforcement learning in uncertain contexts**|Dominik Baumann et.al.|[2401.05876](http://arxiv.org/abs/2401.05876)|**[link](https://github.com/baumanndominik/cme_based_classification_bounds)**|
+|**2024-01-11**|**Confidence-Based Curriculum Learning for Multi-Agent Path Finding**|Thomy Phan et.al.|[2401.05860](http://arxiv.org/abs/2401.05860)|null|
+|**2024-01-11**|**Interactions between dynamic team composition and coordination: An agent-based modeling approach**|Darío Blanco-Fernández et.al.|[2401.05832](http://arxiv.org/abs/2401.05832)|null|
+|**2024-01-11**|**Towards Goal-Oriented Agents for Evolving Problems Observed via Conversation**|Michael Free et.al.|[2401.05822](http://arxiv.org/abs/2401.05822)|null|
+|**2024-01-11**|**Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents**|Quentin Delfosse et.al.|[2401.05821](http://arxiv.org/abs/2401.05821)|null|
 |**2024-01-10**|**ReACT: Reinforcement Learning for Controller Parametrization using B-Spline Geometries**|Thomas Rudolf et.al.|[2401.05251](http://arxiv.org/abs/2401.05251)|null|
 |**2024-01-10**|**Taming "data-hungry" reinforcement learning? Stability in continuous state-action spaces**|Yaqi Duan et.al.|[2401.05233](http://arxiv.org/abs/2401.05233)|null|
 |**2024-01-10**|**Modelling, Positioning, and Deep Reinforcement Learning Path Tracking Control of Scaled Robotic Vehicles: Design and Experimental Validation**|Carmine Caponio et.al.|[2401.05194](http://arxiv.org/abs/2401.05194)|null|
@@ -1857,6 +1867,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion**|Ruilin Luo et.al.|[2401.06072](http://arxiv.org/abs/2401.06072)|null|
+|**2024-01-11**|**Block-Diagonal Orthogonal Relation and Matrix Entity for Knowledge Graph Embedding**|Yihua Zhu et.al.|[2401.05967](http://arxiv.org/abs/2401.05967)|null|
 |**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915](http://arxiv.org/abs/2401.04915)|null|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507](http://arxiv.org/abs/2401.04507)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-09**|**Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems**|Ngoc Luyen Le et.al.|[2401.04474](http://arxiv.org/abs/2401.04474)|null|
