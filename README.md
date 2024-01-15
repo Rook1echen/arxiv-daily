@@ -1,4 +1,4 @@
-## Updated on 2024.01.14
+## Updated on 2024.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240115>back to top</a>)</p>
 
 ## attack graph
 
@@ -78,7 +78,7 @@
 |**2024-01-08**|**Long-term Safe Reinforcement Learning with Binary Feedback**|Akifumi Wachi et.al.|[2401.03786](http://arxiv.org/abs/2401.03786)|null|
 |**2024-01-07**|**NovelGym: A Flexible Ecosystem for Hybrid Planning and Learning Agents Designed for Open Worlds**|Shivam Goel et.al.|[2401.03546](http://arxiv.org/abs/2401.03546)|null|
 |**2024-01-07**|**ClusterComm: Discrete Communication in Decentralized MARL using Internal Representation Clustering**|Robert Müller et.al.|[2401.03504](http://arxiv.org/abs/2401.03504)|null|
-|**2024-01-07**|**Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence**|Philip Jordan et.al.|[2401.03489](http://arxiv.org/abs/2401.03489)|null|
+|**2024-01-07**|**Decentralized Federated Policy Gradient with Byzantine Fault-Tolerance and Provably Fast Convergence**|Philip Jordan et.al.|[2401.03489](http://arxiv.org/abs/2401.03489)|**[link](https://github.com/philip-jordan/decentralized-byzantine-RL)**|
 |**2024-01-05**|**A unified uncertainty-aware exploration: Combining epistemic and aleatory uncertainty**|Parvin Malekzadeh et.al.|[2401.02914](http://arxiv.org/abs/2401.02914)|null|
 |**2024-01-05**|**Deep Reinforcement Learning for Local Path Following of an Autonomous Formula SAE Vehicle**|Harvey Merton et.al.|[2401.02903](http://arxiv.org/abs/2401.02903)|null|
 |**2024-01-05**|**Synergistic Formulaic Alpha Generation for Quantitative Trading based on Reinforcement Learning**|Hong-Gi Shin et.al.|[2401.02710](http://arxiv.org/abs/2401.02710)|null|
@@ -875,7 +875,7 @@
 |**2023-08-29**|**Improving Reinforcement Learning Training Regimes for Social Robot Navigation**|Adam Sigal et.al.|[2308.14947](http://arxiv.org/abs/2308.14947)|**[link](https://github.com/raise-lab/soc-nav-training)**|
 |**2023-08-28**|**Reinforcement Learning for Sampling on Temporal Medical Imaging Sequences**|Zhishen Huang et.al.|[2308.14946](http://arxiv.org/abs/2308.14946)|**[link](https://github.com/zhishenhuang/rlsamp)**|
 |**2023-08-28**|**Learning Visual Tracking and Reaching with Deep Reinforcement Learning on a UR10e Robotic Arm**|Colin Bellinger et.al.|[2308.14652](http://arxiv.org/abs/2308.14652)|**[link](https://github.com/cbellinger27/bendrl_reacher_tracker)**|
-|**2023-08-28**|**Edge Generation Scheduling for DAG Tasks using Deep Reinforcement Learning**|Binqi Sun et.al.|[2308.14647](http://arxiv.org/abs/2308.14647)|null|
+|**2023-08-28**|**Edge Generation Scheduling for DAG Tasks using Deep Reinforcement Learning**|Binqi Sun et.al.|[2308.14647](http://arxiv.org/abs/2308.14647)|**[link](https://github.com/binqi-sun/egs)**|
 |**2023-08-28**|**Recent Progress in Energy Management of Connected Hybrid Electric Vehicles Using Reinforcement Learning**|Min Hua et.al.|[2308.14602](http://arxiv.org/abs/2308.14602)|null|
 |**2023-08-28**|**S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction**|Emanuele Santellani et.al.|[2308.14598](http://arxiv.org/abs/2308.14598)|null|
 |**2023-08-28**|**Deep Reinforcement Learning for Uplink Scheduling in NOMA-URLLC Networks**|Benoît-Marie Robaglia et.al.|[2308.14523](http://arxiv.org/abs/2308.14523)|null|
@@ -963,7 +963,7 @@
 |**2023-08-15**|**Distilling Knowledge from Resource Management Algorithms to Neural Networks: A Unified Training Assistance Approach**|Longfei Ma et.al.|[2308.07511](http://arxiv.org/abs/2308.07511)|null|
 |**2023-08-14**|**Adaptive Tracking of a Single-Rigid-Body Character in Various Environments**|Taesoo Kwon et.al.|[2308.07491](http://arxiv.org/abs/2308.07491)|null|
 |**2023-08-14**|**LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked**|Alec Helbling et.al.|[2308.07308](http://arxiv.org/abs/2308.07308)|null|
-|**2023-08-14**|**Dialogue for Prompting: a Policy-Gradient-Based Discrete Prompt Optimization for Few-shot Learning**|Chengzhengxu Li et.al.|[2308.07272](http://arxiv.org/abs/2308.07272)|null|
+|**2023-08-14**|**Dialogue for Prompting: a Policy-Gradient-Based Discrete Prompt Optimization for Few-shot Learning**|Chengzhengxu Li et.al.|[2308.07272](http://arxiv.org/abs/2308.07272)|**[link](https://github.com/czx-li/DP2O)**|
 |**2023-08-14**|**Neural Categorical Priors for Physics-Based Character Control**|Qingxu Zhu et.al.|[2308.07200](http://arxiv.org/abs/2308.07200)|null|
 |**2023-08-14**|**Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads**|Dingheng Mo et.al.|[2308.07013](http://arxiv.org/abs/2308.07013)|null|
 |**2023-08-14**|**Routing Recovery for UAV Networks with Deliberate Attacks: A Reinforcement Learning based Approach**|Sijie He et.al.|[2308.06973](http://arxiv.org/abs/2308.06973)|null|
@@ -1021,7 +1021,7 @@
 |**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453](http://arxiv.org/abs/2308.02453)|**[link](https://github.com/srl-ethz/faive_gym_oss)**|
 |**2023-08-04**|**Learning Optimal Admission Control in Partially Observable Queueing Networks**|Jonatha Anselmi et.al.|[2308.02391](http://arxiv.org/abs/2308.02391)|null|
 |**2023-08-04**|**Communication-Efficient Decentralized Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control**|Dong Chen et.al.|[2308.02345](http://arxiv.org/abs/2308.02345)|**[link](https://github.com/dongchen06/macacc)**|
-|**2023-08-04**|**ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation**|Chenglong Wang et.al.|[2308.02223](http://arxiv.org/abs/2308.02223)|null|
+|**2023-08-04**|**ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation**|Chenglong Wang et.al.|[2308.02223](http://arxiv.org/abs/2308.02223)|**[link](https://github.com/wangclnlp/DeepSpeed-Chat-Extension/tree/main/examples/esrl)**|
 |**2023-08-04**|**ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics**|Víctor Mayoral-Vilches et.al.|[2308.02152](http://arxiv.org/abs/2308.02152)|**[link](https://github.com/vmayoral/exploitflow)**|
 |**2023-08-04**|**Learning to Shape by Grinding: Cutting-surface-aware Model-based Reinforcement Learning**|Takumi Hachimine et.al.|[2308.02150](http://arxiv.org/abs/2308.02150)|null|
 |**2023-08-04**|**Deep Reinforcement Learning Empowered Rate Selection of XP-HARQ**|Da Wu et.al.|[2308.02140](http://arxiv.org/abs/2308.02140)|null|
@@ -1088,7 +1088,7 @@
 |**2023-07-26**|**Unveiling Security, Privacy, and Ethical Concerns of ChatGPT**|Xiaodong Wu et.al.|[2307.14192](http://arxiv.org/abs/2307.14192)|null|
 |**2023-07-26**|**Learning Disentangled Discrete Representations**|David Friede et.al.|[2307.14151](http://arxiv.org/abs/2307.14151)|**[link](https://github.com/david-friede/lddr)**|
 |**2023-07-26**|**MorphoLander: Reinforcement Learning Based Landing of a Group of Drones on the Adaptive Morphogenetic UAV**|Sausar Karaf et.al.|[2307.14147](http://arxiv.org/abs/2307.14147)|null|
-|**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|null|
+|**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|**[link](https://github.com/incyde-gmbh/attackgraphs)**|
 |**2023-07-25**|**Safety Margins for Reinforcement Learning**|Alexander Grushin et.al.|[2307.13642](http://arxiv.org/abs/2307.13642)|null|
 |**2023-07-25**|**Settling the Sample Complexity of Online Reinforcement Learning**|Zihan Zhang et.al.|[2307.13586](http://arxiv.org/abs/2307.13586)|null|
 |**2023-07-25**|**On Solving the Rubik's Cube with Domain-Independent Planners Using Standard Representations**|Bharath Muppasani et.al.|[2307.13552](http://arxiv.org/abs/2307.13552)|null|
@@ -1846,7 +1846,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240115>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1873,7 +1873,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240115>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -2147,7 +2147,7 @@
 |**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427](http://arxiv.org/abs/2309.15427)|**[link](https://github.com/meettyj/gnp)**|
 |**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|null|
 |**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|**[link](https://github.com/jia-zhang666/grm_layer)**|
-|**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|null|
+|**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|**[link](https://github.com/lrlbbzl/unibi_ogb)**|
 |**2023-09-24**|**Multiple Relations Classification using Imbalanced Predictions Adaptation**|Sakher Khalil Alqaaidi et.al.|[2309.13718](http://arxiv.org/abs/2309.13718)|**[link](https://github.com/sa5r/mrca)**|
 |**2023-09-24**|**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**|Xin Li et.al.|[2309.13625](http://arxiv.org/abs/2309.13625)|**[link](https://github.com/lixinustc/graphadapter)**|
 |**2023-09-24**|**VisionKG: Unleashing the Power of Visual Datasets via Knowledge Graph**|Jicheng Yuan et.al.|[2309.13610](http://arxiv.org/abs/2309.13610)|null|
@@ -2284,7 +2284,7 @@
 |**2023-07-28**|**Dialogue Shaping: Empowering Agents through NPC Interaction**|Wei Zhou et.al.|[2307.15833](http://arxiv.org/abs/2307.15833)|null|
 |**2023-07-28**|**Select and Augment: Enhanced Dense Retrieval Knowledge Graph Augmentation**|Micheal Abaho et.al.|[2307.15776](http://arxiv.org/abs/2307.15776)|null|
 |**2023-07-28**|**Task-driven Semantic-aware Green Cooperative Transmission Strategy for Vehicular Networks**|Wanting Yang et.al.|[2307.15284](http://arxiv.org/abs/2307.15284)|null|
-|**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|null|
+|**2023-07-26**|**Risk Assessment Graphs: Utilizing Attack Graphs for Risk Assessment**|Simon Unger et.al.|[2307.14114](http://arxiv.org/abs/2307.14114)|**[link](https://github.com/incyde-gmbh/attackgraphs)**|
 |**2023-07-25**|**BIM-to-BRICK: Using graph modeling for IoT/BMS and spatial semantic data interoperability within digital data models of buildings**|Filippo Vittori et.al.|[2307.13197](http://arxiv.org/abs/2307.13197)|null|
 |**2023-07-24**|**Rethinking Medical Report Generation: Disease Revealing Enhancement with Knowledge Graph**|Yixin Wang et.al.|[2307.12526](http://arxiv.org/abs/2307.12526)|**[link](https://github.com/wangyixinxin/mrg-kg)**|
 |**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179](http://arxiv.org/abs/2307.12179)|null|
@@ -2565,5 +2565,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240114>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240115>back to top</a>)</p>
 
