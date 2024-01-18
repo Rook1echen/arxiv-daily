@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Central Limit Theorem for Two-Timescale Stochastic Approximation with Markovian Noise: Theory and Applications**|Jie Hu et.al.|[2401.09339](http://arxiv.org/abs/2401.09339)|null|
+|**2024-01-17**|**Vision-driven Autonomous Flight of UAV Along River Using Deep Reinforcement Learning with Dynamic Expert Guidance**|Zihan Wang et.al.|[2401.09332](http://arxiv.org/abs/2401.09332)|null|
+|**2024-01-17**|**Deployable Reinforcement Learning with Variable Control Rate**|Dong Wang et.al.|[2401.09286](http://arxiv.org/abs/2401.09286)|null|
+|**2024-01-17**|**An Efficient Generalizable Framework for Visuomotor Policies via Control-aware Augmentation and Privilege-guided Distillation**|Yinuo Zhao et.al.|[2401.09258](http://arxiv.org/abs/2401.09258)|null|
+|**2024-01-17**|**LLMs for Relational Reasoning: How Far are We?**|Zhiming Li et.al.|[2401.09042](http://arxiv.org/abs/2401.09042)|null|
+|**2024-01-17**|**UOEP: User-Oriented Exploration Policy for Enhancing Long-Term User Experiences in Recommender Systems**|Changshuo Zhang et.al.|[2401.09034](http://arxiv.org/abs/2401.09034)|null|
+|**2024-01-17**|**Continuous Time Continuous Space Homeostatic Reinforcement Learning (CTCS-HRRL) : Towards Biological Self-Autonomous Agent**|Hugo Laurencon et.al.|[2401.08999](http://arxiv.org/abs/2401.08999)|null|
+|**2024-01-17**|**ReFT: Reasoning with Reinforced Fine-Tuning**|Trung Quoc Luong et.al.|[2401.08967](http://arxiv.org/abs/2401.08967)|null|
+|**2024-01-17**|**Cascading Reinforcement Learning**|Yihan Du et.al.|[2401.08961](http://arxiv.org/abs/2401.08961)|null|
+|**2024-01-17**|**Towards Off-Policy Reinforcement Learning for Ranking Policies with Human Feedback**|Teng Xiao et.al.|[2401.08959](http://arxiv.org/abs/2401.08959)|null|
 |**2024-01-16**|**On Quantum Natural Policy Gradients**|André Sequeira et.al.|[2401.08307](http://arxiv.org/abs/2401.08307)|null|
 |**2024-01-16**|**Sum Throughput Maximization in Multi-BD Symbiotic Radio NOMA Network Assisted by Active-STAR-RIS**|Rahman Saadat Yeganeh et.al.|[2401.08301](http://arxiv.org/abs/2401.08301)|null|
 |**2024-01-16**|**PRewrite: Prompt Rewriting with Reinforcement Learning**|Weize Kong et.al.|[2401.08189](http://arxiv.org/abs/2401.08189)|null|
@@ -1887,6 +1897,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175](http://arxiv.org/abs/2401.09175)|null|
+|**2024-01-17**|**Knowledge Pyramid: A Novel Hierarchical Reasoning Structure for Generalized Knowledge Augmentation and Inference**|Qinghua Huang et.al.|[2401.09070](http://arxiv.org/abs/2401.09070)|null|
+|**2024-01-16**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517](http://arxiv.org/abs/2401.08517)|null|
+|**2024-01-16**|**Reinforcement Learning for Conversational Question Answering over Knowledge Graph**|Mi Wu et.al.|[2401.08460](http://arxiv.org/abs/2401.08460)|null|
 |**2024-01-15**|**Leveraging External Knowledge Resources to Enable Domain-Specific Comprehension**|Saptarshi Sengupta et.al.|[2401.07977](http://arxiv.org/abs/2401.07977)|null|
 |**2024-01-15**|**A Strategy for Implementing description Temporal Dynamic Algorithms in Dynamic Knowledge Graphs by SPIN**|Alireza Shahbazi et.al.|[2401.07890](http://arxiv.org/abs/2401.07890)|null|
 |**2024-01-15**|**Wikidata as a seed for Web Extraction**|Kunpeng Guo et.al.|[2401.07812](http://arxiv.org/abs/2401.07812)|null|
