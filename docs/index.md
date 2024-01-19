@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**|Kaige Qu et.al.|[2401.10156](http://arxiv.org/abs/2401.10156)|null|
+|**2024-01-18**|**Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security**|Alec Wilson et.al.|[2401.10149](http://arxiv.org/abs/2401.10149)|null|
+|**2024-01-18**|**Deep Back-Filling: a Split Window Technique for Deep Online Cluster Job Scheduling**|Lingfei Wang et.al.|[2401.09910](http://arxiv.org/abs/2401.09910)|null|
+|**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886](http://arxiv.org/abs/2401.09886)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
+|**2024-01-18**|**Reconciling Spatial and Temporal Abstractions for Goal Representation**|Mehdi Zadem et.al.|[2401.09870](http://arxiv.org/abs/2401.09870)|null|
+|**2024-01-18**|**FREED++: Improving RL Agents for Fragment-Based Molecule Generation by Thorough Reproduction**|Alexander Telepov et.al.|[2401.09840](http://arxiv.org/abs/2401.09840)|null|
+|**2024-01-18**|**Optimizing Visible Light Communication Efficiency Through Reinforcement Learning-Based NOMA-CSK Integration**|Serkan Vela et.al.|[2401.09780](http://arxiv.org/abs/2401.09780)|null|
+|**2024-01-18**|**Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning**|Hao Chen et.al.|[2401.09772](http://arxiv.org/abs/2401.09772)|null|
+|**2024-01-18**|**Exploration and Anti-Exploration with Distributional Random Network Distillation**|Kai Yang et.al.|[2401.09750](http://arxiv.org/abs/2401.09750)|null|
+|**2024-01-18**|**A HPC Co-Scheduler with Reinforcement Learning**|Abel Souza et.al.|[2401.09706](http://arxiv.org/abs/2401.09706)|null|
 |**2024-01-17**|**Central Limit Theorem for Two-Timescale Stochastic Approximation with Markovian Noise: Theory and Applications**|Jie Hu et.al.|[2401.09339](http://arxiv.org/abs/2401.09339)|null|
 |**2024-01-17**|**Vision-driven Autonomous Flight of UAV Along River Using Deep Reinforcement Learning with Dynamic Expert Guidance**|Zihan Wang et.al.|[2401.09332](http://arxiv.org/abs/2401.09332)|null|
 |**2024-01-17**|**Deployable Reinforcement Learning with Variable Control Rate**|Dong Wang et.al.|[2401.09286](http://arxiv.org/abs/2401.09286)|null|
@@ -1897,6 +1907,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553](http://arxiv.org/abs/2401.09553)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175](http://arxiv.org/abs/2401.09175)|null|
 |**2024-01-17**|**Knowledge Pyramid: A Novel Hierarchical Reasoning Structure for Generalized Knowledge Augmentation and Inference**|Qinghua Huang et.al.|[2401.09070](http://arxiv.org/abs/2401.09070)|null|
 |**2024-01-16**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517](http://arxiv.org/abs/2401.08517)|null|

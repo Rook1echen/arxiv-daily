@@ -1,4 +1,4 @@
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,12 +43,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240119>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles**|Kaige Qu et.al.|[2401.10156](http://arxiv.org/abs/2401.10156)|null|
+|**2024-01-18**|**Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security**|Alec Wilson et.al.|[2401.10149](http://arxiv.org/abs/2401.10149)|null|
+|**2024-01-18**|**Deep Back-Filling: a Split Window Technique for Deep Online Cluster Job Scheduling**|Lingfei Wang et.al.|[2401.09910](http://arxiv.org/abs/2401.09910)|null|
+|**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886](http://arxiv.org/abs/2401.09886)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
+|**2024-01-18**|**Reconciling Spatial and Temporal Abstractions for Goal Representation**|Mehdi Zadem et.al.|[2401.09870](http://arxiv.org/abs/2401.09870)|null|
+|**2024-01-18**|**FREED++: Improving RL Agents for Fragment-Based Molecule Generation by Thorough Reproduction**|Alexander Telepov et.al.|[2401.09840](http://arxiv.org/abs/2401.09840)|null|
+|**2024-01-18**|**Optimizing Visible Light Communication Efficiency Through Reinforcement Learning-Based NOMA-CSK Integration**|Serkan Vela et.al.|[2401.09780](http://arxiv.org/abs/2401.09780)|null|
+|**2024-01-18**|**Robotic Test Tube Rearrangement Using Combined Reinforcement Learning and Motion Planning**|Hao Chen et.al.|[2401.09772](http://arxiv.org/abs/2401.09772)|null|
+|**2024-01-18**|**Exploration and Anti-Exploration with Distributional Random Network Distillation**|Kai Yang et.al.|[2401.09750](http://arxiv.org/abs/2401.09750)|null|
+|**2024-01-18**|**A HPC Co-Scheduler with Reinforcement Learning**|Abel Souza et.al.|[2401.09706](http://arxiv.org/abs/2401.09706)|null|
 |**2024-01-17**|**Central Limit Theorem for Two-Timescale Stochastic Approximation with Markovian Noise: Theory and Applications**|Jie Hu et.al.|[2401.09339](http://arxiv.org/abs/2401.09339)|null|
 |**2024-01-17**|**Vision-driven Autonomous Flight of UAV Along River Using Deep Reinforcement Learning with Dynamic Expert Guidance**|Zihan Wang et.al.|[2401.09332](http://arxiv.org/abs/2401.09332)|null|
 |**2024-01-17**|**Deployable Reinforcement Learning with Variable Control Rate**|Dong Wang et.al.|[2401.09286](http://arxiv.org/abs/2401.09286)|null|
@@ -1876,7 +1886,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240119>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1903,12 +1913,13 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240119>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**BERTologyNavigator: Advanced Question Answering with BERT-based Semantics**|Shreya Rajpal et.al.|[2401.09553](http://arxiv.org/abs/2401.09553)|null|
 |**2024-01-17**|**QAnswer: Towards Question Answering Search over Websites**|Kunpeng Guo et.al.|[2401.09175](http://arxiv.org/abs/2401.09175)|null|
 |**2024-01-17**|**Knowledge Pyramid: A Novel Hierarchical Reasoning Structure for Generalized Knowledge Augmentation and Inference**|Qinghua Huang et.al.|[2401.09070](http://arxiv.org/abs/2401.09070)|null|
 |**2024-01-16**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517](http://arxiv.org/abs/2401.08517)|null|
@@ -2609,5 +2620,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240119>back to top</a>)</p>
 
