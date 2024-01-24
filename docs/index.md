@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[2401.12975](http://arxiv.org/abs/2401.12975)|**[link](https://github.com/umass-foundation-model/hazard)**|
+|**2024-01-23**|**Reward-Relevance-Filtered Linear Offline Reinforcement Learning**|Angela Zhou et.al.|[2401.12934](http://arxiv.org/abs/2401.12934)|null|
+|**2024-01-23**|**Active Inference as a Model of Agency**|Lancelot Da Costa et.al.|[2401.12917](http://arxiv.org/abs/2401.12917)|null|
+|**2024-01-23**|**Emergent Communication Protocol Learning for Task Offloading in Industrial Internet of Things**|Salwa Mostafa et.al.|[2401.12914](http://arxiv.org/abs/2401.12914)|null|
+|**2024-01-23**|**Model-Free $δ$-Policy Iteration Based on Damped Newton Method for Nonlinear Continuous-Time H$\infty$ Tracking Control**|Qi Wang et.al.|[2401.12882](http://arxiv.org/abs/2401.12882)|null|
+|**2024-01-23**|**Learning safety critics via a non-contractive binary bellman operator**|Agustin Castellano et.al.|[2401.12849](http://arxiv.org/abs/2401.12849)|null|
+|**2024-01-23**|**Digital Twin-Based Network Management for Better QoE in Multicast Short Video Streaming**|Xinyu Huang et.al.|[2401.12826](http://arxiv.org/abs/2401.12826)|null|
+|**2024-01-23**|**Deep Learning Based Simulators for the Phosphorus Removal Process Control in Wastewater Treatment via Deep Reinforcement Learning Algorithms**|Esmaeel Mohammadi et.al.|[2401.12822](http://arxiv.org/abs/2401.12822)|null|
+|**2024-01-23**|**Dynamic Layer Tying for Parameter-Efficient Transformers**|Tamir David Hay et.al.|[2401.12819](http://arxiv.org/abs/2401.12819)|null|
+|**2024-01-23**|**Learning Mean Field Games on Sparse Graphs: A Hybrid Graphex Approach**|Christian Fabian et.al.|[2401.12686](http://arxiv.org/abs/2401.12686)|null|
 |**2024-01-22**|**Mitigating Covariate Shift in Misspecified Regression with Applications to Reinforcement Learning**|Philip Amortila et.al.|[2401.12216](http://arxiv.org/abs/2401.12216)|null|
 |**2024-01-22**|**Retrieval-Guided Reinforcement Learning for Boolean Circuit Minimization**|Animesh Basak Chowdhury et.al.|[2401.12205](http://arxiv.org/abs/2401.12205)|null|
 |**2024-01-22**|**WARM: On the Benefits of Weight Averaged Reward Models**|Alexandre Ramé et.al.|[2401.12187](http://arxiv.org/abs/2401.12187)|null|
@@ -1925,8 +1935,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**|Debjyoti Mondal et.al.|[2401.12863](http://arxiv.org/abs/2401.12863)|null|
+|**2024-01-23**|**Gradient Flow of Energy: A General and Efficient Approach for Entity Alignment Decoding**|Yuanyi Wang et.al.|[2401.12798](http://arxiv.org/abs/2401.12798)|null|
+|**2024-01-23**|**Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context**|Somnath Banerjee et.al.|[2401.12671](http://arxiv.org/abs/2401.12671)|null|
 |**2024-01-22**|**NLP-based Relation Extraction Methods in RE**|Quim Motger et.al.|[2401.12075](http://arxiv.org/abs/2401.12075)|null|
-|**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800](http://arxiv.org/abs/2401.11800)|null|
+|**2024-01-22**|**Revisiting Document-Level Relation Extraction with Context-Guided Link Prediction**|Monika Jain et.al.|[2401.11800](http://arxiv.org/abs/2401.11800)|**[link](https://github.com/kracr/document-level-relation-extraction)**|
 |**2024-01-21**|**Graph Edits for Counterfactual Explanations: A Unified GNN Approach**|Nikolaos Chaidos et.al.|[2401.11609](http://arxiv.org/abs/2401.11609)|null|
 |**2024-01-21**|**SEBERTNets: Sequence Enhanced BERT Networks for Event Entity Extraction Tasks Oriented to the Finance Field**|Congqing He et.al.|[2401.11408](http://arxiv.org/abs/2401.11408)|**[link](https://github.com/hecongqing/CCKS2019_EventEntityExtraction_Rank5)**|
 |**2024-01-20**|**FedRKG: A Privacy-preserving Federated Recommendation Framework via Knowledge Graph Enhancement**|Dezhong Yao et.al.|[2401.11089](http://arxiv.org/abs/2401.11089)|**[link](https://github.com/ttliu98/fedrkg)**|
