@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.28
+## Updated on 2024.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -58,7 +58,7 @@ layout: default
 |**2024-01-24**|**TraKDis: A Transformer-based Knowledge Distillation Approach for Visual Reinforcement Learning with Application to Cloth Manipulation**|Wei Chen et.al.|[2401.13362](http://arxiv.org/abs/2401.13362)|null|
 |**2024-01-24**|**SEER: Facilitating Structured Reasoning and Explanation via Reinforcement Learning**|Guoxin Chen et.al.|[2401.13246](http://arxiv.org/abs/2401.13246)|null|
 |**2024-01-24**|**DittoGym: Learning to Control Soft Shape-Shifting Robots**|Suning Huang et.al.|[2401.13231](http://arxiv.org/abs/2401.13231)|**[link](https://github.com/suninghuang19/dittogym)**|
-|**2024-01-23**|**NLBAC: A Neural Ordinary Differential Equations-based Framework for Stable and Safe Reinforcement Learning**|Liqun Zhao et.al.|[2401.13148](http://arxiv.org/abs/2401.13148)|null|
+|**2024-01-23**|**NLBAC: A Neural Ordinary Differential Equations-based Framework for Stable and Safe Reinforcement Learning**|Liqun Zhao et.al.|[2401.13148](http://arxiv.org/abs/2401.13148)|**[link](https://github.com/liqunzhao/neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac)**|
 |**2024-01-23**|**The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Contexts**|Lingfeng Shen et.al.|[2401.13136](http://arxiv.org/abs/2401.13136)|null|
 |**2024-01-23**|**Generalization of Heterogeneous Multi-Robot Policies via Awareness and Communication of Capabilities**|Pierce Howell et.al.|[2401.13127](http://arxiv.org/abs/2401.13127)|null|
 |**2024-01-23**|**HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments**|Qinhong Zhou et.al.|[2401.12975](http://arxiv.org/abs/2401.12975)|**[link](https://github.com/umass-foundation-model/hazard)**|
@@ -83,7 +83,7 @@ layout: default
 |**2024-01-22**|**Safe and Generalized end-to-end Autonomous Driving System with Reinforcement Learning and Demonstrations**|Zuojin Tang et.al.|[2401.11792](http://arxiv.org/abs/2401.11792)|null|
 |**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882](http://arxiv.org/abs/2401.10882)|null|
 |**2024-01-19**|**Deep Reinforcement Learning Empowered Activity-Aware Dynamic Health Monitoring Systems**|Ziqiaing Ye et.al.|[2401.10794](http://arxiv.org/abs/2401.10794)|null|
-|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|null|
+|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|**[link](https://github.com/zhengyinan-air/fisor)**|
 |**2024-01-19**|**Quality-Diversity Algorithms Can Provably Be Helpful for Optimization**|Chao Qian et.al.|[2401.10539](http://arxiv.org/abs/2401.10539)|null|
 |**2024-01-19**|**Episodic Reinforcement Learning with Expanded State-reward Space**|Dayang Liang et.al.|[2401.10516](http://arxiv.org/abs/2401.10516)|null|
 |**2024-01-18**|**HRL-TSCH: A Hierarchical Reinforcement Learning-based TSCH Scheduler for IIoT**|F. Fernando Jurado-Lasso et.al.|[2401.10368](http://arxiv.org/abs/2401.10368)|null|
@@ -700,7 +700,7 @@ layout: default
 |**2023-10-06**|**Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets**|Zhang-Wei Hong et.al.|[2310.04413](http://arxiv.org/abs/2310.04413)|**[link](https://github.com/Improbable-AI/dw-offline-rl)**|
 |**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406](http://arxiv.org/abs/2310.04406)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
 |**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373](http://arxiv.org/abs/2310.04373)|**[link](https://github.com/tedmoskovitz/constrainedrl4lms)**|
-|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|null|
+|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|**[link](https://github.com/GFNOrg/gfn-lm-tuning)**|
 |**2023-10-06**|**Applying Reinforcement Learning to Option Pricing and Hedging**|Zoran Stoiljkovic et.al.|[2310.04336](http://arxiv.org/abs/2310.04336)|null|
 |**2023-10-06**|**Adjustable Robust Reinforcement Learning for Online 3D Bin Packing**|Yuxin Pan et.al.|[2310.04323](http://arxiv.org/abs/2310.04323)|null|
 |**2023-10-06**|**Searching for Optimal Runtime Assurance via Reachability and Reinforcement Learning**|Kristina Miller et.al.|[2310.04288](http://arxiv.org/abs/2310.04288)|null|
@@ -754,7 +754,7 @@ layout: default
 |**2023-09-28**|**RLLTE: Long-Term Evolution Project of Reinforcement Learning**|Mingqi Yuan et.al.|[2309.16382](http://arxiv.org/abs/2309.16382)|null|
 |**2023-09-28**|**Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks**|Eleftherios Triantafyllidis et.al.|[2309.16347](http://arxiv.org/abs/2309.16347)|null|
 |**2023-09-28**|**TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning**|Qirui Mi et.al.|[2309.16307](http://arxiv.org/abs/2309.16307)|**[link](https://github.com/jidiai/taxai)**|
-|**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|null|
+|**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292](http://arxiv.org/abs/2309.16292)|**[link](https://github.com/PJLab-ADG/DiLu)**|
 |**2023-09-28**|**Efficiency Separation between RL Methods: Model-Free, Model-Based and Goal-Conditioned**|Brieuc Pinon et.al.|[2309.16291](http://arxiv.org/abs/2309.16291)|null|
 |**2023-09-28**|**Cooperation Dynamics in Multi-Agent Systems: Exploring Game-Theoretic Scenarios with Mean-Field Equilibria**|Vaigarai Sathi et.al.|[2309.16263](http://arxiv.org/abs/2309.16263)|**[link](https://github.com/dawnorak/marl-kart-simulator)**|
 |**2023-09-27**|**AI in Software Engineering: Case Studies and Prospects**|Lei Wang et.al.|[2309.15768](http://arxiv.org/abs/2309.15768)|null|
@@ -2647,7 +2647,7 @@ layout: default
 |**2023-04-08**|**Evolving Reinforcement Learning Environment to Minimize Learner's Achievable Reward: An Application on Hardening Active Directory Systems**|Diksha Goel et.al.|[2304.03998](http://arxiv.org/abs/2304.03998)|null|
 |**2023-04-08**|**DREAM: Adaptive Reinforcement Learning based on Attention Mechanism for Temporal Knowledge Graph Reasoning**|Shangfei Zheng et.al.|[2304.03984](http://arxiv.org/abs/2304.03984)|null|
 |**2023-04-08**|**The Short Text Matching Model Enhanced with Knowledge via Contrastive Learning**|Qiqiang Zhong et.al.|[2304.03898](http://arxiv.org/abs/2304.03898)|null|
-|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|null|
+|**2023-04-10**|**Rethinking GNN-based Entity Alignment on Heterogeneous Knowledge Graphs: New Datasets and A New Method**|Xuhui Jiang et.al.|[2304.03468](http://arxiv.org/abs/2304.03468)|**[link](https://github.com/IDEA-FinAI/Simple-HHEA)**|
 |**2023-04-06**|**Handling Wikidata Qualifiers in Reasoning**|Sahar Aljalbout et.al.|[2304.03375](http://arxiv.org/abs/2304.03375)|null|
 |**2023-04-06**|**Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding**|Yuke Hu et.al.|[2304.02932](http://arxiv.org/abs/2304.02932)|null|
 |**2023-04-04**|**High-Throughput Vector Similarity Search in Knowledge Graphs**|Jason Mohoney et.al.|[2304.01926](http://arxiv.org/abs/2304.01926)|null|
