@@ -1,4 +1,4 @@
-## Updated on 2024.01.29
+## Updated on 2024.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,12 +43,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Curriculum-Based Reinforcement Learning for Quadrupedal Jumping: A Reference-free Design**|Vassil Atanassov et.al.|[2401.16337](http://arxiv.org/abs/2401.16337)|null|
+|**2024-01-29**|**Iterative Data Smoothing: Mitigating Reward Overfitting and Overoptimization in RLHF**|Banghua Zhu et.al.|[2401.16335](http://arxiv.org/abs/2401.16335)|null|
+|**2024-01-29**|**Optimal Control of Renewable Energy Communities subject to Network Peak Fees with Model Predictive Control and Reinforcement Learning Algorithms**|Samy Aittahar et.al.|[2401.16321](http://arxiv.org/abs/2401.16321)|null|
+|**2024-01-29**|**Prepare Non-classical Collective Spin State by Reinforcement Learning**|X. L. Zhao et.al.|[2401.16320](http://arxiv.org/abs/2401.16320)|null|
+|**2024-01-29**|**Effective Communication with Dynamic Feature Compression**|Pietro Talli et.al.|[2401.16236](http://arxiv.org/abs/2401.16236)|null|
+|**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
+|**2024-01-29**|**Future Impact Decomposition in Request-level Recommendations**|Xiaobei Wang et.al.|[2401.16108](http://arxiv.org/abs/2401.16108)|null|
+|**2024-01-29**|**Emergence of cooperation under punishment: A reinforcement learning perspective**|Chenyang Zhao et.al.|[2401.16073](http://arxiv.org/abs/2401.16073)|null|
+|**2024-01-29**|**SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning**|Jianlan Luo et.al.|[2401.16013](http://arxiv.org/abs/2401.16013)|null|
+|**2024-01-29**|**A Deep Q-Network Based on Radial Basis Functions for Multi-Echelon Inventory Management**|Liqiang Cheng et.al.|[2401.15872](http://arxiv.org/abs/2401.15872)|null|
 |**2024-01-26**|**Fully Independent Communication in Multi-Agent Reinforcement Learning**|Rafael Pina et.al.|[2401.15059](http://arxiv.org/abs/2401.15059)|null|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
 |**2024-01-26**|**Reinforcement Learning-based Relay Selection for Cooperative WSNs in the Presence of Bursty Impulsive Noise**|Hazem Barka et.al.|[2401.15008](http://arxiv.org/abs/2401.15008)|null|
@@ -1943,7 +1953,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1971,12 +1981,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293](http://arxiv.org/abs/2401.16293)|null|
+|**2024-01-29**|**Capturing Knowledge Graphs and Rules with Octagon Embeddings**|Victor Charpenay et.al.|[2401.16270](http://arxiv.org/abs/2401.16270)|null|
+|**2024-01-29**|**Type-based Neural Link Prediction Adapter for Complex Query Answering**|Lingning Song et.al.|[2401.16045](http://arxiv.org/abs/2401.16045)|null|
+|**2024-01-29**|**Knowledge-Aware Neuron Interpretation for Scene Classification**|Yong Guan et.al.|[2401.15820](http://arxiv.org/abs/2401.15820)|null|
+|**2024-01-27**|**Pre-training and Diagnosing Knowledge Base Completion Models**|Vid Kocijan et.al.|[2401.15439](http://arxiv.org/abs/2401.15439)|null|
 |**2024-01-26**|**Synthetic Multimodal Dataset for Empowering Safety and Well-being in Home Environments**|Takanori Ugai et.al.|[2401.14743](http://arxiv.org/abs/2401.14743)|null|
 |**2024-01-26**|**Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs**|Nan Hu et.al.|[2401.14640](http://arxiv.org/abs/2401.14640)|null|
 |**2024-01-25**|**Parameter-Efficient Conversational Recommender System as a Language Processing Task**|Mathieu Ravaut et.al.|[2401.14194](http://arxiv.org/abs/2401.14194)|**[link](https://github.com/ravoxsg/efficient_unified_crs)**|
@@ -2696,5 +2711,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240129>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
 
