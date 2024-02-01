@@ -1,4 +1,4 @@
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,12 +43,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Enhancing End-to-End Multi-Task Dialogue Systems: A Study on Intrinsic Motivation Reinforcement Learning Algorithms for Improved Training and Adaptability**|Navin Kamuni et.al.|[2401.18040](http://arxiv.org/abs/2401.18040)|null|
+|**2024-01-31**|**Causal Coordinated Concurrent Reinforcement Learning**|Tim Tse et.al.|[2401.18012](http://arxiv.org/abs/2401.18012)|null|
+|**2024-01-31**|**Circuit Partitioning for Multi-Core Quantum Architectures with Deep Reinforcement Learning**|Arnau Pastor et.al.|[2401.17976](http://arxiv.org/abs/2401.17976)|null|
+|**2024-01-31**|**Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning**|Erwan Escudie et.al.|[2401.17914](http://arxiv.org/abs/2401.17914)|null|
+|**2024-01-31**|**On Tractability, Complexity, and Mixed-Integer Convex Programming Representability of Distributionally Favorable Optimization**|Nan Jiang et.al.|[2401.17899](http://arxiv.org/abs/2401.17899)|null|
+|**2024-01-31**|**Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication**|Zikai Feng et.al.|[2401.17880](http://arxiv.org/abs/2401.17880)|null|
+|**2024-01-31**|**Safe Reinforcement Learning-Based Eco-Driving Control for Mixed Traffic Flows With Disturbances**|Ke Lu et.al.|[2401.17837](http://arxiv.org/abs/2401.17837)|null|
+|**2024-01-31**|**A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees**|Toshinori Kitamura et.al.|[2401.17780](http://arxiv.org/abs/2401.17780)|**[link](https://github.com/matsuolab/uniform-pac-primal-dual-cmdp)**|
+|**2024-01-31**|**SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models**|Xiao Shao et.al.|[2401.17749](http://arxiv.org/abs/2401.17749)|null|
+|**2024-01-31**|**Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming**|Haotian Ling et.al.|[2401.17527](http://arxiv.org/abs/2401.17527)|null|
 |**2024-01-30**|**Improving robustness of quantum feedback control with reinforcement learning**|Manuel Guatto et.al.|[2401.17190](http://arxiv.org/abs/2401.17190)|null|
 |**2024-01-30**|**Zero-Shot Reinforcement Learning via Function Encoders**|Tyler Ingebrand et.al.|[2401.17173](http://arxiv.org/abs/2401.17173)|**[link](https://github.com/anonymousresearcher5642/functionencoderrl)**|
 |**2024-01-30**|**Learning Approximation Sets for Exploratory Queries**|Susan B. Davidson et.al.|[2401.17059](http://arxiv.org/abs/2401.17059)|null|
@@ -1963,7 +1973,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -1992,14 +2002,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment**|Yuanyi Wang et.al.|[2401.17859](http://arxiv.org/abs/2401.17859)|null|
+|**2024-01-31**|**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation**|Yuanhuiyi Lyu et.al.|[2401.17664](http://arxiv.org/abs/2401.17664)|null|
+|**2024-01-31**|**PipeNet: Question Answering with Semantic Pruning over Knowledge Graphs**|Ying Su et.al.|[2401.17536](http://arxiv.org/abs/2401.17536)|null|
 |**2024-01-30**|**Two Heads Are Better Than One: Integrating Knowledge from Knowledge Graphs and Large Language Models for Entity Alignment**|Linyao Yang et.al.|[2401.16960](http://arxiv.org/abs/2401.16960)|null|
-|**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293](http://arxiv.org/abs/2401.16293)|null|
+|**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293](http://arxiv.org/abs/2401.16293)|**[link](https://github.com/expertailab/textual-entailment-for-effective-triple-validation-in-object-prediction)**|
 |**2024-01-29**|**Capturing Knowledge Graphs and Rules with Octagon Embeddings**|Victor Charpenay et.al.|[2401.16270](http://arxiv.org/abs/2401.16270)|null|
 |**2024-01-29**|**Type-based Neural Link Prediction Adapter for Complex Query Answering**|Lingning Song et.al.|[2401.16045](http://arxiv.org/abs/2401.16045)|null|
 |**2024-01-29**|**Knowledge-Aware Neuron Interpretation for Scene Classification**|Yong Guan et.al.|[2401.15820](http://arxiv.org/abs/2401.15820)|null|
@@ -2723,5 +2736,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
