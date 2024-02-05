@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Position Paper: Generalized grammar rules and structure-based generalization beyond classical equivariance for lexical tasks and transduction**|Mircea Petrache et.al.|[2402.01629](http://arxiv.org/abs/2402.01629)|null|
+|**2024-02-02**|**DRL-Based Dynamic Channel Access and SCLAR Maximization for Networks Under Jamming**|Abdul Basit et.al.|[2402.01574](http://arxiv.org/abs/2402.01574)|null|
+|**2024-02-02**|**A Hybrid Strategy for Chat Transcript Summarization**|Pratik K. Biswas et.al.|[2402.01510](http://arxiv.org/abs/2402.01510)|null|
+|**2024-02-02**|**Brain-Like Replay Naturally Emerges in Reinforcement Learning Agents**|Jiyi Wang et.al.|[2402.01467](http://arxiv.org/abs/2402.01467)|null|
+|**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|null|
+|**2024-02-02**|**Learning the Market: Sentiment-Based Ensemble Trading Agents**|Andrew Ye et.al.|[2402.01441](http://arxiv.org/abs/2402.01441)|null|
+|**2024-02-02**|**StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback**|Shihan Dou et.al.|[2402.01391](http://arxiv.org/abs/2402.01391)|null|
+|**2024-02-02**|**To the Max: Reinventing Reward in Reinforcement Learning**|Grigorii Veviurko et.al.|[2402.01361](http://arxiv.org/abs/2402.01361)|null|
+|**2024-02-02**|**Parametric-Task MAP-Elites**|Timothée Anne et.al.|[2402.01275](http://arxiv.org/abs/2402.01275)|null|
+|**2024-02-02**|**Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems**|Neharika Jali et.al.|[2402.01147](http://arxiv.org/abs/2402.01147)|null|
 |**2024-02-01**|**Towards Efficient and Exact Optimization of Language Model Alignment**|Haozhe Ji et.al.|[2402.00856](http://arxiv.org/abs/2402.00856)|null|
 |**2024-02-01**|**SLIM: Skill Learning with Multiple Critics**|David Emukpere et.al.|[2402.00823](http://arxiv.org/abs/2402.00823)|null|
 |**2024-02-01**|**Leveraging Approximate Model-based Shielding for Probabilistic Safety Guarantees in Continuous Environments**|Alexander W. Goodall et.al.|[2402.00816](http://arxiv.org/abs/2402.00816)|null|
@@ -2007,6 +2017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495](http://arxiv.org/abs/2402.01495)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
+|**2024-02-01**|**SPARQL Generation with Entity Pre-trained GPT for KG Question Answering**|Diego Bustamante et.al.|[2402.00969](http://arxiv.org/abs/2402.00969)|**[link](https://github.com/diegoemilio01/sparql-generation-with-entity-pre-trained-gpt-for-kg-question-answering)**|
 |**2024-02-01**|**A Hoare Logic for Domain Specification (Full Version)**|Eduard Kamburjan et.al.|[2402.00452](http://arxiv.org/abs/2402.00452)|null|
 |**2024-02-01**|**Prompt-Time Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2402.00414](http://arxiv.org/abs/2402.00414)|**[link](https://github.com/haltiaai/paper-ptskc)**|
 |**2024-02-01**|**Effective Bug Detection in Graph Database Engines: An LLM-based Approach**|Jiayi Wu et.al.|[2402.00292](http://arxiv.org/abs/2402.00292)|null|
