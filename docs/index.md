@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.06
+## Updated on 2024.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -41,6 +41,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**MusicRL: Aligning Music Generation to Human Preferences**|Geoffrey Cideron et.al.|[2402.04229](http://arxiv.org/abs/2402.04229)|null|
+|**2024-02-06**|**Reinforcement Learning with Ensemble Model Predictive Safety Certification**|Sven Gronauer et.al.|[2402.04182](http://arxiv.org/abs/2402.04182)|null|
+|**2024-02-06**|**Informed Reinforcement Learning for Situation-Aware Traffic Rule Exceptions**|Daniel Bogdoll et.al.|[2402.04168](http://arxiv.org/abs/2402.04168)|null|
+|**2024-02-06**|**Harnessing the Plug-and-Play Controller by Prompting**|Hao Wang et.al.|[2402.04160](http://arxiv.org/abs/2402.04160)|null|
+|**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080](http://arxiv.org/abs/2402.04080)|null|
+|**2024-02-06**|**Collaborative Deep Reinforcement Learning for Resource Optimization in Non-Terrestrial Networks**|Yang Cao et.al.|[2402.04056](http://arxiv.org/abs/2402.04056)|null|
+|**2024-02-06**|**REBORN: Reinforcement-Learned Boundary Segmentation with Iterative Training for Unsupervised ASR**|Liang-Hsuan Tseng et.al.|[2402.03988](http://arxiv.org/abs/2402.03988)|null|
+|**2024-02-06**|**Joint Intrinsic Motivation for Coordinated Exploration in Multi-Agent Deep Reinforcement Learning**|Maxime Toquebiau et.al.|[2402.03972](http://arxiv.org/abs/2402.03972)|**[link](https://github.com/mtoquebiau/joint-intrinsic-motivation)**|
+|**2024-02-06**|**In-context learning agents are asymmetric belief updaters**|Johannes A. Schubert et.al.|[2402.03969](http://arxiv.org/abs/2402.03969)|null|
+|**2024-02-06**|**Reinforcement Learning for Collision-free Flight Exploiting Deep Collision Encoding**|Mihir Kulkarni et.al.|[2402.03947](http://arxiv.org/abs/2402.03947)|null|
 |**2024-02-05**|**Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models**|Anthony Sicilia et.al.|[2402.03284](http://arxiv.org/abs/2402.03284)|null|
 |**2024-02-05**|**A Framework for Partially Observed Reward-States in RLHF**|Chinmaya Kausik et.al.|[2402.03282](http://arxiv.org/abs/2402.03282)|null|
 |**2024-02-05**|**MobilityGPT: Enhanced Human Mobility Modeling with a GPT model**|Ammar Haydari et.al.|[2402.03264](http://arxiv.org/abs/2402.03264)|null|
@@ -2027,6 +2037,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Link Prediction with Relational Hypergraphs**|Xingyue Huang et.al.|[2402.04062](http://arxiv.org/abs/2402.04062)|null|
+|**2024-02-06**|**Pro-HAN: A Heterogeneous Graph Attention Network for Profile-Based Spoken Language Understanding**|Dechuan Teng et.al.|[2402.03900](http://arxiv.org/abs/2402.03900)|null|
+|**2024-02-06**|**Deep Outdated Fact Detection in Knowledge Graphs**|Huiling Tu et.al.|[2402.03732](http://arxiv.org/abs/2402.03732)|null|
+|**2024-02-06**|**Improving Contextual Congruence Across Modalities for Effective Multimodal Marketing using Knowledge-infused Learning**|Trilok Padhi et.al.|[2402.03607](http://arxiv.org/abs/2402.03607)|null|
+|**2024-02-05**|**MQuinE: a cure for "Z-paradox'' in knowledge graph embedding models**|Yang Liu et.al.|[2402.03583](http://arxiv.org/abs/2402.03583)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
 |**2024-02-05**|**Knowledge Acquisition and Integration with Expert-in-the-loop**|Sajjadur Rahman et.al.|[2402.03291](http://arxiv.org/abs/2402.03291)|null|
 |**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268](http://arxiv.org/abs/2402.03268)|null|
