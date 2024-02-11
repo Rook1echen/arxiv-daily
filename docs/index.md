@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -49,7 +49,7 @@ layout: default
 |**2024-02-08**|**When is Mean-Field Reinforcement Learning Tractable and Relevant?**|Batuhan Yardim et.al.|[2402.05757](http://arxiv.org/abs/2402.05757)|null|
 |**2024-02-08**|**Model-Based RL for Mean-Field Games is not Statistically Harder than Single-Agent RL**|Jiawei Huang et.al.|[2402.05724](http://arxiv.org/abs/2402.05724)|null|
 |**2024-02-08**|**Offline Risk-sensitive RL with Partial Observability to Enhance Performance in Human-Robot Teaming**|Giorgio Angelotti et.al.|[2402.05703](http://arxiv.org/abs/2402.05703)|null|
-|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|null|
+|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|**[link](https://github.com/leor-c/rem)**|
 |**2024-02-08**|**Optimizing Delegation in Collaborative Human-AI Hybrid Teams**|Andrew Fuchs et.al.|[2402.05605](http://arxiv.org/abs/2402.05605)|null|
 |**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|null|
 |**2024-02-07**|**Non-Markovian Quantum Control via Model Maximum Likelihood Estimation and Reinforcement Learning**|Tanmay Neema et.al.|[2402.05084](http://arxiv.org/abs/2402.05084)|null|
