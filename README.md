@@ -1,4 +1,4 @@
-## Updated on 2024.02.12
+## Updated on 2024.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,12 +43,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240213>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890](http://arxiv.org/abs/2402.07890)|null|
+|**2024-02-12**|**Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States**|Noam Razin et.al.|[2402.07875](http://arxiv.org/abs/2402.07875)|**[link](https://github.com/noamrazin/imp_bias_control)**|
+|**2024-02-12**|**IR-Aware ECO Timing Optimization Using Reinforcement Learning**|Vidya A. Chhabria et.al.|[2402.07781](http://arxiv.org/abs/2402.07781)|null|
+|**2024-02-12**|**Near-Minimax-Optimal Distributional Reinforcement Learning with a Generative Model**|Mark Rowland et.al.|[2402.07598](http://arxiv.org/abs/2402.07598)|null|
+|**2024-02-12**|**Rethinking Scaling Laws for Learning in Strategic Environments**|Tinashe Handina et.al.|[2402.07588](http://arxiv.org/abs/2402.07588)|null|
+|**2024-02-12**|**A Reinforcement Learning Approach to the Design of Quantum Chains for Optimal Energy Transfer**|S. Sgroi et.al.|[2402.07561](http://arxiv.org/abs/2402.07561)|null|
+|**2024-02-12**|**Reinforcement learning based demand charge minimization using energy storage**|Lucas Weber et.al.|[2402.07525](http://arxiv.org/abs/2402.07525)|null|
+|**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487](http://arxiv.org/abs/2402.07487)|null|
+|**2024-02-12**|**Auxiliary Reward Generation with Transition Distance Representation Learning**|Siyuan Li et.al.|[2402.07412](http://arxiv.org/abs/2402.07412)|null|
+|**2024-02-12**|**Measurement Scheduling for ICU Patients with Offline Reinforcement Learning**|Zongliang Ji et.al.|[2402.07344](http://arxiv.org/abs/2402.07344)|null|
 |**2024-02-09**|**Predictive representations: building blocks of intelligence**|Wilka Carvalho et.al.|[2402.06590](http://arxiv.org/abs/2402.06590)|null|
 |**2024-02-09**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural Networks**|Michael Y. Fatemi et.al.|[2402.06552](http://arxiv.org/abs/2402.06552)|**[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)**|
 |**2024-02-09**|**ACTER: Diverse and Actionable Counterfactual Sequences for Explaining and Diagnosing RL Policies**|Jasmina Gajcin et.al.|[2402.06503](http://arxiv.org/abs/2402.06503)|null|
@@ -2043,7 +2053,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240213>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2073,12 +2083,21 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240213>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-12**|**Extensible Multi-Granularity Fusion Network for Aspect-based Sentiment Analysis**|Xiaowei Zhao et.al.|[2402.07787](http://arxiv.org/abs/2402.07787)|null|
+|**2024-02-12**|**G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering**|Xiaoxin He et.al.|[2402.07630](http://arxiv.org/abs/2402.07630)|**[link](https://github.com/xiaoxinhe/g-retriever)**|
+|**2024-02-12**|**PKG API: A Tool for Personal Knowledge Graph Management**|Nolwenn Bernard et.al.|[2402.07540](http://arxiv.org/abs/2402.07540)|**[link](https://github.com/iai-group/pkg-api)**|
+|**2024-02-12**|**Semantic Data for Humanities and Social Sciences (SDHSS): an Ecosystem of CIDOC CRM Extensions for Research Data Production and Reuse**|Francesco Beretta et.al.|[2402.07531](http://arxiv.org/abs/2402.07531)|null|
+|**2024-02-11**|**Power Transformer Fault Prediction Based on Knowledge Graphs**|Chao Wang et.al.|[2402.07283](http://arxiv.org/abs/2402.07283)|null|
+|**2024-02-11**|**X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics and Design**|Eric L. Buehler et.al.|[2402.07148](http://arxiv.org/abs/2402.07148)|**[link](https://github.com/ericlbuehler/xlora)**|
+|**2024-02-10**|**REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models**|Yinghao Zhu et.al.|[2402.07016](http://arxiv.org/abs/2402.07016)|null|
+|**2024-02-10**|**UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction**|Yansong Ning et.al.|[2402.06861](http://arxiv.org/abs/2402.06861)|**[link](https://github.com/usail-hkust/urbankgent)**|
+|**2024-02-09**|**GLaM: Fine-Tuning Large Language Models for Domain Knowledge Graph Alignment via Neighborhood Partitioning and Generative Subgraph Encoding**|Stefan Dernbach et.al.|[2402.06764](http://arxiv.org/abs/2402.06764)|null|
 |**2024-02-09**|**RareBench: Can LLMs Serve as Rare Diseases Specialists?**|Xuanzhong Chen et.al.|[2402.06341](http://arxiv.org/abs/2402.06341)|null|
 |**2024-02-08**|**Veni, Vidi, Vici: Solving the Myriad of Challenges before Knowledge Graph Learning**|Jeffrey Sardina et.al.|[2402.06098](http://arxiv.org/abs/2402.06098)|null|
 |**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862](http://arxiv.org/abs/2402.05862)|null|
@@ -2837,5 +2856,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240213>back to top</a>)</p>
 
