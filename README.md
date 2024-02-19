@@ -1,4 +1,4 @@
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,7 +44,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## attack graph
 
@@ -599,7 +599,7 @@
 |**2023-11-16**|**Safety Aware Autonomous Path Planning Using Model Predictive Reinforcement Learning for Inland Waterways**|Astrid Vanneste et.al.|[2311.09878](http://arxiv.org/abs/2311.09878)|null|
 |**2023-11-16**|**Short vs. Long-term Coordination of Drones: When Distributed Optimization Meets Deep Reinforcement Learning**|Chuhao Qin et.al.|[2311.09852](http://arxiv.org/abs/2311.09852)|null|
 |**2023-11-16**|**Runtime Verification of Learning Properties for Reinforcement Learning Algorithms**|Tommaso Mannucci et.al.|[2311.09811](http://arxiv.org/abs/2311.09811)|null|
-|**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731](http://arxiv.org/abs/2311.09731)|null|
+|**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731](http://arxiv.org/abs/2311.09731)|**[link](https://github.com/genglinliu/unknownbench)**|
 |**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
 |**2023-11-15**|**Grounding or Guesswork? Large Language Models are Presumptive Grounders**|Omar Shaikh et.al.|[2311.09144](http://arxiv.org/abs/2311.09144)|null|
 |**2023-11-15**|**Aligning Neural Machine Translation Models: Human Feedback in Training and Inference**|Miguel Moura Ramos et.al.|[2311.09132](http://arxiv.org/abs/2311.09132)|null|
@@ -1765,7 +1765,7 @@
 |**2023-05-18**|**Deep Metric Tensor Regularized Policy Gradient**|Gang Chen et.al.|[2305.11017](http://arxiv.org/abs/2305.11017)|null|
 |**2023-05-18**|**Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks**|Saptarshi Nath et.al.|[2305.10997](http://arxiv.org/abs/2305.10997)|**[link](https://github.com/dmiu-shell/deeprl-shell)**|
 |**2023-05-18**|**Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control**|AJ Miller et.al.|[2305.10989](http://arxiv.org/abs/2305.10989)|null|
-|**2023-05-18**|**Client Selection for Federated Policy Optimization with Environment Heterogeneity**|Zhijie Xie et.al.|[2305.10978](http://arxiv.org/abs/2305.10978)|null|
+|**2023-05-18**|**Client Selection for Federated Policy Optimization with Environment Heterogeneity**|Zhijie Xie et.al.|[2305.10978](http://arxiv.org/abs/2305.10978)|**[link](https://github.com/shiehshieh/fedpohcs)**|
 |**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425](http://arxiv.org/abs/2305.10425)|null|
 |**2023-05-17**|**Explainable Multi-Agent Reinforcement Learning for Temporal Queries**|Kayla Boggess et.al.|[2305.10378](http://arxiv.org/abs/2305.10378)|**[link](https://github.com/kjboggess/ijcai23)**|
 |**2023-05-17**|**LeTI: Learning to Generate from Textual Interactions**|Xingyao Wang et.al.|[2305.10314](http://arxiv.org/abs/2305.10314)|**[link](https://github.com/xingyaoww/leti)**|
@@ -2084,7 +2084,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2114,7 +2114,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -2893,5 +2893,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240219>back to top</a>)</p>
 

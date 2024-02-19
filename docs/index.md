@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -591,7 +591,7 @@ layout: default
 |**2023-11-16**|**Safety Aware Autonomous Path Planning Using Model Predictive Reinforcement Learning for Inland Waterways**|Astrid Vanneste et.al.|[2311.09878](http://arxiv.org/abs/2311.09878)|null|
 |**2023-11-16**|**Short vs. Long-term Coordination of Drones: When Distributed Optimization Meets Deep Reinforcement Learning**|Chuhao Qin et.al.|[2311.09852](http://arxiv.org/abs/2311.09852)|null|
 |**2023-11-16**|**Runtime Verification of Learning Properties for Reinforcement Learning Algorithms**|Tommaso Mannucci et.al.|[2311.09811](http://arxiv.org/abs/2311.09811)|null|
-|**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731](http://arxiv.org/abs/2311.09731)|null|
+|**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731](http://arxiv.org/abs/2311.09731)|**[link](https://github.com/genglinliu/unknownbench)**|
 |**2023-11-15**|**Self-Supervised Curriculum Generation for Autonomous Reinforcement Learning without Task-Specific Knowledge**|Sang-Hyun Lee et.al.|[2311.09195](http://arxiv.org/abs/2311.09195)|null|
 |**2023-11-15**|**Grounding or Guesswork? Large Language Models are Presumptive Grounders**|Omar Shaikh et.al.|[2311.09144](http://arxiv.org/abs/2311.09144)|null|
 |**2023-11-15**|**Aligning Neural Machine Translation Models: Human Feedback in Training and Inference**|Miguel Moura Ramos et.al.|[2311.09132](http://arxiv.org/abs/2311.09132)|null|
@@ -1757,7 +1757,7 @@ layout: default
 |**2023-05-18**|**Deep Metric Tensor Regularized Policy Gradient**|Gang Chen et.al.|[2305.11017](http://arxiv.org/abs/2305.11017)|null|
 |**2023-05-18**|**Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks**|Saptarshi Nath et.al.|[2305.10997](http://arxiv.org/abs/2305.10997)|**[link](https://github.com/dmiu-shell/deeprl-shell)**|
 |**2023-05-18**|**Reinforcement Learning for Legged Robots: Motion Imitation from Model-Based Optimal Control**|AJ Miller et.al.|[2305.10989](http://arxiv.org/abs/2305.10989)|null|
-|**2023-05-18**|**Client Selection for Federated Policy Optimization with Environment Heterogeneity**|Zhijie Xie et.al.|[2305.10978](http://arxiv.org/abs/2305.10978)|null|
+|**2023-05-18**|**Client Selection for Federated Policy Optimization with Environment Heterogeneity**|Zhijie Xie et.al.|[2305.10978](http://arxiv.org/abs/2305.10978)|**[link](https://github.com/shiehshieh/fedpohcs)**|
 |**2023-05-17**|**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**|Yao Zhao et.al.|[2305.10425](http://arxiv.org/abs/2305.10425)|null|
 |**2023-05-17**|**Explainable Multi-Agent Reinforcement Learning for Temporal Queries**|Kayla Boggess et.al.|[2305.10378](http://arxiv.org/abs/2305.10378)|**[link](https://github.com/kjboggess/ijcai23)**|
 |**2023-05-17**|**LeTI: Learning to Generate from Textual Interactions**|Xingyao Wang et.al.|[2305.10314](http://arxiv.org/abs/2305.10314)|**[link](https://github.com/xingyaoww/leti)**|
