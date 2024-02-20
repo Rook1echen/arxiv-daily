@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.19
+## Updated on 2024.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**A Critical Evaluation of AI Feedback for Aligning Large Language Models**|Archit Sharma et.al.|[2402.12366](http://arxiv.org/abs/2402.12366)|**[link](https://github.com/architsharma97/dpo-rlaif)**|
+|**2024-02-19**|**Refining Minimax Regret for Unsupervised Environment Design**|Michael Beukman et.al.|[2402.12284](http://arxiv.org/abs/2402.12284)|null|
+|**2024-02-19**|**CovRL: Fuzzing JavaScript Engines with Coverage-Guided Reinforcement Learning for LLM-based Mutation**|Jueon Eom et.al.|[2402.12222](http://arxiv.org/abs/2402.12222)|null|
+|**2024-02-19**|**Revisiting Data Augmentation in Deep Reinforcement Learning**|Jianshu Hu et.al.|[2402.12181](http://arxiv.org/abs/2402.12181)|null|
+|**2024-02-19**|**BIDER: Bridging Knowledge Inconsistency for Efficient Retrieval-Augmented LLMs via Key Supporting Evidence**|Jiajie Jin et.al.|[2402.12174](http://arxiv.org/abs/2402.12174)|null|
+|**2024-02-19**|**Joint mode switching and resource allocation in wireless-powered RIS-aided multiuser communication systems**|Mingang Yuan et.al.|[2402.12143](http://arxiv.org/abs/2402.12143)|null|
+|**2024-02-19**|**Interpretable Brain-Inspired Representations Improve RL Performance on Visual Navigation Tasks**|Moritz Lange et.al.|[2402.12067](http://arxiv.org/abs/2402.12067)|null|
+|**2024-02-19**|**All Language Models Large and Small**|Zhixun Chen et.al.|[2402.12061](http://arxiv.org/abs/2402.12061)|null|
+|**2024-02-19**|**Reinforcement Learning for Optimal Execution when Liquidity is Time-Varying**|Andrea Macrì et.al.|[2402.12049](http://arxiv.org/abs/2402.12049)|null|
+|**2024-02-19**|**When Do Off-Policy and On-Policy Policy Gradient Methods Align?**|Davide Mambelli et.al.|[2402.12034](http://arxiv.org/abs/2402.12034)|null|
 |**2024-02-16**|**RLVF: Learning from Verbal Feedback without Overgeneralization**|Moritz Stephan et.al.|[2402.10893](http://arxiv.org/abs/2402.10893)|null|
 |**2024-02-16**|**Pedipulate: Enabling Manipulation Skills using a Quadruped Robot's Leg**|Philip Arm et.al.|[2402.10837](http://arxiv.org/abs/2402.10837)|null|
 |**2024-02-16**|**Goal-Conditioned Offline Reinforcement Learning via Metric Learning**|Alfredo Reichlin et.al.|[2402.10820](http://arxiv.org/abs/2402.10820)|null|
@@ -2120,6 +2130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
+|**2024-02-19**|**TILP: Differentiable Learning of Temporal Logical Rules on Knowledge Graphs**|Siheng Xiong et.al.|[2402.12309](http://arxiv.org/abs/2402.12309)|**[link](https://github.com/xiongsiheng/tilp)**|
+|**2024-02-19**|**Ontology Enhanced Claim Detection**|Zehra Melce Hüsünbeyi et.al.|[2402.12282](http://arxiv.org/abs/2402.12282)|null|
+|**2024-02-19**|**SSTKG: Simple Spatio-Temporal Knowledge Graph for Intepretable and Versatile Dynamic Information Embedding**|Ruiyi Yang et.al.|[2402.12132](http://arxiv.org/abs/2402.12132)|null|
+|**2024-02-19**|**HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph**|Yongquan He et.al.|[2402.12074](http://arxiv.org/abs/2402.12074)|null|
+|**2024-02-19**|**A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions**|Xiaxia Wang et.al.|[2402.12001](http://arxiv.org/abs/2402.12001)|null|
+|**2024-02-19**|**Self-Guided Robust Graph Structure Refinement**|Yeonjun In et.al.|[2402.11837](http://arxiv.org/abs/2402.11837)|null|
+|**2024-02-19**|**LLM as Prompter: Low-resource Inductive Reasoning on Arbitrary Knowledge Graphs**|Kai Wang et.al.|[2402.11804](http://arxiv.org/abs/2402.11804)|null|
+|**2024-02-18**|**Question Answering Over Spatio-Temporal Knowledge Graph**|Xinbang Dai et.al.|[2402.11542](http://arxiv.org/abs/2402.11542)|null|
+|**2024-02-18**|**Counter-intuitive: Large Language Models Can Better Understand Knowledge Graphs Than We Thought**|Xinbang Dai et.al.|[2402.11541](http://arxiv.org/abs/2402.11541)|null|
 |**2024-02-16**|**A Condensed Transition Graph Framework for Zero-shot Link Prediction with Large Language Models**|Mingchen Li et.al.|[2402.10779](http://arxiv.org/abs/2402.10779)|null|
 |**2024-02-16**|**Construction of a Syntactic Analysis Map for Yi Shui School through Text Mining and Natural Language Processing Research**|Hanqing Zhao et.al.|[2402.10743](http://arxiv.org/abs/2402.10743)|null|
 |**2024-02-15**|**Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**|Jiaxiang Liu et.al.|[2402.09911](http://arxiv.org/abs/2402.09911)|null|
