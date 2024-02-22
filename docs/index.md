@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Generating Realistic Arm Movements in Reinforcement Learning: A Quantitative Comparison of Reward Terms and Task Requirements**|Jhon Charaja et.al.|[2402.13949](http://arxiv.org/abs/2402.13949)|null|
+|**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946](http://arxiv.org/abs/2402.13946)|null|
+|**2024-02-21**|**Distinctive Image Captioning: Leveraging Ground Truth Captions in CLIP Guided Reinforcement Learning**|Antoine Chaffin et.al.|[2402.13936](http://arxiv.org/abs/2402.13936)|**[link](https://github.com/nohtow/wtf-rl)**|
+|**2024-02-21**|**Enhancing Reinforcement Learning Agents with Local Guides**|Paul Daoudi et.al.|[2402.13930](http://arxiv.org/abs/2402.13930)|**[link](https://github.com/huawei-noah/hebo)**|
+|**2024-02-21**|**Dealing with unbounded gradients in stochastic saddle-point optimization**|Gergely Neu et.al.|[2402.13903](http://arxiv.org/abs/2402.13903)|null|
+|**2024-02-21**|**Synthesis of Hierarchical Controllers Based on Deep Reinforcement Learning Policies**|Florent Delgrange et.al.|[2402.13785](http://arxiv.org/abs/2402.13785)|null|
+|**2024-02-21**|**Weakly supervised localisation of prostate cancer using reinforcement learning for bi-parametric MR images**|Martynas Pocius et.al.|[2402.13778](http://arxiv.org/abs/2402.13778)|null|
+|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
+|**2024-02-21**|**Reinforcement learning-assisted quantum architecture search for variational quantum algorithms**|Akash Kundu et.al.|[2402.13754](http://arxiv.org/abs/2402.13754)|null|
+|**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
 |**2024-02-20**|**Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies**|Ammar N. Abbas et.al.|[2402.13219](http://arxiv.org/abs/2402.13219)|null|
 |**2024-02-20**|**Bayesian Reward Models for LLM Alignment**|Adam X. Yang et.al.|[2402.13210](http://arxiv.org/abs/2402.13210)|null|
 |**2024-02-20**|**SONATA: Self-adaptive Evolutionary Framework for Hardware-aware Neural Architecture Search**|Halima Bouzidi et.al.|[2402.13204](http://arxiv.org/abs/2402.13204)|null|
@@ -2140,6 +2150,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
+|**2024-02-21**|**A Unified Knowledge Graph to Permit Interoperability of Heterogeneous Digital Evidence**|Ali Alshumrani et.al.|[2402.13746](http://arxiv.org/abs/2402.13746)|null|
+|**2024-02-21**|**Knowledge Graph Enhanced Large Language Model Editing**|Mengqi Zhang et.al.|[2402.13593](http://arxiv.org/abs/2402.13593)|null|
 |**2024-02-20**|**Question Calibration and Multi-Hop Modeling for Temporal Question Answering**|Chao Xue et.al.|[2402.13188](http://arxiv.org/abs/2402.13188)|null|
 |**2024-02-20**|**Identifying Semantic Induction Heads to Understand In-Context Learning**|Jie Ren et.al.|[2402.13055](http://arxiv.org/abs/2402.13055)|null|
 |**2024-02-20**|**Conditional Logical Message Passing Transformer for Complex Query Answering**|Chongzhi Zhang et.al.|[2402.12954](http://arxiv.org/abs/2402.12954)|null|
