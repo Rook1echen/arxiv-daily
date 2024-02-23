@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.22
+## Updated on 2024.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Generalizing Reward Modeling for Out-of-Distribution Preference Learning**|Chen Jia et.al.|[2402.14760](http://arxiv.org/abs/2402.14760)|null|
+|**2024-02-22**|**SHM-Traffic: DRL and Transfer learning based UAV Control for Structural Health Monitoring of Bridges with Traffic**|Divija Swetha Gadiraju et.al.|[2402.14757](http://arxiv.org/abs/2402.14757)|null|
+|**2024-02-22**|**Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs**|Arash Ahmadian et.al.|[2402.14740](http://arxiv.org/abs/2402.14740)|null|
+|**2024-02-22**|**Transformable Gaussian Reward Function for Socially-Aware Navigation with Deep Reinforcement Learning**|Jinyeob Kim et.al.|[2402.14569](http://arxiv.org/abs/2402.14569)|**[link](https://github.com/jinnnk/tgrf)**|
+|**2024-02-22**|**MR-ARL: Model Reference Adaptive Reinforcement Learning for Robustly Stable On-Policy Data-Driven LQR**|Marco Borghesi et.al.|[2402.14483](http://arxiv.org/abs/2402.14483)|null|
+|**2024-02-22**|**Model-Based Reinforcement Learning Control of Reaction-Diffusion Problems**|Christina Schenk et.al.|[2402.14446](http://arxiv.org/abs/2402.14446)|null|
+|**2024-02-22**|**Quantum Circuit Optimization with AlphaTensor**|Francisco J. R. Ruiz et.al.|[2402.14396](http://arxiv.org/abs/2402.14396)|null|
+|**2024-02-22**|**Optimal Mechanism in a Dynamic Stochastic Knapsack Environment**|Jihyeok Jung et.al.|[2402.14269](http://arxiv.org/abs/2402.14269)|null|
+|**2024-02-22**|**MENTOR: Guiding Hierarchical Reinforcement Learning with Human Feedback and Dynamic Distance Constraint**|Xinglin Zhou et.al.|[2402.14244](http://arxiv.org/abs/2402.14244)|null|
+|**2024-02-22**|**Automated Design and Optimization of Distributed Filtering Circuits via Reinforcement Learning**|Peng Gao et.al.|[2402.14236](http://arxiv.org/abs/2402.14236)|null|
 |**2024-02-21**|**Generating Realistic Arm Movements in Reinforcement Learning: A Quantitative Comparison of Reward Terms and Task Requirements**|Jhon Charaja et.al.|[2402.13949](http://arxiv.org/abs/2402.13949)|null|
 |**2024-02-21**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946](http://arxiv.org/abs/2402.13946)|null|
 |**2024-02-21**|**Distinctive Image Captioning: Leveraging Ground Truth Captions in CLIP Guided Reinforcement Learning**|Antoine Chaffin et.al.|[2402.13936](http://arxiv.org/abs/2402.13936)|**[link](https://github.com/nohtow/wtf-rl)**|
@@ -2150,6 +2160,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Federated Complex Qeury Answering**|Qi Hu et.al.|[2402.14609](http://arxiv.org/abs/2402.14609)|null|
+|**2024-02-22**|**Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph**|Song Tong et.al.|[2402.14424](http://arxiv.org/abs/2402.14424)|null|
+|**2024-02-22**|**Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning**|Yuwei Xia et.al.|[2402.14382](http://arxiv.org/abs/2402.14382)|null|
+|**2024-02-21**|**VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**|Yongquan He et.al.|[2402.14033](http://arxiv.org/abs/2402.14033)|null|
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
 |**2024-02-21**|**A Unified Knowledge Graph to Permit Interoperability of Heterogeneous Digital Evidence**|Ali Alshumrani et.al.|[2402.13746](http://arxiv.org/abs/2402.13746)|null|
 |**2024-02-21**|**Knowledge Graph Enhanced Large Language Model Editing**|Mengqi Zhang et.al.|[2402.13593](http://arxiv.org/abs/2402.13593)|null|
