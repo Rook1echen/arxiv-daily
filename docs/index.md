@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.26
+## Updated on 2024.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**AI-enabled STAR-RIS aided MISO ISAC Secure Communications**|Zhengyu Zhu et.al.|[2402.16413](http://arxiv.org/abs/2402.16413)|null|
+|**2024-02-26**|**Feedback Efficient Online Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2402.16359](http://arxiv.org/abs/2402.16359)|null|
+|**2024-02-26**|**C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory**|Tianjiao Luo et.al.|[2402.16349](http://arxiv.org/abs/2402.16349)|null|
+|**2024-02-26**|**Achieving $\tilde{O}(1/ε)$ Sample Complexity for Constrained Markov Decision Process**|Jiashuo Jiang et.al.|[2402.16324](http://arxiv.org/abs/2402.16324)|null|
+|**2024-02-26**|**Graph Diffusion Policy Optimization**|Yijing Liu et.al.|[2402.16302](http://arxiv.org/abs/2402.16302)|**[link](https://github.com/sail-sg/gdpo)**|
+|**2024-02-25**|**How Can LLM Guide RL? A Value-Based Approach**|Shenao Zhang et.al.|[2402.16181](http://arxiv.org/abs/2402.16181)|**[link](https://github.com/agentification/language-integrated-vi)**|
+|**2024-02-25**|**GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction**|Xiao Chen et.al.|[2402.16174](http://arxiv.org/abs/2402.16174)|null|
+|**2024-02-25**|**Citation-Enhanced Generation for LLM-based Chatbot**|Weitao Li et.al.|[2402.16063](http://arxiv.org/abs/2402.16063)|null|
+|**2024-02-25**|**LLMs with Chain-of-Thought Are Non-Causal Reasoners**|Guangsheng Bao et.al.|[2402.16048](http://arxiv.org/abs/2402.16048)|null|
+|**2024-02-25**|**Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios**|Hamidreza Kasaei et.al.|[2402.16045](http://arxiv.org/abs/2402.16045)|null|
 |**2024-02-23**|**Leveraging Domain Knowledge for Efficient Reward Modelling in RLHF: A Case-Study in E-Commerce Opinion Summarization**|Swaroop Nath et.al.|[2402.15473](http://arxiv.org/abs/2402.15473)|**[link](https://github.com/swaroop-nath/reward-approx-social-choice-opp-summ)**|
 |**2024-02-23**|**PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**|Simon Holk et.al.|[2402.15420](http://arxiv.org/abs/2402.15420)|null|
 |**2024-02-23**|**Distributionally Robust Off-Dynamics Reinforcement Learning: Provable Efficiency with Linear Function Approximation**|Zhishuai Liu et.al.|[2402.15399](http://arxiv.org/abs/2402.15399)|**[link](https://github.com/panxulab/distributionally-robust-lsvi-ucb)**|
@@ -2141,6 +2151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory**|Tianjiao Luo et.al.|[2402.16349](http://arxiv.org/abs/2402.16349)|null|
 |**2024-02-15**|**Interpretable Generative Adversarial Imitation Learning**|Wenliang Liu et.al.|[2402.10310](http://arxiv.org/abs/2402.10310)|null|
 |**2024-02-01**|**Robust Path Planning via Learning from Demonstrations for Robotic Catheters in Deformable Environments**|Zhen Li et.al.|[2402.00537](http://arxiv.org/abs/2402.00537)|null|
 |**2024-01-30**|**Extrinsicaly Rewarded Soft Q Imitation Learning with Discriminator**|Ryoma Furuyama et.al.|[2401.16772](http://arxiv.org/abs/2401.16772)|null|
@@ -2170,11 +2181,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**A Joint Communication and Computation Design for Probabilistic Semantic Communications**|Zhouxiang Zhao et.al.|[2402.16328](http://arxiv.org/abs/2402.16328)|null|
 |**2024-02-22**|**Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2402.15444](http://arxiv.org/abs/2402.15444)|**[link](https://github.com/zjukg/adamf-mat)**|
 |**2024-02-23**|**A Relation-Interactive Approach for Message Passing in Hyper-relational Knowledge Graphs**|Yonglin Jing et.al.|[2402.15140](http://arxiv.org/abs/2402.15140)|null|
 |**2024-02-23**|**Unlocking the Power of Large Language Models for Entity Alignment**|Xuhui Jiang et.al.|[2402.15048](http://arxiv.org/abs/2402.15048)|null|
 |**2024-02-22**|**A Usage-centric Take on Intent Understanding in E-Commerce**|Wendi Zhou et.al.|[2402.14901](http://arxiv.org/abs/2402.14901)|null|
-|**2024-02-22**|**Federated Complex Qeury Answering**|Qi Hu et.al.|[2402.14609](http://arxiv.org/abs/2402.14609)|null|
+|**2024-02-26**|**FedCQA: Answering Complex Queries on Multi-Source Knowledge Graphs via Federated Learning**|Qi Hu et.al.|[2402.14609](http://arxiv.org/abs/2402.14609)|null|
 |**2024-02-22**|**Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph**|Song Tong et.al.|[2402.14424](http://arxiv.org/abs/2402.14424)|null|
 |**2024-02-22**|**Enhancing Temporal Knowledge Graph Forecasting with Large Language Models via Chain-of-History Reasoning**|Yuwei Xia et.al.|[2402.14382](http://arxiv.org/abs/2402.14382)|null|
 |**2024-02-21**|**VN Network: Embedding Newly Emerging Entities with Virtual Neighbors**|Yongquan He et.al.|[2402.14033](http://arxiv.org/abs/2402.14033)|null|
