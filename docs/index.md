@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -43,6 +43,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Unifying F1TENTH Autonomous Racing: Survey, Methods and Benchmarks**|Benjamin David Evans et.al.|[2402.18558](http://arxiv.org/abs/2402.18558)|null|
+|**2024-02-28**|**Human-Centric Aware UAV Trajectory Planning in Search and Rescue Missions Employing Multi-Objective Reinforcement Learning with AHP and Similarity-Based Experience Replay**|Mahya Ramezani et.al.|[2402.18487](http://arxiv.org/abs/2402.18487)|null|
+|**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485](http://arxiv.org/abs/2402.18485)|null|
+|**2024-02-28**|**Implementing Online Reinforcement Learning with Clustering Neural Networks**|James E. Smith et.al.|[2402.18472](http://arxiv.org/abs/2402.18472)|null|
+|**2024-02-28**|**Why Do Animals Need Shaping? A Theory of Task Composition and Curriculum Learning**|Jin Hwa Lee et.al.|[2402.18361](http://arxiv.org/abs/2402.18361)|null|
+|**2024-02-28**|**Solving Multi-Entity Robotic Problems Using Permutation Invariant Neural Networks**|Tianxu An et.al.|[2402.18345](http://arxiv.org/abs/2402.18345)|null|
+|**2024-02-28**|**Whole-body Humanoid Robot Locomotion with Human Reference**|Qiang Zhang et.al.|[2402.18294](http://arxiv.org/abs/2402.18294)|null|
+|**2024-02-28**|**Is Crowdsourcing Breaking Your Bank? Cost-Effective Fine-Tuning of Pre-trained Language Models with Proximal Policy Optimization**|Shuo Yang et.al.|[2402.18284](http://arxiv.org/abs/2402.18284)|null|
+|**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
 |**2024-02-27**|**Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning**|Remmy Zen et.al.|[2402.17761](http://arxiv.org/abs/2402.17761)|null|
 |**2024-02-27**|**Learning to Program Variational Quantum Circuits with Fast Weights**|Samuel Yen-Chi Chen et.al.|[2402.17760](http://arxiv.org/abs/2402.17760)|null|
 |**2024-02-27**|**When Your AI Deceives You: Challenges with Partial Observability of Human Evaluators in Reward Learning**|Leon Lang et.al.|[2402.17747](http://arxiv.org/abs/2402.17747)|null|
@@ -2191,9 +2201,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Label Informed Contrastive Pretraining for Node Importance Estimation on Knowledge Graphs**|Tianyu Zhang et.al.|[2402.17791](http://arxiv.org/abs/2402.17791)|**[link](https://github.com/zhangtia16/licap)**|
+|**2024-02-24**|**Stepwise Self-Consistent Mathematical Reasoning with Large Language Models**|Zilong Zhao et.al.|[2402.17786](http://arxiv.org/abs/2402.17786)|null|
 |**2024-02-27**|**Unsupervised multiple choices question answering via universal corpus**|Qin Zhang et.al.|[2402.17333](http://arxiv.org/abs/2402.17333)|null|
 |**2024-02-26**|**Two-stage Generative Question Answering on Temporal Knowledge Graph Using Large Language Models**|Yifu Gao et.al.|[2402.16568](http://arxiv.org/abs/2402.16568)|null|
-|**2024-02-26**|**A Joint Communication and Computation Design for Probabilistic Semantic Communications**|Zhouxiang Zhao et.al.|[2402.16328](http://arxiv.org/abs/2402.16328)|null|
+|**2024-02-28**|**A Joint Communication and Computation Design for Probabilistic Semantic Communications**|Zhouxiang Zhao et.al.|[2402.16328](http://arxiv.org/abs/2402.16328)|null|
 |**2024-02-22**|**Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2402.15444](http://arxiv.org/abs/2402.15444)|**[link](https://github.com/zjukg/adamf-mat)**|
 |**2024-02-23**|**A Relation-Interactive Approach for Message Passing in Hyper-relational Knowledge Graphs**|Yonglin Jing et.al.|[2402.15140](http://arxiv.org/abs/2402.15140)|null|
 |**2024-02-23**|**Unlocking the Power of Large Language Models for Entity Alignment**|Xuhui Jiang et.al.|[2402.15048](http://arxiv.org/abs/2402.15048)|null|
