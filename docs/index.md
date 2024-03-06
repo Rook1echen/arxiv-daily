@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.03.05
+## Updated on 2024.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Penetration Testing of 5G Core Network Web Technologies**|Filippo Giambartolomei et.al.|[2403.01871](http://arxiv.org/abs/2403.01871)|null|
 |**2024-03-02**|**AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks**|Jiacen Xu et.al.|[2403.01038](http://arxiv.org/abs/2403.01038)|null|
 |**2023-12-17**|**Penetration Testing and Legacy Systems**|Sandra Smyth et.al.|[2402.10217](http://arxiv.org/abs/2402.10217)|null|
 |**2024-02-13**|**ROSpace: Intrusion Detection Dataset for a ROS2-Based Cyber-Physical System**|Tommaso Puccetti et.al.|[2402.08468](http://arxiv.org/abs/2402.08468)|null|
@@ -44,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
+|**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
+|**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
+|**2024-03-05**|**SplAgger: Split Aggregation for Meta-Reinforcement Learning**|Jacob Beck et.al.|[2403.03020](http://arxiv.org/abs/2403.03020)|null|
+|**2024-03-05**|**Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization**|Yuan Lin et.al.|[2403.02882](http://arxiv.org/abs/2403.02882)|null|
+|**2024-03-05**|**SpaceHopper: A Small-Scale Legged Robot for Exploring Low-Gravity Celestial Bodies**|Alexander Spiridonov et.al.|[2403.02831](http://arxiv.org/abs/2403.02831)|null|
+|**2024-03-05**|**A Zero-Shot Reinforcement Learning Strategy for Autonomous Guidewire Navigation**|Valentina Scarponi et.al.|[2403.02777](http://arxiv.org/abs/2403.02777)|null|
+|**2024-03-05**|**Fighting Game Adaptive Background Music for Improved Gameplay**|Ibrahim Khan et.al.|[2403.02701](http://arxiv.org/abs/2403.02701)|null|
+|**2024-03-05**|**PPS-QMIX: Periodically Parameter Sharing for Accelerating Convergence of Multi-Agent Reinforcement Learning**|Ke Zhang et.al.|[2403.02635](http://arxiv.org/abs/2403.02635)|null|
+|**2024-03-04**|**DACO: Towards Application-Driven and Comprehensive Data Analysis via Code Generation**|Xueqing Wu et.al.|[2403.02528](http://arxiv.org/abs/2403.02528)|**[link](https://github.com/shirley-wu/daco)**|
 |**2024-03-02**|**Improving the Validity of Automatically Generated Feedback via Reinforcement Learning**|Alexander Scarlatos et.al.|[2403.01304](http://arxiv.org/abs/2403.01304)|**[link](https://github.com/umass-ml4ed/feedback-gen-dpo)**|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
 |**2024-03-02**|**Balancing Exploration and Exploitation in LLM using Soft RLLF for Enhanced Negation Understanding**|Ha-Thanh Nguyen et.al.|[2403.01185](http://arxiv.org/abs/2403.01185)|null|
@@ -2222,6 +2233,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
+|**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966](http://arxiv.org/abs/2403.02966)|null|
+|**2024-03-05**|**iSummary: Workload-based, Personalized Summaries for Knowledge Graphs**|Giannis Vassiliou et.al.|[2403.02934](http://arxiv.org/abs/2403.02934)|null|
+|**2024-03-05**|**Fuzzy Datalog $^\exists$ over Arbitrary t-Norms**|Matthias Lanzinger et.al.|[2403.02933](http://arxiv.org/abs/2403.02933)|null|
+|**2024-03-05**|**Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos**|Kumaranage Ravindu Yasas Nagasinghe et.al.|[2403.02782](http://arxiv.org/abs/2403.02782)|**[link](https://github.com/ravindu-yasas-nagasinghe/kepp)**|
+|**2024-03-05**|**AceMap: Knowledge Discovery through Academic Graph**|Xinbing Wang et.al.|[2403.02576](http://arxiv.org/abs/2403.02576)|null|
+|**2024-03-04**|**KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection**|Yuexin Li et.al.|[2403.02253](http://arxiv.org/abs/2403.02253)|null|
+|**2024-03-04**|**EEE-QA: Exploring Effective and Efficient Question-Answer Representations**|Zhanghao Hu et.al.|[2403.02176](http://arxiv.org/abs/2403.02176)|null|
+|**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
+|**2024-03-04**|**Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models**|Derong Xu et.al.|[2403.01972](http://arxiv.org/abs/2403.01972)|null|
 |**2024-03-02**|**Pseudo-Label Calibration Semi-supervised Multi-Modal Entity Alignment**|Luyao Wang et.al.|[2403.01203](http://arxiv.org/abs/2403.01203)|null|
 |**2024-03-01**|**AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models**|Lang Cao et.al.|[2403.00953](http://arxiv.org/abs/2403.00953)|null|
 |**2024-02-28**|**Explainable Session-based Recommendation via Path Reasoning**|Yang Cao et.al.|[2403.00832](http://arxiv.org/abs/2403.00832)|null|
