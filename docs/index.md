@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.06
+## Updated on 2024.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -45,6 +45,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950](http://arxiv.org/abs/2403.03950)|null|
+|**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949](http://arxiv.org/abs/2403.03949)|null|
+|**2024-03-06**|**Dexterous Legged Locomotion in Confined 3D Spaces with Reinforcement Learning**|Zifan Xu et.al.|[2403.03848](http://arxiv.org/abs/2403.03848)|null|
+|**2024-03-06**|**A Survey on Applications of Reinforcement Learning in Spatial Resource Allocation**|Di Zhang et.al.|[2403.03643](http://arxiv.org/abs/2403.03643)|null|
+|**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558](http://arxiv.org/abs/2403.03558)|**[link](https://github.com/yuki-asuuna/umwp)**|
+|**2024-03-06**|**Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning**|Zida Wu et.al.|[2403.03552](http://arxiv.org/abs/2403.03552)|null|
+|**2024-03-05**|**RACE-SM: Reinforcement Learning Based Autonomous Control for Social On-Ramp Merging**|Jordan Poots et.al.|[2403.03359](http://arxiv.org/abs/2403.03359)|null|
 |**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172](http://arxiv.org/abs/2403.03172)|null|
 |**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
 |**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
@@ -2233,6 +2240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**KG-TREAT: Pre-training for Treatment Effect Estimation by Synergizing Patient Data with Knowledge Graphs**|Ruoqi Liu et.al.|[2403.03791](http://arxiv.org/abs/2403.03791)|**[link](https://github.com/ruoqi-liu/kg-treat)**|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
 |**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966](http://arxiv.org/abs/2403.02966)|null|
 |**2024-03-05**|**iSummary: Workload-based, Personalized Summaries for Knowledge Graphs**|Giannis Vassiliou et.al.|[2403.02934](http://arxiv.org/abs/2403.02934)|null|
