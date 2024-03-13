@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -45,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
+|**2024-03-12**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
+|**2024-03-12**|**Symmetric Q-learning: Reducing Skewness of Bellman Error in Online Reinforcement Learning**|Motoki Omura et.al.|[2403.07704](http://arxiv.org/abs/2403.07704)|null|
+|**2024-03-12**|**Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation**|Michael Ogezi et.al.|[2403.07605](http://arxiv.org/abs/2403.07605)|null|
+|**2024-03-12**|**An Improved Strategy for Blood Glucose Control Using Multi-Step Deep Reinforcement Learning**|Weiwei Gu et.al.|[2403.07566](http://arxiv.org/abs/2403.07566)|null|
+|**2024-03-12**|**Ensembling Prioritized Hybrid Policies for Multi-agent Pathfinding**|Huijie Tang et.al.|[2403.07559](http://arxiv.org/abs/2403.07559)|null|
+|**2024-03-12**|**Constrained Optimal Fuel Consumption of HEV: A Constrained Reinforcement Learning Approach**|Shuchang Yan et.al.|[2403.07503](http://arxiv.org/abs/2403.07503)|null|
+|**2024-03-12**|**Optimization of Pressure Management Strategies for Geological CO2 Sequestration Using Surrogate Model-based Reinforcement Learning**|Jungang Chen et.al.|[2403.07360](http://arxiv.org/abs/2403.07360)|null|
+|**2024-03-12**|**Reinforced Sequential Decision-Making for Sepsis Treatment: The POSNEGDM Framework with Mortality Classifier and Transformer**|Dipesh Tamboli et.al.|[2403.07309](http://arxiv.org/abs/2403.07309)|**[link](https://github.com/dipeshtamboli/posnegdm-reinforced-sequential-decision-making-for-sepsis-treatment)**|
+|**2024-03-12**|**Advantage-Aware Policy Optimization for Offline Reinforcement Learning**|Yunpeng Qing et.al.|[2403.07262](http://arxiv.org/abs/2403.07262)|null|
 |**2024-03-11**|**Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts**|Onur Celik et.al.|[2403.06966](http://arxiv.org/abs/2403.06966)|null|
 |**2024-03-11**|**Unveiling the Significance of Toddler-Inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2403.06880](http://arxiv.org/abs/2403.06880)|null|
 |**2024-03-11**|**Quantifying the Sensitivity of Inverse Reinforcement Learning to Misspecification**|Joar Skalse et.al.|[2403.06854](http://arxiv.org/abs/2403.06854)|null|
@@ -2270,6 +2280,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**|Jiawen Li et.al.|[2403.07719](http://arxiv.org/abs/2403.07719)|**[link](https://github.com/wonderlandxd/wikg)**|
+|**2024-03-12**|**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**|Tianqing Fang et.al.|[2403.07398](http://arxiv.org/abs/2403.07398)|null|
+|**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|null|
+|**2024-03-12**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
+|**2024-03-11**|**Narrating Causal Graphs with Large Language Models**|Atharva Phatak et.al.|[2403.07118](http://arxiv.org/abs/2403.07118)|null|
 |**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936](http://arxiv.org/abs/2403.06936)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
 |**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|null|
 |**2024-03-11**|**MedKP: Medical Dialogue with Knowledge Enhancement and Clinical Pathway Encoding**|Jiageng Wu et.al.|[2403.06611](http://arxiv.org/abs/2403.06611)|null|
