@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.15
+## Updated on 2024.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -45,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Minimax Optimal and Computationally Efficient Algorithms for Distributionally Robust Offline Reinforcement Learning**|Zhishuai Liu et.al.|[2403.09621](http://arxiv.org/abs/2403.09621)|null|
+|**2024-03-14**|**ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models**|Runyu Ma et.al.|[2403.09583](http://arxiv.org/abs/2403.09583)|null|
+|**2024-03-14**|**A Reinforcement Learning Approach to Dairy Farm Battery Management using Q Learning**|Nawazish Ali et.al.|[2403.09499](http://arxiv.org/abs/2403.09499)|null|
+|**2024-03-14**|**Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision**|Zhiqing Sun et.al.|[2403.09472](http://arxiv.org/abs/2403.09472)|**[link](https://github.com/edward-sun/easy-to-hard)**|
+|**2024-03-14**|**A Deep Reinforcement Learning Approach for Autonomous Reconfigurable Intelligent Surfaces**|Hyuckjin Choi et.al.|[2403.09270](http://arxiv.org/abs/2403.09270)|null|
+|**2024-03-14**|**Leveraging Constraint Programming in a Deep Learning Approach for Dynamically Solving the Flexible Job-Shop Scheduling Problem**|Imanol Echeverria et.al.|[2403.09249](http://arxiv.org/abs/2403.09249)|null|
+|**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](http://arxiv.org/abs/2403.09217)|null|
+|**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197](http://arxiv.org/abs/2403.09197)|null|
+|**2024-03-14**|**SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning**|Nicholas Zolman et.al.|[2403.09110](http://arxiv.org/abs/2403.09110)|null|
+|**2024-03-14**|**CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**|Martin Weyssow et.al.|[2403.09032](http://arxiv.org/abs/2403.09032)|**[link](https://github.com/martin-wey/codeultrafeedback)**|
 |**2024-03-13**|**TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning**|Shangding Gu et.al.|[2403.08694](http://arxiv.org/abs/2403.08694)|null|
 |**2024-03-13**|**Digital Twin-assisted Reinforcement Learning for Resource-aware Microservice Offloading in Edge Computing**|Xiangchun Chen et.al.|[2403.08687](http://arxiv.org/abs/2403.08687)|null|
 |**2024-03-13**|**Meta Reinforcement Learning for Resource Allocation in Aerial Active-RIS-assisted Networks with Rate-Splitting Multiple Access**|Sajad Faramarzi et.al.|[2403.08648](http://arxiv.org/abs/2403.08648)|null|
@@ -2290,6 +2300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Hyper-CL: Conditioning Sentence Representations with Hypernetworks**|Young Hyun Yoo et.al.|[2403.09490](http://arxiv.org/abs/2403.09490)|null|
 |**2024-03-13**|**Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments**|Sitao Cheng et.al.|[2403.08593](http://arxiv.org/abs/2403.08593)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
 |**2024-03-13**|**NLQxform-UI: A Natural Language Interface for Querying DBLP Interactively**|Ruijie Wang et.al.|[2403.08475](http://arxiv.org/abs/2403.08475)|**[link](https://github.com/ruijie-wang-uzh/nlqxform-ui)**|
@@ -2297,7 +2308,7 @@ layout: default
 |**2024-03-12**|**Dynamic Graph Representation with Knowledge-aware Attention for Histopathology Whole Slide Image Analysis**|Jiawen Li et.al.|[2403.07719](http://arxiv.org/abs/2403.07719)|**[link](https://github.com/wonderlandxd/wikg)**|
 |**2024-03-12**|**Complex Reasoning over Logical Queries on Commonsense Knowledge Graphs**|Tianqing Fang et.al.|[2403.07398](http://arxiv.org/abs/2403.07398)|null|
 |**2024-03-12**|**KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models**|Han Huang et.al.|[2403.07350](http://arxiv.org/abs/2403.07350)|null|
-|**2024-03-12**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
+|**2024-03-13**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
 |**2024-03-11**|**Narrating Causal Graphs with Large Language Models**|Atharva Phatak et.al.|[2403.07118](http://arxiv.org/abs/2403.07118)|null|
 |**2024-03-11**|**Counterfactual Reasoning with Knowledge Graph Embeddings**|Lena Zellinger et.al.|[2403.06936](http://arxiv.org/abs/2403.06936)|**[link](https://github.com/lenazellinger/counterfactual_kgr)**|
 |**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|null|
