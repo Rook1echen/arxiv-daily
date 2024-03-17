@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -53,7 +53,7 @@ layout: default
 |**2024-03-14**|**Leveraging Constraint Programming in a Deep Learning Approach for Dynamically Solving the Flexible Job-Shop Scheduling Problem**|Imanol Echeverria et.al.|[2403.09249](http://arxiv.org/abs/2403.09249)|null|
 |**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](http://arxiv.org/abs/2403.09217)|null|
 |**2024-03-14**|**MetroGNN: Metro Network Expansion with Reinforcement Learning**|Hongyuan Su et.al.|[2403.09197](http://arxiv.org/abs/2403.09197)|null|
-|**2024-03-14**|**SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning**|Nicholas Zolman et.al.|[2403.09110](http://arxiv.org/abs/2403.09110)|null|
+|**2024-03-14**|**SINDy-RL: Interpretable and Efficient Model-Based Reinforcement Learning**|Nicholas Zolman et.al.|[2403.09110](http://arxiv.org/abs/2403.09110)|**[link](https://github.com/nzolman/sindy-rl)**|
 |**2024-03-14**|**CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences**|Martin Weyssow et.al.|[2403.09032](http://arxiv.org/abs/2403.09032)|**[link](https://github.com/martin-wey/codeultrafeedback)**|
 |**2024-03-13**|**TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning**|Shangding Gu et.al.|[2403.08694](http://arxiv.org/abs/2403.08694)|null|
 |**2024-03-13**|**Digital Twin-assisted Reinforcement Learning for Resource-aware Microservice Offloading in Edge Computing**|Xiangchun Chen et.al.|[2403.08687](http://arxiv.org/abs/2403.08687)|null|
