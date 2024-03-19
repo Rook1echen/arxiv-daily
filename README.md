@@ -1,4 +1,4 @@
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240319>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**The Value of Reward Lookahead in Reinforcement Learning**|Nadav Merlis et.al.|[2403.11637](http://arxiv.org/abs/2403.11637)|null|
+|**2024-03-18**|**Offline Multitask Representation Learning for Reinforcement Learning**|Haque Ishfaq et.al.|[2403.11574](http://arxiv.org/abs/2403.11574)|null|
+|**2024-03-18**|**Reinforcement Learning with Token-level Feedback for Controllable Text Generation**|Wendi Li et.al.|[2403.11558](http://arxiv.org/abs/2403.11558)|null|
+|**2024-03-18**|**TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling**|Weiran Chen et.al.|[2403.11550](http://arxiv.org/abs/2403.11550)|null|
+|**2024-03-18**|**State-Separated SARSA: A Practical Sequential Decision-Making Algorithm with Recovering Rewards**|Yuto Tanimoto et.al.|[2403.11520](http://arxiv.org/abs/2403.11520)|**[link](https://github.com/yutanimoto/ss-sarsa)**|
+|**2024-03-18**|**Demystifying Deep Reinforcement Learning-Based Autonomous Vehicle Decision-Making**|Hanxi Wan et.al.|[2403.11432](http://arxiv.org/abs/2403.11432)|null|
+|**2024-03-18**|**Variational Sampling of Temporal Trajectories**|Jurijs Nazarovs et.al.|[2403.11418](http://arxiv.org/abs/2403.11418)|null|
+|**2024-03-17**|**Independent RL for Cooperative-Competitive Agents: A Mean-Field Perspective**|Muhammad Aneeq uz Zaman et.al.|[2403.11345](http://arxiv.org/abs/2403.11345)|null|
+|**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219](http://arxiv.org/abs/2403.11219)|null|
+|**2024-03-17**|**Continuous Jumping of a Parallel Wire-Driven Monopedal Robot RAMIEL Using Reinforcement Learning**|Kento Kawaharazuka et.al.|[2403.11205](http://arxiv.org/abs/2403.11205)|null|
 |**2024-03-15**|**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**|Carmelo Sferrazza et.al.|[2403.10506](http://arxiv.org/abs/2403.10506)|null|
 |**2024-03-15**|**Partially Observable Task and Motion Planning with Uncertainty and Risk Awareness**|Aidan Curtis et.al.|[2403.10454](http://arxiv.org/abs/2403.10454)|null|
 |**2024-03-15**|**Regret Minimization via Saddle Point Optimization**|Johannes Kirschner et.al.|[2403.10379](http://arxiv.org/abs/2403.10379)|null|
@@ -2284,7 +2294,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240319>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2316,12 +2326,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240319>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-17**|**TRELM: Towards Robust and Efficient Pre-training for Knowledge-Enhanced Language Models**|Junbing Yan et.al.|[2403.11203](http://arxiv.org/abs/2403.11203)|null|
+|**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
 |**2024-03-15**|**Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs**|Zhanke Zhou et.al.|[2403.10231](http://arxiv.org/abs/2403.10231)|**[link](https://github.com/tmlr-group/one-shot-subgraph)**|
 |**2024-03-15**|**AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation**|Arkajit Datta et.al.|[2403.10171](http://arxiv.org/abs/2403.10171)|null|
 |**2024-03-15**|**Functional Graph Convolutional Networks: A unified multi-task and multi-modal learning framework to facilitate health and social-care insights**|Tobia Boschi et.al.|[2403.10158](http://arxiv.org/abs/2403.10158)|null|
@@ -3177,5 +3189,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240319>back to top</a>)</p>
 

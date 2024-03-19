@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -45,6 +45,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**The Value of Reward Lookahead in Reinforcement Learning**|Nadav Merlis et.al.|[2403.11637](http://arxiv.org/abs/2403.11637)|null|
+|**2024-03-18**|**Offline Multitask Representation Learning for Reinforcement Learning**|Haque Ishfaq et.al.|[2403.11574](http://arxiv.org/abs/2403.11574)|null|
+|**2024-03-18**|**Reinforcement Learning with Token-level Feedback for Controllable Text Generation**|Wendi Li et.al.|[2403.11558](http://arxiv.org/abs/2403.11558)|null|
+|**2024-03-18**|**TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling**|Weiran Chen et.al.|[2403.11550](http://arxiv.org/abs/2403.11550)|null|
+|**2024-03-18**|**State-Separated SARSA: A Practical Sequential Decision-Making Algorithm with Recovering Rewards**|Yuto Tanimoto et.al.|[2403.11520](http://arxiv.org/abs/2403.11520)|**[link](https://github.com/yutanimoto/ss-sarsa)**|
+|**2024-03-18**|**Demystifying Deep Reinforcement Learning-Based Autonomous Vehicle Decision-Making**|Hanxi Wan et.al.|[2403.11432](http://arxiv.org/abs/2403.11432)|null|
+|**2024-03-18**|**Variational Sampling of Temporal Trajectories**|Jurijs Nazarovs et.al.|[2403.11418](http://arxiv.org/abs/2403.11418)|null|
+|**2024-03-17**|**Independent RL for Cooperative-Competitive Agents: A Mean-Field Perspective**|Muhammad Aneeq uz Zaman et.al.|[2403.11345](http://arxiv.org/abs/2403.11345)|null|
+|**2024-03-17**|**Causality from Bottom to Top: A Survey**|Abraham Itzhak Weinberg et.al.|[2403.11219](http://arxiv.org/abs/2403.11219)|null|
+|**2024-03-17**|**Continuous Jumping of a Parallel Wire-Driven Monopedal Robot RAMIEL Using Reinforcement Learning**|Kento Kawaharazuka et.al.|[2403.11205](http://arxiv.org/abs/2403.11205)|null|
 |**2024-03-15**|**HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation**|Carmelo Sferrazza et.al.|[2403.10506](http://arxiv.org/abs/2403.10506)|null|
 |**2024-03-15**|**Partially Observable Task and Motion Planning with Uncertainty and Risk Awareness**|Aidan Curtis et.al.|[2403.10454](http://arxiv.org/abs/2403.10454)|null|
 |**2024-03-15**|**Regret Minimization via Saddle Point Optimization**|Johannes Kirschner et.al.|[2403.10379](http://arxiv.org/abs/2403.10379)|null|
@@ -2310,6 +2320,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**TRELM: Towards Robust and Efficient Pre-training for Knowledge-Enhanced Language Models**|Junbing Yan et.al.|[2403.11203](http://arxiv.org/abs/2403.11203)|null|
+|**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
 |**2024-03-15**|**Less is More: One-shot Subgraph Reasoning on Large-scale Knowledge Graphs**|Zhanke Zhou et.al.|[2403.10231](http://arxiv.org/abs/2403.10231)|**[link](https://github.com/tmlr-group/one-shot-subgraph)**|
 |**2024-03-15**|**AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation**|Arkajit Datta et.al.|[2403.10171](http://arxiv.org/abs/2403.10171)|null|
 |**2024-03-15**|**Functional Graph Convolutional Networks: A unified multi-task and multi-modal learning framework to facilitate health and social-care insights**|Tobia Boschi et.al.|[2403.10158](http://arxiv.org/abs/2403.10158)|null|
