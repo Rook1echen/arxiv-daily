@@ -1,4 +1,4 @@
-## Updated on 2024.03.25
+## Updated on 2024.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**Enhancing Software Effort Estimation through Reinforcement Learning-based Project Management-Oriented Feature Selection**|Haoyang Chen et.al.|[2403.16749](http://arxiv.org/abs/2403.16749)|null|
+|**2024-03-25**|**Deep Reinforcement Learning and Mean-Variance Strategies for Responsible Portfolio Optimization**|Fernando Acero et.al.|[2403.16667](http://arxiv.org/abs/2403.16667)|null|
+|**2024-03-25**|**Skill Q-Network: Learning Adaptive Skill Ensemble for Mapless Navigation in Unknown Environments**|Hyunki Seong et.al.|[2403.16664](http://arxiv.org/abs/2403.16664)|null|
+|**2024-03-25**|**Trajectory Planning of Robotic Manipulator in Dynamic Environment Exploiting DRL**|Osama Ahmad et.al.|[2403.16652](http://arxiv.org/abs/2403.16652)|null|
+|**2024-03-25**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
+|**2024-03-25**|**Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot**|Zifan Wang et.al.|[2403.16535](http://arxiv.org/abs/2403.16535)|null|
+|**2024-03-25**|**Towards Cooperative Maneuver Planning in Mixed Traffic at Urban Intersections**|Marvin Klimke et.al.|[2403.16478](http://arxiv.org/abs/2403.16478)|null|
+|**2024-03-25**|**If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions**|Reza Esfandiarpoor et.al.|[2403.16442](http://arxiv.org/abs/2403.16442)|**[link](https://github.com/batsresearch/ex2)**|
+|**2024-03-25**|**Physics-informed RL for Maximal Safety Probability Estimation**|Hikaru Hoshino et.al.|[2403.16391](http://arxiv.org/abs/2403.16391)|null|
 |**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
 |**2024-03-22**|**Planning with a Learned Policy Basis to Optimally Solve Complex Tasks**|Guillermo Infante et.al.|[2403.15301](http://arxiv.org/abs/2403.15301)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
@@ -2334,7 +2344,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2366,12 +2376,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-24**|**Cyber-Security Knowledge Graph Generation by Hierarchical Nonnegative Matrix Factorization**|Ryan Barron et.al.|[2403.16222](http://arxiv.org/abs/2403.16222)|null|
+|**2024-03-24**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206](http://arxiv.org/abs/2403.16206)|null|
+|**2024-03-24**|**A Survey on Lexical Ambiguity Detection and Word Sense Disambiguation**|Miuru Abeysiriwardana et.al.|[2403.16129](http://arxiv.org/abs/2403.16129)|null|
+|**2024-03-24**|**Knowledge-aware Dual-side Attribute-enhanced Recommendation**|Taotian Pang et.al.|[2403.16037](http://arxiv.org/abs/2403.16037)|**[link](https://github.com/tjtp/kdar)**|
+|**2024-03-24**|**Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks**|Hongyin Zhu et.al.|[2403.16033](http://arxiv.org/abs/2403.16033)|null|
+|**2024-03-23**|**MRC-based Nested Medical NER with Co-prediction and Adaptive Pre-training**|Xiaojing Du et.al.|[2403.15800](http://arxiv.org/abs/2403.15800)|null|
+|**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
 |**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950](http://arxiv.org/abs/2403.14950)|null|
 |**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
 |**2024-03-21**|**Open Knowledge Base Canonicalization with Multi-task Learning**|Bingchen Liu et.al.|[2403.14733](http://arxiv.org/abs/2403.14733)|null|
@@ -3241,5 +3258,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240325>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240326>back to top</a>)</p>
 
