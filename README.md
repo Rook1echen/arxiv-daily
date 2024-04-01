@@ -1,4 +1,4 @@
-## Updated on 2024.03.31
+## Updated on 2024.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
 ## attack graph
 
@@ -73,7 +73,7 @@
 |**2024-03-27**|**Scaling Vision-and-Language Navigation With Offline RL**|Valay Bundele et.al.|[2403.18454](http://arxiv.org/abs/2403.18454)|null|
 |**2024-03-27**|**FRESCO: Federated Reinforcement Energy System for Cooperative Optimization**|Nicolas Mauricio Cuadrado et.al.|[2403.18444](http://arxiv.org/abs/2403.18444)|null|
 |**2024-03-27**|**Reinforcement learning for graph theory, I. Reimplementation of Wagner's approach**|Salem Al-Yakoob et.al.|[2403.18429](http://arxiv.org/abs/2403.18429)|null|
-|**2024-03-26**|**TractOracle: towards an anatomically-informed reward function for RL-based tractography**|Antoine Théberge et.al.|[2403.17845](http://arxiv.org/abs/2403.17845)|null|
+|**2024-03-26**|**TractOracle: towards an anatomically-informed reward function for RL-based tractography**|Antoine Théberge et.al.|[2403.17845](http://arxiv.org/abs/2403.17845)|**[link](https://github.com/scil-vital/tractoraclenet)**|
 |**2024-03-26**|**Learning the Optimal Power Flow: Environment Design Matters**|Thomas Wolgast et.al.|[2403.17831](http://arxiv.org/abs/2403.17831)|**[link](https://github.com/digitalized-energy-systems/rl-opf-env-design)**|
 |**2024-03-26**|**Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games**|Yikuan Yan et.al.|[2403.17674](http://arxiv.org/abs/2403.17674)|null|
 |**2024-03-26**|**Learning Goal-Directed Object Pushing in Cluttered Scenes with Location-Based Attention**|Nils Dengler et.al.|[2403.17667](http://arxiv.org/abs/2403.17667)|null|
@@ -89,7 +89,7 @@
 |**2024-03-25**|**Skill Q-Network: Learning Adaptive Skill Ensemble for Mapless Navigation in Unknown Environments**|Hyunki Seong et.al.|[2403.16664](http://arxiv.org/abs/2403.16664)|null|
 |**2024-03-25**|**Trajectory Planning of Robotic Manipulator in Dynamic Environment Exploiting DRL**|Osama Ahmad et.al.|[2403.16652](http://arxiv.org/abs/2403.16652)|null|
 |**2024-03-25**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
-|**2024-03-25**|**Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot**|Zifan Wang et.al.|[2403.16535](http://arxiv.org/abs/2403.16535)|null|
+|**2024-03-25**|**Arm-Constrained Curriculum Learning for Loco-Manipulation of the Wheel-Legged Robot**|Zifan Wang et.al.|[2403.16535](http://arxiv.org/abs/2403.16535)|**[link](https://github.com/acodedog/legged-robots-manipulation)**|
 |**2024-03-25**|**Towards Cooperative Maneuver Planning in Mixed Traffic at Urban Intersections**|Marvin Klimke et.al.|[2403.16478](http://arxiv.org/abs/2403.16478)|null|
 |**2024-03-25**|**If CLIP Could Talk: Understanding Vision-Language Model Representations Through Their Preferred Concept Descriptions**|Reza Esfandiarpoor et.al.|[2403.16442](http://arxiv.org/abs/2403.16442)|**[link](https://github.com/batsresearch/ex2)**|
 |**2024-03-25**|**Physics-informed RL for Maximal Safety Probability Estimation**|Hikaru Hoshino et.al.|[2403.16391](http://arxiv.org/abs/2403.16391)|null|
@@ -97,13 +97,13 @@
 |**2024-03-22**|**Planning with a Learned Policy Basis to Optimally Solve Complex Tasks**|Guillermo Infante et.al.|[2403.15301](http://arxiv.org/abs/2403.15301)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-03-22**|**Parametric PDE Control with Deep Reinforcement Learning and Differentiable L0-Sparse Polynomial Policies**|Nicolò Botteghi et.al.|[2403.15267](http://arxiv.org/abs/2403.15267)|null|
-|**2024-03-22**|**Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement**|Jonathan Pirnay et.al.|[2403.15180](http://arxiv.org/abs/2403.15180)|null|
+|**2024-03-22**|**Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement**|Jonathan Pirnay et.al.|[2403.15180](http://arxiv.org/abs/2403.15180)|**[link](https://github.com/grimmlab/gumbeldore)**|
 |**2024-03-22**|**Subequivariant Reinforcement Learning Framework for Coordinated Motion Control**|Haoyu Wang et.al.|[2403.15100](http://arxiv.org/abs/2403.15100)|null|
 |**2024-03-22**|**Improved Long Short-Term Memory-based Wastewater Treatment Simulators for Deep Reinforcement Learning**|Esmaeel Mohammadi et.al.|[2403.15091](http://arxiv.org/abs/2403.15091)|null|
 |**2024-03-22**|**Automated Feature Selection for Inverse Reinforcement Learning**|Daulet Baimukashev et.al.|[2403.15079](http://arxiv.org/abs/2403.15079)|null|
-|**2024-03-22**|**Testing for Fault Diversity in Reinforcement Learning**|Quentin Mazouni et.al.|[2403.15065](http://arxiv.org/abs/2403.15065)|null|
+|**2024-03-22**|**Testing for Fault Diversity in Reinforcement Learning**|Quentin Mazouni et.al.|[2403.15065](http://arxiv.org/abs/2403.15065)|**[link](https://github.com/quentinmaz/qd_based_testing_rl)**|
 |**2024-03-22**|**Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation**|Zhenrui Yue et.al.|[2403.14952](http://arxiv.org/abs/2403.14952)|null|
-|**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|null|
+|**2024-03-21**|**Rethinking Adversarial Inverse Reinforcement Learning: From the Angles of Policy Imitation and Transferable Reward Recovery**|Yangchun Zhang et.al.|[2403.14593](http://arxiv.org/abs/2403.14593)|**[link](https://github.com/garyzyr001/rethinking-airl)**|
 |**2024-03-21**|**A Mathematical Introduction to Deep Reinforcement Learning for 5G/6G Applications**|Farhad Rezazadeh et.al.|[2403.14516](http://arxiv.org/abs/2403.14516)|null|
 |**2024-03-21**|**Constrained Reinforcement Learning with Smoothed Log Barrier Function**|Baohe Zhang et.al.|[2403.14508](http://arxiv.org/abs/2403.14508)|null|
 |**2024-03-21**|**On the continuity and smoothness of the value function in reinforcement learning and optimal control**|Hans Harder et.al.|[2403.14432](http://arxiv.org/abs/2403.14432)|null|
@@ -307,7 +307,7 @@
 |**2024-02-21**|**Dealing with unbounded gradients in stochastic saddle-point optimization**|Gergely Neu et.al.|[2402.13903](http://arxiv.org/abs/2402.13903)|null|
 |**2024-02-21**|**Synthesis of Hierarchical Controllers Based on Deep Reinforcement Learning Policies**|Florent Delgrange et.al.|[2402.13785](http://arxiv.org/abs/2402.13785)|null|
 |**2024-02-21**|**Weakly supervised localisation of prostate cancer using reinforcement learning for bi-parametric MR images**|Martynas Pocius et.al.|[2402.13778](http://arxiv.org/abs/2402.13778)|null|
-|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
+|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|**[link](https://github.com/lucascjysdl/dgms-for-offline-policy-learning)**|
 |**2024-02-21**|**Reinforcement learning-assisted quantum architecture search for variational quantum algorithms**|Akash Kundu et.al.|[2402.13754](http://arxiv.org/abs/2402.13754)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
 |**2024-02-20**|**Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies**|Ammar N. Abbas et.al.|[2402.13219](http://arxiv.org/abs/2402.13219)|null|
@@ -1274,7 +1274,7 @@
 |**2023-09-19**|**Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities**|Osher Azulay et.al.|[2309.10409](http://arxiv.org/abs/2309.10409)|**[link](https://github.com/osheraz/allsight_sim)**|
 |**2023-09-19**|**Differentiable Quantum Architecture Search for Quantum Reinforcement Learning**|Yize Sun et.al.|[2309.10392](http://arxiv.org/abs/2309.10392)|null|
 |**2023-09-19**|**FRAMU: Attention-based Machine Unlearning using Federated Reinforcement Learning**|Thanveer Shaik et.al.|[2309.10283](http://arxiv.org/abs/2309.10283)|null|
-|**2023-09-19**|**Crowd-Aware Multi-Agent Pathfinding With Boosted Curriculum Reinforcement Learning**|Phu Pham et.al.|[2309.10275](http://arxiv.org/abs/2309.10275)|null|
+|**2023-09-19**|**Crowd-Aware Multi-Agent Pathfinding With Boosted Curriculum Reinforcement Learning**|Phu Pham et.al.|[2309.10275](http://arxiv.org/abs/2309.10275)|**[link](https://github.com/anphu7492/cramp)**|
 |**2023-09-19**|**Memory-based Controllers for Efficient Data-driven Control of Soft Robots**|Yuzhe Wu et.al.|[2309.10273](http://arxiv.org/abs/2309.10273)|null|
 |**2023-09-18**|**OptiRoute: A Heuristic-assisted Deep Reinforcement Learning Framework for UAV-UGV Collaborative Route Planning**|Md Safwan Mondal et.al.|[2309.09942](http://arxiv.org/abs/2309.09942)|null|
 |**2023-09-18**|**Deep Reinforcement Learning for the Joint Control of Traffic Light Signaling and Vehicle Speed Advice**|Johannes V. S. Busch et.al.|[2309.09881](http://arxiv.org/abs/2309.09881)|null|
@@ -1385,7 +1385,7 @@
 |**2023-08-31**|**Multi-Objective Decision Transformers for Offline Reinforcement Learning**|Abdelghani Ghanem et.al.|[2308.16379](http://arxiv.org/abs/2308.16379)|null|
 |**2023-08-30**|**A reinforcement learning based construction material supply strategy using robotic crane and computer vision for building reconstruction after an earthquake**|Yifei Xiao et.al.|[2308.16280](http://arxiv.org/abs/2308.16280)|null|
 |**2023-08-30**|**EnsembleFollower: A Hybrid Car-Following Framework Based On Reinforcement Learning and Hierarchical Planning**|Xu Han et.al.|[2308.16008](http://arxiv.org/abs/2308.16008)|null|
-|**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|null|
+|**2023-08-30**|**DRL-Based Trajectory Tracking for Motion-Related Modules in Autonomous Driving**|Yinda Xu et.al.|[2308.15991](http://arxiv.org/abs/2308.15991)|**[link](https://github.com/marmotatzju/drl-based-trajectory-tracking)**|
 |**2023-08-30**|**Iterative Reward Shaping using Human Feedback for Correcting Reward Misspecification**|Jasmina Gajcin et.al.|[2308.15969](http://arxiv.org/abs/2308.15969)|**[link](https://github.com/anonymous902109/iters)**|
 |**2023-08-30**|**Cyclophobic Reinforcement Learning**|Stefan Sylvius Wagner et.al.|[2308.15911](http://arxiv.org/abs/2308.15911)|null|
 |**2023-08-30**|**Learning the References of Online Model Predictive Control for Urban Self-Driving**|Yubin Wang et.al.|[2308.15808](http://arxiv.org/abs/2308.15808)|null|
@@ -2374,7 +2374,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2406,7 +2406,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -2427,7 +2427,7 @@
 |**2024-03-24**|**Node Classification via Semantic-Structural Attention-Enhanced Graph Convolutional Networks**|Hongyin Zhu et.al.|[2403.16033](http://arxiv.org/abs/2403.16033)|null|
 |**2024-03-23**|**MRC-based Nested Medical NER with Co-prediction and Adaptive Pre-training**|Xiaojing Du et.al.|[2403.15800](http://arxiv.org/abs/2403.15800)|null|
 |**2024-03-23**|**LLMs Instruct LLMs:An Extraction and Editing Method**|Xin Zhang et.al.|[2403.15736](http://arxiv.org/abs/2403.15736)|null|
-|**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950](http://arxiv.org/abs/2403.14950)|null|
+|**2024-03-22**|**KnowLA: Enhancing Parameter-efficient Finetuning with Knowledgeable Adaptation**|Xindi Luo et.al.|[2403.14950](http://arxiv.org/abs/2403.14950)|**[link](https://github.com/nju-websoft/knowla)**|
 |**2024-03-21**|**Assessing the Utility of Large Language Models for Phenotype-Driven Gene Prioritization in Rare Genetic Disorder Diagnosis**|Junyoung Kim et.al.|[2403.14801](http://arxiv.org/abs/2403.14801)|null|
 |**2024-03-21**|**Open Knowledge Base Canonicalization with Multi-task Learning**|Bingchen Liu et.al.|[2403.14733](http://arxiv.org/abs/2403.14733)|null|
 |**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
@@ -2467,7 +2467,7 @@
 |**2024-03-08**|**From Chain to Tree: Refining Chain-like Rules into Tree-like Rules on Knowledge Graphs**|Wangtao Sun et.al.|[2403.05130](http://arxiv.org/abs/2403.05130)|null|
 |**2024-03-08**|**Correlation analysis technique of key parameters for transformer material inspection based on FP-tree and knowledge graph**|Jing Xu et.al.|[2403.05076](http://arxiv.org/abs/2403.05076)|null|
 |**2024-03-08**|**Tell me the truth: A system to measure the trustworthiness of Large Language Models**|Carlo Lipizzi et.al.|[2403.04964](http://arxiv.org/abs/2403.04964)|null|
-|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|**[link](https://github.com/amberyzheng/bloomgml)**|
 |**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521](http://arxiv.org/abs/2403.04521)|null|
 |**2024-03-07**|**From Graph to Word Bag: Introducing Domain Knowledge to Confusing Charge Prediction**|Ang Li et.al.|[2403.04369](http://arxiv.org/abs/2403.04369)|**[link](https://github.com/liang-star177/fwgb)**|
 |**2024-03-07**|**BrainKnow -- Extracting, Linking, and Associating Neuroscience Knowledge**|Cunqing Huangfu et.al.|[2403.04346](http://arxiv.org/abs/2403.04346)|null|
@@ -3296,5 +3296,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240401>back to top</a>)</p>
 
