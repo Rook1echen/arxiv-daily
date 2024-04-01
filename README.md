@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
+|**2024-03-29**|**Active flow control of a turbulent separation bubble through deep reinforcement learning**|Bernat Font et.al.|[2403.20295](http://arxiv.org/abs/2403.20295)|null|
+|**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
+|**2024-03-29**|**Decentralized Multimedia Data Sharing in IoV: A Learning-based Equilibrium of Supply and Demand**|Jiani Fan et.al.|[2403.20218](http://arxiv.org/abs/2403.20218)|null|
+|**2024-03-29**|**Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning**|Duzhen Zhang et.al.|[2403.20163](http://arxiv.org/abs/2403.20163)|null|
+|**2024-03-29**|**CAESAR: Enhancing Federated RL in Heterogeneous MDPs through Convergence-Aware Sampling with Screening**|Hei Yi Mak et.al.|[2403.20156](http://arxiv.org/abs/2403.20156)|null|
+|**2024-03-29**|**A Learning-based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles**|Jiani Fan et.al.|[2403.20151](http://arxiv.org/abs/2403.20151)|null|
+|**2024-03-29**|**Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**|Jinyeong Park et.al.|[2403.20109](http://arxiv.org/abs/2403.20109)|**[link](https://github.com/DevSlem/Mol-AIR)**|
+|**2024-03-29**|**Reinforcement learning for graph theory, II. Small Ramsey numbers**|Mohammad Ghebleh et.al.|[2403.20055](http://arxiv.org/abs/2403.20055)|null|
+|**2024-03-29**|**Nonparametric Bellman Mappings for Reinforcement Learning: Application to Robust Adaptive Filtering**|Yuki Akiyama et.al.|[2403.20020](http://arxiv.org/abs/2403.20020)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment**|Alireza Ganjdanesh et.al.|[2403.19490](http://arxiv.org/abs/2403.19490)|null|
 |**2024-03-28**|**Offline Imitation Learning from Multiple Baselines with Applications to Compiler Optimization**|Teodor V. Marinov et.al.|[2403.19462](http://arxiv.org/abs/2403.19462)|null|
@@ -2412,6 +2422,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering**|Salvatore Bufi et.al.|[2403.20095](http://arxiv.org/abs/2403.20095)|**[link](https://github.com/sisinflab/kguf)**|
+|**2024-03-28**|**IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion**|Jiapu Wang et.al.|[2403.19881](http://arxiv.org/abs/2403.19881)|null|
+|**2024-03-28**|**Towards a Brazilian History Knowledge Graph**|Valeria de Paiva et.al.|[2403.19856](http://arxiv.org/abs/2403.19856)|null|
 |**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667](http://arxiv.org/abs/2403.18667)|null|
 |**2024-03-27**|**Sequential Recommendation with Latent Relations based on Large Language Model**|Shenghao Yang et.al.|[2403.18348](http://arxiv.org/abs/2403.18348)|**[link](https://github.com/ysh-1998/lrd)**|
 |**2024-03-27**|**Common Sense Enhanced Knowledge-based Recommendation with Large Language Model**|Shenghao Yang et.al.|[2403.18325](http://arxiv.org/abs/2403.18325)|**[link](https://github.com/ysh-1998/csrec)**|
