@@ -1,4 +1,4 @@
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Learning Quadrupedal Locomotion via Differentiable Simulation**|Clemens Schwarke et.al.|[2404.02887](http://arxiv.org/abs/2404.02887)|null|
+|**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
+|**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
+|**2024-04-03**|**Solving a Real-World Optimization Problem Using Proximal Policy Optimization with Curriculum Learning and Reward Engineering**|Abhijeet Pendyala et.al.|[2404.02577](http://arxiv.org/abs/2404.02577)|null|
+|**2024-04-03**|**SliceIt! -- A Dual Simulator Framework for Learning Robot Food Slicing**|Cristian C. Beltran-Hernandez et.al.|[2404.02569](http://arxiv.org/abs/2404.02569)|**[link](https://github.com/omron-sinicx/sliceit)**|
+|**2024-04-03**|**Grid-Mapping Pseudo-Count Constraint for Offline Reinforcement Learning**|Yi Shen et.al.|[2404.02545](http://arxiv.org/abs/2404.02545)|**[link](https://github.com/lasttarnished/gpc-sac)**|
+|**2024-04-03**|**Joint Optimization on Uplink OFDMA and MU-MIMO for IEEE 802.11ax: Deep Hierarchical Reinforcement Learning Approach**|Hyeonho Noh et.al.|[2404.02486](http://arxiv.org/abs/2404.02486)|null|
+|**2024-04-03**|**Deep Reinforcement Learning for Traveling Purchaser Problems**|Haofeng Yuan et.al.|[2404.02476](http://arxiv.org/abs/2404.02476)|null|
+|**2024-04-03**|**Electric Vehicle Routing Problem for Emergency Power Supply: Towards Telecom Base Station Relief**|Daisuke Kikuta et.al.|[2404.02448](http://arxiv.org/abs/2404.02448)|null|
+|**2024-04-03**|**AD4RL: Autonomous Driving Benchmarks for Offline Reinforcement Learning with Value-based Dataset**|Dongsu Lee et.al.|[2404.02429](http://arxiv.org/abs/2404.02429)|null|
 |**2024-04-02**|**Tuning for the Unknown: Revisiting Evaluation Strategies for Lifelong RL**|Golnaz Mesbahi et.al.|[2404.02113](http://arxiv.org/abs/2404.02113)|null|
 |**2024-04-02**|**Emergence of Chemotactic Strategies with Multi-Agent Reinforcement Learning**|Samuel Tovey et.al.|[2404.01999](http://arxiv.org/abs/2404.01999)|null|
 |**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
@@ -2394,7 +2404,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2426,12 +2436,13 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL**|Yutong Shao et.al.|[2404.02389](http://arxiv.org/abs/2404.02389)|null|
 |**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126](http://arxiv.org/abs/2404.02126)|**[link](https://github.com/osome-iu/Rematch-RARE)**|
 |**2024-04-02**|**Class-Incremental Few-Shot Event Detection**|Kailin Zhao et.al.|[2404.01767](http://arxiv.org/abs/2404.01767)|null|
 |**2024-04-02**|**Self-Improvement Programming for Temporal Knowledge Graph Question Answering**|Zhuo Chen et.al.|[2404.01720](http://arxiv.org/abs/2404.01720)|null|
@@ -3329,5 +3340,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
 
