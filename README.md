@@ -1,4 +1,4 @@
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
+|**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
+|**2024-04-04**|**Laser Learning Environment: A new environment for coordination-critical multi-agent tasks**|Yannick Molinghen et.al.|[2404.03596](http://arxiv.org/abs/2404.03596)|**[link](https://github.com/yamoling/lle)**|
+|**2024-04-04**|**Distributionally Robust Reinforcement Learning with Interactive Data Collection: Fundamental Hardness and Near-Optimal Algorithm**|Miao Lu et.al.|[2404.03578](http://arxiv.org/abs/2404.03578)|null|
+|**2024-04-04**|**AdaGlimpse: Active Visual Exploration with Arbitrary Glimpse Position and Scale**|Adam Pardyl et.al.|[2404.03482](http://arxiv.org/abs/2404.03482)|**[link](https://github.com/apardyl/adaglimpse)**|
+|**2024-04-04**|**Integrating Hyperparameter Search into GramML**|Hernán Ceferino Vázquez et.al.|[2404.03419](http://arxiv.org/abs/2404.03419)|null|
+|**2024-04-04**|**Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought**|Jooyoung Lee et.al.|[2404.03414](http://arxiv.org/abs/2404.03414)|null|
+|**2024-04-04**|**Elementary Analysis of Policy Gradient Methods**|Jiacai Liu et.al.|[2404.03372](http://arxiv.org/abs/2404.03372)|null|
+|**2024-04-04**|**REACT: Revealing Evolutionary Action Consequence Trajectories for Interpretable Reinforcement Learning**|Philipp Altmann et.al.|[2404.03359](http://arxiv.org/abs/2404.03359)|null|
+|**2024-04-04**|**Scaling Population-Based Reinforcement Learning with GPU Accelerated Simulation**|Asad Ali Shahid et.al.|[2404.03336](http://arxiv.org/abs/2404.03336)|null|
 |**2024-04-03**|**Learning Quadrupedal Locomotion via Differentiable Simulation**|Clemens Schwarke et.al.|[2404.02887](http://arxiv.org/abs/2404.02887)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
@@ -2404,7 +2414,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2436,12 +2446,18 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
+|**2024-04-04**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
+|**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
+|**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437](http://arxiv.org/abs/2404.03437)|null|
+|**2024-04-04**|**Does Knowledge Graph Really Matter for Recommender Systems?**|Haonan Zhang et.al.|[2404.03164](http://arxiv.org/abs/2404.03164)|**[link](https://github.com/hotbento/kg4receval)**|
+|**2024-04-03**|**Construction of Functional Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model**|Yanpeng Ye et.al.|[2404.03080](http://arxiv.org/abs/2404.03080)|null|
 |**2024-04-03**|**On Linearizing Structured Data in Encoder-Decoder Language Models: Insights from Text-to-SQL**|Yutong Shao et.al.|[2404.02389](http://arxiv.org/abs/2404.02389)|null|
 |**2024-04-02**|**Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity**|Zoher Kachwala et.al.|[2404.02126](http://arxiv.org/abs/2404.02126)|**[link](https://github.com/osome-iu/Rematch-RARE)**|
 |**2024-04-02**|**Class-Incremental Few-Shot Event Detection**|Kailin Zhao et.al.|[2404.01767](http://arxiv.org/abs/2404.01767)|null|
@@ -3340,5 +3356,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240404>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240405>back to top</a>)</p>
 
