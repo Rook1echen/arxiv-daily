@@ -1,4 +1,4 @@
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,21 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
+|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
+|**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|null|
+|**2024-04-10**|**Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection**|Linas Nasvytis et.al.|[2404.07099](http://arxiv.org/abs/2404.07099)|**[link](https://github.com/linasnas/dexter)**|
+|**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017](http://arxiv.org/abs/2404.07017)|null|
+|**2024-04-10**|**Agent-driven Generative Semantic Communication for Remote Surveillance**|Wanting Yang et.al.|[2404.06997](http://arxiv.org/abs/2404.06997)|null|
+|**2024-04-10**|**Deep Reinforcement Learning for Mobile Robot Path Planning**|Hao Liu et.al.|[2404.06974](http://arxiv.org/abs/2404.06974)|null|
+|**2024-04-10**|**UAV-Assisted Enhanced Coverage and Capacity in Dynamic MU-mMIMO IoT Systems: A Deep Reinforcement Learning Approach**|MohammadMahdi Ghadaksaz et.al.|[2404.06726](http://arxiv.org/abs/2404.06726)|null|
+|**2024-04-10**|**Dual Ensemble Kalman Filter for Stochastic Optimal Control**|Anant A. Joshi et.al.|[2404.06696](http://arxiv.org/abs/2404.06696)|null|
 |**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
 |**2024-04-09**|**Deep Reinforcement Learning-Based Approach for a Single Vehicle Persistent Surveillance Problem with Fuel Constraints**|Hritik Bana et.al.|[2404.06423](http://arxiv.org/abs/2404.06423)|null|
 |**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|
@@ -2444,7 +2453,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2476,12 +2485,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198](http://arxiv.org/abs/2404.07198)|null|
+|**2024-04-10**|**Knowledge graphs for empirical concept retrieval**|Lenka Tětková et.al.|[2404.07008](http://arxiv.org/abs/2404.07008)|**[link](https://github.com/lenkatetkova/knowledge-graphs-for-empirical-concept-retrieval)**|
+|**2024-04-10**|**Emotion-cause pair extraction method based on multi-granularity information and multi-module interaction**|Mingrui Fu et.al.|[2404.06812](http://arxiv.org/abs/2404.06812)|null|
+|**2024-04-09**|**Building A Knowledge Graph to Enrich ChatGPT Responses in Manufacturing Service Discovery**|Yunqing Li et.al.|[2404.06571](http://arxiv.org/abs/2404.06571)|null|
 |**2024-04-09**|**Zero-Shot Relational Learning for Multimodal Knowledge Graphs**|Rui Cai et.al.|[2404.06220](http://arxiv.org/abs/2404.06220)|null|
 |**2024-04-09**|**Protection of Guizhou Miao Batik Culture Based on Knowledge Graph and Deep Learning**|Huafeng Quan et.al.|[2404.06168](http://arxiv.org/abs/2404.06168)|null|
 |**2024-04-06**|**Evaluating the Effectiveness of Artificial Intelligence in Predicting Adverse Drug Reactions among Cancer Patients: A Systematic Review and Meta-Analysis**|Fatma Zahra Abdeldjouad et.al.|[2404.05762](http://arxiv.org/abs/2404.05762)|null|
@@ -3393,5 +3406,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
