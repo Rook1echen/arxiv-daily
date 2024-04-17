@@ -1,4 +1,4 @@
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
+|**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
+|**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728](http://arxiv.org/abs/2404.10728)|null|
+|**2024-04-16**|**Automatic re-calibration of quantum devices by reinforcement learning**|T. Crosta et.al.|[2404.10726](http://arxiv.org/abs/2404.10726)|null|
+|**2024-04-16**|**Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**|Shusheng Xu et.al.|[2404.10719](http://arxiv.org/abs/2404.10719)|null|
+|**2024-04-16**|**Simplex Decomposition for Portfolio Allocation Constraints in Reinforcement Learning**|David Winkel et.al.|[2404.10683](http://arxiv.org/abs/2404.10683)|null|
+|**2024-04-16**|**SCALE: Self-Correcting Visual Navigation for Mobile Robots via Anti-Novelty Estimation**|Chang Chen et.al.|[2404.10675](http://arxiv.org/abs/2404.10675)|null|
+|**2024-04-16**|**Continual Offline Reinforcement Learning via Diffusion-based Dual Generative Replay**|Jinmei Liu et.al.|[2404.10662](http://arxiv.org/abs/2404.10662)|**[link](https://github.com/nju-rl/cugro)**|
+|**2024-04-16**|**Trajectory Planning using Reinforcement Learning for Interactive Overtaking Maneuvers in Autonomous Racing Scenarios**|Levent Ögretmen et.al.|[2404.10658](http://arxiv.org/abs/2404.10658)|null|
+|**2024-04-16**|**Continuous Control Reinforcement Learning: Distributed Distributional DrQ Algorithms**|Zehao Zhou et.al.|[2404.10645](http://arxiv.org/abs/2404.10645)|null|
 |**2024-04-15**|**Higher Replay Ratio Empowers Sample-Efficient Multi-Agent Reinforcement Learning**|Linjie Xu et.al.|[2404.09715](http://arxiv.org/abs/2404.09715)|null|
 |**2024-04-15**|**Learn Your Reference Model for Real Good Alignment**|Alexey Gorbatovski et.al.|[2404.09656](http://arxiv.org/abs/2404.09656)|null|
 |**2024-04-15**|**Reliability Estimation of News Media Sources: Birds of a Feather Flock Together**|Sergio Burdisso et.al.|[2404.09565](http://arxiv.org/abs/2404.09565)|null|
@@ -2483,7 +2493,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2515,12 +2525,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**PAKT: Perspectivized Argumentation Knowledge Graph and Tool for Deliberation Analysis (with Supplementary Materials)**|Moritz Plenz et.al.|[2404.10570](http://arxiv.org/abs/2404.10570)|null|
+|**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384](http://arxiv.org/abs/2404.10384)|null|
+|**2024-04-16**|**Learning Wireless Data Knowledge Graph for Green Intelligent Communications: Methodology and Experiments**|Yongming Huang et.al.|[2404.10365](http://arxiv.org/abs/2404.10365)|null|
+|**2024-04-16**|**TC-OCR: TableCraft OCR for Efficient Detection & Recognition of Table Structure & Content**|Avinash Anand et.al.|[2404.10305](http://arxiv.org/abs/2404.10305)|null|
+|**2024-04-15**|**Progressive Knowledge Graph Completion**|Jiayi Li et.al.|[2404.09897](http://arxiv.org/abs/2404.09897)|null|
+|**2024-04-15**|**HyperMono: A Monotonicity-aware Approach to Hyper-Relational Knowledge Representation**|Zhiwei Hu et.al.|[2404.09848](http://arxiv.org/abs/2404.09848)|null|
+|**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763](http://arxiv.org/abs/2404.09763)|null|
 |**2024-04-15**|**German Tourism Knowledge Graph**|Umutcan Serles et.al.|[2404.09587](http://arxiv.org/abs/2404.09587)|null|
 |**2024-04-15**|**MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2404.09468](http://arxiv.org/abs/2404.09468)|**[link](https://github.com/zjukg/mygo)**|
 |**2024-04-15**|**Automatic Knowledge Graph Construction for Judicial Cases**|Jie Zhou et.al.|[2404.09416](http://arxiv.org/abs/2404.09416)|null|
@@ -3449,5 +3466,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
 
