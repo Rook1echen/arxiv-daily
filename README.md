@@ -1,4 +1,4 @@
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,12 +47,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**Deep Policy Optimization with Temporal Logic Constraints**|Ameesh Shah et.al.|[2404.11578](http://arxiv.org/abs/2404.11578)|null|
+|**2024-04-17**|**VC Theory for Inventory Policies**|Yaqi Xie et.al.|[2404.11509](http://arxiv.org/abs/2404.11509)|null|
+|**2024-04-17**|**Learn to Tour: Operator Design For Solution Feasibility Mapping in Pickup-and-delivery Traveling Salesman Problem**|Bowen Fang et.al.|[2404.11458](http://arxiv.org/abs/2404.11458)|null|
+|**2024-04-17**|**What-if Analysis Framework for Digital Twins in 6G Wireless Network Management**|Elif Ak et.al.|[2404.11394](http://arxiv.org/abs/2404.11394)|null|
+|**2024-04-17**|**Convergence of Policy Gradient for Stochastic Linear-Quadratic Control Problem in Infinite Horizon**|Xinpei Zhang et.al.|[2404.11382](http://arxiv.org/abs/2404.11382)|null|
+|**2024-04-17**|**Following the Human Thread in Social Navigation**|Luca Scofano et.al.|[2404.11327](http://arxiv.org/abs/2404.11327)|**[link](https://github.com/l-scofano/sda)**|
+|**2024-04-17**|**On Learning Parities with Dependent Noise**|Noah Golowich et.al.|[2404.11325](http://arxiv.org/abs/2404.11325)|null|
+|**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149](http://arxiv.org/abs/2404.11149)|null|
+|**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014](http://arxiv.org/abs/2404.11014)|null|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
 |**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
 |**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728](http://arxiv.org/abs/2404.10728)|null|
@@ -2493,7 +2503,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2525,7 +2535,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -3466,5 +3476,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240418>back to top</a>)</p>
 
