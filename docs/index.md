@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|null|
 |**2024-03-04**|**Penetration Testing of 5G Core Network Web Technologies**|Filippo Giambartolomei et.al.|[2403.01871](http://arxiv.org/abs/2403.01871)|null|
 |**2024-03-02**|**AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks**|Jiacen Xu et.al.|[2403.01038](http://arxiv.org/abs/2403.01038)|null|
 |**2023-12-17**|**Penetration Testing and Legacy Systems**|Sandra Smyth et.al.|[2402.10217](http://arxiv.org/abs/2402.10217)|null|
@@ -45,6 +46,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Mapping Social Choice Theory to RLHF**|Jessica Dai et.al.|[2404.13038](http://arxiv.org/abs/2404.13038)|null|
+|**2024-04-19**|**Deep Reinforcement Learning-Based Active Flow Control of an Elliptical Cylinder: Transitioning from an Elliptical Cylinder to a Circular Cylinder and a Flat Plate**|Wang Jia et.al.|[2404.13003](http://arxiv.org/abs/2404.13003)|null|
+|**2024-04-19**|**Goal Exploration via Adaptive Skill Distribution for Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2404.12999](http://arxiv.org/abs/2404.12999)|null|
+|**2024-04-19**|**MM-PhyRLHF: Reinforcement Learning Framework for Multimodal Physics Question-Answering**|Avinash Anand et.al.|[2404.12926](http://arxiv.org/abs/2404.12926)|null|
+|**2024-04-19**|**Zero-Shot Stitching in Reinforcement Learning using Relative Representations**|Antonio Pio Ricciardi et.al.|[2404.12917](http://arxiv.org/abs/2404.12917)|null|
+|**2024-04-19**|**MAexp: A Generic Platform for RL-based Multi-Agent Exploration**|Shaohao Zhu et.al.|[2404.12824](http://arxiv.org/abs/2404.12824)|**[link](https://github.com/duangzhu/maexp)**|
+|**2024-04-19**|**A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK**|Marco Zambianco et.al.|[2404.12783](http://arxiv.org/abs/2404.12783)|null|
+|**2024-04-19**|**Adaptive Regularization of Representation Rank as an Implicit Constraint of Bellman Equation**|Qiang He et.al.|[2404.12754](http://arxiv.org/abs/2404.12754)|**[link](https://github.com/sweetice/beer-iclr2024)**|
+|**2024-04-19**|**Demonstration of quantum projective simulation on a single-photon-based quantum computer**|Giacomo Franceschetto et.al.|[2404.12729](http://arxiv.org/abs/2404.12729)|null|
+|**2024-04-19**|**Energy Conserved Failure Detection for NS-IoT Systems**|Guojin Liu et.al.|[2404.12713](http://arxiv.org/abs/2404.12713)|null|
 |**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
 |**2024-04-18**|**Improving the interpretability of GNN predictions through conformal-based graph sparsification**|Pablo Sanchez-Martin et.al.|[2404.12356](http://arxiv.org/abs/2404.12356)|**[link](https://github.com/psanch21/cores)**|
 |**2024-04-18**|**Practical Considerations for Discrete-Time Implementations of Continuous-Time Control Barrier Function-Based Safety Filters**|Lukas Brunke et.al.|[2404.12329](http://arxiv.org/abs/2404.12329)|null|
@@ -2539,6 +2550,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**FAIR Jupyter: a knowledge graph approach to semantic sharing and granular exploration of a computational notebook reproducibility dataset**|Sheeba Samuel et.al.|[2404.12935](http://arxiv.org/abs/2404.12935)|null|
+|**2024-04-19**|**REXEL: An End-to-end Model for Document-Level Relation Extraction and Entity Linking**|Nacime Bouziani et.al.|[2404.12788](http://arxiv.org/abs/2404.12788)|null|
+|**2024-04-19**|**A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK**|Marco Zambianco et.al.|[2404.12783](http://arxiv.org/abs/2404.12783)|null|
+|**2024-04-19**|**Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs**|Ngoc Quach et.al.|[2404.12587](http://arxiv.org/abs/2404.12587)|null|
+|**2024-04-18**|**EnriCo: Enriched Representation and Globally Constrained Inference for Entity and Relation Extraction**|Urchade Zaratiana et.al.|[2404.12493](http://arxiv.org/abs/2404.12493)|null|
 |**2024-04-18**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation**|Shunpan Liang et.al.|[2404.11993](http://arxiv.org/abs/2404.11993)|null|
 |**2024-04-18**|**P-NAL: an Effective and Interpretable Entity Alignment Method**|Chuanhao Xu et.al.|[2404.11968](http://arxiv.org/abs/2404.11968)|null|
 |**2024-04-18**|**Sharing Parameter by Conjugation for Knowledge Graph Embeddings in Complex Space**|Xincan Feng et.al.|[2404.11809](http://arxiv.org/abs/2404.11809)|**[link](https://github.com/xincanfeng/dimension)**|
