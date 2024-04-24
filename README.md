@@ -1,4 +1,4 @@
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -49,12 +49,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Reinforcement Learning with Adaptive Control Regularization for Safe Control of Critical Systems**|Haozhe Tian et.al.|[2404.15199](http://arxiv.org/abs/2404.15199)|null|
+|**2024-04-23**|**Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation**|Xun Wu et.al.|[2404.15100](http://arxiv.org/abs/2404.15100)|null|
+|**2024-04-23**|**Impedance Matching: Enabling an RL-Based Running Jump in a Quadruped Robot**|Neil Guan et.al.|[2404.15096](http://arxiv.org/abs/2404.15096)|null|
+|**2024-04-23**|**Using deep reinforcement learning to promote sustainable human behaviour on a common pool resource problem**|Raphael Koster et.al.|[2404.15059](http://arxiv.org/abs/2404.15059)|null|
+|**2024-04-23**|**Cache-Aware Reinforcement Learning in Large-Scale Recommender Systems**|Xiaoshuang Chen et.al.|[2404.14961](http://arxiv.org/abs/2404.14961)|null|
+|**2024-04-23**|**Multi-Objective Deep Reinforcement Learning for 5G Base Station Placement to Support Localisation for Future Sustainable Traffic**|Ahmed Al-Tahmeesschi et.al.|[2404.14954](http://arxiv.org/abs/2404.14954)|null|
+|**2024-04-23**|**MultiSTOP: Solving Functional Equations with Reinforcement Learning**|Alessandro Trenta et.al.|[2404.14909](http://arxiv.org/abs/2404.14909)|null|
+|**2024-04-23**|**Unitary Synthesis of Clifford+T Circuits with Reinforcement Learning**|Sebastian Rietsch et.al.|[2404.14865](http://arxiv.org/abs/2404.14865)|null|
+|**2024-04-23**|**Evolutionary Reinforcement Learning via Cooperative Coevolution**|Chengpeng Hu et.al.|[2404.14763](http://arxiv.org/abs/2404.14763)|null|
+|**2024-04-23**|**Rank2Reward: Learning Shaped Reward Functions from Passive Video**|Daniel Yang et.al.|[2404.14735](http://arxiv.org/abs/2404.14735)|null|
 |**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
 |**2024-04-22**|**Multi-Agent Hybrid SAC for Joint SS-DSA in CRNs**|David R. Nickel et.al.|[2404.14319](http://arxiv.org/abs/2404.14319)|null|
 |**2024-04-22**|**Beyond the Edge: An Advanced Exploration of Reinforcement Learning for Mobile Edge Computing, its Applications, and Future Research Trajectories**|Ning Yang et.al.|[2404.14238](http://arxiv.org/abs/2404.14238)|null|
@@ -2535,7 +2545,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2567,12 +2577,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Integrating Heterogeneous Gene Expression Data through Knowledge Graphs for Improving Diabetes Prediction**|Rita T. Sousa et.al.|[2404.14970](http://arxiv.org/abs/2404.14970)|**[link](https://github.com/ritatsousa/expressionkg)**|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
+|**2024-04-23**|**A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications**|Wenbo Shang et.al.|[2404.14809](http://arxiv.org/abs/2404.14809)|null|
+|**2024-04-23**|**Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering**|Yao Xu et.al.|[2404.14741](http://arxiv.org/abs/2404.14741)|**[link](https://github.com/yaooxu/gog)**|
 |**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228](http://arxiv.org/abs/2404.14228)|null|
 |**2024-04-22**|**Context-Enhanced Language Models for Generating Multi-Paper Citations**|Avinash Anand et.al.|[2404.13865](http://arxiv.org/abs/2404.13865)|null|
 |**2024-04-19**|**FAIR Jupyter: a knowledge graph approach to semantic sharing and granular exploration of a computational notebook reproducibility dataset**|Sheeba Samuel et.al.|[2404.12935](http://arxiv.org/abs/2404.12935)|null|
@@ -3518,5 +3532,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
