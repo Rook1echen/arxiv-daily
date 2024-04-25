@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.24
+## Updated on 2024.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-22**|**Offensive AI: Enhancing Directory Brute-forcing Attack with the Use of Language Models**|Alberto Castagnaro et.al.|[2404.14138](http://arxiv.org/abs/2404.14138)|null|
-|**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|null|
+|**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|**[link](https://github.com/dessertlab/powershell-offensive-code-generation)**|
 |**2024-03-04**|**Penetration Testing of 5G Core Network Web Technologies**|Filippo Giambartolomei et.al.|[2403.01871](http://arxiv.org/abs/2403.01871)|null|
 |**2024-03-02**|**AutoAttacker: A Large Language Model Guided System to Implement Automatic Cyber-attacks**|Jiacen Xu et.al.|[2403.01038](http://arxiv.org/abs/2403.01038)|null|
 |**2023-12-17**|**Penetration Testing and Legacy Systems**|Sandra Smyth et.al.|[2402.10217](http://arxiv.org/abs/2402.10217)|null|
@@ -47,6 +47,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617](http://arxiv.org/abs/2404.15617)|null|
+|**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
+|**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|
+|**2024-04-23**|**An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models**|Yangchen Pan et.al.|[2404.15518](http://arxiv.org/abs/2404.15518)|null|
+|**2024-04-23**|**The Power of Resets in Online Reinforcement Learning**|Zakaria Mhammedi et.al.|[2404.15417](http://arxiv.org/abs/2404.15417)|null|
+|**2024-04-23**|**Planning the path with Reinforcement Learning: Optimal Robot Motion Planning in RoboCup Small Size League Environments**|Mateus G. Machado et.al.|[2404.15410](http://arxiv.org/abs/2404.15410)|**[link](https://github.com/goncamateus/Planning-the-path-with-rl)**|
 |**2024-04-23**|**Reinforcement Learning with Adaptive Control Regularization for Safe Control of Critical Systems**|Haozhe Tian et.al.|[2404.15199](http://arxiv.org/abs/2404.15199)|null|
 |**2024-04-23**|**Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation**|Xun Wu et.al.|[2404.15100](http://arxiv.org/abs/2404.15100)|null|
 |**2024-04-23**|**Impedance Matching: Enabling an RL-Based Running Jump in a Quadruped Robot**|Neil Guan et.al.|[2404.15096](http://arxiv.org/abs/2404.15096)|null|
@@ -2578,7 +2584,7 @@ layout: default
 |**2024-04-22**|**A Survey of Decomposition-Based Evolutionary Multi-Objective Optimization: Part II -- A Data Science Perspective**|Mingyu Huang et.al.|[2404.14228](http://arxiv.org/abs/2404.14228)|null|
 |**2024-04-22**|**Context-Enhanced Language Models for Generating Multi-Paper Citations**|Avinash Anand et.al.|[2404.13865](http://arxiv.org/abs/2404.13865)|null|
 |**2024-04-19**|**FAIR Jupyter: a knowledge graph approach to semantic sharing and granular exploration of a computational notebook reproducibility dataset**|Sheeba Samuel et.al.|[2404.12935](http://arxiv.org/abs/2404.12935)|null|
-|**2024-04-19**|**REXEL: An End-to-end Model for Document-Level Relation Extraction and Entity Linking**|Nacime Bouziani et.al.|[2404.12788](http://arxiv.org/abs/2404.12788)|null|
+|**2024-04-19**|**REXEL: An End-to-end Model for Document-Level Relation Extraction and Entity Linking**|Nacime Bouziani et.al.|[2404.12788](http://arxiv.org/abs/2404.12788)|**[link](https://github.com/amazon-science/e2e-docie)**|
 |**2024-04-19**|**A Proactive Decoy Selection Scheme for Cyber Deception using MITRE ATT&CK**|Marco Zambianco et.al.|[2404.12783](http://arxiv.org/abs/2404.12783)|null|
 |**2024-04-19**|**Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs**|Ngoc Quach et.al.|[2404.12587](http://arxiv.org/abs/2404.12587)|null|
 |**2024-04-18**|**EnriCo: Enriched Representation and Globally Constrained Inference for Entity and Relation Extraction**|Urchade Zaratiana et.al.|[2404.12493](http://arxiv.org/abs/2404.12493)|null|
