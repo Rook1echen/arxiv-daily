@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.04.27
+## Updated on 2024.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-24**|**Explainable AI models for predicting liquefaction-induced lateral spreading**|Cheng-Hsi Hsiao et.al.|[2404.15959](http://arxiv.org/abs/2404.15959)|null|
+|**2024-04-24**|**Explainable AI models for predicting liquefaction-induced lateral spreading**|Cheng-Hsi Hsiao et.al.|[2404.15959](http://arxiv.org/abs/2404.15959)|**[link](https://github.com/geoelements/xai-lateral-spreading)**|
 |**2024-04-22**|**Offensive AI: Enhancing Directory Brute-forcing Attack with the Use of Language Models**|Alberto Castagnaro et.al.|[2404.14138](http://arxiv.org/abs/2404.14138)|null|
 |**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|**[link](https://github.com/dessertlab/powershell-offensive-code-generation)**|
 |**2024-03-04**|**Penetration Testing of 5G Core Network Web Technologies**|Filippo Giambartolomei et.al.|[2403.01871](http://arxiv.org/abs/2403.01871)|null|
