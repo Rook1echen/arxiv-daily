@@ -48,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
+|**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
+|**2024-04-26**|**Q-Learning to navigate turbulence without a map**|Marco Rando et.al.|[2404.17495](http://arxiv.org/abs/2404.17495)|null|
+|**2024-04-26**|**Adaptive speed planning for Unmanned Vehicle Based on Deep Reinforcement Learning**|Hao Liu et.al.|[2404.17379](http://arxiv.org/abs/2404.17379)|null|
+|**2024-04-26**|**When to Trust LLMs: Aligning Confidence with Response Quality**|Shuchang Tao et.al.|[2404.17287](http://arxiv.org/abs/2404.17287)|null|
+|**2024-04-26**|**Enhancing Privacy and Security of Autonomous UAV Navigation**|Vatsal Aggarwal et.al.|[2404.17225](http://arxiv.org/abs/2404.17225)|null|
+|**2024-04-26**|**An Explainable Deep Reinforcement Learning Model for Warfarin Maintenance Dosing Using Policy Distillation and Action Forging**|Sadjad Anzabi Zadeh et.al.|[2404.17187](http://arxiv.org/abs/2404.17187)|null|
+|**2024-04-25**|**Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach**|Panagiotis Promponas et.al.|[2404.17077](http://arxiv.org/abs/2404.17077)|null|
+|**2024-04-25**|**Deep Reinforcement Learning for Bipedal Locomotion: A Brief Survey**|Lingfan Bao et.al.|[2404.17070](http://arxiv.org/abs/2404.17070)|null|
+|**2024-04-25**|**Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions**|Jordan Beason et.al.|[2404.17038](http://arxiv.org/abs/2404.17038)|null|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
 |**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721](http://arxiv.org/abs/2404.16721)|null|
 |**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[2404.16672](http://arxiv.org/abs/2404.16672)|null|
@@ -2588,6 +2598,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**|Bradley P. Allen et.al.|[2404.17000](http://arxiv.org/abs/2404.17000)|**[link](https://github.com/bradleypallen/evaluating-kg-class-memberships-using-llms)**|
+|**2024-04-23**|**Aligning Knowledge Graphs Provided by Humans and Generated from Neural Networks in Specific Tasks**|Tangrui Li et.al.|[2404.16884](http://arxiv.org/abs/2404.16884)|**[link](https://github.com/moonwalker1997/vsannkgalignment)**|
 |**2024-04-25**|**History repeats itself: A Baseline for Temporal Knowledge Graph Forecasting**|Julia Gastinger et.al.|[2404.16726](http://arxiv.org/abs/2404.16726)|**[link](https://github.com/nec-research/recurrency_baseline_tkg)**|
 |**2024-04-25**|**ReliK: A Reliability Measure for Knowledge Graph Embeddings**|Maximilian K. Egger et.al.|[2404.16572](http://arxiv.org/abs/2404.16572)|null|
 |**2024-04-25**|**Lost in Recursion: Mining Rich Event Semantics in Knowledge Graphs**|Florian Plötzky et.al.|[2404.16405](http://arxiv.org/abs/2404.16405)|**[link](https://github.com/fploetzky/websci2024)**|
