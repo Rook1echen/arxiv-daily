@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -48,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
+|**2024-05-06**|**Position Paper: Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions**|Xingyou Song et.al.|[2405.03547](http://arxiv.org/abs/2405.03547)|null|
+|**2024-05-06**|**ReinWiFi: A Reinforcement-Learning-Based Framework for the Application-Layer QoS Optimization of WiFi Networks**|Qianren Li et.al.|[2405.03526](http://arxiv.org/abs/2405.03526)|null|
+|**2024-05-06**|**Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning**|Stone Tao et.al.|[2405.03379](http://arxiv.org/abs/2405.03379)|null|
+|**2024-05-06**|**Enhancing Q-Learning with Large Language Model Heuristics**|Xiefeng Wu et.al.|[2405.03341](http://arxiv.org/abs/2405.03341)|null|
+|**2024-05-06**|**Artificial Intelligence in the Autonomous Navigation of Endovascular Interventions: A Systematic Review**|Harry Robertshaw et.al.|[2405.03305](http://arxiv.org/abs/2405.03305)|null|
+|**2024-05-06**|**End-to-End Reinforcement Learning of Curative Curtailment with Partial Measurement Availability**|Hinrikus Wolf et.al.|[2405.03262](http://arxiv.org/abs/2405.03262)|null|
+|**2024-05-06**|**Federated Reinforcement Learning with Constraint Heterogeneity**|Hao Jin et.al.|[2405.03236](http://arxiv.org/abs/2405.03236)|null|
+|**2024-05-06**|**Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning**|Caleb Chuck et.al.|[2405.03113](http://arxiv.org/abs/2405.03113)|null|
+|**2024-05-05**|**Finite-Time Convergence and Sample Complexity of Actor-Critic Multi-Objective Reinforcement Learning**|Tianchen Zhou et.al.|[2405.03082](http://arxiv.org/abs/2405.03082)|null|
 |**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250](http://arxiv.org/abs/2405.02250)|null|
 |**2024-05-03**|**Learning Optimal Deterministic Policies with Stochastic Policy Gradients**|Alessandro Montenegro et.al.|[2405.02235](http://arxiv.org/abs/2405.02235)|null|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
@@ -2648,6 +2658,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
+|**2024-05-05**|**Nip in the Bud: Forecasting and Interpreting Post-exploitation Attacks in Real-time through Cyber Threat Intelligence Reports**|Tiantian Zhu et.al.|[2405.02826](http://arxiv.org/abs/2405.02826)|null|
+|**2024-05-04**|**Relations Prediction for Knowledge Graph Completion using Large Language Models**|Sakher Khalil Alqaaidi et.al.|[2405.02738](http://arxiv.org/abs/2405.02738)|null|
+|**2024-05-03**|**Knowledge Graph Extension by Entity Type Recognition**|Daqian Shi et.al.|[2405.02463](http://arxiv.org/abs/2405.02463)|null|
 |**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
 |**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105](http://arxiv.org/abs/2405.02105)|null|
 |**2024-05-02**|**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**|Tianle Xia et.al.|[2405.01649](http://arxiv.org/abs/2405.01649)|null|

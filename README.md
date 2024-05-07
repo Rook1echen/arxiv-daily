@@ -1,4 +1,4 @@
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -50,12 +50,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
+|**2024-05-06**|**Position Paper: Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions**|Xingyou Song et.al.|[2405.03547](http://arxiv.org/abs/2405.03547)|null|
+|**2024-05-06**|**ReinWiFi: A Reinforcement-Learning-Based Framework for the Application-Layer QoS Optimization of WiFi Networks**|Qianren Li et.al.|[2405.03526](http://arxiv.org/abs/2405.03526)|null|
+|**2024-05-06**|**Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning**|Stone Tao et.al.|[2405.03379](http://arxiv.org/abs/2405.03379)|null|
+|**2024-05-06**|**Enhancing Q-Learning with Large Language Model Heuristics**|Xiefeng Wu et.al.|[2405.03341](http://arxiv.org/abs/2405.03341)|null|
+|**2024-05-06**|**Artificial Intelligence in the Autonomous Navigation of Endovascular Interventions: A Systematic Review**|Harry Robertshaw et.al.|[2405.03305](http://arxiv.org/abs/2405.03305)|null|
+|**2024-05-06**|**End-to-End Reinforcement Learning of Curative Curtailment with Partial Measurement Availability**|Hinrikus Wolf et.al.|[2405.03262](http://arxiv.org/abs/2405.03262)|null|
+|**2024-05-06**|**Federated Reinforcement Learning with Constraint Heterogeneity**|Hao Jin et.al.|[2405.03236](http://arxiv.org/abs/2405.03236)|null|
+|**2024-05-06**|**Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning**|Caleb Chuck et.al.|[2405.03113](http://arxiv.org/abs/2405.03113)|null|
+|**2024-05-05**|**Finite-Time Convergence and Sample Complexity of Actor-Critic Multi-Objective Reinforcement Learning**|Tianchen Zhou et.al.|[2405.03082](http://arxiv.org/abs/2405.03082)|null|
 |**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250](http://arxiv.org/abs/2405.02250)|null|
 |**2024-05-03**|**Learning Optimal Deterministic Policies with Stochastic Policy Gradients**|Alessandro Montenegro et.al.|[2405.02235](http://arxiv.org/abs/2405.02235)|null|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
@@ -2622,7 +2632,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2654,12 +2664,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Exploring knowledge graph-based neural-symbolic system from application perspective**|Shenzhe Zhu et.al.|[2405.03524](http://arxiv.org/abs/2405.03524)|null|
+|**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
+|**2024-05-05**|**Nip in the Bud: Forecasting and Interpreting Post-exploitation Attacks in Real-time through Cyber Threat Intelligence Reports**|Tiantian Zhu et.al.|[2405.02826](http://arxiv.org/abs/2405.02826)|null|
+|**2024-05-04**|**Relations Prediction for Knowledge Graph Completion using Large Language Models**|Sakher Khalil Alqaaidi et.al.|[2405.02738](http://arxiv.org/abs/2405.02738)|null|
+|**2024-05-03**|**Knowledge Graph Extension by Entity Type Recognition**|Daqian Shi et.al.|[2405.02463](http://arxiv.org/abs/2405.02463)|null|
 |**2024-05-03**|**Subgraph2vec: A random walk-based algorithm for embedding knowledge graphs**|Elika Bozorgi et.al.|[2405.02240](http://arxiv.org/abs/2405.02240)|null|
 |**2024-05-03**|**Evaluating Large Language Models for Structured Science Summarization in the Open Research Knowledge Graph**|Vladyslav Nechakhin et.al.|[2405.02105](http://arxiv.org/abs/2405.02105)|null|
 |**2024-05-02**|**Improving Complex Reasoning over Knowledge Graph with Logic-Aware Curriculum Tuning**|Tianle Xia et.al.|[2405.01649](http://arxiv.org/abs/2405.01649)|null|
@@ -3636,5 +3651,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240507>back to top</a>)</p>
 
