@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -48,6 +48,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**An RNN-policy gradient approach for quantum architecture search**|Gang Wang et.al.|[2405.05892](http://arxiv.org/abs/2405.05892)|null|
+|**2024-05-09**|**Safe Exploration Using Bayesian World Models and Log-Barrier Optimization**|Yarden As et.al.|[2405.05890](http://arxiv.org/abs/2405.05890)|null|
+|**2024-05-09**|**Policy Gradient with Active Importance Sampling**|Matteo Papini et.al.|[2405.05630](http://arxiv.org/abs/2405.05630)|null|
+|**2024-05-09**|**An Automatic Prompt Generation System for Tabular Data Tasks**|Ashlesha Akella et.al.|[2405.05618](http://arxiv.org/abs/2405.05618)|null|
+|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|null|
+|**2024-05-08**|**Model-Free Robust $φ$ -Divergence Reinforcement Learning Using Both Offline and Online Data**|Kishan Panaganti et.al.|[2405.05468](http://arxiv.org/abs/2405.05468)|null|
+|**2024-05-08**|**Markowitz Meets Bellman: Knowledge-distilled Reinforcement Learning for Portfolio Management**|Gang Hu et.al.|[2405.05449](http://arxiv.org/abs/2405.05449)|null|
+|**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372](http://arxiv.org/abs/2405.05372)|null|
+|**2024-05-08**|**Offline Model-Based Optimization via Policy-Guided Gradient Search**|Yassine Chemingui et.al.|[2405.05349](http://arxiv.org/abs/2405.05349)|**[link](https://github.com/yassinech/pgs)**|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
 |**2024-05-08**|**Fault Identification Enhancement with Reinforcement Learning (FIERL)**|Valentina Zaccaria et.al.|[2405.04938](http://arxiv.org/abs/2405.04938)|null|
 |**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753](http://arxiv.org/abs/2405.04753)|null|
@@ -2674,14 +2683,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|null|
+|**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616](http://arxiv.org/abs/2405.05616)|null|
+|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-05-08**|**Enabling Roll-up and Drill-down Operations in News Exploration with Knowledge Graphs for Due Diligence and Risk Management**|Sha Wang et.al.|[2405.04929](http://arxiv.org/abs/2405.04929)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
-|**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756](http://arxiv.org/abs/2405.04756)|null|
+|**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756](http://arxiv.org/abs/2405.04756)|**[link](https://github.com/VectorInstitute/biaskg)**|
 |**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753](http://arxiv.org/abs/2405.04753)|null|
 |**2024-05-08**|**Cryptanalysis of the SIMON Cypher Using Neo4j**|Jonathan Cook et.al.|[2405.04735](http://arxiv.org/abs/2405.04735)|null|
 |**2024-05-07**|**Towards Continual Knowledge Graph Embedding via Incremental Distillation**|Jiajun Liu et.al.|[2405.04453](http://arxiv.org/abs/2405.04453)|**[link](https://github.com/seukgcode/incde)**|
-|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
+|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|**[link](https://github.com/truthai-lab/soradetector)**|
 |**2024-05-07**|**Enriched BERT Embeddings for Scholarly Publication Classification**|Benjamin Wolff et.al.|[2405.04136](http://arxiv.org/abs/2405.04136)|null|
 |**2024-05-08**|**CleanGraph: Human-in-the-loop Knowledge Graph Refinement and Completion**|Tyler Bikaun et.al.|[2405.03932](http://arxiv.org/abs/2405.03932)|**[link](https://github.com/nlp-tlp/cleangraph)**|
 |**2024-05-06**|**FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering**|Silan Hu et.al.|[2405.03734](http://arxiv.org/abs/2405.03734)|null|
