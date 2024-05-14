@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -50,12 +50,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**RLHF Workflow: From Reward Modeling to Online RLHF**|Hanze Dong et.al.|[2405.07863](http://arxiv.org/abs/2405.07863)|**[link](https://github.com/rlhflow/online-rlhf)**|
+|**2024-05-13**|**Adaptive Exploration for Data-Efficient General Value Function Evaluations**|Arushi Jain et.al.|[2405.07838](http://arxiv.org/abs/2405.07838)|null|
+|**2024-05-13**|**Fixed Point Theory Analysis of a Lambda Policy Iteration with Randomization for the Ćirić Contraction Operator**|Abdelkader Belhenniche et.al.|[2405.07824](http://arxiv.org/abs/2405.07824)|null|
+|**2024-05-13**|**Hamiltonian-based Quantum Reinforcement Learning for Neural Combinatorial Optimization**|Georg Kruse et.al.|[2405.07790](http://arxiv.org/abs/2405.07790)|null|
+|**2024-05-13**|**Hype or Heuristic? Quantum Reinforcement Learning for Join Order Optimisation**|Maja Franz et.al.|[2405.07770](http://arxiv.org/abs/2405.07770)|null|
+|**2024-05-13**|**CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization**|Wei-Ting Tang et.al.|[2405.07760](http://arxiv.org/abs/2405.07760)|null|
+|**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
+|**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
+|**2024-05-13**|**Backdoor Removal for Generative Large Language Models**|Haoran Li et.al.|[2405.07667](http://arxiv.org/abs/2405.07667)|null|
+|**2024-05-13**|**Near-Optimal Regret in Linear MDPs with Aggregate Bandit Feedback**|Asaf Cassel et.al.|[2405.07637](http://arxiv.org/abs/2405.07637)|null|
 |**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
 |**2024-05-10**|**EcoEdgeTwin: Enhanced 6G Network via Mobile Edge Computing and Digital Twin Integration**|Synthia Hossain Karobi et.al.|[2405.06507](http://arxiv.org/abs/2405.06507)|null|
 |**2024-05-10**|**Advantageous and disadvantageous inequality aversion can be taught through vicarious learning of others' preferences**|Shen Zhang et.al.|[2405.06500](http://arxiv.org/abs/2405.06500)|null|
@@ -2665,7 +2675,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -2697,17 +2707,21 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Knowledge Graph Embedding in Intent-Based Networking**|Kashif Mehmood et.al.|[2405.07850](http://arxiv.org/abs/2405.07850)|null|
+|**2024-05-13**|**Geospatial Knowledge Graphs**|Rui Zhu et.al.|[2405.07664](http://arxiv.org/abs/2405.07664)|null|
+|**2024-05-12**|**Observability and Incident Response in Managed Serverless Environments Using Ontology-Based Log Monitoring**|Lavi Ben-Shimol et.al.|[2405.07172](http://arxiv.org/abs/2405.07172)|null|
+|**2024-05-11**|**Selecting focused digital cohorts from social media using the metric backbone of biomedical knowledge graphs**|Ziqi Guo et.al.|[2405.07072](http://arxiv.org/abs/2405.07072)|null|
 |**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545](http://arxiv.org/abs/2405.06545)|null|
 |**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524](http://arxiv.org/abs/2405.06524)|null|
 |**2024-05-10**|**PAC-Bayesian Generalization Bounds for Knowledge Graph Representation Learning**|Jaejun Lee et.al.|[2405.06418](http://arxiv.org/abs/2405.06418)|null|
 |**2024-05-09**|**G-SAP: Graph-based Structure-Aware Prompt Learning over Heterogeneous Knowledge for Commonsense Reasoning**|Ruiting Dai et.al.|[2405.05616](http://arxiv.org/abs/2405.05616)|null|
-|**2024-05-08**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
+|**2024-05-10**|**myAURA: Personalized health library for epilepsy management via knowledge graph sparsification and visualization**|Rion Brattig Correia et.al.|[2405.05229](http://arxiv.org/abs/2405.05229)|**[link](https://github.com/cns-iu/myaura)**|
 |**2024-05-08**|**Enabling Roll-up and Drill-down Operations in News Exploration with Knowledge Graphs for Due Diligence and Risk Management**|Sha Wang et.al.|[2405.04929](http://arxiv.org/abs/2405.04929)|null|
 |**2024-05-08**|**DALK: Dynamic Co-Augmentation of LLMs and KG to answer Alzheimer's Disease Questions with Scientific Literature**|Dawei Li et.al.|[2405.04819](http://arxiv.org/abs/2405.04819)|**[link](https://github.com/david-li0406/dalk)**|
 |**2024-05-08**|**BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models**|Chu Fei Luo et.al.|[2405.04756](http://arxiv.org/abs/2405.04756)|**[link](https://github.com/VectorInstitute/biaskg)**|
@@ -3699,5 +3713,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240514>back to top</a>)</p>
 
