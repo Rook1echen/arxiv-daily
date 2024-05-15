@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -48,6 +48,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Stable Inverse Reinforcement Learning: Policies from Control Lyapunov Landscapes**|Samuel Tesfazgi et.al.|[2405.08756](http://arxiv.org/abs/2405.08756)|null|
+|**2024-05-14**|**Hierarchical Resource Partitioning on Modern GPUs: A Reinforcement Learning Approach**|Urvij Saroliya et.al.|[2405.08754](http://arxiv.org/abs/2405.08754)|null|
+|**2024-05-14**|**Reinformer: Max-Return Sequence Modeling for offline RL**|Zifeng Zhuang et.al.|[2405.08740](http://arxiv.org/abs/2405.08740)|null|
+|**2024-05-14**|**I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning**|Yashuai Yan et.al.|[2405.08726](http://arxiv.org/abs/2405.08726)|null|
+|**2024-05-14**|**Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**|Jan-Hendrik Ewers et.al.|[2405.08691](http://arxiv.org/abs/2405.08691)|null|
+|**2024-05-14**|**A Distributed Approach to Autonomous Intersection Management via Multi-Agent Reinforcement Learning**|Matteo Cederle et.al.|[2405.08655](http://arxiv.org/abs/2405.08655)|null|
+|**2024-05-14**|**vMFER: Von Mises-Fisher Experience Resampling Based on Uncertainty of Gradient Directions for Policy Improvement**|Yiwen Zhu et.al.|[2405.08638](http://arxiv.org/abs/2405.08638)|null|
+|**2024-05-14**|**Optimizing Deep Reinforcement Learning for American Put Option Hedging**|Reilly Pickard et.al.|[2405.08602](http://arxiv.org/abs/2405.08602)|null|
+|**2024-05-14**|**Python-Based Reinforcement Learning on Simulink Models**|Georg Schäfer et.al.|[2405.08567](http://arxiv.org/abs/2405.08567)|null|
+|**2024-05-14**|**Growing Artificial Neural Networks for Control: the Role of Neuronal Diversity**|Eleni Nisioti et.al.|[2405.08510](http://arxiv.org/abs/2405.08510)|null|
 |**2024-05-13**|**RLHF Workflow: From Reward Modeling to Online RLHF**|Hanze Dong et.al.|[2405.07863](http://arxiv.org/abs/2405.07863)|**[link](https://github.com/rlhflow/online-rlhf)**|
 |**2024-05-13**|**Adaptive Exploration for Data-Efficient General Value Function Evaluations**|Arushi Jain et.al.|[2405.07838](http://arxiv.org/abs/2405.07838)|null|
 |**2024-05-13**|**Fixed Point Theory Analysis of a Lambda Policy Iteration with Randomization for the Ćirić Contraction Operator**|Abdelkader Belhenniche et.al.|[2405.07824](http://arxiv.org/abs/2405.07824)|null|
@@ -2701,6 +2711,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization**|Rui Li et.al.|[2405.08540](http://arxiv.org/abs/2405.08540)|**[link](https://github.com/xxrep/golde)**|
+|**2024-05-14**|**Falcon 7b for Software Mention Detection in Scholarly Documents**|AmeerAli Khan et.al.|[2405.08514](http://arxiv.org/abs/2405.08514)|null|
+|**2024-05-14**|**How to Surprisingly Consider Recommendations? A Knowledge-Graph-based Approach Relying on Complex Network Metrics**|Oliver Baumann et.al.|[2405.08465](http://arxiv.org/abs/2405.08465)|null|
+|**2024-05-14**|**KG-EmpiRE: A Community-Maintainable Knowledge Graph for a Sustainable Literature Review on the State and Evolution of Empirical Research in Requirements Engineering**|Oliver Karras et.al.|[2405.08351](http://arxiv.org/abs/2405.08351)|null|
+|**2024-05-14**|**Cross-Category Functional Grasp Tansfer**|Rina Wu et.al.|[2405.08310](http://arxiv.org/abs/2405.08310)|null|
+|**2024-05-12**|**HGTDR: Advancing Drug Repurposing with Heterogeneous Graph Transformers**|Ali Gharizadeh et.al.|[2405.08031](http://arxiv.org/abs/2405.08031)|null|
 |**2024-05-13**|**Knowledge Graph Embedding in Intent-Based Networking**|Kashif Mehmood et.al.|[2405.07850](http://arxiv.org/abs/2405.07850)|null|
 |**2024-05-13**|**Geospatial Knowledge Graphs**|Rui Zhu et.al.|[2405.07664](http://arxiv.org/abs/2405.07664)|null|
 |**2024-05-12**|**Observability and Incident Response in Managed Serverless Environments Using Ontology-Based Log Monitoring**|Lavi Ben-Shimol et.al.|[2405.07172](http://arxiv.org/abs/2405.07172)|null|
