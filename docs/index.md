@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -49,6 +49,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323](http://arxiv.org/abs/2406.04323)|null|
+|**2024-06-06**|**Self-Play with Adversarial Critic: Provable and Scalable Offline Alignment for Language Models**|Xiang Ji et.al.|[2406.04274](http://arxiv.org/abs/2406.04274)|null|
+|**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
+|**2024-06-06**|**Deterministic Uncertainty Propagation for Improved Model-Based Offline Reinforcement Learning**|Abdullah Akgül et.al.|[2406.04088](http://arxiv.org/abs/2406.04088)|null|
+|**2024-06-06**|**Bootstrapping Expectiles in Reinforcement Learning**|Pierre Clavier et.al.|[2406.04081](http://arxiv.org/abs/2406.04081)|null|
+|**2024-06-06**|**Spatio-temporal Early Prediction based on Multi-objective Reinforcement Learning**|Wei Shao et.al.|[2406.04035](http://arxiv.org/abs/2406.04035)|null|
+|**2024-06-06**|**Contrastive Sparse Autoencoders for Interpreting Planning of Chess-Playing Agents**|Yoann Poupart et.al.|[2406.04028](http://arxiv.org/abs/2406.04028)|**[link](https://github.com/Xmaster6y/lczero-planning)**|
+|**2024-06-06**|**HackAtari: Atari Learning Environments for Robust and Continual Reinforcement Learning**|Quentin Delfosse et.al.|[2406.03997](http://arxiv.org/abs/2406.03997)|null|
+|**2024-06-06**|**AC4MPC: Actor-Critic Reinforcement Learning for Nonlinear Model Predictive Control**|Rudolf Reiter et.al.|[2406.03995](http://arxiv.org/abs/2406.03995)|null|
+|**2024-06-06**|**Mini Honor of Kings: A Lightweight Environment for Multi-Agent Reinforcement Learning**|Lin Liu et.al.|[2406.03978](http://arxiv.org/abs/2406.03978)|null|
 |**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397](http://arxiv.org/abs/2406.03397)|null|
 |**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363](http://arxiv.org/abs/2406.03363)|null|
 |**2024-06-05**|**UDQL: Bridging The Gap between MSE Loss and The Optimal Value Function in Offline Reinforcement Learning**|Yu Zhang et.al.|[2406.03324](http://arxiv.org/abs/2406.03324)|null|
@@ -2849,7 +2859,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-05**|**Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**|Qiang Sun et.al.|[2406.02962](http://arxiv.org/abs/2406.02962)|null|
+|**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953](http://arxiv.org/abs/2406.03953)|null|
+|**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855](http://arxiv.org/abs/2406.03855)|null|
+|**2024-06-06**|**Efficient Knowledge Infusion via KG-LLM Alignment**|Zhouyu Jiang et.al.|[2406.03746](http://arxiv.org/abs/2406.03746)|null|
+|**2024-06-06**|**A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions**|Lei Liu et.al.|[2406.03712](http://arxiv.org/abs/2406.03712)|null|
+|**2024-06-05**|**Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**|Qiang Sun et.al.|[2406.02962](http://arxiv.org/abs/2406.02962)|**[link](https://github.com/AI4WA/Docs2KG)**|
 |**2024-06-04**|**Query-Enhanced Adaptive Semantic Path Reasoning for Inductive Knowledge Graph Completion**|Kai Sun et.al.|[2406.02205](http://arxiv.org/abs/2406.02205)|null|
 |**2024-06-04**|**UniOQA: A Unified Framework for Knowledge Graph Question Answering with Large Language Models**|Zhuoyang Li et.al.|[2406.02110](http://arxiv.org/abs/2406.02110)|null|
 |**2024-06-05**|**Multimodal Reasoning with Multimodal Knowledge Graph**|Junlin Lee et.al.|[2406.02030](http://arxiv.org/abs/2406.02030)|null|
