@@ -49,6 +49,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**LINX: A Language Driven Generative System for Goal-Oriented Automated Data Exploration**|Tavor Lipman et.al.|[2406.05107](http://arxiv.org/abs/2406.05107)|null|
+|**2024-06-07**|**Massively Multiagent Minigames for Training Generalist Agents**|Kyoung Whan Choe et.al.|[2406.05071](http://arxiv.org/abs/2406.05071)|**[link](https://github.com/kywch/meta-mmo)**|
+|**2024-06-07**|**Online Frequency Scheduling by Learning Parallel Actions**|Anastasios Giovanidis et.al.|[2406.05041](http://arxiv.org/abs/2406.05041)|null|
+|**2024-06-07**|**Optimizing Automatic Differentiation with Deep Reinforcement Learning**|Jamie Lohoff et.al.|[2406.05027](http://arxiv.org/abs/2406.05027)|null|
+|**2024-06-07**|**Designs for Enabling Collaboration in Human-Machine Teaming via Interactive and Explainable Systems**|Rohan Paleja et.al.|[2406.05003](http://arxiv.org/abs/2406.05003)|null|
+|**2024-06-07**|**SLOPE: Search with Learned Optimal Pruning-based Expansion**|Davor Bokan et.al.|[2406.04935](http://arxiv.org/abs/2406.04935)|**[link](https://github.com/dbokan1/slope)**|
+|**2024-06-07**|**Sim-to-real Transfer of Deep Reinforcement Learning Agents for Online Coverage Path Planning**|Arvi Jonnarth et.al.|[2406.04920](http://arxiv.org/abs/2406.04920)|null|
+|**2024-06-07**|**Stabilizing Extreme Q-learning by Maclaurin Expansion**|Motoki Omura et.al.|[2406.04896](http://arxiv.org/abs/2406.04896)|null|
+|**2024-06-07**|**Primitive Agentic First-Order Optimization**|R. Sala et.al.|[2406.04841](http://arxiv.org/abs/2406.04841)|null|
+|**2024-06-07**|**Algorithms for learning value-aligned policies considering admissibility relaxation**|Andrés Holgado-Sánchez et.al.|[2406.04838](http://arxiv.org/abs/2406.04838)|null|
 |**2024-06-06**|**ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories**|Qianlan Yang et.al.|[2406.04323](http://arxiv.org/abs/2406.04323)|null|
 |**2024-06-06**|**Self-Play with Adversarial Critic: Provable and Scalable Offline Alignment for Language Models**|Xiang Ji et.al.|[2406.04274](http://arxiv.org/abs/2406.04274)|null|
 |**2024-06-06**|**MARLander: A Local Path Planning for Drone Swarms using Multiagent Deep Reinforcement Learning**|Demetros Aschu et.al.|[2406.04159](http://arxiv.org/abs/2406.04159)|null|
@@ -2859,6 +2869,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Data2Neo -- A Tool for Complex Neo4j Data Integration**|Julian Minder et.al.|[2406.04995](http://arxiv.org/abs/2406.04995)|null|
+|**2024-06-07**|**Compositional Generalization with Grounded Language Models**|Sondre Wold et.al.|[2406.04989](http://arxiv.org/abs/2406.04989)|null|
+|**2024-06-07**|**CRAG -- Comprehensive RAG Benchmark**|Xiao Yang et.al.|[2406.04744](http://arxiv.org/abs/2406.04744)|null|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953](http://arxiv.org/abs/2406.03953)|null|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855](http://arxiv.org/abs/2406.03855)|null|
 |**2024-06-06**|**Efficient Knowledge Infusion via KG-LLM Alignment**|Zhouyu Jiang et.al.|[2406.03746](http://arxiv.org/abs/2406.03746)|null|
