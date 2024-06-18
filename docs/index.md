@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -51,6 +51,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**WPO: Enhancing RLHF with Weighted Preference Optimization**|Wenxuan Zhou et.al.|[2406.11827](http://arxiv.org/abs/2406.11827)|**[link](https://github.com/wzhouad/wpo)**|
+|**2024-06-17**|**Computationally Efficient RL under Linear Bellman Completeness for Deterministic Dynamics**|Runzhe Wu et.al.|[2406.11810](http://arxiv.org/abs/2406.11810)|null|
+|**2024-06-17**|**Run Time Assured Reinforcement Learning for Six Degree-of-Freedom Spacecraft Inspection**|Kyle Dunlap et.al.|[2406.11795](http://arxiv.org/abs/2406.11795)|null|
+|**2024-06-17**|**Optimal Transport-Assisted Risk-Sensitive Q-Learning**|Zahra Shahrooei et.al.|[2406.11774](http://arxiv.org/abs/2406.11774)|null|
+|**2024-06-17**|**Measuring memorization in RLHF for code completion**|Aneesh Pappu et.al.|[2406.11715](http://arxiv.org/abs/2406.11715)|null|
+|**2024-06-17**|**The Role of Inherent Bellman Error in Offline Reinforcement Learning with Linear Function Approximation**|Noah Golowich et.al.|[2406.11686](http://arxiv.org/abs/2406.11686)|null|
+|**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
+|**2024-06-17**|**Linear Bellman Completeness Suffices for Efficient Online Reinforcement Learning with Few Actions**|Noah Golowich et.al.|[2406.11640](http://arxiv.org/abs/2406.11640)|null|
+|**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581](http://arxiv.org/abs/2406.11581)|null|
+|**2024-06-17**|**Intersymbolic AI: Interlinking Symbolic AI and Subsymbolic AI**|André Platzer et.al.|[2406.11563](http://arxiv.org/abs/2406.11563)|null|
 |**2024-06-13**|**Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms**|Miaosen Zhang et.al.|[2406.09397](http://arxiv.org/abs/2406.09397)|null|
 |**2024-06-13**|**Is Value Learning Really the Main Bottleneck in Offline RL?**|Seohong Park et.al.|[2406.09329](http://arxiv.org/abs/2406.09329)|null|
 |**2024-06-13**|**AutomaChef: A Physics-informed Demonstration-guided Learning Framework for Granular Material Manipulation**|Minglun Wei et.al.|[2406.09178](http://arxiv.org/abs/2406.09178)|null|
@@ -2911,6 +2921,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**TRACE the Evidence: Constructing Knowledge-Grounded Reasoning Chains for Retrieval-Augmented Generation**|Jinyuan Fang et.al.|[2406.11460](http://arxiv.org/abs/2406.11460)|**[link](https://github.com/jyfang6/trace)**|
+|**2024-06-17**|**Large Language Models and Knowledge Graphs for Astronomical Entity Disambiguation**|Golnaz Shapurian et.al.|[2406.11400](http://arxiv.org/abs/2406.11400)|null|
+|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162](http://arxiv.org/abs/2406.11162)|null|
+|**2024-06-17**|**Move Beyond Triples: Contextual Knowledge Graph Representation and Reasoning**|Chengjin Xu et.al.|[2406.11160](http://arxiv.org/abs/2406.11160)|null|
+|**2024-06-17**|**Are Large Language Models a Good Replacement of Taxonomies?**|Yushi Sun et.al.|[2406.11131](http://arxiv.org/abs/2406.11131)|null|
+|**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|null|
+|**2024-06-16**|**KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs**|Aihua Pei et.al.|[2406.10802](http://arxiv.org/abs/2406.10802)|null|
+|**2024-06-15**|**SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task**|Ziije Zhong et.al.|[2406.10710](http://arxiv.org/abs/2406.10710)|null|
+|**2024-06-15**|**Large Language Models as Event Forecasters**|Libo Zhang et.al.|[2406.10492](http://arxiv.org/abs/2406.10492)|null|
+|**2024-06-14**|**EWEK-QA: Enhanced Web and Efficient Knowledge Graph Retrieval for Citation-based Question Answering Systems**|Mohammad Dehghan et.al.|[2406.10393](http://arxiv.org/abs/2406.10393)|null|
 |**2024-06-13**|**Master of Disaster: A Disaster-Related Event Monitoring System From News Streams**|Junbo Huang et.al.|[2406.09323](http://arxiv.org/abs/2406.09323)|null|
 |**2024-06-13**|**Knowledge Graphs in the Digital Twin: A Systematic Literature Review About the Combination of Semantic Technologies and Simulation in Industrial Automation**|Franz Georg Listl et.al.|[2406.09042](http://arxiv.org/abs/2406.09042)|null|
 |**2024-06-12**|**Wiki Entity Summarization Benchmark**|Saeedeh Javadi et.al.|[2406.08435](http://arxiv.org/abs/2406.08435)|**[link](https://github.com/msorkhpar/wiki-entity-summarization-preprocessor)**|
