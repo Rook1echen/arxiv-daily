@@ -1,4 +1,4 @@
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,12 +54,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|null|
+|**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
+|**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
+|**2024-07-03**|**Policy-guided Monte Carlo on general state spaces: Application to glass-forming mixtures**|Leonardo Galliano et.al.|[2407.03275](http://arxiv.org/abs/2407.03275)|null|
+|**2024-07-03**|**PPO-based Dynamic Control of Uncertain Floating Platforms in the Zero-G Environment**|Mahya Ramezani et.al.|[2407.03224](http://arxiv.org/abs/2407.03224)|null|
+|**2024-07-03**|**Combining AI Control Systems and Human Decision Support via Robustness and Criticality**|Walt Woods et.al.|[2407.03210](http://arxiv.org/abs/2407.03210)|null|
+|**2024-07-03**|**Reinforcement Learning for Sequence Design Leveraging Protein Language Models**|Jithendaraa Subramanian et.al.|[2407.03154](http://arxiv.org/abs/2407.03154)|null|
+|**2024-07-03**|**Warm-up Free Policy Optimization: Improved Regret in Linear Markov Decision Processes**|Asaf Cassel et.al.|[2407.03065](http://arxiv.org/abs/2407.03065)|null|
+|**2024-07-03**|**Improving Conversational Abilities of Quantized Large Language Models via Direct Preference Alignment**|Janghwan Lee et.al.|[2407.03051](http://arxiv.org/abs/2407.03051)|null|
+|**2024-07-03**|**On the Client Preference of LLM Fine-tuning in Federated Learning**|Feijie Wu et.al.|[2407.03038](http://arxiv.org/abs/2407.03038)|null|
 |**2024-07-02**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466](http://arxiv.org/abs/2407.02466)|null|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439](http://arxiv.org/abs/2407.02439)|null|
 |**2024-07-02**|**Reinforcement Learning and Machine ethics:a systematic review**|Ajay Vishwanath et.al.|[2407.02425](http://arxiv.org/abs/2407.02425)|null|
@@ -2982,12 +2992,13 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning**|Harsh Bansal et.al.|[2407.02520](http://arxiv.org/abs/2407.02520)|null|
 |**2024-05-25**|**Diffusion-Reward Adversarial Imitation Learning**|Chun-Mao Lai et.al.|[2405.16194](http://arxiv.org/abs/2405.16194)|null|
 |**2024-02-26**|**C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory**|Tianjiao Luo et.al.|[2402.16349](http://arxiv.org/abs/2402.16349)|null|
 |**2024-02-15**|**Interpretable Generative Adversarial Imitation Learning**|Wenliang Liu et.al.|[2402.10310](http://arxiv.org/abs/2402.10310)|null|
@@ -3015,12 +3026,18 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Fair Resource Allocation for Probabilistic Semantic Communication in IIoT**|Siyun Liang et.al.|[2407.02922](http://arxiv.org/abs/2407.02922)|null|
+|**2024-07-03**|**Contrast then Memorize: Semantic Neighbor Retrieval-Enhanced Inductive Multimodal Knowledge Graph Completion**|Yu Zhao et.al.|[2407.02867](http://arxiv.org/abs/2407.02867)|null|
+|**2024-07-03**|**HybEA: Hybrid Attention Models for Entity Alignment**|Nikolaos Fanourakis et.al.|[2407.02862](http://arxiv.org/abs/2407.02862)|null|
+|**2024-07-03**|**Croppable Knowledge Graph Embedding**|Yushan Zhu et.al.|[2407.02779](http://arxiv.org/abs/2407.02779)|null|
+|**2024-07-03**|**SF-GNN: Self Filter for Message Lossless Propagation in Deep Graph Neural Network**|Yushan Zhu et.al.|[2407.02762](http://arxiv.org/abs/2407.02762)|null|
+|**2024-07-02**|**Ensuring Responsible Sourcing of Large Language Model Training Data Through Knowledge Graph Comparison**|Devam Mondal et.al.|[2407.02659](http://arxiv.org/abs/2407.02659)|null|
 |**2024-07-02**|**ML-extendable framework for multiphysics-multiscale simulation workflow and data management using Kadi4Mat**|Somnath Bharech et.al.|[2407.02162](http://arxiv.org/abs/2407.02162)|null|
 |**2024-07-02**|**Automated Knowledge Graph Learning in Industrial Processes**|Lolitta Ammann et.al.|[2407.02106](http://arxiv.org/abs/2407.02106)|null|
 |**2024-07-02**|**Simple Augmentations of Logical Rules for Neuro-Symbolic Knowledge Graph Completion**|Ananjan Nandi et.al.|[2407.01994](http://arxiv.org/abs/2407.01994)|null|
@@ -4164,5 +4181,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240704>back to top</a>)</p>
 
