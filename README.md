@@ -1,4 +1,4 @@
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -54,12 +54,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Safe and Reliable Training of Learning-Based Aerospace Controllers**|Udayan Mandal et.al.|[2407.07088](http://arxiv.org/abs/2407.07088)|null|
+|**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
+|**2024-07-09**|**Can Learned Optimization Make Reinforcement Learning Less Difficult?**|Alexander David Goldie et.al.|[2407.07082](http://arxiv.org/abs/2407.07082)|**[link](https://github.com/alexgoldie/rl-learned-optimization)**|
+|**2024-07-09**|**A Unified Approach to Multi-task Legged Navigation: Temporal Logic Meets Reinforcement Learning**|Jesse Jiang et.al.|[2407.06931](http://arxiv.org/abs/2407.06931)|null|
+|**2024-07-09**|**Intercepting Unauthorized Aerial Robots in Controlled Airspace Using Reinforcement Learning**|Francisco Giral et.al.|[2407.06909](http://arxiv.org/abs/2407.06909)|null|
+|**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
+|**2024-07-09**|**Energy Efficient Fair STAR-RIS for Mobile Users**|Ashok S. Kumar et.al.|[2407.06868](http://arxiv.org/abs/2407.06868)|null|
+|**2024-07-09**|**Frequency and Generalisation of Periodic Activation Functions in Reinforcement Learning**|Augustine N. Mavor-Parker et.al.|[2407.06756](http://arxiv.org/abs/2407.06756)|null|
+|**2024-07-09**|**Hierarchical Average-Reward Linearly-solvable Markov Decision Processes**|Guillermo Infante et.al.|[2407.06690](http://arxiv.org/abs/2407.06690)|null|
+|**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
 |**2024-07-08**|**Periodic agent-state based Q-learning for POMDPs**|Amit Sinha et.al.|[2407.06121](http://arxiv.org/abs/2407.06121)|null|
 |**2024-07-08**|**QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train**|Chen-Yu Liu et.al.|[2407.06103](http://arxiv.org/abs/2407.06103)|null|
 |**2024-07-08**|**Stranger Danger! Identifying and Avoiding Unpredictable Pedestrians in RL-based Social Robot Navigation**|Sara Pohland et.al.|[2407.06056](http://arxiv.org/abs/2407.06056)|**[link](https://github.com/sarapohland/stranger-danger)**|
@@ -3012,7 +3022,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3046,13 +3056,18 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041](http://arxiv.org/abs/2407.06041)|null|
+|**2024-07-09**|**Simple and Interpretable Probabilistic Classifiers for Knowledge Graphs**|Christian Riefolo et.al.|[2407.07045](http://arxiv.org/abs/2407.07045)|null|
+|**2024-07-09**|**Microsoft Cloud-based Digitization Workflow with Rich Metadata Acquisition for Cultural Heritage Objects**|Krzysztof Kutt et.al.|[2407.06972](http://arxiv.org/abs/2407.06972)|null|
+|**2024-07-09**|**Performance Evaluation of Knowledge Graph Embedding Approaches under Non-adversarial Attacks**|Sourabh Kapoor et.al.|[2407.06855](http://arxiv.org/abs/2407.06855)|null|
+|**2024-07-09**|**Combining Knowledge Graphs and Large Language Models**|Amanda Kau et.al.|[2407.06564](http://arxiv.org/abs/2407.06564)|null|
+|**2024-07-08**|**Geospatial Trajectory Generation via Efficient Abduction: Deployment for Independent Testing**|Divyagna Bavikadi et.al.|[2407.06447](http://arxiv.org/abs/2407.06447)|null|
+|**2024-07-08**|**MST5 -- Multilingual Question Answering over Knowledge Graphs**|Nikit Srivastava et.al.|[2407.06041](http://arxiv.org/abs/2407.06041)|**[link](https://github.com/dice-group/MST5)**|
 |**2024-07-08**|**KG-FPQ: Evaluating Factuality Hallucination in LLMs with Knowledge Graph-based False Premise Questions**|Yanxu Zhu et.al.|[2407.05868](http://arxiv.org/abs/2407.05868)|**[link](https://github.com/yanxuzhu/kg-fpq)**|
 |**2024-07-08**|**Fast and Continual Knowledge Graph Embedding via Incremental LoRA**|Jiajun Liu et.al.|[2407.05705](http://arxiv.org/abs/2407.05705)|**[link](https://github.com/seukgcode/fastkge)**|
 |**2024-07-07**|**KAE: A Property-based Method for Knowledge Graph Alignment and Extension**|Daqian Shi et.al.|[2407.05320](http://arxiv.org/abs/2407.05320)|null|
@@ -4212,5 +4227,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240710>back to top</a>)</p>
 
