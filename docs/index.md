@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Bridging the Gap: A Survey and Classification of Research-Informed Ethical Hacking Tools**|Paolo Modesti et.al.|[2407.14255](http://arxiv.org/abs/2407.14255)|null|
 |**2024-06-25**|**Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations**|Cheng Wang et.al.|[2406.17576](http://arxiv.org/abs/2406.17576)|null|
 |**2024-06-12**|**PTHelper: An open source tool to support the Penetration Testing process**|Jacobo Casado de Gracia et.al.|[2406.08242](http://arxiv.org/abs/2406.08242)|**[link](https://github.com/jacobocasado/PTHelper)**|
 |**2024-05-09**|**Artificial Intelligence as the New Hacker: Developing Agents for Offensive Security**|Leroy Jacob Valencia et.al.|[2406.07561](http://arxiv.org/abs/2406.07561)|null|
@@ -52,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
+|**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**FuzzTheREST: An Intelligent Automated Black-box RESTful API Fuzzer**|Tiago Dias et.al.|[2407.14361](http://arxiv.org/abs/2407.14361)|null|
+|**2024-07-19**|**Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**|Nihal Acharya Adde et.al.|[2407.14262](http://arxiv.org/abs/2407.14262)|null|
+|**2024-07-19**|**On Policy Evaluation Algorithms in Distributional Reinforcement Learning**|Julian Gerstenberg et.al.|[2407.14175](http://arxiv.org/abs/2407.14175)|null|
+|**2024-07-19**|**A Comparative Study of Deep Reinforcement Learning Models: DQN vs PPO vs A2C**|Neil De La Fuente et.al.|[2407.14151](http://arxiv.org/abs/2407.14151)|**[link](https://github.com/neilus03/drl_comparative_study)**|
+|**2024-07-19**|**Track-MDP: Reinforcement Learning for Target Tracking with Controlled Sensing**|Adarsh M. Subramaniam et.al.|[2407.13995](http://arxiv.org/abs/2407.13995)|null|
+|**2024-07-19**|**The Effect of Training Schedules on Morphological Robustness and Generalization**|Edoardo Barba et.al.|[2407.13965](http://arxiv.org/abs/2407.13965)|**[link](https://github.com/edoardobarba/evolving-generalist-controllers)**|
+|**2024-07-18**|**Event-Triggered Reinforcement Learning Based Joint Resource Allocation for Ultra-Reliable Low-Latency V2X Communications**|Nasir Khan et.al.|[2407.13947](http://arxiv.org/abs/2407.13947)|null|
 |**2024-07-18**|**Random Latent Exploration for Deep Reinforcement Learning**|Srinath Mahankali et.al.|[2407.13755](http://arxiv.org/abs/2407.13755)|null|
 |**2024-07-18**|**Optimistic Q-learning for average reward and episodic reinforcement learning**|Priyank Agrawal et.al.|[2407.13743](http://arxiv.org/abs/2407.13743)|null|
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|**[link](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)**|
@@ -3122,9 +3133,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146](http://arxiv.org/abs/2407.14146)|null|
+|**2024-07-19**|**HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**|Prerana Sanjay Kulkarni et.al.|[2407.14030](http://arxiv.org/abs/2407.14030)|null|
+|**2024-07-19**|**Towards Extracting Ethical Concerns-related Software Requirements from App Reviews**|Aakash Sorathiya et.al.|[2407.14023](http://arxiv.org/abs/2407.14023)|null|
+|**2024-07-18**|**PRAGyan -- Connecting the Dots in Tweets**|Rahul Ravi et.al.|[2407.13909](http://arxiv.org/abs/2407.13909)|null|
 |**2024-07-18**|**KNOWNET: Guided Health Information Seeking from LLMs via Knowledge Graph Integration**|Youfu Yan et.al.|[2407.13598](http://arxiv.org/abs/2407.13598)|null|
 |**2024-07-18**|**How to quantify an examination? Evidence from physics examinations via complex networks**|Min Xia et.al.|[2407.13161](http://arxiv.org/abs/2407.13161)|null|
-|**2024-07-17**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
+|**2024-07-19**|**Subgraph-Aware Training of Text-based Methods for Knowledge Graph Completion**|Youmin Ko et.al.|[2407.12703](http://arxiv.org/abs/2407.12703)|null|
 |**2024-07-17**|**Struct-X: Enhancing Large Language Models Reasoning with Structured Data**|Xiaoyu Tan et.al.|[2407.12522](http://arxiv.org/abs/2407.12522)|null|
 |**2024-07-16**|**Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation**|Garima Agrawal et.al.|[2407.12216](http://arxiv.org/abs/2407.12216)|null|
 |**2024-07-16**|**Approximating Probabilistic Inference in Statistical EL with Knowledge Graph Embeddings**|Yuqicheng Zhu et.al.|[2407.11821](http://arxiv.org/abs/2407.11821)|null|
