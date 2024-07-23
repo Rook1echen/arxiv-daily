@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN**|Norman Becker et.al.|[2407.15656](http://arxiv.org/abs/2407.15656)|null|
 |**2024-07-19**|**Bridging the Gap: A Survey and Classification of Research-Informed Ethical Hacking Tools**|Paolo Modesti et.al.|[2407.14255](http://arxiv.org/abs/2407.14255)|null|
 |**2024-06-25**|**Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations**|Cheng Wang et.al.|[2406.17576](http://arxiv.org/abs/2406.17576)|null|
 |**2024-06-12**|**PTHelper: An open source tool to support the Penetration Testing process**|Jacobo Casado de Gracia et.al.|[2406.08242](http://arxiv.org/abs/2406.08242)|**[link](https://github.com/jacobocasado/PTHelper)**|
@@ -53,6 +54,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**WayEx: Waypoint Exploration using a Single Demonstration**|Mara Levy et.al.|[2407.15849](http://arxiv.org/abs/2407.15849)|null|
+|**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839](http://arxiv.org/abs/2407.15839)|null|
+|**2024-07-22**|**On shallow planning under partial observability**|Randy Lefebvre et.al.|[2407.15820](http://arxiv.org/abs/2407.15820)|null|
+|**2024-07-22**|**Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning**|Zhecheng Yuan et.al.|[2407.15815](http://arxiv.org/abs/2407.15815)|null|
+|**2024-07-22**|**Concept-Based Interpretable Reinforcement Learning with Limited to No Human Labels**|Zhuorui Ye et.al.|[2407.15786](http://arxiv.org/abs/2407.15786)|null|
+|**2024-07-22**|**Diffusion Model Based Resource Allocation Strategy in Ultra-Reliable Wireless Networked Control Systems**|Amirhassan Babazadeh Darabi et.al.|[2407.15784](http://arxiv.org/abs/2407.15784)|null|
+|**2024-07-22**|**How to Shrink Confidence Sets for Many Equivalent Discrete Distributions?**|Odalric-Ambrym Maillard et.al.|[2407.15662](http://arxiv.org/abs/2407.15662)|null|
+|**2024-07-22**|**Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN**|Norman Becker et.al.|[2407.15656](http://arxiv.org/abs/2407.15656)|null|
+|**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626](http://arxiv.org/abs/2407.15626)|null|
+|**2024-07-22**|**Sustainable broadcasting in Blockchain Network with Reinforcement Learning**|Danila Valko et.al.|[2407.15616](http://arxiv.org/abs/2407.15616)|null|
 |**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
 |**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
 |**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
@@ -3133,6 +3144,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588](http://arxiv.org/abs/2407.15588)|**[link](https://github.com/eralign/eralign)**|
+|**2024-07-21**|**A Model of Proactive Safety Based on Knowledge Graph**|He Wen et.al.|[2407.15127](http://arxiv.org/abs/2407.15127)|null|
+|**2024-07-20**|**SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-based Synthetic Lethal Prediction**|Haoran Jiang et.al.|[2407.14770](http://arxiv.org/abs/2407.14770)|null|
 |**2024-07-19**|**Fine-grained Knowledge Graph-driven Video-Language Learning for Action Recognition**|Rui Zhang et.al.|[2407.14146](http://arxiv.org/abs/2407.14146)|null|
 |**2024-07-19**|**HeCiX: Integrating Knowledge Graphs and Large Language Models for Biomedical Research**|Prerana Sanjay Kulkarni et.al.|[2407.14030](http://arxiv.org/abs/2407.14030)|null|
 |**2024-07-19**|**Towards Extracting Ethical Concerns-related Software Requirements from App Reviews**|Aakash Sorathiya et.al.|[2407.14023](http://arxiv.org/abs/2407.14023)|null|
