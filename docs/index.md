@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Virtual Reality and Augmented Reality Security: A Reconnaissance and Vulnerability Assessment Approach**|Sarina Dastgerdy et.al.|[2407.15984](http://arxiv.org/abs/2407.15984)|null|
 |**2024-07-22**|**Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN**|Norman Becker et.al.|[2407.15656](http://arxiv.org/abs/2407.15656)|null|
 |**2024-07-19**|**Bridging the Gap: A Survey and Classification of Research-Informed Ethical Hacking Tools**|Paolo Modesti et.al.|[2407.14255](http://arxiv.org/abs/2407.14255)|null|
 |**2024-06-25**|**Leveraging Reinforcement Learning in Red Teaming for Advanced Ransomware Attack Simulations**|Cheng Wang et.al.|[2406.17576](http://arxiv.org/abs/2406.17576)|null|
@@ -54,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
+|**2024-07-23**|**Efficient Discovery of Actual Causality using Abstraction-Refinement**|Arshia Rafieioskouei et.al.|[2407.16629](http://arxiv.org/abs/2407.16629)|null|
+|**2024-07-23**|**Functional Acceleration for Policy Mirror Descent**|Veronica Chelu et.al.|[2407.16602](http://arxiv.org/abs/2407.16602)|null|
+|**2024-07-23**|**Real-Time Interactions Between Human Controllers and Remote Devices in Metaverse**|Kan Chen et.al.|[2407.16591](http://arxiv.org/abs/2407.16591)|null|
+|**2024-07-23**|**TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**|Eunseop Yoon et.al.|[2407.16574](http://arxiv.org/abs/2407.16574)|null|
+|**2024-07-23**|**Cross Anything: General Quadruped Robot Navigation through Complex Terrains**|Shaoting Zhu et.al.|[2407.16412](http://arxiv.org/abs/2407.16412)|null|
+|**2024-07-23**|**Evaluating Uncertainties in Electricity Markets via Machine Learning and Quantum Computing**|Shuyang Zhu et.al.|[2407.16404](http://arxiv.org/abs/2407.16404)|null|
+|**2024-07-23**|**Reinforcement Learning-based Adaptive Mitigation of Uncorrected DRAM Errors in the Field**|Isaac Boixaderas et.al.|[2407.16377](http://arxiv.org/abs/2407.16377)|null|
+|**2024-07-23**|**Arbitrary quantum states preparation aided by deep reinforcement learning**|Zhao-Wei Wang et.al.|[2407.16368](http://arxiv.org/abs/2407.16368)|null|
 |**2024-07-22**|**WayEx: Waypoint Exploration using a Single Demonstration**|Mara Levy et.al.|[2407.15849](http://arxiv.org/abs/2407.15849)|null|
 |**2024-07-22**|**Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments**|Mansur Arief et.al.|[2407.15839](http://arxiv.org/abs/2407.15839)|null|
 |**2024-07-22**|**On shallow planning under partial observability**|Randy Lefebvre et.al.|[2407.15820](http://arxiv.org/abs/2407.15820)|null|
@@ -3144,6 +3155,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Dynamic Subgraph Matching via Cost-Model-based Vertex Dominance Embeddings (Technical Report)**|Yutong Ye et.al.|[2407.16660](http://arxiv.org/abs/2407.16660)|null|
+|**2024-07-23**|**On The Expressive Power of Knowledge Graph Embedding Methods**|Jiexing Gao et.al.|[2407.16326](http://arxiv.org/abs/2407.16326)|null|
+|**2024-07-23**|**Progressively Modality Freezing for Multi-Modal Entity Alignment**|Yani Huang et.al.|[2407.16168](http://arxiv.org/abs/2407.16168)|null|
+|**2024-07-23**|**Finetuning Generative Large Language Models with Discrimination Instructions for Knowledge Graph Completion**|Yang Liu et.al.|[2407.16127](http://arxiv.org/abs/2407.16127)|**[link](https://github.com/nju-websoft/dift)**|
+|**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588](http://arxiv.org/abs/2407.15588)|**[link](https://github.com/eralign/eralign)**|
 |**2024-07-21**|**A Model of Proactive Safety Based on Knowledge Graph**|He Wen et.al.|[2407.15127](http://arxiv.org/abs/2407.15127)|null|
 |**2024-07-20**|**SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for GNN-based Synthetic Lethal Prediction**|Haoran Jiang et.al.|[2407.14770](http://arxiv.org/abs/2407.14770)|null|
