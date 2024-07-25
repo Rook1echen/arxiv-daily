@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Insider Threats Mitigation: Role of Penetration Testing**|Krutarth Chauhan et.al.|[2407.17346](http://arxiv.org/abs/2407.17346)|null|
+|**2024-07-24**|**Advanced Penetration Testing for Enhancing 5G Security**|Shari-Ann Smith-Haynes et.al.|[2407.17269](http://arxiv.org/abs/2407.17269)|null|
+|**2024-07-24**|**Critical Infrastructure Security: Penetration Testing and Exploit Development Perspectives**|Papa Kobina Orleans-Bosomtwe et.al.|[2407.17256](http://arxiv.org/abs/2407.17256)|null|
 |**2024-07-22**|**Virtual Reality and Augmented Reality Security: A Reconnaissance and Vulnerability Assessment Approach**|Sarina Dastgerdy et.al.|[2407.15984](http://arxiv.org/abs/2407.15984)|null|
 |**2024-07-22**|**Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN**|Norman Becker et.al.|[2407.15656](http://arxiv.org/abs/2407.15656)|null|
 |**2024-07-19**|**Bridging the Gap: A Survey and Classification of Research-Informed Ethical Hacking Tools**|Paolo Modesti et.al.|[2407.14255](http://arxiv.org/abs/2407.14255)|null|
@@ -55,6 +58,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective Reinforcement Learning**|Shuang Qiu et.al.|[2407.17466](http://arxiv.org/abs/2407.17466)|null|
+|**2024-07-24**|**Toward human-centered shared autonomy AI paradigms for human-robot teaming in healthcare**|Reza Abiri et.al.|[2407.17464](http://arxiv.org/abs/2407.17464)|null|
+|**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
+|**2024-07-24**|**Joint Transmit and Jamming Power Optimization for Secrecy in Energy Harvesting Networks: A Reinforcement Learning Approach**|Shalini Tripathi et.al.|[2407.17435](http://arxiv.org/abs/2407.17435)|null|
+|**2024-07-24**|**Market Making with Exogenous Competition**|Robert Boyce et.al.|[2407.17393](http://arxiv.org/abs/2407.17393)|null|
+|**2024-07-24**|**MoveLight: Enhancing Traffic Signal Control through Movement-Centric Deep Reinforcement Learning**|Junqi Shao et.al.|[2407.17303](http://arxiv.org/abs/2407.17303)|null|
+|**2024-07-24**|**Pretrained Visual Representations in Reinforcement Learning**|Emlyn Williams et.al.|[2407.17238](http://arxiv.org/abs/2407.17238)|null|
+|**2024-07-24**|**Sublinear Regret for An Actor-Critic Algorithm in Continuous-Time Linear-Quadratic Reinforcement Learning**|Yilie Huang et.al.|[2407.17226](http://arxiv.org/abs/2407.17226)|null|
+|**2024-07-24**|**Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization**|Jonathan Pirnay et.al.|[2407.17206](http://arxiv.org/abs/2407.17206)|**[link](https://github.com/grimmlab/step-and-reconsider)**|
+|**2024-07-24**|**Path Following and Stabilisation of a Bicycle Model using a Reinforcement Learning Approach**|Sebastian Weyrer et.al.|[2407.17156](http://arxiv.org/abs/2407.17156)|null|
 |**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
 |**2024-07-23**|**Efficient Discovery of Actual Causality using Abstraction-Refinement**|Arshia Rafieioskouei et.al.|[2407.16629](http://arxiv.org/abs/2407.16629)|null|
@@ -3121,6 +3134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**|Huandong Wang et.al.|[2407.16729](http://arxiv.org/abs/2407.16729)|**[link](https://github.com/tsinghua-fib-lab/pategail)**|
 |**2024-07-16**|**A Graph-based Adversarial Imitation Learning Framework for Reliable & Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113](http://arxiv.org/abs/2407.12113)|null|
 |**2024-07-16**|**Learning to Imitate Spatial Organization in Multi-robot Systems**|Ayomide O. Agunloye et.al.|[2407.11592](http://arxiv.org/abs/2407.11592)|null|
 |**2024-06-24**|**RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning**|Harsh Bansal et.al.|[2407.02520](http://arxiv.org/abs/2407.02520)|null|
@@ -3155,6 +3169,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk Contagion**|Guanyuan Yu et.al.|[2407.17190](http://arxiv.org/abs/2407.17190)|null|
+|**2024-07-24**|**From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM**|Lingzhi Wang et.al.|[2407.16928](http://arxiv.org/abs/2407.16928)|null|
+|**2024-07-23**|**AI-Enhanced 7-Point Checklist for Melanoma Detection Using Clinical Knowledge Graphs and Data-Driven Quantification**|Yuheng Wang et.al.|[2407.16822](http://arxiv.org/abs/2407.16822)|null|
+|**2024-07-23**|**Research on Adverse Drug Reaction Prediction Model Combining Knowledge Graph Embedding and Deep Learning**|Yufeng Li et.al.|[2407.16715](http://arxiv.org/abs/2407.16715)|null|
 |**2024-07-23**|**Dynamic Subgraph Matching via Cost-Model-based Vertex Dominance Embeddings (Technical Report)**|Yutong Ye et.al.|[2407.16660](http://arxiv.org/abs/2407.16660)|null|
 |**2024-07-23**|**On The Expressive Power of Knowledge Graph Embedding Methods**|Jiexing Gao et.al.|[2407.16326](http://arxiv.org/abs/2407.16326)|null|
 |**2024-07-23**|**Progressively Modality Freezing for Multi-Modal Entity Alignment**|Yani Huang et.al.|[2407.16168](http://arxiv.org/abs/2407.16168)|null|
