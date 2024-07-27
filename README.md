@@ -1,4 +1,4 @@
-## Updated on 2024.07.26
+## Updated on 2024.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,7 +61,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 ## attack graph
 
@@ -70,7 +70,7 @@
 |**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
 |**2024-07-25**|**Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**|Samuel Yen-Chi Chen et.al.|[2407.18202](http://arxiv.org/abs/2407.18202)|null|
 |**2024-07-25**|**Maximum Entropy On-Policy Actor-Critic via Entropy Advantage Estimation**|Jean Seong Bjorn Choe et.al.|[2407.18143](http://arxiv.org/abs/2407.18143)|null|
-|**2024-07-25**|**MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning**|Mingju Liu et.al.|[2407.18110](http://arxiv.org/abs/2407.18110)|null|
+|**2024-07-25**|**MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning**|Mingju Liu et.al.|[2407.18110](http://arxiv.org/abs/2407.18110)|**[link](https://github.com/Yu-Maryland/MapTune)**|
 |**2024-07-25**|**Principal-Agent Reinforcement Learning**|Dima Ivanov et.al.|[2407.18074](http://arxiv.org/abs/2407.18074)|null|
 |**2024-07-25**|**Multi-Agent Deep Reinforcement Learning for Resilience Optimization in 5G RAN**|Soumeya Kaada et.al.|[2407.18066](http://arxiv.org/abs/2407.18066)|null|
 |**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980](http://arxiv.org/abs/2407.17980)|null|
@@ -3149,7 +3149,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3186,7 +3186,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -4397,5 +4397,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240727>back to top</a>)</p>
 
