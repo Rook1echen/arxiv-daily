@@ -1,4 +1,4 @@
-## Updated on 2024.08.03
+## Updated on 2024.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**A Qualitative Study on Using ChatGPT for Software Security: Perception vs. Practicality**|M. Mehdi Kholoosi et.al.|[2408.00435](http://arxiv.org/abs/2408.00435)|null|
 |**2024-07-25**|**PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation**|Junjie Huang et.al.|[2407.17788](http://arxiv.org/abs/2407.17788)|null|
 |**2024-07-24**|**Insider Threats Mitigation: Role of Penetration Testing**|Krutarth Chauhan et.al.|[2407.17346](http://arxiv.org/abs/2407.17346)|null|
 |**2024-07-24**|**Advanced Penetration Testing for Enhancing 5G Security**|Shari-Ann Smith-Haynes et.al.|[2407.17269](http://arxiv.org/abs/2407.17269)|null|
@@ -61,12 +62,21 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240804>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751](http://arxiv.org/abs/2408.00751)|null|
+|**2024-08-01**|**Insurance Portfolio Pursuit with Reinforcement Learning**|Edward James Young et.al.|[2408.00713](http://arxiv.org/abs/2408.00713)|null|
+|**2024-08-01**|**Learning in Multi-Objective Public Goods Games with Non-Linear Utilities**|Nicole Orzan et.al.|[2408.00682](http://arxiv.org/abs/2408.00682)|null|
+|**2024-08-01**|**Discretizing Continuous Action Space with Unimodal Probability Distributions for On-Policy Reinforcement Learning**|Yuanyang Zhu et.al.|[2408.00309](http://arxiv.org/abs/2408.00309)|null|
+|**2024-08-01**|**A Reinforcement Learning Based Motion Planner for Quadrotor Autonomous Flight in Dense Environment**|Zhaohong Liu et.al.|[2408.00275](http://arxiv.org/abs/2408.00275)|null|
+|**2024-08-01**|**Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control**|Hao Zhou et.al.|[2408.00214](http://arxiv.org/abs/2408.00214)|null|
+|**2024-07-31**|**CREW: Facilitating Human-AI Teaming Research**|Lingyu Zhang et.al.|[2408.00170](http://arxiv.org/abs/2408.00170)|null|
+|**2024-07-31**|**Formal Ethical Obligations in Reinforcement Learning Agents: Verification and Policy Updates**|Colin Shea-Blymyer et.al.|[2408.00147](http://arxiv.org/abs/2408.00147)|null|
+|**2024-07-31**|**Adaptive Transit Signal Priority based on Deep Reinforcement Learning and Connected Vehicles in a Traffic Microsimulation Environment**|Dickness Kwesiga et.al.|[2408.00098](http://arxiv.org/abs/2408.00098)|null|
 |**2024-07-31**|**Berkeley Humanoid: A Research Platform for Learning-based Control**|Qiayuan Liao et.al.|[2407.21781](http://arxiv.org/abs/2407.21781)|null|
 |**2024-07-31**|**Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)**|Yang An et.al.|[2407.21734](http://arxiv.org/abs/2407.21734)|null|
 |**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565](http://arxiv.org/abs/2407.21565)|null|
@@ -3189,7 +3199,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240804>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3226,12 +3236,15 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240804>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Aligning Multiple Knowledge Graphs in a Single Pass**|Yaming Yang et.al.|[2408.00662](http://arxiv.org/abs/2408.00662)|null|
+|**2024-08-01**|**HBot: A Chatbot for Healthcare Applications in Traditional Chinese Medicine Based on Human Body 3D Visualization**|Bolin Zhang et.al.|[2408.00481](http://arxiv.org/abs/2408.00481)|null|
+|**2024-07-31**|**GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning**|Dan Kalifa et.al.|[2408.00057](http://arxiv.org/abs/2408.00057)|null|
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
 |**2024-08-01**|**eSPARQL: Representing and Reconciling Agnostic and Atheistic Beliefs in RDF-star Knowledge Graphs**|Xiny Pan et.al.|[2407.21483](http://arxiv.org/abs/2407.21483)|null|
 |**2024-07-31**|**Tree-of-Traversals: A Zero-Shot Reasoning Algorithm for Augmenting Black-box Language Models with Knowledge Graphs**|Elan Markowitz et.al.|[2407.21358](http://arxiv.org/abs/2407.21358)|null|
@@ -4458,5 +4471,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240804>back to top</a>)</p>
 
