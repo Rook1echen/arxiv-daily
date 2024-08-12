@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.11
+## Updated on 2024.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -73,7 +73,7 @@ layout: default
 |**2024-08-07**|**Traffic and Obstacle-aware UAV Positioning in Urban Environments Using Reinforcement Learning**|Kamran Shafafi et.al.|[2408.03894](http://arxiv.org/abs/2408.03894)|null|
 |**2024-08-07**|**HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks**|Jingsong Liang et.al.|[2408.03768](http://arxiv.org/abs/2408.03768)|null|
 |**2024-08-07**|**Asynchronous Credit Assignment Framework for Multi-Agent Reinforcement Learning**|Yongheng Liang et.al.|[2408.03692](http://arxiv.org/abs/2408.03692)|null|
-|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|null|
+|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|**[link](https://github.com/distributionnetworkstudelft/rl-adn)**|
 |**2024-08-07**|**AI-Driven approach for sustainable extraction of earth's subsurface renewable energy while minimizing seismic activity**|Diego Gutierrez-Oribio et.al.|[2408.03664](http://arxiv.org/abs/2408.03664)|null|
 |**2024-08-07**|**A Comparison of LLM Finetuning Methods & Evaluation Metrics with Travel Chatbot Use Case**|Sonia Meyer et.al.|[2408.03562](http://arxiv.org/abs/2408.03562)|null|
 |**2024-08-07**|**Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes**|Chen Tang et.al.|[2408.03539](http://arxiv.org/abs/2408.03539)|null|
@@ -2118,7 +2118,7 @@ layout: default
 |**2023-09-21**|**Optimizing V2V Unicast Communication Transmission with Reinforcement Learning and Vehicle Clustering**|Yu Wang et.al.|[2309.12052](http://arxiv.org/abs/2309.12052)|null|
 |**2023-09-21**|**Safe Hierarchical Reinforcement Learning for CubeSat Task Scheduling Based on Energy Consumption**|Mahya Ramezani et.al.|[2309.12004](http://arxiv.org/abs/2309.12004)|null|
 |**2023-09-21**|**UAV Swarm Deployment and Trajectory for 3D Area Coverage via Reinforcement Learning**|Jia He et.al.|[2309.11992](http://arxiv.org/abs/2309.11992)|null|
-|**2023-09-21**|**Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study**|Panagiotis Petropoulakis et.al.|[2309.11984](http://arxiv.org/abs/2309.11984)|null|
+|**2023-09-21**|**Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study**|Panagiotis Petropoulakis et.al.|[2309.11984](http://arxiv.org/abs/2309.11984)|**[link](https://github.com/PetropoulakisPanagiotis/igae)**|
 |**2023-09-21**|**Learning to Recover for Safe Reinforcement Learning**|Haoyu Wang et.al.|[2309.11907](http://arxiv.org/abs/2309.11907)|null|
 |**2023-09-21**|**Latency-Aware Radio Resource Optimization in Learning-Based Cloud-Aided Small Cell Wireless Networks**|Tamoor-ul-Hassan Syed et.al.|[2309.11892](http://arxiv.org/abs/2309.11892)|null|
 |**2023-09-21**|**Improve the efficiency of deep reinforcement learning through semantic exploration guided by natural language**|Zhourui Guo et.al.|[2309.11753](http://arxiv.org/abs/2309.11753)|null|
@@ -2556,7 +2556,7 @@ layout: default
 |**2023-07-16**|**Discovering User Types: Mapping User Traits by Task-Specific Behaviors in Reinforcement Learning**|L. L. Ankile et.al.|[2307.08169](http://arxiv.org/abs/2307.08169)|null|
 |**2023-07-13**|**Deep reinforcement learning for the dynamic vehicle dispatching problem: An event-based approach**|Edyvalberty Alenquer Cordeiro et.al.|[2307.07508](http://arxiv.org/abs/2307.07508)|null|
 |**2023-07-14**|**Reinforcement Learning with Frontier-Based Exploration via Autonomous Environment**|Kenji Leong et.al.|[2307.07296](http://arxiv.org/abs/2307.07296)|**[link](https://github.com/goldslime123/explorb-slam-rl)**|
-|**2023-07-14**|**Safe DreamerV3: Safe Reinforcement Learning with World Models**|Weidong Huang et.al.|[2307.07176](http://arxiv.org/abs/2307.07176)|null|
+|**2023-07-14**|**Safe DreamerV3: Safe Reinforcement Learning with World Models**|Weidong Huang et.al.|[2307.07176](http://arxiv.org/abs/2307.07176)|**[link](https://github.com/pku-alignment/safedreamer)**|
 |**2023-07-13**|**Robotic Manipulation Datasets for Offline Compositional Reinforcement Learning**|Marcel Hussing et.al.|[2307.07091](http://arxiv.org/abs/2307.07091)|**[link](https://github.com/lifelong-ml/offline-compositional-rl-datasets)**|
 |**2023-07-13**|**Safe Reinforcement Learning as Wasserstein Variational Inference: Formal Methods for Interpretability**|Yanran Wang et.al.|[2307.07084](http://arxiv.org/abs/2307.07084)|**[link](https://github.com/alex-yanranwang/awavo)**|
 |**2023-07-13**|**Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement**|Hui Yuan et.al.|[2307.07055](http://arxiv.org/abs/2307.07055)|null|
@@ -3627,7 +3627,7 @@ layout: default
 |**2024-04-07**|**OSS Malicious Package Analysis in the Wild**|Xiaoyan Zhou et.al.|[2404.04991](http://arxiv.org/abs/2404.04991)|null|
 |**2024-04-05**|**KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion**|Tengfei Ma et.al.|[2404.03893](http://arxiv.org/abs/2404.03893)|null|
 |**2024-04-05**|**Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**|Bowen Zhang et.al.|[2404.03868](http://arxiv.org/abs/2404.03868)|null|
-|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|**[link](https://github.com/Ipazia-AI/latent-explorer)**|
 |**2024-04-05**|**BanglaAutoKG: Automatic Bangla Knowledge Graph Construction with Semantic Neural Graph Filtering**|Azmine Toushik Wasi et.al.|[2404.03528](http://arxiv.org/abs/2404.03528)|**[link](https://github.com/azminewasi/banglaautokg)**|
 |**2024-04-04**|**Comprehensible Artificial Intelligence on Knowledge Graphs: A survey**|Simon Schramm et.al.|[2404.03499](http://arxiv.org/abs/2404.03499)|null|
 |**2024-04-04**|**Knowledge Graph Representation for Political Information Sources**|Tinatin Osmonova et.al.|[2404.03437](http://arxiv.org/abs/2404.03437)|null|
@@ -4111,7 +4111,7 @@ layout: default
 |**2023-09-27**|**Clinical Trial Recommendations Using Semantics-Based Inductive Inference and Knowledge Graph Embeddings**|Murthy V. Devarakonda et.al.|[2309.15979](http://arxiv.org/abs/2309.15979)|null|
 |**2023-09-27**|**Efficient Exact Subgraph Matching via GNN-based Path Dominance Embedding (Technical Report)**|Yutong Ye et.al.|[2309.15641](http://arxiv.org/abs/2309.15641)|null|
 |**2023-09-27**|**Graph Neural Prompting with Large Language Models**|Yijun Tian et.al.|[2309.15427](http://arxiv.org/abs/2309.15427)|**[link](https://github.com/meettyj/gnp)**|
-|**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|null|
+|**2023-09-26**|**KERMIT: Knowledge Graph Completion of Enhanced Relation Modeling with Inverse Transformation**|Haotian Li et.al.|[2309.14770](http://arxiv.org/abs/2309.14770)|**[link](https://github.com/lirt1231/kermit)**|
 |**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057](http://arxiv.org/abs/2309.14057)|**[link](https://github.com/jia-zhang666/grm_layer)**|
 |**2023-09-25**|**Prior Bilinear Based Models for Knowledge Graph Completion**|Jiayi Li et.al.|[2309.13834](http://arxiv.org/abs/2309.13834)|**[link](https://github.com/lrlbbzl/unibi_ogb)**|
 |**2023-09-24**|**Multiple Relations Classification using Imbalanced Predictions Adaptation**|Sakher Khalil Alqaaidi et.al.|[2309.13718](http://arxiv.org/abs/2309.13718)|**[link](https://github.com/sa5r/mrca)**|
