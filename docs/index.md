@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -60,6 +60,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Off-Policy Reinforcement Learning with High Dimensional Reward**|Dong Neuck Lee et.al.|[2408.07660](http://arxiv.org/abs/2408.07660)|null|
+|**2024-08-14**|**Adaptive Behavioral AI: Reinforcement Learning to Enhance Pharmacy Services**|Ana Fernández del Río et.al.|[2408.07647](http://arxiv.org/abs/2408.07647)|null|
+|**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
+|**2024-08-14**|**Optimizing HIV Patient Engagement with Reinforcement Learning in Resource-Limited Settings**|África Periáñez et.al.|[2408.07629](http://arxiv.org/abs/2408.07629)|null|
+|**2024-08-14**|**A Nested Graph Reinforcement Learning-based Decision-making Strategy for Eco-platooning**|Xin Gao et.al.|[2408.07578](http://arxiv.org/abs/2408.07578)|null|
+|**2024-08-14**|**Large Language Models Know What Makes Exemplary Contexts**|Quanyu Long et.al.|[2408.07505](http://arxiv.org/abs/2408.07505)|null|
+|**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465](http://arxiv.org/abs/2408.07465)|null|
+|**2024-08-14**|**Real-world validation of safe reinforcement learning, model predictive control and decision tree-based home energy management systems**|Julian Ruddick et.al.|[2408.07435](http://arxiv.org/abs/2408.07435)|null|
+|**2024-08-14**|**Bridging Training and Execution via Dynamic Directed Graph-Based Communication in Cooperative Multi-Agent Systems**|Zhuohui Zhang et.al.|[2408.07397](http://arxiv.org/abs/2408.07397)|null|
+|**2024-08-14**|**Improving Global Parameter-sharing in Physically Heterogeneous Multi-agent Reinforcement Learning with Unified Action Space**|Xiaoyang Yu et.al.|[2408.07395](http://arxiv.org/abs/2408.07395)|null|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
 |**2024-08-13**|**IRS-Assisted Lossy Communications Under Correlated Rayleigh Fading: Outage Probability Analysis and Optimization**|Guanchang Li et.al.|[2408.06969](http://arxiv.org/abs/2408.06969)|null|
 |**2024-08-13**|**Heavy-Ball Momentum Accelerated Actor-Critic With Function Approximation**|Yanjie Dong et.al.|[2408.06945](http://arxiv.org/abs/2408.06945)|null|
@@ -3305,6 +3315,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs**|Weijian Xie et.al.|[2408.07611](http://arxiv.org/abs/2408.07611)|null|
+|**2024-08-14**|**Graph polyhedral divisions in growing cell aggregates**|Urban Železnik et.al.|[2408.07551](http://arxiv.org/abs/2408.07551)|null|
+|**2024-08-14**|**QirK: Question Answering via Intermediate Representation on Knowledge Graphs**|Jan Luca Scheerer et.al.|[2408.07494](http://arxiv.org/abs/2408.07494)|null|
+|**2024-08-14**|**Fact or Fiction? Improving Fact Verification with Knowledge Graphs through Simplified Subgraph Retrievals**|Tobias A. Opsahl et.al.|[2408.07453](http://arxiv.org/abs/2408.07453)|null|
+|**2024-08-13**|**The gene function prediction challenge: large language models and knowledge graphs to the rescue**|Rohan Shawn Sunil et.al.|[2408.07222](http://arxiv.org/abs/2408.07222)|null|
 |**2024-08-13**|**Unlock the Power of Frozen LLMs in Knowledge Graph Completion**|Bo Xue et.al.|[2408.06787](http://arxiv.org/abs/2408.06787)|null|
 |**2024-08-13**|**Generalized knowledge-enhanced framework for biomedical entity and relation extraction**|Minh Nguyen et.al.|[2408.06618](http://arxiv.org/abs/2408.06618)|null|
 |**2024-08-13**|**Simple but Effective Compound Geometric Operations for Temporal Knowledge Graph Completion**|Rui Ying et.al.|[2408.06603](http://arxiv.org/abs/2408.06603)|**[link](https://github.com/nk-ruiying/tcompounde)**|
