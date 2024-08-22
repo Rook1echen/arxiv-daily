@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical Researcher**|Derry Pratama et.al.|[2408.11650](http://arxiv.org/abs/2408.11650)|null|
 |**2024-08-15**|**Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models**|Andy K. Zhang et.al.|[2408.08926](http://arxiv.org/abs/2408.08926)|**[link](https://github.com/andyzorigin/cybench)**|
 |**2024-08-01**|**A Qualitative Study on Using ChatGPT for Software Security: Perception vs. Practicality**|M. Mehdi Kholoosi et.al.|[2408.00435](http://arxiv.org/abs/2408.00435)|null|
 |**2024-07-25**|**PenHeal: A Two-Stage LLM Framework for Automated Pentesting and Optimal Remediation**|Junjie Huang et.al.|[2407.17788](http://arxiv.org/abs/2407.17788)|null|
@@ -61,6 +62,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction**|Anthony GX-Chen et.al.|[2408.11816](http://arxiv.org/abs/2408.11816)|null|
+|**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
+|**2024-08-21**|**Deviations from the Nash equilibrium and emergence of tacit collusion in a two-player optimal execution game with reinforcement learning**|Fabrizio Lillo et.al.|[2408.11773](http://arxiv.org/abs/2408.11773)|null|
+|**2024-08-21**|**Bayesian Optimization Framework for Efficient Fleet Design in Autonomous Multi-Robot Exploration**|David Molina Concha et.al.|[2408.11751](http://arxiv.org/abs/2408.11751)|null|
+|**2024-08-21**|**Optimizing Interpretable Decision Tree Policies for Reinforcement Learning**|Daniël Vos et.al.|[2408.11632](http://arxiv.org/abs/2408.11632)|**[link](https://github.com/tudelft-cda-lab/dtpo)**|
+|**2024-08-21**|**A Survey of Embodied Learning for Object-Centric Robotic Manipulation**|Ying Zheng et.al.|[2408.11537](http://arxiv.org/abs/2408.11537)|**[link](https://github.com/rayyoh/ocrm_survey)**|
+|**2024-08-21**|**Using Part-based Representations for Explainable Deep Reinforcement Learning**|Manos Kirtas et.al.|[2408.11455](http://arxiv.org/abs/2408.11455)|null|
+|**2024-08-21**|**Subgoal-based Hierarchical Reinforcement Learning for Multi-Agent Collaboration**|Cheng Xu et.al.|[2408.11416](http://arxiv.org/abs/2408.11416)|null|
+|**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
+|**2024-08-21**|**Deep Reinforcement Learning for Decentralized Multi-Robot Control: A DQN Approach to Robustness and Information Integration**|Bin Wu et.al.|[2408.11339](http://arxiv.org/abs/2408.11339)|null|
 |**2024-08-20**|**Accelerating Goal-Conditioned RL Algorithms and Research**|Michał Bortkiewicz et.al.|[2408.11052](http://arxiv.org/abs/2408.11052)|**[link](https://github.com/michalbortkiewicz/jaxgcrl)**|
 |**2024-08-20**|**RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands**|Yi Zhao et.al.|[2408.11048](http://arxiv.org/abs/2408.11048)|null|
 |**2024-08-20**|**Quantum Machine Learning Algorithms for Anomaly Detection: a Survey**|Sebastiano Corli et.al.|[2408.11047](http://arxiv.org/abs/2408.11047)|null|
@@ -3356,6 +3367,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**RConE: Rough Cone Embedding for Multi-Hop Logical Query Answering on Multi-Modal Knowledge Graphs**|Mayank Kharbanda et.al.|[2408.11526](http://arxiv.org/abs/2408.11526)|**[link](https://github.com/kracr/rcone-qa-mmkg)**|
+|**2024-08-21**|**Green Probabilistic Semantic Communication over Wireless Networks**|Ruopeng Xu et.al.|[2408.11446](http://arxiv.org/abs/2408.11446)|null|
+|**2024-08-20**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles**|Zhilong Wang et.al.|[2408.11182](http://arxiv.org/abs/2408.11182)|null|
 |**2024-08-20**|**GAIM: Attacking Graph Neural Networks via Adversarial Influence Maximization**|Xiaodong Yang et.al.|[2408.10948](http://arxiv.org/abs/2408.10948)|null|
 |**2024-08-20**|**Exploiting Large Language Models Capabilities for Question Answer-Driven Knowledge Graph Completion Across Static and Temporal Domains**|Rui Yang et.al.|[2408.10819](http://arxiv.org/abs/2408.10819)|null|
 |**2024-08-20**|**Is the Lecture Engaging for Learning? Lecture Voice Sentiment Analysis for Knowledge Graph-Supported Intelligent Lecturing Assistant (ILA) System**|Yuan An et.al.|[2408.10492](http://arxiv.org/abs/2408.10492)|null|
