@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.08.29
+## Updated on 2024.08.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Ethical Hacking and its role in Cybersecurity**|Fatima Asif et.al.|[2408.16033](http://arxiv.org/abs/2408.16033)|null|
 |**2024-08-21**|**CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical Researcher**|Derry Pratama et.al.|[2408.11650](http://arxiv.org/abs/2408.11650)|null|
 |**2024-08-15**|**Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models**|Andy K. Zhang et.al.|[2408.08926](http://arxiv.org/abs/2408.08926)|**[link](https://github.com/andyzorigin/cyber-bench)**|
 |**2024-08-01**|**A Qualitative Study on Using ChatGPT for Software Security: Perception vs. Practicality**|M. Mehdi Kholoosi et.al.|[2408.00435](http://arxiv.org/abs/2408.00435)|null|
@@ -62,6 +63,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
+|**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
+|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
+|**2024-08-29**|**Optimizing Automated Picking Systems in Warehouse Robots Using Machine Learning**|Keqin Li et.al.|[2408.16633](http://arxiv.org/abs/2408.16633)|null|
+|**2024-08-29**|**Phase Optimization and Relay Selection for Joint Relay and IRS-Assisted Communication**|Uyoata E. Uyoata et.al.|[2408.16399](http://arxiv.org/abs/2408.16399)|null|
+|**2024-08-29**|**EasyChauffeur: A Baseline Advancing Simplicity and Efficiency on Waymax**|Lingyu Xiao et.al.|[2408.16375](http://arxiv.org/abs/2408.16375)|null|
+|**2024-08-29**|**Efficient Multi-agent Navigation with Lightweight DRL Policy**|Xingrong Diao et.al.|[2408.16370](http://arxiv.org/abs/2408.16370)|null|
+|**2024-08-29**|**On Convergence of Average-Reward Q-Learning in Weakly Communicating Markov Decision Processes**|Yi Wan et.al.|[2408.16262](http://arxiv.org/abs/2408.16262)|null|
+|**2024-08-28**|**DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly**|Giulio Giacomuzzo et.al.|[2408.16125](http://arxiv.org/abs/2408.16125)|null|
+|**2024-08-28**|**RAIN: Reinforcement Algorithms for Improving Numerical Weather and Climate Models**|Pritthijit Nath et.al.|[2408.16118](http://arxiv.org/abs/2408.16118)|**[link](https://github.com/p3jitnath/climate-rl)**|
 |**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
 |**2024-08-28**|**Adaptive Traffic Signal Control Using Reinforcement Learning**|Muhammad Tahir Rafique et.al.|[2408.15751](http://arxiv.org/abs/2408.15751)|null|
 |**2024-08-28**|**Deep Reinforcement Learning for Radiative Heat Transfer Optimization Problems**|Eva Ortiz-Mansilla et.al.|[2408.15727](http://arxiv.org/abs/2408.15727)|null|
@@ -3420,7 +3431,7 @@ layout: default
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649](http://arxiv.org/abs/2408.15649)|**[link](https://github.com/mpietrasik/hb)**|
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|null|
-|**2024-08-27**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294](http://arxiv.org/abs/2408.15294)|null|
+|**2024-08-29**|**Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings: Unfolding Ablation Studies**|Christos Theodoropoulos et.al.|[2408.15294](http://arxiv.org/abs/2408.15294)|null|
 |**2024-08-27**|**Learning Granularity Representation for Temporal Knowledge Graph Completion**|Jinchuan Zhang et.al.|[2408.15293](http://arxiv.org/abs/2408.15293)|**[link](https://github.com/kcacozhang/lgre)**|
 |**2024-08-27**|**Triplètoile: Extraction of Knowledge from Microblogging Text**|Vanni Zavarella et.al.|[2408.14908](http://arxiv.org/abs/2408.14908)|null|
 |**2024-08-28**|**VHAKG: A Multi-modal Knowledge Graph Based on Synchronized Multi-view Videos of Daily Activities**|Shusaku Egami et.al.|[2408.14895](http://arxiv.org/abs/2408.14895)|null|
