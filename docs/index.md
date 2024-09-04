@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -3410,7 +3410,7 @@ layout: default
 |**2024-05-25**|**Diffusion-Reward Adversarial Imitation Learning**|Chun-Mao Lai et.al.|[2405.16194](http://arxiv.org/abs/2405.16194)|null|
 |**2024-02-26**|**C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory**|Tianjiao Luo et.al.|[2402.16349](http://arxiv.org/abs/2402.16349)|null|
 |**2024-02-15**|**Interpretable Generative Adversarial Imitation Learning**|Wenliang Liu et.al.|[2402.10310](http://arxiv.org/abs/2402.10310)|null|
-|**2024-02-01**|**Robust Path Planning via Learning from Demonstrations for Robotic Catheters in Deformable Environments**|Zhen Li et.al.|[2402.00537](http://arxiv.org/abs/2402.00537)|null|
+|**2024-08-31**|**Robust Path Planning via Learning from Demonstrations for Robotic Catheters in Deformable Environments**|Zhen Li et.al.|[2402.00537](http://arxiv.org/abs/2402.00537)|null|
 |**2024-01-30**|**Extrinsicaly Rewarded Soft Q Imitation Learning with Discriminator**|Ryoma Furuyama et.al.|[2401.16772](http://arxiv.org/abs/2401.16772)|null|
 |**2024-01-21**|**Multi-Agent Generative Adversarial Interactive Self-Imitation Learning for AUV Formation Control and Obstacle Avoidance**|Zheng Fang et.al.|[2401.11378](http://arxiv.org/abs/2401.11378)|null|
 |**2023-12-18**|**Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective**|Wanying Wang et.al.|[2312.11214](http://arxiv.org/abs/2312.11214)|null|
