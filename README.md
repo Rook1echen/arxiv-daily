@@ -1,4 +1,4 @@
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -65,12 +65,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Knowledge Transfer for Collaborative Misbehavior Detection in Untrusted Vehicular Environments**|Roshan Sedar et.al.|[2409.02844](http://arxiv.org/abs/2409.02844)|null|
+|**2024-09-04**|**Tractable Offline Learning of Regular Decision Processes**|Ahana Deb et.al.|[2409.02747](http://arxiv.org/abs/2409.02747)|null|
+|**2024-09-04**|**Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning**|Jingshuai Liu et.al.|[2409.02724](http://arxiv.org/abs/2409.02724)|null|
+|**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
+|**2024-09-04**|**Causality-Aware Transformer Networks for Robotic Navigation**|Ruoyu Wang et.al.|[2409.02669](http://arxiv.org/abs/2409.02669)|null|
+|**2024-09-04**|**A Survey on Emergent Language**|Jannik Peters et.al.|[2409.02645](http://arxiv.org/abs/2409.02645)|null|
+|**2024-09-04**|**Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal**|Jifeng Hu et.al.|[2409.02512](http://arxiv.org/abs/2409.02512)|null|
+|**2024-09-04**|**USV-AUV Collaboration Framework for Underwater Tasks under Extreme Sea Conditions**|Jingzehua Xu et.al.|[2409.02444](http://arxiv.org/abs/2409.02444)|null|
+|**2024-09-04**|**Large Language Models as Efficient Reward Function Searchers for Custom-Environment Multi-Objective Reinforcement Learning**|Guanwen Xie et.al.|[2409.02428](http://arxiv.org/abs/2409.02428)|null|
+|**2024-09-04**|**Enhancing Information Freshness: An AoI Optimized Markov Decision Process Dedicated In the Underwater Task**|Jingzehua Xu et.al.|[2409.02424](http://arxiv.org/abs/2409.02424)|null|
 |**2024-08-30**|**Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control**|Zihao Sheng et.al.|[2408.17380](http://arxiv.org/abs/2408.17380)|**[link](https://github.com/zihaosheng/traffic-expertise-rl)**|
 |**2024-08-30**|**Stationary Policies are Optimal in Risk-averse Total-reward MDPs with EVaR**|Xihong Su et.al.|[2408.17286](http://arxiv.org/abs/2408.17286)|null|
 |**2024-08-30**|**Using Quantum Solved Deep Boltzmann Machines to Increase the Data Efficiency of RL Agents**|Daniel Kent et.al.|[2408.17240](http://arxiv.org/abs/2408.17240)|null|
@@ -3406,7 +3416,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3444,12 +3454,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
+|**2024-09-01**|**Building FKG.in: a Knowledge Graph for Indian Food**|Saransh Kumar Gupta et.al.|[2409.00830](http://arxiv.org/abs/2409.00830)|null|
+|**2024-08-31**|**WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction**|Oktie Hassanzadeh et.al.|[2409.00331](http://arxiv.org/abs/2409.00331)|null|
+|**2024-08-30**|**Medical Report Generation Is A Multi-label Classification Problem**|Yijian Fan et.al.|[2409.00250](http://arxiv.org/abs/2409.00250)|null|
+|**2024-08-30**|**From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning**|Siling Feng et.al.|[2409.00149](http://arxiv.org/abs/2409.00149)|null|
 |**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133](http://arxiv.org/abs/2408.17133)|null|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649](http://arxiv.org/abs/2408.15649)|**[link](https://github.com/mpietrasik/hb)**|
@@ -4760,5 +4775,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
