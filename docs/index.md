@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -64,6 +64,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**An Introduction to Quantum Reinforcement Learning (QRL)**|Samuel Yen-Chi Chen et.al.|[2409.05846](http://arxiv.org/abs/2409.05846)|null|
+|**2024-09-09**|**Learning control of underactuated double pendulum with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2409.05811](http://arxiv.org/abs/2409.05811)|null|
+|**2024-09-09**|**Markov Chain Variance Estimation: A Stochastic Approximation Approach**|Shubhada Agrawal et.al.|[2409.05733](http://arxiv.org/abs/2409.05733)|null|
+|**2024-09-09**|**Cooperative Decision-Making for CAVs at Unsignalized Intersections: A MARL Approach with Attention and Hierarchical Game Priors**|Jiaqi Liu et.al.|[2409.05712](http://arxiv.org/abs/2409.05712)|null|
+|**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
+|**2024-09-09**|**Adaptive Multi-Layer Deployment for A Digital Twin Empowered Satellite-Terrestrial Integrated Network**|Yihong Tao et.al.|[2409.05480](http://arxiv.org/abs/2409.05480)|null|
+|**2024-09-09**|**Reinforcement Learning for Variational Quantum Circuits Design**|Simone Foderà et.al.|[2409.05475](http://arxiv.org/abs/2409.05475)|null|
+|**2024-09-09**|**Semifactual Explanations for Reinforcement Learning**|Jasmina Gajcin et.al.|[2409.05435](http://arxiv.org/abs/2409.05435)|null|
+|**2024-09-09**|**State-Novelty Guided Action Persistence in Deep Reinforcement Learning**|Jianshu Hu et.al.|[2409.05433](http://arxiv.org/abs/2409.05433)|null|
+|**2024-09-09**|**BAMDP Shaping: a Unified Theoretical Framework for Intrinsic Motivation and Reward Shaping**|Aly Lidayan et.al.|[2409.05358](http://arxiv.org/abs/2409.05358)|null|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
 |**2024-09-06**|**Gaussian-Mixture-Model Q-Functions for Reinforcement Learning by Riemannian Optimization**|Minh Vu et.al.|[2409.04374](http://arxiv.org/abs/2409.04374)|null|
 |**2024-09-06**|**Refined Bounds on Near Optimality Finite Window Policies in POMDPs and Their Reinforcement Learning**|Yunus Emre Demirci et.al.|[2409.04351](http://arxiv.org/abs/2409.04351)|null|
@@ -3468,6 +3478,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning**|Alireza Ghafarollahi et.al.|[2409.05556](http://arxiv.org/abs/2409.05556)|null|
+|**2024-09-09**|**KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**|Yingshu Li et.al.|[2409.05370](http://arxiv.org/abs/2409.05370)|null|
+|**2024-09-06**|**Neurosymbolic Methods for Dynamic Knowledge Graphs**|Mehwish Alam et.al.|[2409.04572](http://arxiv.org/abs/2409.04572)|null|
+|**2024-09-06**|**ConVer-G: Concurrent versioning of knowledge graphs**|Jey Puget Gil et.al.|[2409.04499](http://arxiv.org/abs/2409.04499)|null|
+|**2024-09-06**|**Graph versioning for evolving urban data**|Jey Puget Gil et.al.|[2409.04498](http://arxiv.org/abs/2409.04498)|null|
 |**2024-09-06**|**Using Large Language Models to Generate Authentic Multi-agent Knowledge Work Datasets**|Desiree Heim et.al.|[2409.04286](http://arxiv.org/abs/2409.04286)|null|
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
 |**2024-09-06**|**The Role of Graph Topology in the Performance of Biomedical Knowledge Graph Completion Models**|Alberto Cattaneo et.al.|[2409.04103](http://arxiv.org/abs/2409.04103)|null|
