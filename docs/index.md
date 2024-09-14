@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.13
+## Updated on 2024.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|null|
+|**2024-08-31**|**BreachSeek: A Multi-Agent Automated Penetration Tester**|Ibrahim Alshehri et.al.|[2409.03789](http://arxiv.org/abs/2409.03789)|**[link](https://github.com/snow10100/pena)**|
 |**2024-08-28**|**Ethical Hacking and its role in Cybersecurity**|Fatima Asif et.al.|[2408.16033](http://arxiv.org/abs/2408.16033)|null|
 |**2024-08-21**|**CIPHER: Cybersecurity Intelligent Penetration-testing Helper for Ethical Researcher**|Derry Pratama et.al.|[2408.11650](http://arxiv.org/abs/2408.11650)|null|
 |**2024-08-15**|**Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk of Language Models**|Andy K. Zhang et.al.|[2408.08926](http://arxiv.org/abs/2408.08926)|**[link](https://github.com/andyzorigin/cyber-bench)**|
