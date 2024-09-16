@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -77,7 +77,7 @@ layout: default
 |**2024-09-11**|**Autonomous loading of ore piles with Load-Haul-Dump machines using Deep Reinforcement Learning**|Rodrigo Salas et.al.|[2409.07449](http://arxiv.org/abs/2409.07449)|null|
 |**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
 |**2024-09-11**|**Online Decision MetaMorphFormer: A Casual Transformer-Based Reinforcement Learning Framework of Universal Embodied Intelligence**|Luo Ji et.al.|[2409.07341](http://arxiv.org/abs/2409.07341)|null|
-|**2024-09-11**|**A Framework for Predicting the Impact of Game Balance Changes through Meta Discovery**|Akash Saravanan et.al.|[2409.07340](http://arxiv.org/abs/2409.07340)|null|
+|**2024-09-11**|**A Framework for Predicting the Impact of Game Balance Changes through Meta Discovery**|Akash Saravanan et.al.|[2409.07340](http://arxiv.org/abs/2409.07340)|**[link](https://github.com/akashsara/meta-discovery)**|
 |**2024-09-11**|**Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences**|Ziang Liu et.al.|[2409.07268](http://arxiv.org/abs/2409.07268)|null|
 |**2024-09-11**|**Perceptive Pedipulation with Local Obstacle Avoidance**|Jonas Stolle et.al.|[2409.07195](http://arxiv.org/abs/2409.07195)|null|
 |**2024-09-11**|**Learning Efficient Recursive Numeral Systems via Reinforcement Learning**|Jonathan D. Thomas et.al.|[2409.07170](http://arxiv.org/abs/2409.07170)|null|
@@ -89,7 +89,7 @@ layout: default
 |**2024-09-10**|**Superior Computer Chess with Model Predictive Control, Reinforcement Learning, and Rollout**|Atharva Gundawar et.al.|[2409.06477](http://arxiv.org/abs/2409.06477)|null|
 |**2024-09-10**|**Learning Generative Interactive Environments By Trained Agent Exploration**|Naser Kazemi et.al.|[2409.06445](http://arxiv.org/abs/2409.06445)|**[link](https://github.com/insait-institute/genieredux)**|
 |**2024-09-10**|**Length Desensitization in Directed Preference Optimization**|Wei Liu et.al.|[2409.06411](http://arxiv.org/abs/2409.06411)|null|
-|**2024-09-10**|**One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion**|Nico Bohlinger et.al.|[2409.06366](http://arxiv.org/abs/2409.06366)|null|
+|**2024-09-10**|**One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion**|Nico Bohlinger et.al.|[2409.06366](http://arxiv.org/abs/2409.06366)|**[link](https://github.com/nico-bohlinger/one_policy_to_run_them_all)**|
 |**2024-09-10**|**Double Successive Over-Relaxation Q-Learning with an Extension to Deep Reinforcement Learning**|Shreyas S R et.al.|[2409.06356](http://arxiv.org/abs/2409.06356)|null|
 |**2024-09-10**|**Learning Augmentation Policies from A Model Zoo for Time Series Forecasting**|Haochen Yuan et.al.|[2409.06282](http://arxiv.org/abs/2409.06282)|null|
 |**2024-09-09**|**An Introduction to Quantum Reinforcement Learning (QRL)**|Samuel Yen-Chi Chen et.al.|[2409.05846](http://arxiv.org/abs/2409.05846)|null|
@@ -99,7 +99,7 @@ layout: default
 |**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
 |**2024-09-09**|**Adaptive Multi-Layer Deployment for A Digital Twin Empowered Satellite-Terrestrial Integrated Network**|Yihong Tao et.al.|[2409.05480](http://arxiv.org/abs/2409.05480)|null|
 |**2024-09-09**|**Reinforcement Learning for Variational Quantum Circuits Design**|Simone Foderà et.al.|[2409.05475](http://arxiv.org/abs/2409.05475)|null|
-|**2024-09-09**|**Semifactual Explanations for Reinforcement Learning**|Jasmina Gajcin et.al.|[2409.05435](http://arxiv.org/abs/2409.05435)|null|
+|**2024-09-09**|**Semifactual Explanations for Reinforcement Learning**|Jasmina Gajcin et.al.|[2409.05435](http://arxiv.org/abs/2409.05435)|**[link](https://github.com/anonymous902109/sgrl)**|
 |**2024-09-09**|**State-Novelty Guided Action Persistence in Deep Reinforcement Learning**|Jianshu Hu et.al.|[2409.05433](http://arxiv.org/abs/2409.05433)|null|
 |**2024-09-09**|**BAMDP Shaping: a Unified Theoretical Framework for Intrinsic Motivation and Reward Shaping**|Aly Lidayan et.al.|[2409.05358](http://arxiv.org/abs/2409.05358)|null|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
@@ -116,7 +116,7 @@ layout: default
 |**2024-09-05**|**On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization**|Yong Lin et.al.|[2409.03650](http://arxiv.org/abs/2409.03650)|null|
 |**2024-09-05**|**1 Modular Parallel Manipulator for Long-Term Soft Robotic Data Collection**|Kiyn Chin et.al.|[2409.03614](http://arxiv.org/abs/2409.03614)|null|
 |**2024-09-05**|**CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning**|John Birkbeck et.al.|[2409.03577](http://arxiv.org/abs/2409.03577)|null|
-|**2024-09-05**|**Sparsifying Parametric Models with L0 Regularization**|Nicolò Botteghi et.al.|[2409.03489](http://arxiv.org/abs/2409.03489)|null|
+|**2024-09-05**|**Sparsifying Parametric Models with L0 Regularization**|Nicolò Botteghi et.al.|[2409.03489](http://arxiv.org/abs/2409.03489)|**[link](https://github.com/nicob15/sparsifying-parametric-models-with-l0)**|
 |**2024-09-05**|**Reinforcement Learning Approach to Optimizing Profilometric Sensor Trajectories for Surface Inspection**|Sara Roos-Hoefgeest et.al.|[2409.03429](http://arxiv.org/abs/2409.03429)|null|
 |**2024-09-05**|**Game On: Towards Language Models as RL Experimenters**|Jingwei Zhang et.al.|[2409.03402](http://arxiv.org/abs/2409.03402)|null|
 |**2024-09-05**|**ELO-Rated Sequence Rewards: Advancing Reinforcement Learning Models**|Qi Ju et.al.|[2409.03301](http://arxiv.org/abs/2409.03301)|**[link](https://github.com/Zealoter/ERRL)**|
@@ -1750,7 +1750,7 @@ layout: default
 |**2023-12-26**|**Aligning Large Language Models with Human Preferences through Representation Engineering**|Wenhao Liu et.al.|[2312.15997](http://arxiv.org/abs/2312.15997)|**[link](https://github.com/liuamber/rahf)**|
 |**2023-12-26**|**Adaptive Kalman-based hybrid car following strategy using TD3 and CACC**|Yuqi Zheng et.al.|[2312.15993](http://arxiv.org/abs/2312.15993)|null|
 |**2023-12-26**|**Optimistic and Pessimistic Actor in RL:Decoupling Exploration and Utilization**|Jingpu Yang et.al.|[2312.15965](http://arxiv.org/abs/2312.15965)|**[link](https://github.com/yydsok/oparl)**|
-|**2023-12-26**|**Reinforcement Unlearning**|Dayong Ye et.al.|[2312.15910](http://arxiv.org/abs/2312.15910)|null|
+|**2023-12-26**|**Reinforcement Unlearning**|Dayong Ye et.al.|[2312.15910](http://arxiv.org/abs/2312.15910)|**[link](https://github.com/cp-lab-uts/reinforcement-unlearning)**|
 |**2023-12-26**|**Generalizable Task Representation Learning for Offline Meta-Reinforcement Learning with Data Limitations**|Renzhe Zhou et.al.|[2312.15909](http://arxiv.org/abs/2312.15909)|**[link](https://github.com/lamda-rl/gentle)**|
 |**2023-12-26**|**PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**|Hangyu Mao et.al.|[2312.15863](http://arxiv.org/abs/2312.15863)|**[link](https://github.com/maohangyu/pdit)**|
 |**2023-12-26**|**Learning Online Policies for Person Tracking in Multi-View Environments**|Keivan Nalaie et.al.|[2312.15858](http://arxiv.org/abs/2312.15858)|null|
@@ -2234,7 +2234,7 @@ layout: default
 |**2023-10-09**|**Aligning Language Models with Human Preferences via a Bayesian Approach**|Jiashuo Wang et.al.|[2310.05782](http://arxiv.org/abs/2310.05782)|**[link](https://github.com/wangjs9/aligned-dpm)**|
 |**2023-10-09**|**RateRL: A Framework for Developing RL-Based Rate Adaptation Algorithms in ns-3**|Ruben Queiros et.al.|[2310.05772](http://arxiv.org/abs/2310.05772)|null|
 |**2023-10-09**|**Planning to Go Out-of-Distribution in Offline-to-Online Reinforcement Learning**|Trevor McInroe et.al.|[2310.05723](http://arxiv.org/abs/2310.05723)|null|
-|**2023-10-09**|**DecAP: Decaying Action Priors for Accelerated Learning of Torque-Based Legged Locomotion Policies**|Shivam Sood et.al.|[2310.05714](http://arxiv.org/abs/2310.05714)|null|
+|**2023-10-09**|**DecAP: Decaying Action Priors for Accelerated Learning of Torque-Based Legged Locomotion Policies**|Shivam Sood et.al.|[2310.05714](http://arxiv.org/abs/2310.05714)|**[link](https://github.com/marmotlab/decaying_action_priors)**|
 |**2023-10-09**|**Imitator Learning: Achieve Out-of-the-Box Imitation Ability in Variable Environments**|Xiong-Hui Chen et.al.|[2310.05712](http://arxiv.org/abs/2310.05712)|null|
 |**2023-10-09**|**Hierarchical Reinforcement Learning for Temporal Pattern Prediction**|Faith Johnson et.al.|[2310.05695](http://arxiv.org/abs/2310.05695)|null|
 |**2023-10-09**|**Multi-timestep models for Model-based Reinforcement Learning**|Abdelhakim Benechehab et.al.|[2310.05672](http://arxiv.org/abs/2310.05672)|null|
@@ -3246,7 +3246,7 @@ layout: default
 |**2023-05-04**|**An Asynchronous Updating Reinforcement Learning Framework for Task-oriented Dialog System**|Sai Zhang et.al.|[2305.02718](http://arxiv.org/abs/2305.02718)|**[link](https://github.com/shunjiu/aurl)**|
 |**2023-05-04**|**A framework for the emergence and analysis of language in social learning agents**|Tobias J. Wieczorek et.al.|[2305.02632](http://arxiv.org/abs/2305.02632)|null|
 |**2023-05-04**|**IMAP: Intrinsically Motivated Adversarial Policy**|Xiang Zheng et.al.|[2305.02605](http://arxiv.org/abs/2305.02605)|**[link](https://github.com/x-zheng16/imap)**|
-|**2023-05-03**|**System Neural Diversity: Measuring Behavioral Heterogeneity in Multi-Agent Learning**|Matteo Bettini et.al.|[2305.02128](http://arxiv.org/abs/2305.02128)|null|
+|**2023-05-03**|**System Neural Diversity: Measuring Behavioral Heterogeneity in Multi-Agent Learning**|Matteo Bettini et.al.|[2305.02128](http://arxiv.org/abs/2305.02128)|**[link](https://github.com/proroklab/hetgppo)**|
 |**2023-05-03**|**Heterogeneous GNN-RL Based Task Offloading for UAV-aided Smart Agriculture**|Turgay Pamuklu et.al.|[2305.02112](http://arxiv.org/abs/2305.02112)|null|
 |**2023-05-03**|**Human Machine Co-adaption Interface via Cooperation Markov Decision Process System**|Kairui Guo et.al.|[2305.02058](http://arxiv.org/abs/2305.02058)|null|
 |**2023-05-03**|**Map-based Experience Replay: A Memory-Efficient Solution to Catastrophic Forgetting in Reinforcement Learning**|Muhammad Burhan Hafez et.al.|[2305.02054](http://arxiv.org/abs/2305.02054)|**[link](https://github.com/tilmanimmisch/gwrr)**|
@@ -3523,7 +3523,7 @@ layout: default
 |**2024-09-06**|**Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Question Answering**|Larissa Pusch et.al.|[2409.04181](http://arxiv.org/abs/2409.04181)|null|
 |**2024-09-06**|**The Role of Graph Topology in the Performance of Biomedical Knowledge Graph Completion Models**|Alberto Cattaneo et.al.|[2409.04103](http://arxiv.org/abs/2409.04103)|null|
 |**2024-09-06**|**Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features**|Miao Fan et.al.|[2409.04009](http://arxiv.org/abs/2409.04009)|null|
-|**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961](http://arxiv.org/abs/2409.03961)|null|
+|**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961](http://arxiv.org/abs/2409.03961)|**[link](https://github.com/TahsinaHashem/FaithD2T)**|
 |**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
 |**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288](http://arxiv.org/abs/2409.03288)|null|
 |**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284](http://arxiv.org/abs/2409.03284)|**[link](https://github.com/AuvaLab/itext2kg)**|
@@ -3534,7 +3534,7 @@ layout: default
 |**2024-08-31**|**WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction**|Oktie Hassanzadeh et.al.|[2409.00331](http://arxiv.org/abs/2409.00331)|**[link](https://github.com/IBM/wikicausal)**|
 |**2024-08-30**|**Medical Report Generation Is A Multi-label Classification Problem**|Yijian Fan et.al.|[2409.00250](http://arxiv.org/abs/2409.00250)|null|
 |**2024-08-30**|**From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning**|Siling Feng et.al.|[2409.00149](http://arxiv.org/abs/2409.00149)|null|
-|**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133](http://arxiv.org/abs/2408.17133)|null|
+|**2024-08-30**|**iCPS-DL: A Description Language for Autonomic Industrial Cyber-Physical Systems**|Dimitrios Kouzapas et.al.|[2408.17133](http://arxiv.org/abs/2408.17133)|**[link](https://github.com/kios-research/icps-dl)**|
 |**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
 |**2024-08-28**|**Hierarchical Blockmodelling for Knowledge Graphs**|Marcin Pietrasik et.al.|[2408.15649](http://arxiv.org/abs/2408.15649)|**[link](https://github.com/mpietrasik/hb)**|
 |**2024-08-28**|**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**|Yeon-Chang Lee et.al.|[2408.15620](http://arxiv.org/abs/2408.15620)|null|
@@ -3631,7 +3631,7 @@ layout: default
 |**2024-07-29**|**LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19625](http://arxiv.org/abs/2407.19625)|null|
 |**2024-07-29**|**TopicTag: Automatic Annotation of NMF Topic Models Using Chain of Thought and Prompt Tuning with LLMs**|Selma Wanna et.al.|[2407.19616](http://arxiv.org/abs/2407.19616)|null|
 |**2024-07-27**|**Semantic Communication Enhanced by Knowledge Graph Representation Learning**|Nour Hello et.al.|[2407.19338](http://arxiv.org/abs/2407.19338)|null|
-|**2024-07-27**|**IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19302](http://arxiv.org/abs/2407.19302)|null|
+|**2024-07-27**|**IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment**|Taoyu Su et.al.|[2407.19302](http://arxiv.org/abs/2407.19302)|**[link](https://github.com/sutaoyu/IBMEA)**|
 |**2024-07-26**|**HADES: Detecting Active Directory Attacks via Whole Network Provenance Analytics**|Qi Liu et.al.|[2407.18858](http://arxiv.org/abs/2407.18858)|null|
 |**2024-07-29**|**Knowledge Graph Structure as Prompt: Improving Small Language Models Capabilities for Knowledge-based Causal Discovery**|Yuni Susanti et.al.|[2407.18752](http://arxiv.org/abs/2407.18752)|**[link](https://github.com/littleflow3r/kg-structure-as-prompt)**|
 |**2024-07-26**|**AutoRDF2GML: Facilitating RDF Integration in Graph Machine Learning**|Michael Färber et.al.|[2407.18735](http://arxiv.org/abs/2407.18735)|**[link](https://github.com/davidlamprecht/autordf2gml)**|
