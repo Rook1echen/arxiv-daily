@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.09.17
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Enhancing Security Testing Software for Systems that Cannot be Subjected to the Risks of Penetration Testing Through the Incorporation of Multi-threading and and Other Capabilities**|Matthew Tassava et.al.|[2409.10893](http://arxiv.org/abs/2409.10893)|null|
+|**2024-09-17**|**Technical Upgrades to and Enhancements of a System Vulnerability Analysis Tool Based on the Blackboard Architecture**|Matthew Tassava et.al.|[2409.10892](http://arxiv.org/abs/2409.10892)|null|
 |**2024-09-14**|**Hacking, The Lazy Way: LLM Augmented Pentesting**|Dhruva Goyal et.al.|[2409.09493](http://arxiv.org/abs/2409.09493)|null|
 |**2024-09-13**|**Cybersecurity Software Tool Evaluation Using a 'Perfect' Network Model**|Jeremy Straub et.al.|[2409.09175](http://arxiv.org/abs/2409.09175)|null|
 |**2024-09-13**|**Incorporation of Verifier Functionality in the Software for Operations and Network Attack Results Review and the Autonomous Penetration Testing System**|Jordan Milbrath et.al.|[2409.09174](http://arxiv.org/abs/2409.09174)|null|
@@ -67,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games**|Ravi Pandya et.al.|[2409.12153](http://arxiv.org/abs/2409.12153)|null|
+|**2024-09-18**|**Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features**|Jiuqi Wang et.al.|[2409.12135](http://arxiv.org/abs/2409.12135)|null|
+|**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
+|**2024-09-18**|**IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition**|Rui Liu et.al.|[2409.12092](http://arxiv.org/abs/2409.12092)|null|
+|**2024-09-18**|**Handling Long-Term Safety and Uncertainty in Safe Reinforcement Learning**|Jonas Günster et.al.|[2409.12045](http://arxiv.org/abs/2409.12045)|**[link](https://github.com/cube1324/d-atacom)**|
+|**2024-09-18**|**Putting Data at the Centre of Offline Multi-Agent Reinforcement Learning**|Claude Formanek et.al.|[2409.12001](http://arxiv.org/abs/2409.12001)|null|
+|**2024-09-18**|**Data-Efficient Quadratic Q-Learning Using LMIs**|J. S. van Hulst et.al.|[2409.11986](http://arxiv.org/abs/2409.11986)|null|
+|**2024-09-18**|**Reinforcement Learning with Lie Group Orientations for Robotics**|Martin Schuck et.al.|[2409.11935](http://arxiv.org/abs/2409.11935)|null|
+|**2024-09-18**|**Reinforcement Learning as an Improvement Heuristic for Real-World Production Scheduling**|Arthur Müller et.al.|[2409.11933](http://arxiv.org/abs/2409.11933)|null|
+|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|null|
 |**2024-09-16**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**|Yuanhang Zhang et.al.|[2409.10319](http://arxiv.org/abs/2409.10319)|null|
 |**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
@@ -3529,6 +3541,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**A novel DFS/BFS approach towards link prediction**|Jens Dörpinghaus et.al.|[2409.11687](http://arxiv.org/abs/2409.11687)|null|
+|**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
+|**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
+|**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|Yanbei Jiang et.al.|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
 |**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
 |**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
 |**2024-09-16**|**LLM-DER:A Named Entity Recognition Method Based on Large Language Models for Chinese Coal Chemical Domain**|Le Xiao et.al.|[2409.10077](http://arxiv.org/abs/2409.10077)|null|
