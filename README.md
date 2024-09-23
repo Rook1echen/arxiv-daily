@@ -1,4 +1,4 @@
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
 
 ## attack graph
 
@@ -89,18 +89,18 @@
 |**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|**[link](https://github.com/samysam0/babee)**|
 |**2024-09-16**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**|Yuanhang Zhang et.al.|[2409.10319](http://arxiv.org/abs/2409.10319)|null|
-|**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|**[link](https://github.com/Jiahao-Yuan/ReflectDiffu)**|
 |**2024-09-16**|**Safety-Oriented Pruning and Interpretation of Reinforcement Learning Policies**|Dennis Gross et.al.|[2409.10218](http://arxiv.org/abs/2409.10218)|null|
-|**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|null|
+|**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-16**|**Safe and Stable Closed-Loop Learning for Neural-Network-Supported Model Predictive Control**|Sebastian Hirt et.al.|[2409.10171](http://arxiv.org/abs/2409.10171)|null|
-|**2024-09-16**|**Quantile Regression for Distributional Reward Models in RLHF**|Nicolai Dorka et.al.|[2409.10164](http://arxiv.org/abs/2409.10164)|null|
-|**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|null|
+|**2024-09-16**|**Quantile Regression for Distributional Reward Models in RLHF**|Nicolai Dorka et.al.|[2409.10164](http://arxiv.org/abs/2409.10164)|**[link](https://github.com/nicolinho/qrm)**|
+|**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|**[link](https://github.com/acoache/RL-DynamicRobustRisk)**|
 |**2024-09-16**|**Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments**|Wessel Ledder et.al.|[2409.10048](http://arxiv.org/abs/2409.10048)|null|
 |**2024-09-16**|**Reinforcement learning-based statistical search strategy for an axion model from flavor**|Satsuki Nishimura et.al.|[2409.10023](http://arxiv.org/abs/2409.10023)|null|
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
 |**2024-09-13**|**Modeling Rational Adaptation of Visual Search to Hierarchical Structures**|Saku Sourulahti et.al.|[2409.08967](http://arxiv.org/abs/2409.08967)|null|
 |**2024-09-13**|**Average-Reward Maximum Entropy Reinforcement Learning for Underactuated Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2409.08938](http://arxiv.org/abs/2409.08938)|null|
-|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|**[link](https://github.com/sjtu-mvasl-robotics/AnyBipe)**|
 |**2024-09-13**|**Deep reinforcement learning for tracking a moving target in jellyfish-like swimming**|Yihao Chen et.al.|[2409.08815](http://arxiv.org/abs/2409.08815)|null|
 |**2024-09-13**|**DexSim2Real $^{2}$ : Building Explicit World Model for Precise Articulated Object Dexterous Manipulation**|Taoran Jiang et.al.|[2409.08750](http://arxiv.org/abs/2409.08750)|null|
 |**2024-09-13**|**Quasimetric Value Functions with Dense Rewards**|Khadichabonu Valieva et.al.|[2409.08724](http://arxiv.org/abs/2409.08724)|null|
@@ -110,7 +110,7 @@
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
-|**2024-09-12**|**Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**|Jinsu Kim et.al.|[2409.08231](http://arxiv.org/abs/2409.08231)|null|
+|**2024-09-12**|**Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**|Jinsu Kim et.al.|[2409.08231](http://arxiv.org/abs/2409.08231)|**[link](https://github.com/ZINZINBIN/Fusion-Reactor-Design-Project)**|
 |**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212](http://arxiv.org/abs/2409.08212)|null|
 |**2024-09-12**|**Optimal Management of Grid-Interactive Efficient Buildings via Safe Reinforcement Learning**|Xiang Huo et.al.|[2409.08132](http://arxiv.org/abs/2409.08132)|null|
 |**2024-09-12**|**Linear Complementary Dual Codes Constructed from Reinforcement Learning**|Yansheng Wu et.al.|[2409.08114](http://arxiv.org/abs/2409.08114)|null|
@@ -666,7 +666,7 @@
 |**2024-06-20**|**Tractable Equilibrium Computation in Markov Games through Risk Aversion**|Eric Mazumdar et.al.|[2406.14156](http://arxiv.org/abs/2406.14156)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
 |**2024-06-18**|**Injection Optimization at Particle Accelerators via Reinforcement Learning: From Simulation to Real-World Application**|Awal Awal et.al.|[2406.12735](http://arxiv.org/abs/2406.12735)|null|
-|**2024-06-18**|**A Systematization of the Wagner Framework: Graph Theory Conjectures and Reinforcement Learning**|Flora Angileri et.al.|[2406.12667](http://arxiv.org/abs/2406.12667)|null|
+|**2024-06-18**|**A Systematization of the Wagner Framework: Graph Theory Conjectures and Reinforcement Learning**|Flora Angileri et.al.|[2406.12667](http://arxiv.org/abs/2406.12667)|**[link](https://github.com/curiosai/graph_conjectures)**|
 |**2024-06-18**|**Reinforcement-Learning based routing for packet-optical networks with hybrid telemetry**|A. L. García Navarro et.al.|[2406.12602](http://arxiv.org/abs/2406.12602)|**[link](https://github.com/alexgaarciia/packetopticallatencyrl)**|
 |**2024-06-18**|**Discovering Minimal Reinforcement Learning Environments**|Jarek Liesen et.al.|[2406.12589](http://arxiv.org/abs/2406.12589)|**[link](https://github.com/keraJLi/synthetic-gymnax)**|
 |**2024-06-18**|**RichRAG: Crafting Rich Responses for Multi-faceted Queries in Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.12566](http://arxiv.org/abs/2406.12566)|null|
@@ -1339,7 +1339,7 @@
 |**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
 |**2024-03-08**|**Provable Multi-Party Reinforcement Learning with Diverse Human Feedback**|Huiying Zhong et.al.|[2403.05006](http://arxiv.org/abs/2403.05006)|null|
 |**2024-03-07**|**Teaching Large Language Models to Reason with Reinforcement Learning**|Alex Havrilla et.al.|[2403.04642](http://arxiv.org/abs/2403.04642)|null|
-|**2024-03-07**|**Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace**|Léopold Maytié et.al.|[2403.04588](http://arxiv.org/abs/2403.04588)|null|
+|**2024-03-07**|**Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace**|Léopold Maytié et.al.|[2403.04588](http://arxiv.org/abs/2403.04588)|**[link](https://github.com/porthok/RL_Simple_Shapes)**|
 |**2024-03-07**|**Learning Agility Adaptation for Flight in Clutter**|Guangyu Zhao et.al.|[2403.04586](http://arxiv.org/abs/2403.04586)|null|
 |**2024-03-07**|**Improved Algorithm for Adversarial Linear Mixture MDPs with Bandit Feedback and Unknown Transition**|Long-Fei Li et.al.|[2403.04568](http://arxiv.org/abs/2403.04568)|null|
 |**2024-03-07**|**Vlearn: Off-Policy Learning with Efficient State-Value Function Estimation**|Fabian Otto et.al.|[2403.04453](http://arxiv.org/abs/2403.04453)|null|
@@ -3089,7 +3089,7 @@
 |**2023-06-01**|**Adversarial learning of neural user simulators for dialogue policy optimisation**|Simon Keizer et.al.|[2306.00858](http://arxiv.org/abs/2306.00858)|null|
 |**2023-06-01**|**BitE : Accelerating Learned Query Optimization in a Mixed-Workload Environment**|Yuri Kim et.al.|[2306.00845](http://arxiv.org/abs/2306.00845)|null|
 |**2023-06-01**|**What model does MuZero learn?**|Jinke He et.al.|[2306.00840](http://arxiv.org/abs/2306.00840)|null|
-|**2023-06-01**|**Normalization Enhances Generalization in Visual Reinforcement Learning**|Lu Li et.al.|[2306.00656](http://arxiv.org/abs/2306.00656)|null|
+|**2023-06-01**|**Normalization Enhances Generalization in Visual Reinforcement Learning**|Lu Li et.al.|[2306.00656](http://arxiv.org/abs/2306.00656)|**[link](https://github.com/lilucse/Normalization-Enhances-Generalization-in-Visual-Reinforcement-Learning)**|
 |**2023-06-01**|**Identifiability and Generalizability in Constrained Inverse Reinforcement Learning**|Andreas Schlaginhaufen et.al.|[2306.00629](http://arxiv.org/abs/2306.00629)|**[link](https://github.com/andrschl/cirl)**|
 |**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081](http://arxiv.org/abs/2305.20081)|**[link](https://github.com/sail-sg/edp)**|
 |**2023-05-31**|**Latent Exploration for Reinforcement Learning**|Alberto Silvio Chiappa et.al.|[2305.20065](http://arxiv.org/abs/2305.20065)|**[link](https://github.com/amathislab/lattice)**|
@@ -3509,7 +3509,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3547,7 +3547,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -3582,7 +3582,7 @@
 |**2024-09-06**|**Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features**|Miao Fan et.al.|[2409.04009](http://arxiv.org/abs/2409.04009)|null|
 |**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961](http://arxiv.org/abs/2409.03961)|**[link](https://github.com/TahsinaHashem/FaithD2T)**|
 |**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
-|**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288](http://arxiv.org/abs/2409.03288)|null|
+|**2024-09-05**|**Enhancing Clinical Data Warehouses with Provenance and Large File Management: The gitOmmix Approach for Clinical Omics Data**|Maxime Wack et.al.|[2409.03288](http://arxiv.org/abs/2409.03288)|**[link](https://github.com/gitOmmix/gitOmmix)**|
 |**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284](http://arxiv.org/abs/2409.03284)|**[link](https://github.com/AuvaLab/itext2kg)**|
 |**2024-09-05**|**Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection**|Chenglizhao Chen et.al.|[2409.03236](http://arxiv.org/abs/2409.03236)|**[link](https://github.com/liuxy3366/DecoAD)**|
 |**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
@@ -4901,5 +4901,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240923>back to top</a>)</p>
 
