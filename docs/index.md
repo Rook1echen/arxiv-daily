@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-21**|**MEGA-PT: A Meta-Game Framework for Agile Penetration Testing**|Yunfei Ge et.al.|[2409.14219](http://arxiv.org/abs/2409.14219)|null|
 |**2024-09-17**|**Enhancing Security Testing Software for Systems that Cannot be Subjected to the Risks of Penetration Testing Through the Incorporation of Multi-threading and and Other Capabilities**|Matthew Tassava et.al.|[2409.10893](http://arxiv.org/abs/2409.10893)|null|
 |**2024-09-17**|**Technical Upgrades to and Enhancements of a System Vulnerability Analysis Tool Based on the Blackboard Architecture**|Matthew Tassava et.al.|[2409.10892](http://arxiv.org/abs/2409.10892)|null|
 |**2024-09-14**|**Hacking, The Lazy Way: LLM Augmented Pentesting**|Dhruva Goyal et.al.|[2409.09493](http://arxiv.org/abs/2409.09493)|null|
@@ -69,6 +70,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Learning with Dynamics: Autonomous Regulation of UAV Based Communication Networks with Dynamic UAV Crew**|Ran Zhang et.al.|[2409.17139](http://arxiv.org/abs/2409.17139)|null|
+|**2024-09-25**|**Landscape of Policy Optimization for Finite Horizon MDPs with General State and Action**|Xin Chen et.al.|[2409.17138](http://arxiv.org/abs/2409.17138)|null|
+|**2024-09-25**|**On-orbit Servicing for Spacecraft Collision Avoidance With Autonomous Decision Making**|Susmitha Patnala et.al.|[2409.17125](http://arxiv.org/abs/2409.17125)|null|
+|**2024-09-25**|**AI-Driven Risk-Aware Scheduling for Active Debris Removal Missions**|Antoine Poupon et.al.|[2409.17012](http://arxiv.org/abs/2409.17012)|null|
+|**2024-09-25**|**Multi-Robot Informative Path Planning for Efficient Target Mapping using Deep Reinforcement Learning**|Apoorva Vashisth et.al.|[2409.16967](http://arxiv.org/abs/2409.16967)|**[link](https://github.com/accgen99/marl_ipp)**|
+|**2024-09-25**|**Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion**|Vineet Punyamoorty et.al.|[2409.16950](http://arxiv.org/abs/2409.16950)|null|
+|**2024-09-25**|**Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering**|Wanqi Yang et.al.|[2409.16909](http://arxiv.org/abs/2409.16909)|null|
+|**2024-09-25**|**Revisiting Space Mission Planning: A Reinforcement Learning-Guided Approach for Multi-Debris Rendezvous**|Agni Bandyopadhyay et.al.|[2409.16882](http://arxiv.org/abs/2409.16882)|null|
+|**2024-09-25**|**Behavior evolution-inspired approach to walking gait reinforcement training for quadruped robots**|Yu Wang et.al.|[2409.16862](http://arxiv.org/abs/2409.16862)|null|
+|**2024-09-25**|**Asynchronous Fractional Multi-Agent Deep Reinforcement Learning for Age-Minimal Mobile Edge Computing**|Lyudong Jin et.al.|[2409.16832](http://arxiv.org/abs/2409.16832)|null|
 |**2024-09-18**|**Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games**|Ravi Pandya et.al.|[2409.12153](http://arxiv.org/abs/2409.12153)|null|
 |**2024-09-18**|**Almost Sure Convergence of Linear Temporal Difference Learning with Arbitrary Features**|Jiuqi Wang et.al.|[2409.12135](http://arxiv.org/abs/2409.12135)|null|
 |**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
@@ -3541,6 +3552,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Cyber Knowledge Completion Using Large Language Models**|Braden K Webb et.al.|[2409.16176](http://arxiv.org/abs/2409.16176)|null|
+|**2024-09-24**|**Konstruktor: A Strong Baseline for Simple Knowledge Graph Question Answering**|Maria Lysyuk et.al.|[2409.15902](http://arxiv.org/abs/2409.15902)|**[link](https://github.com/s-nlp/konstruktor)**|
+|**2024-09-24**|**Inferring Scientific Cross-Document Coreference and Hierarchy with Definition-Augmented Relational Reasoning**|Lior Forer et.al.|[2409.15113](http://arxiv.org/abs/2409.15113)|null|
+|**2024-09-24**|**Embedding Knowledge Graph in Function Spaces**|Louis Mozart Kamdem Teyou et.al.|[2409.14857](http://arxiv.org/abs/2409.14857)|null|
+|**2024-09-22**|**RACOON: An LLM-based Framework for Retrieval-Augmented Column Type Annotation with a Knowledge Graph**|Linxi Wei et.al.|[2409.14556](http://arxiv.org/abs/2409.14556)|null|
+|**2024-09-21**|**AI Assistants for Spaceflight Procedures: Combining Generative Pre-Trained Transformer and Retrieval-Augmented Generation on Knowledge Graphs With Augmented Reality Cues**|Oliver Bensch et.al.|[2409.14206](http://arxiv.org/abs/2409.14206)|null|
+|**2024-09-21**|**One Model, Any Conjunctive Query: Graph Neural Networks for Answering Complex Queries over Knowledge Graphs**|Krzysztof Olejniczak et.al.|[2409.13959](http://arxiv.org/abs/2409.13959)|null|
+|**2024-09-20**|**A Change Language for Ontologies and Knowledge Graphs**|Harshad Hegde et.al.|[2409.13906](http://arxiv.org/abs/2409.13906)|null|
+|**2024-09-20**|**ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources**|Shuting Yang et.al.|[2409.13537](http://arxiv.org/abs/2409.13537)|null|
+|**2024-09-20**|**Procedure Model for Building Knowledge Graphs for Industry Applications**|Sascha Meckler et.al.|[2409.13425](http://arxiv.org/abs/2409.13425)|null|
 |**2024-09-18**|**A novel DFS/BFS approach towards link prediction**|Jens Dörpinghaus et.al.|[2409.11687](http://arxiv.org/abs/2409.11687)|null|
 |**2024-09-17**|**Semantic Information Management in Low-Temperature Plasma Science and Technology with VIVO**|Ihda Chaerony Siffa et.al.|[2409.11065](http://arxiv.org/abs/2409.11065)|null|
 |**2024-09-17**|**GOSt-MT: A Knowledge Graph for Occupation-related Gender Biases in Machine Translation**|Orfeas Menis Mastromichalakis et.al.|[2409.10989](http://arxiv.org/abs/2409.10989)|null|
