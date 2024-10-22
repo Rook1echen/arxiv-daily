@@ -1,4 +1,4 @@
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -77,12 +77,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Improve Vision Language Model Chain-of-thought Reasoning**|Ruohong Zhang et.al.|[2410.16198](http://arxiv.org/abs/2410.16198)|null|
+|**2024-10-21**|**RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**|Yantao Liu et.al.|[2410.16184](http://arxiv.org/abs/2410.16184)|**[link](https://github.com/thu-keg/rm-bench)**|
+|**2024-10-21**|**SMART: Self-learning Meta-strategy Agent for Reasoning Tasks**|Rongxing Liu et.al.|[2410.16128](http://arxiv.org/abs/2410.16128)|**[link](https://github.com/kumar-shridhar/smart)**|
+|**2024-10-21**|**Statistical Inference for Temporal Difference Learning with Linear Function Approximation**|Weichen Wu et.al.|[2410.16106](http://arxiv.org/abs/2410.16106)|null|
+|**2024-10-21**|**A New Approach to Solving SMAC Task: Generating Decision Tree Code from Large Language Models**|Yue Deng et.al.|[2410.16024](http://arxiv.org/abs/2410.16024)|**[link](https://github.com/devindeng94/llm-smac)**|
+|**2024-10-21**|**Information-Theoretic Minimax Regret Bounds for Reinforcement Learning based on Duality**|Raghav Bongole et.al.|[2410.16013](http://arxiv.org/abs/2410.16013)|null|
+|**2024-10-21**|**Learning Quadrotor Control From Visual Features Using Differentiable Simulation**|Johannes Heeg et.al.|[2410.15979](http://arxiv.org/abs/2410.15979)|null|
+|**2024-10-21**|**FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL**|Woosung Koh et.al.|[2410.15876](http://arxiv.org/abs/2410.15876)|null|
+|**2024-10-21**|**Towards Efficient Collaboration via Graph Modeling in Reinforcement Learning**|Wenzhe Fan et.al.|[2410.15841](http://arxiv.org/abs/2410.15841)|null|
+|**2024-10-21**|**Long-distance Geomagnetic Navigation in GNSS-denied Environments with Deep Reinforcement Learning**|Wenqi Bai et.al.|[2410.15837](http://arxiv.org/abs/2410.15837)|null|
 |**2024-10-18**|**Online Reinforcement Learning with Passive Memory**|Anay Pattanaik et.al.|[2410.14665](http://arxiv.org/abs/2410.14665)|null|
 |**2024-10-18**|**A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning**|Shengjie Sun et.al.|[2410.14660](http://arxiv.org/abs/2410.14660)|null|
 |**2024-10-18**|**Harnessing Causality in Reinforcement Learning With Bagged Decision Times**|Daiqi Gao et.al.|[2410.14659](http://arxiv.org/abs/2410.14659)|null|
@@ -3675,7 +3685,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3717,12 +3727,20 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
+|**2024-10-21**|**Proactive security defense: cyber threat intelligence modeling for connected autonomous vehicles**|Yinghui Wang et.al.|[2410.16016](http://arxiv.org/abs/2410.16016)|null|
+|**2024-10-21**|**Resilient Temporal GCN for Smart Grid State Estimation Under Topology Inaccuracies**|Seyed Hamed Haghshenas et.al.|[2410.16008](http://arxiv.org/abs/2410.16008)|null|
+|**2024-10-21**|**Visual Representation Learning Guided By Multi-modal Prior Knowledge**|Hongkuan Zhou et.al.|[2410.15981](http://arxiv.org/abs/2410.15981)|null|
+|**2024-10-21**|**GIG: Graph Data Imputation With Graph Differential Dependencies**|Jiang Hua et.al.|[2410.15747](http://arxiv.org/abs/2410.15747)|null|
+|**2024-10-19**|**Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models**|Qitan Lv et.al.|[2410.15116](http://arxiv.org/abs/2410.15116)|null|
+|**2024-10-19**|**A Prompt Engineering Approach and a Knowledge Graph based Framework for Tackling Legal Implications of Large Language Model Answers**|George Hannah et.al.|[2410.15064](http://arxiv.org/abs/2410.15064)|null|
+|**2024-10-18**|**The S2 Hierarchical Discrete Global Grid as a Nexus for Data Representation, Integration, and Querying Across Geospatial Knowledge Graphs**|Shirly Stephen et.al.|[2410.14808](http://arxiv.org/abs/2410.14808)|null|
 |**2024-10-18**|**MCSFF: Multi-modal Consistency and Specificity Fusion Framework for Entity Alignment**|Wei Ai et.al.|[2410.14584](http://arxiv.org/abs/2410.14584)|null|
 |**2024-10-18**|**TransBox: EL++-closed Ontology Embedding**|Hui Yang et.al.|[2410.14571](http://arxiv.org/abs/2410.14571)|null|
 |**2024-10-18**|**Learning to refine domain knowledge for biological network inference**|Peiwen Li et.al.|[2410.14436](http://arxiv.org/abs/2410.14436)|null|
@@ -5169,5 +5187,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241022>back to top</a>)</p>
 
