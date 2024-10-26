@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.10.25
+## Updated on 2024.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-22**|**Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements**|Isamu Isozaki et.al.|[2410.17141](http://arxiv.org/abs/2410.17141)|null|
+|**2024-10-22**|**Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements**|Isamu Isozaki et.al.|[2410.17141](http://arxiv.org/abs/2410.17141)|**[link](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)**|
 |**2024-10-16**|**Adding web pentesting functionality to PTHelper**|María Olivares-Naya et.al.|[2410.12422](http://arxiv.org/abs/2410.12422)|null|
 |**2024-10-07**|**AI-Enhanced Ethical Hacking: A Linux-Focused Experiment**|Haitham S. Al-Sinani et.al.|[2410.05105](http://arxiv.org/abs/2410.05105)|null|
 |**2024-10-04**|**AutoPenBench: Benchmarking Generative Agents for Penetration Testing**|Luca Gioacchini et.al.|[2410.03225](http://arxiv.org/abs/2410.03225)|**[link](https://github.com/lucagioacchini/genai-pentest-paper)**|
