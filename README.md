@@ -1,4 +1,4 @@
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |**2024-10-25**|**Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements**|Isamu Isozaki et.al.|[2410.17141](http://arxiv.org/abs/2410.17141)|**[link](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)**|
 |**2024-10-16**|**Adding web pentesting functionality to PTHelper**|María Olivares-Naya et.al.|[2410.12422](http://arxiv.org/abs/2410.12422)|null|
 |**2024-10-07**|**AI-Enhanced Ethical Hacking: A Linux-Focused Experiment**|Haitham S. Al-Sinani et.al.|[2410.05105](http://arxiv.org/abs/2410.05105)|null|
-|**2024-10-04**|**AutoPenBench: Benchmarking Generative Agents for Penetration Testing**|Luca Gioacchini et.al.|[2410.03225](http://arxiv.org/abs/2410.03225)|**[link](https://github.com/lucagioacchini/genai-pentest-paper)**|
+|**2024-10-28**|**AutoPenBench: Benchmarking Generative Agents for Penetration Testing**|Luca Gioacchini et.al.|[2410.03225](http://arxiv.org/abs/2410.03225)|**[link](https://github.com/lucagioacchini/genai-pentest-paper)**|
 |**2024-10-02**|**LightSC: The Making of a Usable Security Classification Tool for DevSecOps**|Manish Shrestha et.al.|[2410.01762](http://arxiv.org/abs/2410.01762)|null|
 |**2024-09-30**|**Probabilistic Classification of Near-Surface Shallow-Water Sediments using A Portable Free-Fall Penetrometer**|Md Rejwanur Rahman et.al.|[2410.00225](http://arxiv.org/abs/2410.00225)|**[link](https://github.com/Rejwan05/PFFP_Prediction)**|
 |**2024-09-21**|**MEGA-PT: A Meta-Game Framework for Agile Penetration Testing**|Yunfei Ge et.al.|[2409.14219](http://arxiv.org/abs/2409.14219)|null|
@@ -78,12 +78,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252](http://arxiv.org/abs/2410.21252)|null|
+|**2024-10-28**|**Quantum Reinforcement Learning-Based Two-Stage Unit Commitment Framework for Enhanced Power Systems Robustness**|Xiang Wei et.al.|[2410.21240](http://arxiv.org/abs/2410.21240)|null|
+|**2024-10-28**|**Offline Reinforcement Learning With Combinatorial Action Spaces**|Matthew Landers et.al.|[2410.21151](http://arxiv.org/abs/2410.21151)|null|
+|**2024-10-28**|**Robustness and Generalization in Quantum Reinforcement Learning via Lipschitz Regularization**|Nico Meyer et.al.|[2410.21117](http://arxiv.org/abs/2410.21117)|**[link](https://github.com/nicomeyer96/regularized-qpg)**|
+|**2024-10-28**|**Dual-Agent Deep Reinforcement Learning for Dynamic Pricing and Replenishment**|Yi Zheng et.al.|[2410.21109](http://arxiv.org/abs/2410.21109)|null|
+|**2024-10-28**|**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**|Benjamin Schiffer et.al.|[2410.21081](http://arxiv.org/abs/2410.21081)|null|
+|**2024-10-28**|**Getting By Goal Misgeneralization With a Little Help From a Mentor**|Tu Trinh et.al.|[2410.21052](http://arxiv.org/abs/2410.21052)|null|
+|**2024-10-28**|**FairStream: Fair Multimedia Streaming Benchmark for Reinforcement Learning Agents**|Jannis Weil et.al.|[2410.21029](http://arxiv.org/abs/2410.21029)|null|
+|**2024-10-28**|**Reference-Free Formula Drift with Reinforcement Learning: From Driving Data to Tire Energy-Inspired, Real-World Policies**|Franck Djeumou et.al.|[2410.20990](http://arxiv.org/abs/2410.20990)|null|
+|**2024-10-28**|**BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**|Yunhan Zhao et.al.|[2410.20971](http://arxiv.org/abs/2410.20971)|null|
 |**2024-10-25**|**Adversarial Environment Design via Regret-Guided Diffusion Models**|Hojun Chung et.al.|[2410.19715](http://arxiv.org/abs/2410.19715)|null|
 |**2024-10-25**|**DA-VIL: Adaptive Dual-Arm Manipulation with Reinforcement Learning and Variable Impedance Control**|Md Faizal Karim et.al.|[2410.19712](http://arxiv.org/abs/2410.19712)|null|
 |**2024-10-25**|**MILES: Making Imitation Learning Easy with Self-Supervision**|Georgios Papagiannis et.al.|[2410.19693](http://arxiv.org/abs/2410.19693)|null|
@@ -3726,7 +3736,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3768,12 +3778,21 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
+|**2024-10-28**|**Resilience in Knowledge Graph Embeddings**|Arnab Sharma et.al.|[2410.21163](http://arxiv.org/abs/2410.21163)|null|
+|**2024-10-28**|**CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models**|Meiqi Chen et.al.|[2410.21067](http://arxiv.org/abs/2410.21067)|null|
+|**2024-10-28**|**CTINEXUS: Leveraging Optimized LLM In-Context Learning for Constructing Cybersecurity Knowledge Graphs Under Data Scarcity**|Yutong Cheng et.al.|[2410.21060](http://arxiv.org/abs/2410.21060)|null|
+|**2024-10-28**|**Overview of Current Challenges in Multi-Architecture Software Engineering and a Vision for the Future**|Piotr Sowinski et.al.|[2410.20984](http://arxiv.org/abs/2410.20984)|null|
+|**2024-10-28**|**SEG:Seeds-Enhanced Iterative Refinement Graph Neural Network for Entity Alignment**|Wei Ai et.al.|[2410.20733](http://arxiv.org/abs/2410.20733)|null|
+|**2024-10-28**|**Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation**|Mufei Li et.al.|[2410.20724](http://arxiv.org/abs/2410.20724)|null|
+|**2024-10-27**|**Effective Instruction Parsing Plugin for Complex Logical Query Answering on Knowledge Graphs**|Xingrui Zhuo et.al.|[2410.20321](http://arxiv.org/abs/2410.20321)|null|
+|**2024-10-25**|**DualMAR: Medical-Augmented Representation from Dual-Expertise Perspectives**|Pengfei Hu et.al.|[2410.19955](http://arxiv.org/abs/2410.19955)|null|
 |**2024-10-25**|**FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning**|Nicole Cho et.al.|[2410.19727](http://arxiv.org/abs/2410.19727)|null|
 |**2024-10-25**|**Knowledge Graph Enhanced Language Agents for Recommendation**|Taicheng Guo et.al.|[2410.19627](http://arxiv.org/abs/2410.19627)|null|
 |**2024-10-24**|**Decoding on Graphs: Faithful and Sound Reasoning on Knowledge Graphs through Generation of Well-Formed Chains**|Kun Li et.al.|[2410.18415](http://arxiv.org/abs/2410.18415)|null|
@@ -5238,5 +5257,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241029>back to top</a>)</p>
 
