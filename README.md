@@ -1,4 +1,4 @@
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-02**|**AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?**|Benlong Wu et.al.|[2411.01236](http://arxiv.org/abs/2411.01236)|null|
+|**2024-10-31**|**ADAPT: A Game-Theoretic and Neuro-Symbolic Framework for Automated Distributed Adaptive Penetration Testing**|Haozhe Lei et.al.|[2411.00217](http://arxiv.org/abs/2411.00217)|null|
 |**2024-10-25**|**Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements**|Isamu Isozaki et.al.|[2410.17141](http://arxiv.org/abs/2410.17141)|**[link](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)**|
 |**2024-10-16**|**Adding web pentesting functionality to PTHelper**|María Olivares-Naya et.al.|[2410.12422](http://arxiv.org/abs/2410.12422)|null|
 |**2024-10-07**|**AI-Enhanced Ethical Hacking: A Linux-Focused Experiment**|Haitham S. Al-Sinani et.al.|[2410.05105](http://arxiv.org/abs/2410.05105)|null|
@@ -78,12 +80,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345](http://arxiv.org/abs/2411.02345)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
+|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|null|
+|**2024-11-04**|**Targeted Manipulation and Deception Emerge when Optimizing LLMs for User Feedback**|Marcus Williams et.al.|[2411.02306](http://arxiv.org/abs/2411.02306)|**[link](https://github.com/marcus-jw/targeted-manipulation-and-deception-in-llms)**|
+|**2024-11-04**|**N-Gram Induction Heads for In-Context RL: Improving Stability and Reducing Data Needs**|Ilya Zisman et.al.|[2411.01958](http://arxiv.org/abs/2411.01958)|null|
+|**2024-11-04**|**Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback**|Guan-Ting Lin et.al.|[2411.01834](http://arxiv.org/abs/2411.01834)|null|
+|**2024-11-04**|**Risk-sensitive control as inference with Rényi divergence**|Kaito Ito et.al.|[2411.01827](http://arxiv.org/abs/2411.01827)|null|
+|**2024-11-04**|**IRS-Enhanced Secure Semantic Communication Networks: Cross-Layer and Context-Awared Resource Allocation**|Lingyi Wang et.al.|[2411.01821](http://arxiv.org/abs/2411.01821)|null|
+|**2024-11-04**|**So You Think You Can Scale Up Autonomous Robot Data Collection?**|Suvir Mirchandani et.al.|[2411.01813](http://arxiv.org/abs/2411.01813)|null|
+|**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
+|**2024-11-04**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
 |**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
 |**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|**[link](https://github.com/saleh-faghfoorian/rl-rrt-kdtree)**|
@@ -3766,7 +3778,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -3774,7 +3786,7 @@
 |---|---|---|---|---|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-15**|**ILAEDA: An Imitation Learning Based Approach for Automatic Exploratory Data Analysis**|Abhijit Manatkar et.al.|[2410.11276](http://arxiv.org/abs/2410.11276)|null|
-|**2024-10-08**|**A Robust Quadruped Robot with Twisting Waist for Flexible Motions**|Quancheng Qian et.al.|[2410.05884](http://arxiv.org/abs/2410.05884)|null|
+|**2024-11-04**|**A Robust Quadruped Robot with Twisting Waist for Flexible Motions**|Quancheng Qian et.al.|[2410.05884](http://arxiv.org/abs/2410.05884)|null|
 |**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718](http://arxiv.org/abs/2409.18718)|null|
 |**2024-08-07**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200](http://arxiv.org/abs/2408.03200)|null|
 |**2024-07-23**|**PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**|Huandong Wang et.al.|[2407.16729](http://arxiv.org/abs/2407.16729)|**[link](https://github.com/tsinghua-fib-lab/pategail)**|
@@ -3808,12 +3820,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382](http://arxiv.org/abs/2411.02382)|null|
+|**2024-11-04**|**Grid-Based Projection of Spatial Data into Knowledge Graphs**|Amin Anjomshoaa et.al.|[2411.02309](http://arxiv.org/abs/2411.02309)|null|
+|**2024-11-03**|**Ontology Population using LLMs**|Sanaz Saki Norouzi et.al.|[2411.01612](http://arxiv.org/abs/2411.01612)|null|
+|**2024-11-03**|**DPCL-Diff: The Temporal Knowledge Graph Reasoning based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning**|Yukun Cao et.al.|[2411.01477](http://arxiv.org/abs/2411.01477)|null|
+|**2024-11-03**|**PageRank Bandits for Link Prediction**|Yikun Ban et.al.|[2411.01410](http://arxiv.org/abs/2411.01410)|null|
+|**2024-11-02**|**Towards a Knowledge Graph for Teaching Knowledge Graphs**|Eleni Ilkou et.al.|[2411.01304](http://arxiv.org/abs/2411.01304)|null|
+|**2024-11-01**|**Capturing and Anticipating User Intents in Data Analytics via Knowledge Graphs**|Gerard Pons et.al.|[2411.01023](http://arxiv.org/abs/2411.01023)|null|
 |**2024-10-31**|**Detecting text level intellectual influence with knowledge graph embeddings**|Lucian Li et.al.|[2410.24021](http://arxiv.org/abs/2410.24021)|null|
 |**2024-10-31**|**Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs**|Liyi Chen et.al.|[2410.23875](http://arxiv.org/abs/2410.23875)|**[link](https://github.com/liyichen-cly/pog)**|
 |**2024-10-31**|**OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models**|Junda Wu et.al.|[2410.23703](http://arxiv.org/abs/2410.23703)|null|
@@ -5297,5 +5316,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20241104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
 
