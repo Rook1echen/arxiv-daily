@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-02**|**AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?**|Benlong Wu et.al.|[2411.01236](http://arxiv.org/abs/2411.01236)|null|
+|**2024-11-02**|**AutoPT: How Far Are We from the End2End Automated Web Penetration Testing?**|Benlong Wu et.al.|[2411.01236](http://arxiv.org/abs/2411.01236)|**[link](https://github.com/Dizzy-K/AutoPT)**|
 |**2024-10-31**|**ADAPT: A Game-Theoretic and Neuro-Symbolic Framework for Automated Distributed Adaptive Penetration Testing**|Haozhe Lei et.al.|[2411.00217](http://arxiv.org/abs/2411.00217)|null|
 |**2024-10-25**|**Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements**|Isamu Isozaki et.al.|[2410.17141](http://arxiv.org/abs/2410.17141)|**[link](https://github.com/isamu-isozaki/AI-Pentest-Benchmark)**|
 |**2024-10-16**|**Adding web pentesting functionality to PTHelper**|María Olivares-Naya et.al.|[2410.12422](http://arxiv.org/abs/2410.12422)|null|
@@ -78,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Pre-trained Visual Dynamics Representations for Efficient Policy Learning**|Hao Luo et.al.|[2411.03169](http://arxiv.org/abs/2411.03169)|null|
+|**2024-11-05**|**Hierarchical Orchestra of Policies**|Thomas P Cannon et.al.|[2411.03008](http://arxiv.org/abs/2411.03008)|null|
+|**2024-11-05**|**Accelerating Task Generalisation with Multi-Level Hierarchical Options**|Thomas P Cannon et.al.|[2411.02998](http://arxiv.org/abs/2411.02998)|null|
+|**2024-11-05**|**Autonomous Decision Making for UAV Cooperative Pursuit-Evasion Game with Reinforcement Learning**|Yang Zhao et.al.|[2411.02983](http://arxiv.org/abs/2411.02983)|null|
+|**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
+|**2024-11-05**|**Embedding Safety into RL: A New Take on Trust Region Methods**|Nikola Milosevic et.al.|[2411.02957](http://arxiv.org/abs/2411.02957)|null|
+|**2024-11-05**|**The Unreasonable Effectiveness of LLMs for Query Optimization**|Peter Akioyamen et.al.|[2411.02862](http://arxiv.org/abs/2411.02862)|**[link](https://github.com/peter-ai/LLMSteer)**|
+|**2024-11-05**|**ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate**|Shohei Taniguchi et.al.|[2411.02853](http://arxiv.org/abs/2411.02853)|**[link](https://github.com/ishohei220/adopt)**|
+|**2024-11-05**|**When to Localize? A Risk-Constrained Reinforcement Learning Approach**|Chak Lam Shek et.al.|[2411.02788](http://arxiv.org/abs/2411.02788)|null|
+|**2024-11-04**|**Learning to Assist Humans without Inferring Rewards**|Vivek Myers et.al.|[2411.02623](http://arxiv.org/abs/2411.02623)|**[link](https://github.com/vivekmyers/empowerment_successor_representations)**|
 |**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345](http://arxiv.org/abs/2411.02345)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
 |**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|null|
 |**2024-11-04**|**Targeted Manipulation and Deception Emerge when Optimizing LLMs for User Feedback**|Marcus Williams et.al.|[2411.02306](http://arxiv.org/abs/2411.02306)|**[link](https://github.com/marcus-jw/targeted-manipulation-and-deception-in-llms)**|
@@ -3814,6 +3824,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
+|**2024-11-05**|**JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase**|Wanying Ding et.al.|[2411.02695](http://arxiv.org/abs/2411.02695)|null|
+|**2024-11-05**|**JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs**|Wanying Ding et.al.|[2411.02692](http://arxiv.org/abs/2411.02692)|null|
+|**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435](http://arxiv.org/abs/2411.02435)|null|
 |**2024-11-04**|**Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models**|Guangzhi Xiong et.al.|[2411.02382](http://arxiv.org/abs/2411.02382)|null|
 |**2024-11-04**|**Grid-Based Projection of Spatial Data into Knowledge Graphs**|Amin Anjomshoaa et.al.|[2411.02309](http://arxiv.org/abs/2411.02309)|null|
 |**2024-11-03**|**Ontology Population using LLMs**|Sanaz Saki Norouzi et.al.|[2411.01612](http://arxiv.org/abs/2411.01612)|null|
