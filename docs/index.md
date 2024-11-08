@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -78,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|
+|**2024-11-07**|**A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model**|Panwen Hu et.al.|[2411.04942](http://arxiv.org/abs/2411.04942)|null|
+|**2024-11-07**|**Evaluating Robustness of Reinforcement Learning Algorithms for Autonomous Shipping**|Bavo Lesy et.al.|[2411.04915](http://arxiv.org/abs/2411.04915)|null|
+|**2024-11-07**|**Think Smart, Act SMARL! Analyzing Probabilistic Logic Driven Safety in Multi-Agent Reinforcement Learning**|Satchit Chatterji et.al.|[2411.04867](http://arxiv.org/abs/2411.04867)|**[link](https://github.com/satchitchatterji/shieldedmarlthesis)**|
+|**2024-11-07**|**Asymptotic regularity of a generalised stochastic Halpern scheme with applications**|Nicholas Pischke et.al.|[2411.04845](http://arxiv.org/abs/2411.04845)|null|
+|**2024-11-07**|**Plasticity Loss in Deep Reinforcement Learning: A Survey**|Timo Klein et.al.|[2411.04832](http://arxiv.org/abs/2411.04832)|null|
+|**2024-11-07**|**Harnessing the Power of Gradient-Based Simulations for Multi-Objective Optimization in Particle Accelerators**|Kishansingh Rajput et.al.|[2411.04817](http://arxiv.org/abs/2411.04817)|null|
+|**2024-11-07**|**AllGaits: Learning All Quadruped Gaits and Transitions**|Guillaume Bellegarda et.al.|[2411.04787](http://arxiv.org/abs/2411.04787)|null|
+|**2024-11-07**|**Navigating Trade-offs: Policy Summarization for Multi-Objective Reinforcement Learning**|Zuzanna Osika et.al.|[2411.04784](http://arxiv.org/abs/2411.04784)|**[link](https://github.com/osikazuzanna/bi-objective-clustering)**|
+|**2024-11-07**|**TacEx: GelSight Tactile Simulation in Isaac Sim -- Combining Soft-Body and Visuotactile Simulators**|Duc Huy Nguyen et.al.|[2411.04776](http://arxiv.org/abs/2411.04776)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
 |**2024-11-06**|**Interpretable and Efficient Data-driven Discovery and Control of Distributed Systems**|Florian Wolf et.al.|[2411.04098](http://arxiv.org/abs/2411.04098)|null|
 |**2024-11-06**|**Non-Stationary Learning of Neural Networks with Automatic Soft Parameter Reset**|Alexandre Galashov et.al.|[2411.04034](http://arxiv.org/abs/2411.04034)|null|
@@ -3834,11 +3844,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-06**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883](http://arxiv.org/abs/2411.03883)|**[link](https://github.com/lautel/meg)**|
-|**2024-11-06**|**Fully Hyperbolic Rotation for Knowledge Graph Embedding**|Qiuyu Liang et.al.|[2411.03622](http://arxiv.org/abs/2411.03622)|null|
+|**2024-11-07**|**MEG: Medical Knowledge-Augmented Large Language Models for Question Answering**|Laura Cabello et.al.|[2411.03883](http://arxiv.org/abs/2411.03883)|**[link](https://github.com/lautel/meg)**|
+|**2024-11-07**|**Fully Hyperbolic Rotation for Knowledge Graph Embedding**|Qiuyu Liang et.al.|[2411.03622](http://arxiv.org/abs/2411.03622)|null|
 |**2024-11-06**|**Advanced RAG Models with Graph Structures: Optimizing Complex Knowledge Reasoning and Text Generation**|Yuxin Dong et.al.|[2411.03572](http://arxiv.org/abs/2411.03572)|null|
 |**2024-11-06**|**The American Sign Language Knowledge Graph: Infusing ASL Models with Linguistic Knowledge**|Lee Kezar et.al.|[2411.03568](http://arxiv.org/abs/2411.03568)|null|
-|**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
+|**2024-11-07**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
 |**2024-11-05**|**JEL: Applying End-to-End Neural Entity Linking in JPMorgan Chase**|Wanying Ding et.al.|[2411.02695](http://arxiv.org/abs/2411.02695)|null|
 |**2024-11-05**|**JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs**|Wanying Ding et.al.|[2411.02692](http://arxiv.org/abs/2411.02692)|null|
 |**2024-11-01**|**Narrative Analysis of True Crime Podcasts With Knowledge Graph-Augmented Large Language Models**|Xinyi Leng et.al.|[2411.02435](http://arxiv.org/abs/2411.02435)|null|
