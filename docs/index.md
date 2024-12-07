@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -87,7 +87,7 @@ layout: default
 |**2024-12-05**|**Finer Behavioral Foundation Models via Auto-Regressive Features and Advantage Weighting**|Edoardo Cetin et.al.|[2412.04368](http://arxiv.org/abs/2412.04368)|null|
 |**2024-12-05**|**Reinforcement Learning for Freeway Lane-Change Regulation via Connected Vehicles**|Ke Sun et.al.|[2412.04341](http://arxiv.org/abs/2412.04341)|null|
 |**2024-12-05**|**Action Mapping for Reinforcement Learning in Continuous Environments with Constraints**|Mirco Theile et.al.|[2412.04327](http://arxiv.org/abs/2412.04327)|null|
-|**2024-12-05**|**GRAM: Generalization in Deep RL with a Robust Adaptation Module**|James Queeney et.al.|[2412.04323](http://arxiv.org/abs/2412.04323)|null|
+|**2024-12-05**|**GRAM: Generalization in Deep RL with a Robust Adaptation Module**|James Queeney et.al.|[2412.04323](http://arxiv.org/abs/2412.04323)|**[link](https://github.com/merlresearch/gram)**|
 |**2024-12-05**|**Reinforcement Learning from Wild Animal Videos**|Elliot Chane-Sane et.al.|[2412.04273](http://arxiv.org/abs/2412.04273)|null|
 |**2024-12-05**|**HyperMARL: Adaptive Hypernetworks for Multi-Agent RL**|Kale-ab Abebe Tessera et.al.|[2412.04233](http://arxiv.org/abs/2412.04233)|null|
 |**2024-12-05**|**A Dynamic Safety Shield for Safe and Efficient Reinforcement Learning of Navigation Tasks**|Murad Dawood et.al.|[2412.04153](http://arxiv.org/abs/2412.04153)|null|
