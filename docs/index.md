@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -82,6 +82,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Learning Sketch Decompositions in Planning via Deep Reinforcement Learning**|Michael Aichmüller et.al.|[2412.08574](http://arxiv.org/abs/2412.08574)|null|
+|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|null|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
+|**2024-12-11**|**MaestroMotif: Skill Design from Artificial Intelligence Feedback**|Martin Klissarov et.al.|[2412.08542](http://arxiv.org/abs/2412.08542)|null|
+|**2024-12-11**|**Subspace-wise Hybrid RL for Articulated Object Manipulation**|Yujin Kim et.al.|[2412.08522](http://arxiv.org/abs/2412.08522)|null|
+|**2024-12-11**|**Multi-perspective Alignment for Increasing Naturalness in Neural Machine Translation**|Huiyuan Lai et.al.|[2412.08473](http://arxiv.org/abs/2412.08473)|null|
+|**2024-12-11**|**IRL for Restless Multi-Armed Bandits with Applications in Maternal and Child Health**|Gauri Jain et.al.|[2412.08463](http://arxiv.org/abs/2412.08463)|**[link](https://github.com/gjain234/whirl)**|
+|**2024-12-11**|**SINERGYM -- A virtual testbed for building energy optimization with Reinforcement Learning**|Alejandro Campoy-Nieves et.al.|[2412.08293](http://arxiv.org/abs/2412.08293)|null|
+|**2024-12-11**|**Coarse-to-Fine: A Dual-Phase Channel-Adaptive Method for Wireless Image Transmission**|Hanlei Li et.al.|[2412.08211](http://arxiv.org/abs/2412.08211)|null|
+|**2024-12-11**|**Learn How to Query from Unlabeled Data Streams in Federated Learning**|Yuchang Sun et.al.|[2412.08138](http://arxiv.org/abs/2412.08138)|null|
 |**2024-12-10**|**Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control**|Chenhao Lu et.al.|[2412.07773](http://arxiv.org/abs/2412.07773)|null|
 |**2024-12-10**|**Efficient Online Reinforcement Learning Fine-Tuning Need Not Retain Offline Data**|Zhiyuan Zhou et.al.|[2412.07762](http://arxiv.org/abs/2412.07762)|null|
 |**2024-12-10**|**Optimizing Sensor Redundancy in Sequential Decision-Making Problems**|Jonas Nüßlein et.al.|[2412.07686](http://arxiv.org/abs/2412.07686)|null|
@@ -4056,6 +4066,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead**|Yanqi Su et.al.|[2412.08581](http://arxiv.org/abs/2412.08581)|null|
+|**2024-12-10**|**Fine-grained graph representation learning for heterogeneous mobile networks with attentive fusion and contrastive learning**|Shengheng Liu et.al.|[2412.07809](http://arxiv.org/abs/2412.07809)|null|
 |**2024-12-10**|**Adapting to Non-Stationary Environments: Multi-Armed Bandit Enhanced Retrieval-Augmented Generation on Knowledge Graphs**|Xiaqiang Tang et.al.|[2412.07618](http://arxiv.org/abs/2412.07618)|**[link](https://github.com/futureeeeee/dynamic-rag)**|
 |**2024-12-10**|**AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks**|Kai Yuan et.al.|[2412.07468](http://arxiv.org/abs/2412.07468)|null|
 |**2024-12-10**|**Knowledge Graph Guided Evaluation of Abstention Techniques**|Kinshuk Vasisht et.al.|[2412.07430](http://arxiv.org/abs/2412.07430)|null|
