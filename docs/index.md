@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -83,6 +83,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
+|**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
+|**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
+|**2024-12-18**|**Spatio-Temporal SIR Model of Pandemic Spread During Warfare with Optimal Dual-use Healthcare System Administration using Deep Reinforcement Learning**|Adi Shuchami et.al.|[2412.14039](http://arxiv.org/abs/2412.14039)|null|
+|**2024-12-18**|**Robust Optimal Safe and Stability Guaranteeing Reinforcement Learning Control for Quadcopter**|Sanghyoup Gu et.al.|[2412.14003](http://arxiv.org/abs/2412.14003)|null|
+|**2024-12-18**|**Harvesting energy from turbulent winds with Reinforcement Learning**|Lorenzo Basile et.al.|[2412.13961](http://arxiv.org/abs/2412.13961)|null|
+|**2024-12-18**|**AI-Powered Algorithm-Centric Quantum Processor Topology Design**|Tian Li et.al.|[2412.13805](http://arxiv.org/abs/2412.13805)|**[link](https://github.com/qclab-quantum/qtailor)**|
+|**2024-12-18**|**Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN**|Pengxiang Li et.al.|[2412.13795](http://arxiv.org/abs/2412.13795)|**[link](https://github.com/pixeli99/mixln)**|
+|**2024-12-18**|**A hybrid learning agent for episodic learning tasks with unknown target distance**|Oliver Sefrin et.al.|[2412.13686](http://arxiv.org/abs/2412.13686)|null|
+|**2024-12-18**|**When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?**|Tongzhou Mu et.al.|[2412.13662](http://arxiv.org/abs/2412.13662)|**[link](https://github.com/tongzhoumu/s2v-dagger)**|
 |**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196](http://arxiv.org/abs/2412.13196)|null|
 |**2024-12-17**|**Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement Learning**|Chenglin Li et.al.|[2412.13184](http://arxiv.org/abs/2412.13184)|**[link](https://github.com/CharlieLeeeee/TQPO)**|
 |**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
@@ -4105,6 +4115,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782](http://arxiv.org/abs/2412.13782)|null|
+|**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
+|**2024-12-18**|**Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement**|Qianyue Wang et.al.|[2412.13575](http://arxiv.org/abs/2412.13575)|**[link](https://github.com/qianyue-wang/dome)**|
+|**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
 |**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
 |**2024-12-17**|**LLM-based Discriminative Reasoning for Knowledge Graph Question Answering**|Mufan Xu et.al.|[2412.12643](http://arxiv.org/abs/2412.12643)|null|
 |**2024-12-17**|**SynthCypher: A Fully Synthetic Data Generation Framework for Text-to-Cypher Querying in Knowledge Graphs**|Aman Tiwari et.al.|[2412.12612](http://arxiv.org/abs/2412.12612)|null|
