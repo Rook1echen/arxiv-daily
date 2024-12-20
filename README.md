@@ -1,4 +1,4 @@
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -85,12 +85,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
+|**2024-12-19**|**Effective Method with Compression for Distributed and Federated Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935](http://arxiv.org/abs/2412.14935)|null|
+|**2024-12-19**|**Hierarchical Subspaces of Policies for Continual Offline Reinforcement Learning**|Anthony Kobanda et.al.|[2412.14865](http://arxiv.org/abs/2412.14865)|null|
+|**2024-12-19**|**Entropy Regularized Task Representation Learning for Offline Meta-Reinforcement Learning**|Mohammadreza nakhaei et.al.|[2412.14834](http://arxiv.org/abs/2412.14834)|**[link](https://github.com/mohammadrezanakhaei/er-trl)**|
+|**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
+|**2024-12-19**|**Learning to Generate Research Idea with Dynamic Control**|Ruochen Li et.al.|[2412.14626](http://arxiv.org/abs/2412.14626)|null|
+|**2024-12-19**|**Simulation-Free Hierarchical Latent Policy Planning for Proactive Dialogues**|Tao He et.al.|[2412.14584](http://arxiv.org/abs/2412.14584)|null|
+|**2024-12-19**|**Single-Loop Federated Actor-Critic across Heterogeneous Environments**|Ye Zhu et.al.|[2412.14555](http://arxiv.org/abs/2412.14555)|null|
+|**2024-12-18**|**Network Modelling in Analysing Cyber-related Graphs**|Vesa Kuikka et.al.|[2412.14375](http://arxiv.org/abs/2412.14375)|null|
+|**2024-12-18**|**Implementing TD3 to train a Neural Network to fly a Quadcopter through an FPV Gate**|Patrick Thomas et.al.|[2412.14367](http://arxiv.org/abs/2412.14367)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
 |**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
 |**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
@@ -4078,7 +4088,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4121,12 +4131,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801](http://arxiv.org/abs/2412.14801)|null|
+|**2024-12-18**|**Network Modelling in Analysing Cyber-related Graphs**|Vesa Kuikka et.al.|[2412.14375](http://arxiv.org/abs/2412.14375)|null|
 |**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782](http://arxiv.org/abs/2412.13782)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
 |**2024-12-18**|**Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement**|Qianyue Wang et.al.|[2412.13575](http://arxiv.org/abs/2412.13575)|**[link](https://github.com/qianyue-wang/dome)**|
@@ -5739,5 +5751,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 

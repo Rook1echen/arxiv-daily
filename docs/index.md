@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -83,6 +83,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
+|**2024-12-19**|**Effective Method with Compression for Distributed and Federated Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935](http://arxiv.org/abs/2412.14935)|null|
+|**2024-12-19**|**Hierarchical Subspaces of Policies for Continual Offline Reinforcement Learning**|Anthony Kobanda et.al.|[2412.14865](http://arxiv.org/abs/2412.14865)|null|
+|**2024-12-19**|**Entropy Regularized Task Representation Learning for Offline Meta-Reinforcement Learning**|Mohammadreza nakhaei et.al.|[2412.14834](http://arxiv.org/abs/2412.14834)|**[link](https://github.com/mohammadrezanakhaei/er-trl)**|
+|**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
+|**2024-12-19**|**Learning to Generate Research Idea with Dynamic Control**|Ruochen Li et.al.|[2412.14626](http://arxiv.org/abs/2412.14626)|null|
+|**2024-12-19**|**Simulation-Free Hierarchical Latent Policy Planning for Proactive Dialogues**|Tao He et.al.|[2412.14584](http://arxiv.org/abs/2412.14584)|null|
+|**2024-12-19**|**Single-Loop Federated Actor-Critic across Heterogeneous Environments**|Ye Zhu et.al.|[2412.14555](http://arxiv.org/abs/2412.14555)|null|
+|**2024-12-18**|**Network Modelling in Analysing Cyber-related Graphs**|Vesa Kuikka et.al.|[2412.14375](http://arxiv.org/abs/2412.14375)|null|
+|**2024-12-18**|**Implementing TD3 to train a Neural Network to fly a Quadcopter through an FPV Gate**|Patrick Thomas et.al.|[2412.14367](http://arxiv.org/abs/2412.14367)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
 |**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
 |**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
@@ -4115,6 +4125,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801](http://arxiv.org/abs/2412.14801)|null|
+|**2024-12-18**|**Network Modelling in Analysing Cyber-related Graphs**|Vesa Kuikka et.al.|[2412.14375](http://arxiv.org/abs/2412.14375)|null|
 |**2024-12-18**|**Knowledge Editing with Dynamic Knowledge Graphs for Multi-hop Question Answering**|Yifan Lu et.al.|[2412.13782](http://arxiv.org/abs/2412.13782)|null|
 |**2024-12-18**|**MMO-IG: Multi-Class and Multi-Scale Object Image Generation for Remote Sensing**|Chuang Yang et.al.|[2412.13684](http://arxiv.org/abs/2412.13684)|null|
 |**2024-12-18**|**Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement**|Qianyue Wang et.al.|[2412.13575](http://arxiv.org/abs/2412.13575)|**[link](https://github.com/qianyue-wang/dome)**|
