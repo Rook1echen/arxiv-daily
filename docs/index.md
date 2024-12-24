@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -83,6 +83,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**HyperQ-Opt: Q-learning for Hyperparameter Optimization**|Md. Tarek Hasan et.al.|[2412.17765](http://arxiv.org/abs/2412.17765)|null|
+|**2024-12-23**|**SMAC-Hard: Enabling Mixed Opponent Strategy Script and Self-play on SMAC**|Yue Deng et.al.|[2412.17707](http://arxiv.org/abs/2412.17707)|**[link](https://github.com/devindeng94/smac-hard)**|
+|**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
+|**2024-12-23**|**Reinforcement Learning with a Focus on Adjusting Policies to Reach Targets**|Akane Tsuboya et.al.|[2412.17344](http://arxiv.org/abs/2412.17344)|null|
+|**2024-12-23**|**Multimodal Deep Reinforcement Learning for Portfolio Optimization**|Sumit Nawathe et.al.|[2412.17293](http://arxiv.org/abs/2412.17293)|null|
+|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/abs/2412.17282)|null|
+|**2024-12-23**|**ACECode: A Reinforcement Learning Framework for Aligning Code Efficiency and Correctness in Code Language Models**|Chengran Yang et.al.|[2412.17264](http://arxiv.org/abs/2412.17264)|null|
+|**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/abs/2412.17252)|null|
+|**2024-12-23**|**Model-free stochastic linear quadratic design by semidefinite programming**|Jing Guo et.al.|[2412.17230](http://arxiv.org/abs/2412.17230)|null|
+|**2024-12-23**|**Attack by Yourself: Effective and Unnoticeable Multi-Category Graph Backdoor Attacks with Subgraph Triggers Pool**|Jiangtong Li et.al.|[2412.17213](http://arxiv.org/abs/2412.17213)|null|
 |**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
 |**2024-12-20**|**APIRL: Deep Reinforcement Learning for REST API Fuzzing**|Myles Foley et.al.|[2412.15991](http://arxiv.org/abs/2412.15991)|**[link](https://github.com/ICL-ml4csec/APIRL)**|
 |**2024-12-20**|**Active Flow Control for Bluff Body under High Reynolds Number Turbulent Flow Conditions Using Deep Reinforcement Learning**|Jingbo Chen et.al.|[2412.15975](http://arxiv.org/abs/2412.15975)|null|
@@ -4135,6 +4145,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**RAGONITE: Iterative Retrieval on Induced Databases and Verbalized RDF for Conversational QA over KGs with RAG**|Rishiraj Saha Roy et.al.|[2412.17690](http://arxiv.org/abs/2412.17690)|**[link](https://github.com/fraunhofer-iis/ragonite)**|
+|**2024-12-23**|**Advances in Machine Learning Research Using Knowledge Graphs**|Jing Si et.al.|[2412.17643](http://arxiv.org/abs/2412.17643)|null|
+|**2024-12-23**|**Markov Process-Based Graph Convolutional Networks for Entity Classification in Knowledge Graphs**|Johannes Mäkelburg et.al.|[2412.17438](http://arxiv.org/abs/2412.17438)|null|
+|**2024-12-23**|**APEX $^2$ : Adaptive and Extreme Summarization for Personalized Knowledge Graphs**|Zihao Li et.al.|[2412.17336](http://arxiv.org/abs/2412.17336)|null|
+|**2024-12-23**|**A Dual-Perspective Metaphor Detection Framework Using Large Language Models**|Yujie Lin et.al.|[2412.17332](http://arxiv.org/abs/2412.17332)|**[link](https://github.com/deeplearnxmu/dmd)**|
+|**2024-12-23**|**Attack by Yourself: Effective and Unnoticeable Multi-Category Graph Backdoor Attacks with Subgraph Triggers Pool**|Jiangtong Li et.al.|[2412.17213](http://arxiv.org/abs/2412.17213)|null|
+|**2024-12-22**|**Semantic Web: Past, Present, and Future**|Ansgar Scherp et.al.|[2412.17159](http://arxiv.org/abs/2412.17159)|**[link](https://github.com/ascherp/semantic-web-primer)**|
+|**2024-12-22**|**GraphAgent: Agentic Graph Language Assistant**|Yuhao Yang et.al.|[2412.17029](http://arxiv.org/abs/2412.17029)|null|
+|**2024-12-22**|**Enhancing Supply Chain Transparency in Emerging Economies Using Online Contents and LLMs**|Bohan Jin et.al.|[2412.16922](http://arxiv.org/abs/2412.16922)|null|
+|**2024-12-22**|**KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**|Kaiwen Zuo et.al.|[2412.16833](http://arxiv.org/abs/2412.16833)|null|
 |**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
 |**2024-12-20**|**SUBMASSIVE: Resolving Subclass Cycles in Very Large Knowledge Graphs**|Shuai Wang et.al.|[2412.15829](http://arxiv.org/abs/2412.15829)|null|
 |**2024-12-20**|**S $^2$ DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822](http://arxiv.org/abs/2412.15822)|null|
