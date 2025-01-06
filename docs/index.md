@@ -83,6 +83,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Evaluating Scenario-based Decision-making for Interactive Autonomous Driving Using Rational Criteria: A Survey**|Zhen Tian et.al.|[2501.01886](http://arxiv.org/abs/2501.01886)|null|
+|**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
+|**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long et.al.|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
+|**2025-01-03**|**Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning**|Gavin B. Rens et.al.|[2501.01727](http://arxiv.org/abs/2501.01727)|null|
+|**2025-01-03**|**Inversely Learning Transferable Rewards via Abstracted States**|Yikang Gui et.al.|[2501.01669](http://arxiv.org/abs/2501.01669)|null|
+|**2025-01-03**|**BLAST: A Stealthy Backdoor Leverage Attack against Cooperative Multi-Agent Deep Reinforcement Learning based Systems**|Yinbo Yu et.al.|[2501.01593](http://arxiv.org/abs/2501.01593)|null|
+|**2025-01-02**|**Reinforcement-learning-based control of turbulent channel flows at high Reynolds numbers**|Zisong Zhou et.al.|[2501.01573](http://arxiv.org/abs/2501.01573)|null|
+|**2025-01-02**|**Reinforcement Learning for Respondent-Driven Sampling**|Justin Weltz et.al.|[2501.01505](http://arxiv.org/abs/2501.01505)|null|
 |**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332](http://arxiv.org/abs/2501.01332)|null|
 |**2025-01-02**|**Towards Intelligent Antenna Positioning: Leveraging DRL for FAS-Aided ISAC Systems**|Shunxing Yang et.al.|[2501.01281](http://arxiv.org/abs/2501.01281)|null|
 |**2025-01-02**|**PIMAEX: Multi-Agent Exploration through Peer Incentivization**|Michael Kölle et.al.|[2501.01266](http://arxiv.org/abs/2501.01266)|null|
@@ -4185,6 +4193,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs**|Tien Dang et.al.|[2501.01644](http://arxiv.org/abs/2501.01644)|null|
 |**2025-01-01**|**Enhancing Transformers for Generalizable First-Order Logical Entailment**|Tianshi Zheng et.al.|[2501.00759](http://arxiv.org/abs/2501.00759)|null|
 |**2024-12-31**|**KnowRA: Knowledge Retrieval Augmented Method for Document-level Relation Extraction with Comprehensive Reasoning Abilities**|Chengcheng Mai et.al.|[2501.00571](http://arxiv.org/abs/2501.00571)|null|
 |**2024-12-31**|**Efficient support ticket resolution using Knowledge Graphs**|Sherwin Varghese et.al.|[2501.00461](http://arxiv.org/abs/2501.00461)|null|
