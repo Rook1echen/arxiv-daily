@@ -1,4 +1,4 @@
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|null|
+|**2025-01-23**|**VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework**|He Kong et.al.|[2501.13411](http://arxiv.org/abs/2501.13411)|**[link](https://github.com/khenryaegis/vulnbot)**|
 |**2025-01-22**|**Intelligent Attacks on Cyber-Physical Systems and Critical Infrastructures**|Alan Oliveira de Sá et.al.|[2501.12762](http://arxiv.org/abs/2501.12762)|null|
 |**2025-01-12**|**Generative Artificial Intelligence-Supported Pentesting: A Comparison between Claude Opus, GPT-4, and Copilot**|Antonio López Martínez et.al.|[2501.06963](http://arxiv.org/abs/2501.06963)|null|
 |**2025-01-09**|**Infecting Generative AI With Viruses**|David Noever et.al.|[2501.05542](http://arxiv.org/abs/2501.05542)|null|
@@ -89,12 +89,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Upside Down Reinforcement Learning with Policy Generators**|Jacopo Di Ventura et.al.|[2501.16288](http://arxiv.org/abs/2501.16288)|**[link](https://github.com/jacopod/udrlpg_)**|
+|**2025-01-27**|**Accelerating Quantum Reinforcement Learning with a Quantum Natural Policy Gradient Based Approach**|Yang Xu et.al.|[2501.16243](http://arxiv.org/abs/2501.16243)|null|
+|**2025-01-27**|**Towards General-Purpose Model-Free Reinforcement Learning**|Scott Fujimoto et.al.|[2501.16142](http://arxiv.org/abs/2501.16142)|null|
+|**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
+|**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130](http://arxiv.org/abs/2501.16130)|null|
+|**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
+|**2025-01-27**|**Flexible Blood Glucose Control: Offline Reinforcement Learning from Human Feedback**|Harry Emerson et.al.|[2501.15972](http://arxiv.org/abs/2501.15972)|null|
+|**2025-01-27**|**REINFORCE-ING Chemical Language Models in Drug Design**|Morgan Thomas et.al.|[2501.15971](http://arxiv.org/abs/2501.15971)|null|
+|**2025-01-27**|**Inverse Reinforcement Learning via Convex Optimization**|Hao Zhu et.al.|[2501.15957](http://arxiv.org/abs/2501.15957)|null|
+|**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
 |**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|null|
 |**2025-01-24**|**COMIX: Generalized Conflict Management in O-RAN xApps -- Architecture, Workflow, and a Power Control case**|Anastasios Giannopoulos et.al.|[2501.14619](http://arxiv.org/abs/2501.14619)|null|
 |**2025-01-24**|**Age and Power Minimization via Meta-Deep Reinforcement Learning in UAV Networks**|Sankani Sarathchandra et.al.|[2501.14603](http://arxiv.org/abs/2501.14603)|null|
@@ -4298,7 +4308,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4341,12 +4351,19 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
+|**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791](http://arxiv.org/abs/2501.15791)|**[link](https://github.com/kse-eleven/makged)**|
+|**2025-01-26**|**Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts**|Haodi Ma et.al.|[2501.15688](http://arxiv.org/abs/2501.15688)|null|
+|**2025-01-26**|**Diffusion-based Hierarchical Negative Sampling for Multimodal Knowledge Graph Completion**|Guanglin Niu et.al.|[2501.15393](http://arxiv.org/abs/2501.15393)|null|
+|**2025-01-26**|**How to Mitigate Information Loss in Knowledge Graphs for GraphRAG: Leveraging Triple Context Restoration and Query-Driven Feedback**|Manzong Huang et.al.|[2501.15378](http://arxiv.org/abs/2501.15378)|null|
+|**2025-01-24**|**MISCON: A Mission-Driven Conversational Consultant for Pre-Venture Entrepreneurs in Food Deserts**|Subhasis Dasgupta et.al.|[2501.14954](http://arxiv.org/abs/2501.14954)|null|
+|**2025-01-24**|**Causal Graphs Meet Thoughts: Enhancing Complex Reasoning in Graph-Augmented LLMs**|Hang Luo et.al.|[2501.14892](http://arxiv.org/abs/2501.14892)|null|
 |**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661](http://arxiv.org/abs/2501.14661)|null|
 |**2025-01-24**|**Knowledge Graphs Construction from Criminal Court Appeals: Insights from the French Cassation Court**|Alexander V. Belikov et.al.|[2501.14579](http://arxiv.org/abs/2501.14579)|null|
 |**2025-01-24**|**Design and Implementation of a Psychiatry Resident Training System Based on Large Language Models**|Zhenguang Zhong et.al.|[2501.14530](http://arxiv.org/abs/2501.14530)|**[link](https://github.com/hakepai/LLM-based-Psychiatry-Resident-Training-System)**|
@@ -6040,5 +6057,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
