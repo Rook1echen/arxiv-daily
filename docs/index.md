@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -88,6 +88,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
+|**2025-01-30**|**Curriculum-based Sample Efficient Reinforcement Learning for Robust Stabilization of a Quadrotor**|Fausto Mauricio Lagos Suarez et.al.|[2501.18490](http://arxiv.org/abs/2501.18490)|null|
+|**2025-01-30**|**Model-Free RL Agents Demonstrate System 1-Like Intentionality**|Hal Ashton et.al.|[2501.18299](http://arxiv.org/abs/2501.18299)|null|
+|**2025-01-30**|**Neural Operator based Reinforcement Learning for Control of first-order PDEs with Spatially-Varying State Delay**|Jiaqi Hu et.al.|[2501.18201](http://arxiv.org/abs/2501.18201)|null|
+|**2025-01-30**|**QNN-QRL: Quantum Neural Network Integrated with Quantum Reinforcement Learning for Quantum Key Distribution**|Bikash K. Behera et.al.|[2501.18188](http://arxiv.org/abs/2501.18188)|null|
+|**2025-01-30**|**Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation**|Teddy Lazebnik et.al.|[2501.18177](http://arxiv.org/abs/2501.18177)|null|
+|**2025-01-30**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|
+|**2025-01-30**|**Diverse Preference Optimization**|Jack Lanchantin et.al.|[2501.18101](http://arxiv.org/abs/2501.18101)|null|
+|**2025-01-30**|**Reward Prediction Error Prioritisation in Experience Replay: The RPE-PER Method**|Hoda Yamani et.al.|[2501.18093](http://arxiv.org/abs/2501.18093)|null|
+|**2025-01-30**|**DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**|Se-Wook Yoo et.al.|[2501.18086](http://arxiv.org/abs/2501.18086)|null|
 |**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842](http://arxiv.org/abs/2501.17842)|null|
 |**2025-01-29**|**Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning**|Haque Ishfaq et.al.|[2501.17827](http://arxiv.org/abs/2501.17827)|null|
 |**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|null|
@@ -4366,6 +4376,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
+|**2025-01-30**|**A Video-grounded Dialogue Dataset and Metric for Event-driven Activities**|Wiradee Imrattanatrai et.al.|[2501.18324](http://arxiv.org/abs/2501.18324)|null|
+|**2025-01-30**|**Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models**|Qika Lin et.al.|[2501.18119](http://arxiv.org/abs/2501.18119)|null|
 |**2025-01-29**|**Query-Aware Learnable Graph Pooling Tokens as Prompt for Large Language Models**|Wooyoung Kim et.al.|[2501.17549](http://arxiv.org/abs/2501.17549)|null|
 |**2025-01-28**|**Comprehensive Evaluation for a Large Scale Knowledge Graph Question Answering Service**|Saloni Potdar et.al.|[2501.17270](http://arxiv.org/abs/2501.17270)|null|
 |**2025-01-28**|**Adapting Network Information to Semantics for Generalizable and Plug-and-Play Multi-Scenario Network Diagnosis**|Tiao Tan et.al.|[2501.16842](http://arxiv.org/abs/2501.16842)|null|
