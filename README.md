@@ -100,6 +100,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**|Huayi Wang et.al.|[2502.10363](http://arxiv.org/abs/2502.10363)|null|
+|**2025-02-14**|**Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations**|Abdelrhman Shaheen et.al.|[2502.10303](http://arxiv.org/abs/2502.10303)|null|
+|**2025-02-14**|**Learning to Solve the Min-Max Mixed-Shelves Picker-Routing Problem via Hierarchical and Parallel Decoding**|Laurin Luttmann et.al.|[2502.10233](http://arxiv.org/abs/2502.10233)|null|
+|**2025-02-14**|**Dynamic Reinforcement Learning for Actors**|Katsunari Shibata et.al.|[2502.10200](http://arxiv.org/abs/2502.10200)|null|
+|**2025-02-14**|**Reinforcement Learning based Constrained Optimal Control: an Interpretable Reward Design**|Jingjie Ni et.al.|[2502.10187](http://arxiv.org/abs/2502.10187)|null|
+|**2025-02-14**|**Combinatorial Reinforcement Learning with Preference Feedback**|Joongkyu Lee et.al.|[2502.10158](http://arxiv.org/abs/2502.10158)|null|
+|**2025-02-14**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|null|
+|**2025-02-14**|**Cooperative Multi-Agent Planning with Adaptive Skill Synthesis**|Zhiyuan Li et.al.|[2502.10148](http://arxiv.org/abs/2502.10148)|null|
+|**2025-02-14**|**Provably Efficient RL under Episode-Wise Safety in Linear CMDPs**|Toshinori Kitamura et.al.|[2502.10138](http://arxiv.org/abs/2502.10138)|null|
+|**2025-02-14**|**Causal Information Prioritization for Efficient Reinforcement Learning**|Hongye Cao et.al.|[2502.10097](http://arxiv.org/abs/2502.10097)|null|
 |**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614](http://arxiv.org/abs/2502.09614)|null|
 |**2025-02-13**|**Coupled Rendezvous and Docking Maneuver control of satellite using Reinforcement learning-based Adaptive Fixed-Time Sliding Mode Controller**|Rakesh Kumar Sahoo et.al.|[2502.09517](http://arxiv.org/abs/2502.09517)|null|
 |**2025-02-13**|**Variable Stiffness for Robust Locomotion through Reinforcement Learning**|Dario Spoljaric et.al.|[2502.09436](http://arxiv.org/abs/2502.09436)|null|
@@ -4482,9 +4492,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning**|Mingcong Lei et.al.|[2502.10177](http://arxiv.org/abs/2502.10177)|null|
+|**2025-02-14**|**Small Models, Big Impact: Efficient Corpus and Graph-Based Adaptation of Small Multilingual Language Models for Low-Resource Languages**|Daniil Gurgurov et.al.|[2502.10140](http://arxiv.org/abs/2502.10140)|null|
+|**2025-02-14**|**Unsupervised Entity Alignment Based on Personalized Discriminative Rooted Tree**|Yaming Yang et.al.|[2502.10044](http://arxiv.org/abs/2502.10044)|null|
+|**2025-02-14**|**KGGen: Extracting Knowledge Graphs from Plain Text with Language Models**|Belinda Mo et.al.|[2502.09956](http://arxiv.org/abs/2502.09956)|null|
+|**2025-02-13**|**Knowledge-Enhanced Program Repair for Data Science Code**|Shuyin Ouyang et.al.|[2502.09771](http://arxiv.org/abs/2502.09771)|null|
 |**2025-02-13**|**TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**|Jorgen Cani et.al.|[2502.09379](http://arxiv.org/abs/2502.09379)|null|
 |**2025-02-13**|**KET-RAG: A Cost-Efficient Multi-Granular Indexing Framework for Graph-RAG**|Yiqian Huang et.al.|[2502.09304](http://arxiv.org/abs/2502.09304)|null|
-|**2025-02-13**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271](http://arxiv.org/abs/2502.09271)|null|
+|**2025-02-14**|**LiSA: Leveraging Link Recommender to Attack Graph Neural Networks via Subgraph Injection**|Wenlun Zhang et.al.|[2502.09271](http://arxiv.org/abs/2502.09271)|**[link](https://github.com/wenlun-zhang/lisa)**|
 |**2025-02-13**|**The Joint Entity-Relation Extraction Model Based on Span and Interactive Fusion Representation for Chinese Medical Texts with Complex Semantics**|Danni Feng et.al.|[2502.09247](http://arxiv.org/abs/2502.09247)|null|
 |**2025-02-13**|**Musical Heritage Historical Entity Linking**|Arianna Graciotti et.al.|[2502.09168](http://arxiv.org/abs/2502.09168)|null|
 |**2025-02-10**|**RoToR: Towards More Reliable Responses for Order-Invariant Inputs**|Soyoung Yoon et.al.|[2502.08662](http://arxiv.org/abs/2502.08662)|null|
