@@ -1,4 +1,4 @@
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -95,12 +95,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[2502.13144](http://arxiv.org/abs/2502.13144)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
+|**2025-02-18**|**Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**|Mengkang Hu et.al.|[2502.13092](http://arxiv.org/abs/2502.13092)|null|
+|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
+|**2025-02-18**|**HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**|Qingwei Ben et.al.|[2502.13013](http://arxiv.org/abs/2502.13013)|null|
+|**2025-02-18**|**Integrating Reinforcement Learning, Action Model Learning, and Numeric Planning for Tackling Complex Tasks**|Yarin Benyamin et.al.|[2502.13006](http://arxiv.org/abs/2502.13006)|null|
+|**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929](http://arxiv.org/abs/2502.12929)|null|
+|**2025-02-18**|**Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning**|Nandakishor M et.al.|[2502.12876](http://arxiv.org/abs/2502.12876)|null|
+|**2025-02-18**|**A Survey on DRL based UAV Communications and Networking: DRL Fundamentals, Applications and Implementations**|Wei Zhao et.al.|[2502.12875](http://arxiv.org/abs/2502.12875)|null|
 |**2025-02-17**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118](http://arxiv.org/abs/2502.12118)|null|
 |**2025-02-17**|**Unhackable Temporal Rewarding for Scalable Video MLLMs**|En Yu et.al.|[2502.12081](http://arxiv.org/abs/2502.12081)|null|
 |**2025-02-17**|**How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines**|Ayan Sengupta et.al.|[2502.12051](http://arxiv.org/abs/2502.12051)|null|
@@ -4454,7 +4464,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4497,12 +4507,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
+|**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010](http://arxiv.org/abs/2502.13010)|null|
+|**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
+|**2025-02-18**|**Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**|Xiang Liu et.al.|[2502.12669](http://arxiv.org/abs/2502.12669)|null|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
 |**2025-02-17**|**Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering**|Runxuan Liu et.al.|[2502.11491](http://arxiv.org/abs/2502.11491)|null|
 |**2025-02-17**|**GLTW: Joint Improved Graph Transformer and LLM via Three-Word Language for Knowledge Graph Completion**|Kangyang Luo et.al.|[2502.11471](http://arxiv.org/abs/2502.11471)|null|
@@ -6259,5 +6273,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250219>back to top</a>)</p>
 

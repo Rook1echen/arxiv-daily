@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -93,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[2502.13144](http://arxiv.org/abs/2502.13144)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
+|**2025-02-18**|**Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**|Mengkang Hu et.al.|[2502.13092](http://arxiv.org/abs/2502.13092)|null|
+|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
+|**2025-02-18**|**HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit**|Qingwei Ben et.al.|[2502.13013](http://arxiv.org/abs/2502.13013)|null|
+|**2025-02-18**|**Integrating Reinforcement Learning, Action Model Learning, and Numeric Planning for Tackling Complex Tasks**|Yarin Benyamin et.al.|[2502.13006](http://arxiv.org/abs/2502.13006)|null|
+|**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929](http://arxiv.org/abs/2502.12929)|null|
+|**2025-02-18**|**Continuous Learning Conversational AI: A Personalized Agent Framework via A2C Reinforcement Learning**|Nandakishor M et.al.|[2502.12876](http://arxiv.org/abs/2502.12876)|null|
+|**2025-02-18**|**A Survey on DRL based UAV Communications and Networking: DRL Fundamentals, Applications and Implementations**|Wei Zhao et.al.|[2502.12875](http://arxiv.org/abs/2502.12875)|null|
 |**2025-02-17**|**Scaling Test-Time Compute Without Verification or RL is Suboptimal**|Amrith Setlur et.al.|[2502.12118](http://arxiv.org/abs/2502.12118)|null|
 |**2025-02-17**|**Unhackable Temporal Rewarding for Scalable Video MLLMs**|En Yu et.al.|[2502.12081](http://arxiv.org/abs/2502.12081)|null|
 |**2025-02-17**|**How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines**|Ayan Sengupta et.al.|[2502.12051](http://arxiv.org/abs/2502.12051)|null|
@@ -4491,6 +4501,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
+|**2025-02-18**|**Adaptive Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge**|Mohammad Reza Rezaei et.al.|[2502.13010](http://arxiv.org/abs/2502.13010)|null|
+|**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
+|**2025-02-18**|**Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research**|Xiang Liu et.al.|[2502.12669](http://arxiv.org/abs/2502.12669)|null|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
 |**2025-02-17**|**Ontology-Guided Reverse Thinking Makes Large Language Models Stronger on Knowledge Graph Question Answering**|Runxuan Liu et.al.|[2502.11491](http://arxiv.org/abs/2502.11491)|null|
 |**2025-02-17**|**GLTW: Joint Improved Graph Transformer and LLM via Three-Word Language for Knowledge Graph Completion**|Kangyang Luo et.al.|[2502.11471](http://arxiv.org/abs/2502.11471)|null|
