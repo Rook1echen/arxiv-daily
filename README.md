@@ -1,4 +1,4 @@
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -98,12 +98,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
+|**2025-02-25**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Fengshuo Bai et.al.|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
+|**2025-02-25**|**Controlling dynamics of stochastic systems with deep reinforcement learning**|Ruslan Mukhamadiarov et.al.|[2502.18111](http://arxiv.org/abs/2502.18111)|null|
+|**2025-02-25**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015](http://arxiv.org/abs/2502.18015)|null|
+|**2025-02-25**|**NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms**|Yashan Wang et.al.|[2502.18008](http://arxiv.org/abs/2502.18008)|null|
+|**2025-02-25**|**Provable Performance Bounds for Digital Twin-driven Deep Reinforcement Learning in Wireless Networks: A Novel Digital-Twin Bisimulation Metric**|Zhenyu Tao et.al.|[2502.17983](http://arxiv.org/abs/2502.17983)|null|
+|**2025-02-25**|**FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real**|Weiheng Liu et.al.|[2502.17894](http://arxiv.org/abs/2502.17894)|null|
+|**2025-02-25**|**Sample-efficient diffusion-based control of complex nonlinear systems**|Hongyi Chen et.al.|[2502.17893](http://arxiv.org/abs/2502.17893)|null|
+|**2025-02-25**|**A Combinatorial Identities Benchmark for Theorem Proving via Automated Theorem Generation**|Beibei Xiong et.al.|[2502.17840](http://arxiv.org/abs/2502.17840)|null|
 |**2025-02-24**|**Event-Based Limit Order Book Simulation under a Neural Hawkes Process: Application in Market-Making**|Luca Lalor et.al.|[2502.17417](http://arxiv.org/abs/2502.17417)|null|
 |**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|null|
 |**2025-02-24**|**Distributed Coordination for Heterogeneous Non-Terrestrial Networks**|Jikang Deng et.al.|[2502.17366](http://arxiv.org/abs/2502.17366)|null|
@@ -4507,7 +4517,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4550,12 +4560,14 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315](http://arxiv.org/abs/2502.18315)|null|
+|**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973](http://arxiv.org/abs/2502.17973)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
 |**2025-02-24**|**An Enhanced Large Language Model For Cross Modal Query Understanding System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000](http://arxiv.org/abs/2502.17000)|null|
 |**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
@@ -6344,5 +6356,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250226>back to top</a>)</p>
 

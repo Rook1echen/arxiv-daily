@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -96,6 +96,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
+|**2025-02-25**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Fengshuo Bai et.al.|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
+|**2025-02-25**|**Controlling dynamics of stochastic systems with deep reinforcement learning**|Ruslan Mukhamadiarov et.al.|[2502.18111](http://arxiv.org/abs/2502.18111)|null|
+|**2025-02-25**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015](http://arxiv.org/abs/2502.18015)|null|
+|**2025-02-25**|**NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms**|Yashan Wang et.al.|[2502.18008](http://arxiv.org/abs/2502.18008)|null|
+|**2025-02-25**|**Provable Performance Bounds for Digital Twin-driven Deep Reinforcement Learning in Wireless Networks: A Novel Digital-Twin Bisimulation Metric**|Zhenyu Tao et.al.|[2502.17983](http://arxiv.org/abs/2502.17983)|null|
+|**2025-02-25**|**FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real**|Weiheng Liu et.al.|[2502.17894](http://arxiv.org/abs/2502.17894)|null|
+|**2025-02-25**|**Sample-efficient diffusion-based control of complex nonlinear systems**|Hongyi Chen et.al.|[2502.17893](http://arxiv.org/abs/2502.17893)|null|
+|**2025-02-25**|**A Combinatorial Identities Benchmark for Theorem Proving via Automated Theorem Generation**|Beibei Xiong et.al.|[2502.17840](http://arxiv.org/abs/2502.17840)|null|
 |**2025-02-24**|**Event-Based Limit Order Book Simulation under a Neural Hawkes Process: Application in Market-Making**|Luca Lalor et.al.|[2502.17417](http://arxiv.org/abs/2502.17417)|null|
 |**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|null|
 |**2025-02-24**|**Distributed Coordination for Heterogeneous Non-Terrestrial Networks**|Jikang Deng et.al.|[2502.17366](http://arxiv.org/abs/2502.17366)|null|
@@ -4544,6 +4554,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**GraphRank Pro+: Advancing Talent Analytics Through Knowledge Graphs and Sentiment-Enhanced Skill Profiling**|Sirisha Velampalli et.al.|[2502.18315](http://arxiv.org/abs/2502.18315)|null|
+|**2025-02-25**|**Quantum negative sampling strategy for knowledge graph embedding with variational circuit**|Pulak Ranjan Giri et.al.|[2502.17973](http://arxiv.org/abs/2502.17973)|null|
 |**2025-02-24**|**Applications of Large Models in Medicine**|YunHe Su et.al.|[2502.17132](http://arxiv.org/abs/2502.17132)|null|
 |**2025-02-24**|**An Enhanced Large Language Model For Cross Modal Query Understanding System Using DL-KeyBERT Based CAZSSCL-MPGPT**|Shreya Singh et.al.|[2502.17000](http://arxiv.org/abs/2502.17000)|null|
 |**2025-02-24**|**SparseTransX: Efficient Training of Translation-Based Knowledge Graph Embeddings Using Sparse Matrix Operations**|Md Saidul Hoque Anik et.al.|[2502.16949](http://arxiv.org/abs/2502.16949)|null|
