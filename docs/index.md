@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427](http://arxiv.org/abs/2502.20427)|null|
 |**2025-02-23**|**RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents**|Sho Nakatani et.al.|[2502.16730](http://arxiv.org/abs/2502.16730)|null|
 |**2025-02-21**|**Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing**|Masaya Kobayashi et.al.|[2502.15506](http://arxiv.org/abs/2502.15506)|null|
 |**2025-02-20**|**Cylindrical cavity expansion analysis under partially drained conditions for normalisation of excess water pressure in CPTU**|He Yang et.al.|[2502.14233](http://arxiv.org/abs/2502.14233)|null|
@@ -96,6 +97,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
+|**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267](http://arxiv.org/abs/2502.21267)|null|
+|**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
+|**2025-02-28**|**A Method of Selective Attention for Reservoir Based Agents**|Kevin McKee et.al.|[2502.21229](http://arxiv.org/abs/2502.21229)|null|
+|**2025-02-28**|**Reducing Reward Dependence in RL Through Adaptive Confidence Discounting**|Muhammed Yusuf Satici et.al.|[2502.21181](http://arxiv.org/abs/2502.21181)|null|
+|**2025-02-28**|**Multimodal Dreaming: A Global Workspace Approach to World Model-Based Reinforcement Learning**|Léopold Maytié et.al.|[2502.21142](http://arxiv.org/abs/2502.21142)|null|
+|**2025-02-28**|**Dynamically Local-Enhancement Planner for Large-Scale Autonomous Driving**|Nanshan Deng et.al.|[2502.21134](http://arxiv.org/abs/2502.21134)|null|
+|**2025-02-28**|**AuthSim: Towards Authentic and Effective Safety-critical Scenario Generation for Autonomous Driving Tests**|Yukuan Yang et.al.|[2502.21100](http://arxiv.org/abs/2502.21100)|null|
+|**2025-02-28**|**Robust Deterministic Policy Gradient for Disturbance Attenuation and Its Application to Quadrotor Control**|Taeho Lee et.al.|[2502.21057](http://arxiv.org/abs/2502.21057)|null|
+|**2025-02-28**|**Reward Dimension Reduction for Scalable Multi-Objective Reinforcement Learning**|Giseung Park et.al.|[2502.20957](http://arxiv.org/abs/2502.20957)|null|
 |**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
 |**2025-02-27**|**Multi-Turn Code Generation Through Single-Step Rewards**|Arnav Kumar Jain et.al.|[2502.20380](http://arxiv.org/abs/2502.20380)|null|
 |**2025-02-27**|**The Role of Tactile Sensing for Learning Reach and Grasp**|Boya Zhang et.al.|[2502.20367](http://arxiv.org/abs/2502.20367)|null|
@@ -4574,12 +4585,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Predicting clinical outcomes from patient care pathways represented with temporal knowledge graphs**|Jong Ho Jhee et.al.|[2502.21138](http://arxiv.org/abs/2502.21138)|null|
+|**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
+|**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
+|**2025-02-28**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
 |**2025-02-27**|**Knowledge Bridger: Towards Training-free Missing Multi-modality Completion**|Guanzhou Ke et.al.|[2502.19834](http://arxiv.org/abs/2502.19834)|null|
-|**2025-02-26**|**TRIX: A More Expressive Model for Zero-shot Domain Transfer in Knowledge Graphs**|Yucheng Zhang et.al.|[2502.19512](http://arxiv.org/abs/2502.19512)|null|
+|**2025-02-26**|**TRIX: A More Expressive Model for Zero-shot Domain Transfer in Knowledge Graphs**|Yucheng Zhang et.al.|[2502.19512](http://arxiv.org/abs/2502.19512)|**[link](https://github.com/yuchengz99/trix)**|
 |**2025-02-26**|**Building Knowledge Graphs Towards a Global Food Systems Datahub**|Nirmal Gelal et.al.|[2502.19507](http://arxiv.org/abs/2502.19507)|null|
-|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|null|
+|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|**[link](https://github.com/wangskyGit/KeHGN-R)**|
 |**2025-02-26**|**Dealing with Inconsistency for Reasoning over Knowledge Graphs: A Survey**|Anastasios Nentidis et.al.|[2502.19023](http://arxiv.org/abs/2502.19023)|null|
 |**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992](http://arxiv.org/abs/2502.18992)|null|
 |**2025-02-26**|**Credible Intervals for Knowledge Graph Accuracy Estimation**|Stefano Marchesin et.al.|[2502.18961](http://arxiv.org/abs/2502.18961)|null|
