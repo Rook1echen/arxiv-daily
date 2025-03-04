@@ -1,4 +1,4 @@
-## Updated on 2025.03.03
+## Updated on 2025.03.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -99,7 +99,7 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
 
 ## attack graph
 
@@ -4548,7 +4548,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4564,7 +4564,7 @@
 |**2024-09-05**|**A Graph-based Adversarial Imitation Learning Framework for Reliable & Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113](http://arxiv.org/abs/2407.12113)|null|
 |**2024-08-22**|**Learning to Imitate Spatial Organization in Multi-robot Systems**|Ayomide O. Agunloye et.al.|[2407.11592](http://arxiv.org/abs/2407.11592)|null|
 |**2024-06-24**|**RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning**|Harsh Bansal et.al.|[2407.02520](http://arxiv.org/abs/2407.02520)|null|
-|**2024-10-23**|**Diffusion-Reward Adversarial Imitation Learning**|Chun-Mao Lai et.al.|[2405.16194](http://arxiv.org/abs/2405.16194)|null|
+|**2024-11-26**|**Diffusion-Reward Adversarial Imitation Learning**|Chun-Mao Lai et.al.|[2405.16194](http://arxiv.org/abs/2405.16194)|null|
 |**2024-02-26**|**C-GAIL: Stabilizing Generative Adversarial Imitation Learning with Control Theory**|Tianjiao Luo et.al.|[2402.16349](http://arxiv.org/abs/2402.16349)|null|
 |**2024-02-15**|**Interpretable Generative Adversarial Imitation Learning**|Wenliang Liu et.al.|[2402.10310](http://arxiv.org/abs/2402.10310)|null|
 |**2024-08-31**|**Robust Path Planning via Learning from Demonstrations for Robotic Catheters in Deformable Environments**|Zhen Li et.al.|[2402.00537](http://arxiv.org/abs/2402.00537)|null|
@@ -4591,7 +4591,7 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
 
 ## knowledge graph
 
@@ -4600,7 +4600,7 @@
 |**2025-02-28**|**Predicting clinical outcomes from patient care pathways represented with temporal knowledge graphs**|Jong Ho Jhee et.al.|[2502.21138](http://arxiv.org/abs/2502.21138)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
 |**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
-|**2025-02-28**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
+|**2025-03-03**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
 |**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
 |**2025-02-27**|**Knowledge Bridger: Towards Training-free Missing Multi-modality Completion**|Guanzhou Ke et.al.|[2502.19834](http://arxiv.org/abs/2502.19834)|null|
@@ -6403,5 +6403,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
 
