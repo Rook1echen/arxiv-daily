@@ -1,4 +1,4 @@
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -99,12 +99,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
+|**2025-03-04**|**Meta-Learning to Explore via Memory Density Feedback**|Kevin L. McKee et.al.|[2503.02831](http://arxiv.org/abs/2503.02831)|null|
+|**2025-03-04**|**Quantitative Resilience Modeling for Autonomous Cyber Defense**|Xavier Cadet et.al.|[2503.02780](http://arxiv.org/abs/2503.02780)|null|
+|**2025-03-04**|**Learning-Based Passive Fault-Tolerant Control of a Quadrotor with Rotor Failure**|Jiehao Chen et.al.|[2503.02649](http://arxiv.org/abs/2503.02649)|null|
+|**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|null|
+|**2025-03-04**|**Rewarding Doubt: A Reinforcement Learning Approach to Confidence Calibration of Large Language Models**|Paul Stangel et.al.|[2503.02623](http://arxiv.org/abs/2503.02623)|null|
+|**2025-03-04**|**Reinforcement Learning-based Threat Assessment**|Wuzhou Sun et.al.|[2503.02612](http://arxiv.org/abs/2503.02612)|null|
+|**2025-03-04**|**What Makes a Model Breathe? Understanding Reinforcement Learning Reward Function Design in Biomechanical User Simulation**|Hannah Selder et.al.|[2503.02571](http://arxiv.org/abs/2503.02571)|null|
+|**2025-03-04**|**World Models for Anomaly Detection during Model-Based Reinforcement Learning Inference**|Fabian Domberg et.al.|[2503.02552](http://arxiv.org/abs/2503.02552)|null|
+|**2025-03-04**|**To Hedge or Not to Hedge: Optimal Strategies for Stochastic Trade Flow Management**|Philippe Bergault et.al.|[2503.02496](http://arxiv.org/abs/2503.02496)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
 |**2025-02-28**|**ReaLJam: Real-Time Human-AI Music Jamming with Reinforcement Learning-Tuned Transformers**|Alexander Scarlatos et.al.|[2502.21267](http://arxiv.org/abs/2502.21267)|null|
 |**2025-02-28**|**ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs**|Hao Ge et.al.|[2502.21231](http://arxiv.org/abs/2502.21231)|null|
@@ -4548,7 +4558,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4591,12 +4601,18 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering**|Hongyu Lin et.al.|[2503.02172](http://arxiv.org/abs/2503.02172)|null|
+|**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
+|**2025-03-03**|**Geo-Semantic-Parsing: AI-powered geoparsing by traversing semantic knowledge graphs**|Leonardo Nizzoli et.al.|[2503.01386](http://arxiv.org/abs/2503.01386)|null|
+|**2025-03-03**|**Q-NL Verifier: Leveraging Synthetic Data for Robust Knowledge Graph Question Answering**|Tim Schwabe et.al.|[2503.01385](http://arxiv.org/abs/2503.01385)|**[link](https://github.com/timericschwabe/q-nl-verifier)**|
+|**2025-03-01**|**G-OSR: A Comprehensive Benchmark for Graph Open-Set Recognition**|Yicong Dong et.al.|[2503.00476](http://arxiv.org/abs/2503.00476)|null|
+|**2025-03-01**|**Pseudo-Knowledge Graph: Meta-Path Guided Retrieval and In-Graph Text for RAG-Equipped LLM**|Yuxin Yang et.al.|[2503.00309](http://arxiv.org/abs/2503.00309)|null|
 |**2025-02-28**|**Predicting clinical outcomes from patient care pathways represented with temporal knowledge graphs**|Jong Ho Jhee et.al.|[2502.21138](http://arxiv.org/abs/2502.21138)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
 |**2025-02-28**|**Merging Clinical Knowledge into Large Language Models for Medical Research and Applications: A Survey**|Qiyuan Li et.al.|[2502.20988](http://arxiv.org/abs/2502.20988)|null|
@@ -6403,5 +6419,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
 
