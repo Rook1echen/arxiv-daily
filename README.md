@@ -1,4 +1,4 @@
-## Updated on 2025.03.05
+## Updated on 2025.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427](http://arxiv.org/abs/2502.20427)|null|
+|**2025-03-05**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427](http://arxiv.org/abs/2502.20427)|null|
 |**2025-02-23**|**RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents**|Sho Nakatani et.al.|[2502.16730](http://arxiv.org/abs/2502.16730)|null|
 |**2025-02-21**|**Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing**|Masaya Kobayashi et.al.|[2502.15506](http://arxiv.org/abs/2502.15506)|null|
 |**2025-02-20**|**Cylindrical cavity expansion analysis under partially drained conditions for normalisation of excess water pressure in CPTU**|He Yang et.al.|[2502.14233](http://arxiv.org/abs/2502.14233)|null|
@@ -99,12 +99,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660](http://arxiv.org/abs/2503.03660)|null|
+|**2025-03-05**|**Improving Neutral Point of View Text Generation through Parameter-Efficient Reinforcement Learning and a Small-Scale High-Quality Dataset**|Jessica Hoffmann et.al.|[2503.03654](http://arxiv.org/abs/2503.03654)|null|
+|**2025-03-05**|**Olympus: A Jumping Quadruped for Planetary Exploration Utilizing Reinforcement Learning for In-Flight Attitude Control**|Jørgen Anker Olsen et.al.|[2503.03574](http://arxiv.org/abs/2503.03574)|null|
+|**2025-03-05**|**Probabilistic Insights for Efficient Exploration Strategies in Reinforcement Learning**|Ernesto Garcia et.al.|[2503.03565](http://arxiv.org/abs/2503.03565)|null|
+|**2025-03-05**|**DO-IQS: Dynamics-Aware Offline Inverse Q-Learning for Optimal Stopping with Unknown Gain Functions**|Anna Kuchko et.al.|[2503.03515](http://arxiv.org/abs/2503.03515)|null|
+|**2025-03-05**|**SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Safe Reinforcement Learning**|Borong Zhang et.al.|[2503.03480](http://arxiv.org/abs/2503.03480)|null|
+|**2025-03-05**|**Navigating Intelligence: A Survey of Google OR-Tools and Machine Learning for Global Path Planning in Autonomous Vehicles**|Alexandre Benoit et.al.|[2503.03338](http://arxiv.org/abs/2503.03338)|null|
+|**2025-03-05**|**Benchmarking Dynamic SLO Compliance in Distributed Computing Continuum Systems**|Alfreds Lapkovskis et.al.|[2503.03274](http://arxiv.org/abs/2503.03274)|null|
+|**2025-03-05**|**Less is more? Rewards in RL for Cyber Defence**|Elizabeth Bates et.al.|[2503.03245](http://arxiv.org/abs/2503.03245)|null|
 |**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
 |**2025-03-04**|**Meta-Learning to Explore via Memory Density Feedback**|Kevin L. McKee et.al.|[2503.02831](http://arxiv.org/abs/2503.02831)|null|
 |**2025-03-04**|**Quantitative Resilience Modeling for Autonomous Cyber Defense**|Xavier Cadet et.al.|[2503.02780](http://arxiv.org/abs/2503.02780)|null|
@@ -4558,7 +4568,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4601,12 +4611,17 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**A Conceptual Model for Attributions in Event-Centric Knowledge Graphs**|Florian Plötzky et.al.|[2503.03563](http://arxiv.org/abs/2503.03563)|null|
+|**2025-03-05**|**COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence**|Wentao Li et.al.|[2503.03215](http://arxiv.org/abs/2503.03215)|null|
+|**2025-03-05**|**AttackSeqBench: Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks**|Javier Yong et.al.|[2503.03170](http://arxiv.org/abs/2503.03170)|**[link](https://github.com/Javiery3889/AttackSeqBench)**|
+|**2025-03-05**|**PromAssistant: Leveraging Large Language Models for Text-to-PromQL**|Chenxi Zhang et.al.|[2503.03114](http://arxiv.org/abs/2503.03114)|null|
+|**2025-03-05**|**MuCo-KGC: Multi-Context-Aware Knowledge Graph Completion**|Haji Gul et.al.|[2503.03091](http://arxiv.org/abs/2503.03091)|null|
 |**2025-03-04**|**KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering**|Hongyu Lin et.al.|[2503.02172](http://arxiv.org/abs/2503.02172)|null|
 |**2025-03-03**|**Graph-Augmented Reasoning: Evolving Step-by-Step Knowledge Graph Retrieval for LLM Reasoning**|Wenjie Wu et.al.|[2503.01642](http://arxiv.org/abs/2503.01642)|null|
 |**2025-03-03**|**Geo-Semantic-Parsing: AI-powered geoparsing by traversing semantic knowledge graphs**|Leonardo Nizzoli et.al.|[2503.01386](http://arxiv.org/abs/2503.01386)|null|
@@ -6419,5 +6434,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
 
