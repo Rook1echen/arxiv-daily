@@ -1,4 +1,4 @@
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -99,12 +99,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning**|Yuxiao Qu et.al.|[2503.07572](http://arxiv.org/abs/2503.07572)|null|
+|**2025-03-10**|**LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL**|Yingzhe Peng et.al.|[2503.07536](http://arxiv.org/abs/2503.07536)|null|
+|**2025-03-10**|**VisRL: Intention-Driven Visual Perception via Reinforced Reasoning**|Zhangquan Chen et.al.|[2503.07523](http://arxiv.org/abs/2503.07523)|null|
+|**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453](http://arxiv.org/abs/2503.07453)|null|
+|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
+|**2025-03-10**|**The Interplay of AI-and-RAN: Dynamic Resource Allocation for Converged 6G Platform**|Syed Danial Ali Shah et.al.|[2503.07420](http://arxiv.org/abs/2503.07420)|null|
+|**2025-03-10**|**Cost-Effective Design of Grid-tied Community Microgrid**|Moslem Uddin et.al.|[2503.07414](http://arxiv.org/abs/2503.07414)|null|
+|**2025-03-10**|**PER-DPP Sampling Framework and Its Application in Path Planning**|Junzhe Wang et.al.|[2503.07411](http://arxiv.org/abs/2503.07411)|null|
+|**2025-03-10**|**Towards Safe Robot Foundation Models**|Maximilian Tölle et.al.|[2503.07404](http://arxiv.org/abs/2503.07404)|null|
+|**2025-03-10**|**Q-MARL: A quantum-inspired algorithm using neural message passing for large-scale multi-agent reinforcement learning**|Kha Vo et.al.|[2503.07397](http://arxiv.org/abs/2503.07397)|null|
 |**2025-03-07**|**Multi-Fidelity Policy Gradient Algorithms**|Xinjie Liu et.al.|[2503.05696](http://arxiv.org/abs/2503.05696)|null|
 |**2025-03-07**|**dARt Vinci: Egocentric Data Collection for Surgical Robot Learning at Scale**|Yihao Liu et.al.|[2503.05646](http://arxiv.org/abs/2503.05646)|null|
 |**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/abs/2503.05592)|null|
@@ -4588,12 +4598,13 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**EPR-GAIL: An EPR-Enhanced Hierarchical Imitation Learning Framework to Simulate Complex User Consumption Behaviors**|Tao Feng et.al.|[2503.06392](http://arxiv.org/abs/2503.06392)|null|
 |**2024-11-15**|**Off-Dynamics Reinforcement Learning via Domain Adaptation and Reward Augmented Imitation**|Yihong Guo et.al.|[2411.09891](http://arxiv.org/abs/2411.09891)|**[link](https://github.com/guoyihonggyh/Off-Dynamics-Reinforcement-Learning-via-Domain-Adaptation-and-Reward-Augmented-Imitation)**|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-15**|**ILAEDA: An Imitation Learning Based Approach for Automatic Exploratory Data Analysis**|Abhijit Manatkar et.al.|[2410.11276](http://arxiv.org/abs/2410.11276)|null|
@@ -4631,12 +4642,22 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
+|**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
+|**2025-03-10**|**POINT: a web-based platform for pharmacological investigation enhanced by multi-omics networks and knowledge graphs**|Zihao He et.al.|[2503.07203](http://arxiv.org/abs/2503.07203)|null|
+|**2025-03-10**|**A Zero-shot Learning Method Based on Large Language Models for Multi-modal Knowledge Graph Embedding**|Bingchen Liu et.al.|[2503.07202](http://arxiv.org/abs/2503.07202)|null|
+|**2025-03-09**|**Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving**|Yao Cheng et.al.|[2503.06567](http://arxiv.org/abs/2503.06567)|null|
+|**2025-03-09**|**ExKG-LLM: Leveraging Large Language Models for Automated Expansion of Cognitive Neuroscience Knowledge Graphs**|Ali Sarabadani et.al.|[2503.06479](http://arxiv.org/abs/2503.06479)|null|
+|**2025-03-09**|**SKG-LLM: Developing a Mathematical Model for Stroke Knowledge Graph Construction Using Large Language Models**|Ali Sarabadani et.al.|[2503.06475](http://arxiv.org/abs/2503.06475)|null|
+|**2025-03-09**|**Identifying Evidence Subgraphs for Financial Risk Detection via Graph Counterfactual and Factual Reasoning**|Huaming Du et.al.|[2503.06441](http://arxiv.org/abs/2503.06441)|null|
+|**2025-03-08**|**STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems**|Md Sadman Sakib et.al.|[2503.06060](http://arxiv.org/abs/2503.06060)|null|
+|**2025-03-08**|**Interpretable High-order Knowledge Graph Neural Network for Predicting Synthetic Lethality in Human Cancers**|Xuexin Chen et.al.|[2503.06052](http://arxiv.org/abs/2503.06052)|null|
 |**2025-03-07**|**ZOGRASCOPE: A New Benchmark for Property Graphs**|Francesco Cazzaro et.al.|[2503.05268](http://arxiv.org/abs/2503.05268)|null|
 |**2025-03-07**|**Path Pooling: Train-Free Structure Enhancement for Efficient Knowledge Graph Retrieval-Augmented Generation**|Hairu Wang et.al.|[2503.05203](http://arxiv.org/abs/2503.05203)|null|
 |**2025-03-07**|**Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning**|Mufan Xu et.al.|[2503.05193](http://arxiv.org/abs/2503.05193)|null|
@@ -6460,5 +6481,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
