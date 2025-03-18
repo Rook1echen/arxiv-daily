@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Investigating the effect of CPT in lateral spreading prediction using Explainable AI**|Cheng-Hsi Hsiao et.al.|[2503.13389](http://arxiv.org/abs/2503.13389)|null|
 |**2025-03-05**|**DeePen: Penetration Testing for Audio Deepfake Detection**|Nicolas Müller et.al.|[2502.20427](http://arxiv.org/abs/2502.20427)|null|
 |**2025-02-23**|**RapidPen: Fully Automated IP-to-Shell Penetration Testing with LLM-based Agents**|Sho Nakatani et.al.|[2502.16730](http://arxiv.org/abs/2502.16730)|null|
 |**2025-02-21**|**Construction and Evaluation of LLM-based agents for Semi-Autonomous penetration testing**|Masaya Kobayashi et.al.|[2502.15506](http://arxiv.org/abs/2502.15506)|null|
@@ -97,6 +98,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
+|**2025-03-17**|**FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation**|Shijie Fang et.al.|[2503.13418](http://arxiv.org/abs/2503.13418)|null|
+|**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
+|**2025-03-17**|**TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM**|Ye Wang et.al.|[2503.13377](http://arxiv.org/abs/2503.13377)|null|
+|**2025-03-17**|**Agents Play Thousands of 3D Video Games**|Zhongwen Xu et.al.|[2503.13356](http://arxiv.org/abs/2503.13356)|null|
+|**2025-03-17**|**Local-Global Learning of Interpretable Control Policies: The Interface between MPC and Reinforcement Learning**|Thomas Banker et.al.|[2503.13289](http://arxiv.org/abs/2503.13289)|null|
+|**2025-03-17**|**Timing the Match: A Deep Reinforcement Learning Approach for Ride-Hailing and Ride-Pooling Services**|Yiman Bao et.al.|[2503.13200](http://arxiv.org/abs/2503.13200)|null|
+|**2025-03-17**|**A representational framework for learning and encoding structurally enriched trajectories in complex agent environments**|Corina Catarau-Cotutiu et.al.|[2503.13194](http://arxiv.org/abs/2503.13194)|null|
+|**2025-03-17**|**Towards Better Sample Efficiency in Multi-Agent Reinforcement Learning via Exploration**|Amir Baghi et.al.|[2503.13077](http://arxiv.org/abs/2503.13077)|null|
+|**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993](http://arxiv.org/abs/2503.12993)|null|
 |**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle et.al.|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
 |**2025-03-14**|**Unicorn: A Universal and Collaborative Reinforcement Learning Approach Towards Generalizable Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2503.11488](http://arxiv.org/abs/2503.11488)|null|
 |**2025-03-14**|**A Review of DeepSeek Models' Key Innovative Techniques**|Chengen Wang et.al.|[2503.11486](http://arxiv.org/abs/2503.11486)|null|
@@ -4634,6 +4645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-15**|**Generative Modeling of Adversarial Lane-Change Scenario**|Chuancheng Zhang et.al.|[2503.12055](http://arxiv.org/abs/2503.12055)|null|
 |**2025-03-09**|**EPR-GAIL: An EPR-Enhanced Hierarchical Imitation Learning Framework to Simulate Complex User Consumption Behaviors**|Tao Feng et.al.|[2503.06392](http://arxiv.org/abs/2503.06392)|null|
 |**2024-11-15**|**Off-Dynamics Reinforcement Learning via Domain Adaptation and Reward Augmented Imitation**|Yihong Guo et.al.|[2411.09891](http://arxiv.org/abs/2411.09891)|**[link](https://github.com/guoyihonggyh/Off-Dynamics-Reinforcement-Learning-via-Domain-Adaptation-and-Reward-Augmented-Imitation)**|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
@@ -4676,8 +4688,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
+|**2025-03-15**|**A Mechanistic Study on the Impact of Entity Degree Distribution in Open-World Link Prediction**|Jiang Xiaobo et.al.|[2503.12139](http://arxiv.org/abs/2503.12139)|null|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
-|**2025-03-14**|**GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**|Jian Zhang et.al.|[2503.11227](http://arxiv.org/abs/2503.11227)|null|
+|**2025-03-17**|**GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**|Jian Zhang et.al.|[2503.11227](http://arxiv.org/abs/2503.11227)|null|
 |**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
 |**2025-03-13**|**An Algebraic Foundation for Knowledge Graph Construction (Extended Version)**|Sitt Min Oo et.al.|[2503.10385](http://arxiv.org/abs/2503.10385)|null|
 |**2025-03-13**|**SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning**|Dimitri Ognibene et.al.|[2503.10241](http://arxiv.org/abs/2503.10241)|null|
