@@ -1,4 +1,4 @@
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -100,12 +100,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250319>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**DAPO: An Open-Source LLM Reinforcement Learning System at Scale**|Qiying Yu et.al.|[2503.14476](http://arxiv.org/abs/2503.14476)|null|
+|**2025-03-18**|**Pauli Network Circuit Synthesis with Reinforcement Learning**|Ayushi Dubal et.al.|[2503.14448](http://arxiv.org/abs/2503.14448)|null|
+|**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
+|**2025-03-18**|**MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration**|Yisen Xu et.al.|[2503.14340](http://arxiv.org/abs/2503.14340)|null|
+|**2025-03-18**|**Revealing higher-order neural representations with generative artificial intelligence**|Hojjat Azimi Asrari et.al.|[2503.14333](http://arxiv.org/abs/2503.14333)|null|
+|**2025-03-18**|**Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs**|Nicolas Le Roux et.al.|[2503.14286](http://arxiv.org/abs/2503.14286)|null|
+|**2025-03-18**|**Integral modelling and Reinforcement Learning control of 3D liquid metal coating on a moving substrate**|Fabio Pino et.al.|[2503.14270](http://arxiv.org/abs/2503.14270)|null|
+|**2025-03-18**|**Automating Experimental Optics with Sample Efficient Machine Learning Methods**|Arindam Saha et.al.|[2503.14260](http://arxiv.org/abs/2503.14260)|null|
+|**2025-03-18**|**CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration**|Chunyu Yang et.al.|[2503.14254](http://arxiv.org/abs/2503.14254)|null|
+|**2025-03-18**|**A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control**|Yuxuan Wang et.al.|[2503.14250](http://arxiv.org/abs/2503.14250)|null|
 |**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
 |**2025-03-17**|**FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation**|Shijie Fang et.al.|[2503.13418](http://arxiv.org/abs/2503.13418)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
@@ -4649,7 +4659,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250319>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -4694,12 +4704,15 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250319>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|
+|**2025-03-18**|**Empowering GraphRAG with Knowledge Filtering and Integration**|Kai Guo et.al.|[2503.13804](http://arxiv.org/abs/2503.13804)|null|
+|**2025-03-14**|**RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration**|Hong Qing Yu et.al.|[2503.13514](http://arxiv.org/abs/2503.13514)|null|
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
 |**2025-03-15**|**A Mechanistic Study on the Impact of Entity Degree Distribution in Open-World Link Prediction**|Jiang Xiaobo et.al.|[2503.12139](http://arxiv.org/abs/2503.12139)|null|
 |**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
@@ -6551,5 +6564,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250319>back to top</a>)</p>
 
