@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -98,6 +98,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming**|Minori Narita et.al.|[2503.16371](http://arxiv.org/abs/2503.16371)|null|
+|**2025-03-20**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252](http://arxiv.org/abs/2503.16252)|null|
+|**2025-03-20**|**Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't**|Quy-Anh Dang et.al.|[2503.16219](http://arxiv.org/abs/2503.16219)|null|
+|**2025-03-20**|**Explosive Jumping with Rigid and Articulated Soft Quadrupeds via Example Guided Reinforcement Learning**|Georgios Apostolides et.al.|[2503.16197](http://arxiv.org/abs/2503.16197)|null|
+|**2025-03-20**|**Nonparametric Bellman Mappings for Value Iteration in Distributed Reinforcement Learning**|Yuki Akiyama et.al.|[2503.16192](http://arxiv.org/abs/2503.16192)|null|
+|**2025-03-20**|**CLS-RL: Image Classification with Rule-Based Reinforcement Learning**|Ming Li et.al.|[2503.16188](http://arxiv.org/abs/2503.16188)|null|
+|**2025-03-20**|**Cultural Alignment in Large Language Models Using Soft Prompt Tuning**|Reem I. Masoud et.al.|[2503.16094](http://arxiv.org/abs/2503.16094)|null|
+|**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
+|**2025-03-20**|**Unreal-MAP: Unreal-Engine-Based General Platform for Multi-Agent Reinforcement Learning**|Tianyi Hu et.al.|[2503.15947](http://arxiv.org/abs/2503.15947)|null|
 |**2025-03-19**|**Learning to Play Piano in the Real World**|Yves-Simon Zeulner et.al.|[2503.15481](http://arxiv.org/abs/2503.15481)|null|
 |**2025-03-19**|**What Makes a Reward Model a Good Teacher? An Optimization Perspective**|Noam Razin et.al.|[2503.15477](http://arxiv.org/abs/2503.15477)|null|
 |**2025-03-19**|**Optimizing Decomposition for Optimal Claim Verification**|Yining Lu et.al.|[2503.15354](http://arxiv.org/abs/2503.15354)|null|
@@ -4709,6 +4719,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**MKG-Rank: Enhancing Large Language Models with Knowledge Graph for Multilingual Medical Question Answering**|Feiyang Li et.al.|[2503.16131](http://arxiv.org/abs/2503.16131)|null|
+|**2025-03-20**|**ECKGBench: Benchmarking Large Language Models in E-commerce Leveraging Knowledge Graph**|Langming Liu et.al.|[2503.15990](http://arxiv.org/abs/2503.15990)|null|
+|**2025-03-20**|**Financial Twin Chain, a Platform to Support Financial Sustainability in Supply Chains**|Giuseppe Galante et.al.|[2503.15980](http://arxiv.org/abs/2503.15980)|null|
+|**2025-03-20**|**A metadata model for profiling multidimensional sources in data ecosystems**|Claudia Diamantini et.al.|[2503.15951](http://arxiv.org/abs/2503.15951)|null|
+|**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
 |**2025-03-19**|**Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities**|Md Shahir Zaoad et.al.|[2503.14802](http://arxiv.org/abs/2503.14802)|null|
 |**2025-03-19**|**KG-IRAG: A Knowledge Graph-Based Iterative Retrieval-Augmented Generation Framework for Temporal Reasoning**|Ruiyi Yang et.al.|[2503.14234](http://arxiv.org/abs/2503.14234)|null|
 |**2025-03-18**|**Empowering GraphRAG with Knowledge Filtering and Integration**|Kai Guo et.al.|[2503.13804](http://arxiv.org/abs/2503.13804)|null|
