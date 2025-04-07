@@ -98,6 +98,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
+|**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610](http://arxiv.org/abs/2504.03610)|null|
+|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Shan An et.al.|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
+|**2025-04-04**|**Learning Dual-Arm Coordination for Grasping Large Flat Objects**|Yongliang Wang et.al.|[2504.03500](http://arxiv.org/abs/2504.03500)|null|
+|**2025-04-04**|**Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks**|Alexander Mattick et.al.|[2504.03429](http://arxiv.org/abs/2504.03429)|null|
+|**2025-04-04**|**DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models**|Sathish Kumar et.al.|[2504.03423](http://arxiv.org/abs/2504.03423)|null|
+|**2025-04-04**|**Autonomous state-space segmentation for Deep-RL sparse reward scenarios**|Gianluca Maselli et.al.|[2504.03420](http://arxiv.org/abs/2504.03420)|null|
+|**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380](http://arxiv.org/abs/2504.03380)|null|
+|**2025-04-04**|**Verification of Autonomous Neural Car Control with KeYmaera X**|Enguerrand Prebet et.al.|[2504.03272](http://arxiv.org/abs/2504.03272)|null|
+|**2025-04-04**|**Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward**|Yanming Wan et.al.|[2504.03206](http://arxiv.org/abs/2504.03206)|null|
 |**2025-04-03**|**A Numerically Efficient Method to Enhance Model Predictive Control Performance with a Reinforcement Learning Policy**|Andrea Ghezzi et.al.|[2504.02710](http://arxiv.org/abs/2504.02710)|null|
 |**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688](http://arxiv.org/abs/2504.02688)|null|
 |**2025-04-03**|**Integrating Human Knowledge Through Action Masking in Reinforcement Learning for Operations Research**|Mirko Stappert et.al.|[2504.02662](http://arxiv.org/abs/2504.02662)|null|
@@ -4809,6 +4819,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
+|**2025-04-04**|**Optimal Embedding Guided Negative Sample Generation for Knowledge Graph Link Prediction**|Makoto Takamoto et.al.|[2504.03327](http://arxiv.org/abs/2504.03327)|null|
+|**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137](http://arxiv.org/abs/2504.03137)|null|
+|**2025-04-02**|**Embedding Method for Knowledge Graph with Densely Defined Ontology**|Takanori Ugai et.al.|[2504.02889](http://arxiv.org/abs/2504.02889)|null|
 |**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670](http://arxiv.org/abs/2504.02670)|null|
 |**2025-04-03**|**Knowledge Graph Completion with Mixed Geometry Tensor Factorization**|Viacheslav Yusupov et.al.|[2504.02589](http://arxiv.org/abs/2504.02589)|null|
 |**2025-04-03**|**Reasoning Inconsistencies and How to Mitigate Them in Deep Learning**|Erik Arakelyan et.al.|[2504.02577](http://arxiv.org/abs/2504.02577)|null|
