@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Automating Function-Level TARA for Automotive Full-Lifecycle Security**|Yuqiao Yang et.al.|[2504.18083](http://arxiv.org/abs/2504.18083)|null|
 |**2025-04-14**|**Benchmarking Practices in LLM-driven Offensive Security: Testbeds, Metrics, and Experiment Design**|Andreas Happe et.al.|[2504.10112](http://arxiv.org/abs/2504.10112)|null|
 |**2025-04-09**|**ALFA-Chains: AI-Supported Discovery of Privilege Escalation and Remote Exploit Chains**|Miguel Tulla et.al.|[2504.07287](http://arxiv.org/abs/2504.07287)|null|
 |**2025-03-17**|**Investigating the effect of CPT in lateral spreading prediction using Explainable AI**|Cheng-Hsi Hsiao et.al.|[2503.13389](http://arxiv.org/abs/2503.13389)|null|
@@ -108,6 +109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519](http://arxiv.org/abs/2504.18519)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
+|**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376](http://arxiv.org/abs/2504.18376)|null|
+|**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371](http://arxiv.org/abs/2504.18371)|null|
+|**2025-04-25**|**Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps**|Simon Hakenes et.al.|[2504.18300](http://arxiv.org/abs/2504.18300)|null|
+|**2025-04-25**|**Depth-Constrained ASV Navigation with Deep RL and Limited Sensing**|Amirhossein Zhalehmehrabi et.al.|[2504.18253](http://arxiv.org/abs/2504.18253)|null|
+|**2025-04-25**|**Aligning Language Models for Icelandic Legal Text Summarization**|Þórir Hrafn Harðarson et.al.|[2504.18180](http://arxiv.org/abs/2504.18180)|null|
+|**2025-04-25**|**Learning from Less: SINDy Surrogates in RL**|Aniket Dixit et.al.|[2504.18113](http://arxiv.org/abs/2504.18113)|null|
+|**2025-04-25**|**RL-Driven Data Generation for Robust Vision-Based Dexterous Grasping**|Atsushi Kanehira et.al.|[2504.18084](http://arxiv.org/abs/2504.18084)|null|
+|**2025-04-25**|**LLM-Guided Open RAN: Empowering Hierarchical RAN Intelligent Control**|Lingyan Bao et.al.|[2504.18062](http://arxiv.org/abs/2504.18062)|null|
 |**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
 |**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700](http://arxiv.org/abs/2504.17700)|null|
@@ -4973,6 +4984,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Spatial Reasoner: A 3D Inference Pipeline for XR Applications**|Steven Häsler et.al.|[2504.18380](http://arxiv.org/abs/2504.18380)|null|
+|**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273](http://arxiv.org/abs/2504.18273)|null|
+|**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070](http://arxiv.org/abs/2504.18070)|null|
+|**2025-04-24**|**LLM Agent Swarm for Hypothesis-Driven Drug Discovery**|Kevin Song et.al.|[2504.17967](http://arxiv.org/abs/2504.17967)|null|
 |**2025-04-23**|**GeoRDF2Vec Learning Location-Aware Entity Representations in Knowledge Graphs**|Martin Boeckling et.al.|[2504.17099](http://arxiv.org/abs/2504.17099)|null|
 |**2025-04-23**|**Transformers for Complex Query Answering over Knowledge Hypergraphs**|Hong Ting Tsang et.al.|[2504.16537](http://arxiv.org/abs/2504.16537)|null|
 |**2025-04-23**|**Evaluating Multi-Hop Reasoning in Large Language Models: A Chemistry-Centric Case Study**|Mohammad Khodadad et.al.|[2504.16414](http://arxiv.org/abs/2504.16414)|null|
