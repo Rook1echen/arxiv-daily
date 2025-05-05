@@ -109,6 +109,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Stabilizing Temporal Difference Learning via Implicit Stochastic Approximation**|Hwanwoo Kim et.al.|[2505.01361](http://arxiv.org/abs/2505.01361)|null|
+|**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
+|**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
+|**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115](http://arxiv.org/abs/2505.01115)|null|
+|**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
+|**2025-05-02**|**Adaptive Wizard for Removing Cross-Tier Misconfigurations in Active Directory**|Huy Q. Ngo et.al.|[2505.01028](http://arxiv.org/abs/2505.01028)|null|
+|**2025-05-02**|**Llama-Nemotron: Efficient Reasoning Models**|Akhiad Bercovich et.al.|[2505.00949](http://arxiv.org/abs/2505.00949)|null|
+|**2025-05-01**|**Learning Neural Control Barrier Functions from Offline Data with Conservatism**|Ihab Tabbara et.al.|[2505.00908](http://arxiv.org/abs/2505.00908)|null|
+|**2025-05-01**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|null|
+|**2025-05-01**|**Constructing an Optimal Behavior Basis for the Option Keyboard**|Lucas N. Alegre et.al.|[2505.00787](http://arxiv.org/abs/2505.00787)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671](http://arxiv.org/abs/2505.00671)|null|
 |**2025-05-01**|**Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments**|Kirtan Rajesh et.al.|[2505.00668](http://arxiv.org/abs/2505.00668)|null|
@@ -5024,8 +5034,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System**|Lo Pang-Yun Ting et.al.|[2505.01305](http://arxiv.org/abs/2505.01305)|null|
+|**2025-05-02**|**Design for a Digital Twin in Clinical Patient Care**|Anna-Katharina Nitschke et.al.|[2505.01206](http://arxiv.org/abs/2505.01206)|null|
+|**2025-05-02**|**Adaptive Wizard for Removing Cross-Tier Misconfigurations in Active Directory**|Huy Q. Ngo et.al.|[2505.01028](http://arxiv.org/abs/2505.01028)|null|
+|**2025-05-01**|**Towards a format for describing networks / 1. Networks and knowledge graphs**|Vladimir Batagelj et.al.|[2505.00912](http://arxiv.org/abs/2505.00912)|null|
+|**2025-05-01**|**Co-Designing a Knowledge Graph Navigation Interface: A Participatory Approach**|Stanislava Gardasevic et.al.|[2505.00907](http://arxiv.org/abs/2505.00907)|null|
+|**2025-05-01**|**Knowledge-augmented Pre-trained Language Models for Biomedical Relation Extraction**|Mario Sänger et.al.|[2505.00814](http://arxiv.org/abs/2505.00814)|null|
 |**2025-05-01**|**S3AND: Efficient Subgraph Similarity Search Under Aggregated Neighbor Difference Semantics (Technical Report)**|Qi Wen et.al.|[2505.00393](http://arxiv.org/abs/2505.00393)|null|
-|**2025-05-01**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
+|**2025-05-02**|**Empowering Agentic Video Analytics Systems with Video Language Models**|Yuxuan Yan et.al.|[2505.00254](http://arxiv.org/abs/2505.00254)|null|
 |**2025-04-29**|**Graph RAG for Legal Norms: A Hierarchical and Temporal Approach**|Hudson de Martim et.al.|[2505.00039](http://arxiv.org/abs/2505.00039)|null|
 |**2025-04-30**|**Automatic Mapping of AutomationML Files to Ontologies for Graph Queries and Validation**|Tom Westermann et.al.|[2504.21694](http://arxiv.org/abs/2504.21694)|null|
 |**2025-04-26**|**PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight**|Ben Goertzel et.al.|[2504.21029](http://arxiv.org/abs/2504.21029)|null|
