@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -101,6 +101,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
+|**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
+|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
+|**2025-05-05**|**Teaching the social media generation: rethinking learning without sacrificing quality**|Sepinoud Azimi et.al.|[2505.02770](http://arxiv.org/abs/2505.02770)|null|
+|**2025-05-05**|**The use of Artificial Intelligence for Intervention and Assessment in Individuals with ASD**|Aggeliki Sideraki et.al.|[2505.02747](http://arxiv.org/abs/2505.02747)|null|
+|**2025-05-05**|**Enhancing LLMs' Clinical Reasoning with Real-World Data from a Nationwide Sepsis Registry**|Junu Kim et.al.|[2505.02722](http://arxiv.org/abs/2505.02722)|null|
+|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|null|
+|**2025-05-05**|**Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models**|Xiaobao Wu et.al.|[2505.02686](http://arxiv.org/abs/2505.02686)|null|
+|**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
+|**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666](http://arxiv.org/abs/2505.02666)|null|
 |**2025-05-02**|**Stabilizing Temporal Difference Learning via Implicit Stochastic Approximation**|Hwanwoo Kim et.al.|[2505.01361](http://arxiv.org/abs/2505.01361)|null|
 |**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
 |**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
@@ -5022,6 +5032,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746](http://arxiv.org/abs/2505.02746)|null|
+|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352](http://arxiv.org/abs/2505.02352)|null|
+|**2025-05-04**|**Real-time Spatial Retrieval Augmented Generation for Urban Environments**|David Nazareno Campo et.al.|[2505.02271](http://arxiv.org/abs/2505.02271)|null|
+|**2025-05-04**|**Incorporating Legal Structure in Retrieval-Augmented Generation: A Case Study on Copyright Fair Use**|Justin Ho et.al.|[2505.02164](http://arxiv.org/abs/2505.02164)|null|
+|**2025-05-03**|**Interpretable graph-based models on multimodal biomedical data integration: A technical review and benchmarking**|Alireza Sadeghi et.al.|[2505.01696](http://arxiv.org/abs/2505.01696)|null|
+|**2025-05-02**|**Parameterized Argumentation-based Reasoning Tasks for Benchmarking Generative Language Models**|Cor Steging et.al.|[2505.01539](http://arxiv.org/abs/2505.01539)|null|
 |**2025-05-02**|**Early Detection of Patient Deterioration from Real-Time Wearable Monitoring System**|Lo Pang-Yun Ting et.al.|[2505.01305](http://arxiv.org/abs/2505.01305)|null|
 |**2025-05-02**|**Design for a Digital Twin in Clinical Patient Care**|Anna-Katharina Nitschke et.al.|[2505.01206](http://arxiv.org/abs/2505.01206)|null|
 |**2025-05-02**|**Adaptive Wizard for Removing Cross-Tier Misconfigurations in Active Directory**|Huy Q. Ngo et.al.|[2505.01028](http://arxiv.org/abs/2505.01028)|null|
