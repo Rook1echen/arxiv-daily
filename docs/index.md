@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -101,6 +101,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/abs/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|
+|**2025-05-08**|**RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles**|Pouria Behnoudfar et.al.|[2505.05452](http://arxiv.org/abs/2505.05452)|null|
+|**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410](http://arxiv.org/abs/2505.05410)|null|
+|**2025-05-08**|**Repair Crew Routing for Infrastructure Network Restoration under Incomplete Information**|Subhojit Biswas et.al.|[2505.05297](http://arxiv.org/abs/2505.05297)|null|
+|**2025-05-08**|**Morphologically Symmetric Reinforcement Learning for Ambidextrous Bimanual Manipulation**|Zechu Li et.al.|[2505.05287](http://arxiv.org/abs/2505.05287)|null|
+|**2025-05-08**|**Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration**|Andreas Kontogiannis et.al.|[2505.05262](http://arxiv.org/abs/2505.05262)|null|
+|**2025-05-08**|**High Altitude Platform-Based Caching and Multicasting for Rural Connectivity**|Yongqiang Zhang et.al.|[2505.05251](http://arxiv.org/abs/2505.05251)|null|
+|**2025-05-08**|**Advancing Neural Network Verification through Hierarchical Safety Abstract Interpretation**|Luca Marzari et.al.|[2505.05235](http://arxiv.org/abs/2505.05235)|null|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
+|**2025-05-08**|**Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving**|Hendrik Surmann et.al.|[2505.05223](http://arxiv.org/abs/2505.05223)|null|
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
 |**2025-05-07**|**Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation**|Abdulaziz Almuzairee et.al.|[2505.04619](http://arxiv.org/abs/2505.04619)|null|
 |**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
@@ -5052,10 +5062,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Enhancing Text2Cypher with Schema Filtering**|Makbule Gulcin Ozsoy et.al.|[2505.05118](http://arxiv.org/abs/2505.05118)|null|
+|**2025-05-08**|**Structural Alignment in Link Prediction**|Jeffrey Seathrún Sardina et.al.|[2505.04939](http://arxiv.org/abs/2505.04939)|null|
+|**2025-05-06**|**Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions**|Adithya Kulkarni et.al.|[2505.04651](http://arxiv.org/abs/2505.04651)|null|
 |**2025-05-07**|**KERAIA: An Adaptive and Explainable Framework for Dynamic Knowledge Representation and Reasoning**|Stephen Richard Varey et.al.|[2505.04313](http://arxiv.org/abs/2505.04313)|null|
 |**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
 |**2025-05-06**|**Soft Reasoning Paths for Knowledge Graph Completion**|Yanning Hou et.al.|[2505.03285](http://arxiv.org/abs/2505.03285)|null|
-|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746](http://arxiv.org/abs/2505.02746)|null|
+|**2025-05-05**|**Using Knowledge Graphs to harvest datasets for efficient CLIP model training**|Simon Ging et.al.|[2505.02746](http://arxiv.org/abs/2505.02746)|**[link](https://github.com/lmb-freiburg/entitynet)**|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-05**|**Social Biases in Knowledge Representations of Wikidata separates Global North from Global South**|Paramita Das et.al.|[2505.02352](http://arxiv.org/abs/2505.02352)|**[link](https://github.com/paramita08/wikidata_auditlp)**|
 |**2025-05-04**|**Real-time Spatial Retrieval Augmented Generation for Urban Environments**|David Nazareno Campo et.al.|[2505.02271](http://arxiv.org/abs/2505.02271)|null|
