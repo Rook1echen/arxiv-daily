@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -106,6 +106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
+|**2025-05-28**|**WebDancer: Towards Autonomous Information Seeking Agency**|Jialong Wu et.al.|[2505.22648](http://arxiv.org/abs/2505.22648)|null|
+|**2025-05-28**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
+|**2025-05-28**|**The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**|Ganqu Cui et.al.|[2505.22617](http://arxiv.org/abs/2505.22617)|null|
+|**2025-05-28**|**HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym**|Ngoc La et.al.|[2505.22597](http://arxiv.org/abs/2505.22597)|null|
+|**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
+|**2025-05-28**|**Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs**|Changhao Song et.al.|[2505.22548](http://arxiv.org/abs/2505.22548)|null|
+|**2025-05-28**|**Demystifying the Paradox of Importance Sampling with an Estimated History-Dependent Behavior Policy in Off-Policy Evaluation**|Hongyi Zhou et.al.|[2505.22492](http://arxiv.org/abs/2505.22492)|null|
+|**2025-05-28**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
 |**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
 |**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
 |**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
@@ -5198,6 +5208,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/abs/2505.22633)|null|
+|**2025-05-28**|**ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation with Lightweight Specialized LLM**|Hoang Pham et.al.|[2505.22552](http://arxiv.org/abs/2505.22552)|null|
+|**2025-05-28**|**Domain specific ontologies from Linked Open Data (LOD)**|Rosario Uceda-Sosa et.al.|[2505.22550](http://arxiv.org/abs/2505.22550)|null|
+|**2025-05-28**|**BioHopR: A Benchmark for Multi-Hop, Multi-Answer Reasoning in Biomedical Domain**|Yunsoo Kim et.al.|[2505.22240](http://arxiv.org/abs/2505.22240)|null|
+|**2025-05-28**|**Cognitively-Inspired Emergent Communication via Knowledge Graphs for Assisting the Visually Impaired**|Ruxiao Chen et.al.|[2505.22087](http://arxiv.org/abs/2505.22087)|null|
+|**2025-05-28**|**Towards Structure-aware Model for Multi-modal Knowledge Graph Completion**|Linyu Li et.al.|[2505.21973](http://arxiv.org/abs/2505.21973)|null|
+|**2025-05-28**|**Graph-Assisted Culturally Adaptable Idiomatic Translation for Indic Languages**|Pratik Rakesh Singh et.al.|[2505.21937](http://arxiv.org/abs/2505.21937)|null|
+|**2025-05-28**|**Beyond Completion: A Foundation Model for General Knowledge Graph Reasoning**|Yin Hua et.al.|[2505.21926](http://arxiv.org/abs/2505.21926)|null|
 |**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291](http://arxiv.org/abs/2505.21291)|null|
 |**2025-05-27**|**Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA**|Xiangqing Shen et.al.|[2505.20971](http://arxiv.org/abs/2505.20971)|null|
 |**2025-05-27**|**Streamlining Knowledge Graph Creation with PyRML**|Andrea Giovanni Nuzzolese et.al.|[2505.20949](http://arxiv.org/abs/2505.20949)|null|
