@@ -106,6 +106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens**|Jihwan Jeong et.al.|[2506.06261](http://arxiv.org/abs/2506.06261)|null|
+|**2025-06-06**|**How to craft a deep reinforcement learning policy for wind farm flow control**|Elie Kadoche et.al.|[2506.06204](http://arxiv.org/abs/2506.06204)|null|
+|**2025-06-06**|**A Theoretical Study of (Hyper) Self-Attention through the Lens of Interactions: Representation, Training, Generalization**|Muhammed Ustaomeroglu et.al.|[2506.06179](http://arxiv.org/abs/2506.06179)|null|
+|**2025-06-06**|**Reusing Trajectories in Policy Gradients Enables Fast Convergence**|Alessandro Montenegro et.al.|[2506.06178](http://arxiv.org/abs/2506.06178)|null|
+|**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
+|**2025-06-06**|**Table-r1: Self-supervised and Reinforcement Learning for Program-based Table Reasoning in Small Language Models**|Rihui Jin et.al.|[2506.06137](http://arxiv.org/abs/2506.06137)|null|
+|**2025-06-06**|**Reinforcement Learning Optimization for Large-Scale Learning: An Efficient and User-Friendly Scaling Library**|Weixun Wang et.al.|[2506.06122](http://arxiv.org/abs/2506.06122)|null|
+|**2025-06-06**|**On-board Mission Replanning for Adaptive Cooperative Multi-Robot Systems**|Elim Kwan et.al.|[2506.06094](http://arxiv.org/abs/2506.06094)|null|
+|**2025-06-06**|**Reinforcing Code Generation: Improving Text-to-SQL with Execution-Based Learning**|Atharv Kulkarni et.al.|[2506.06093](http://arxiv.org/abs/2506.06093)|null|
+|**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[2506.06077](http://arxiv.org/abs/2506.06077)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
 |**2025-06-05**|**AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs**|Lidong Lu et.al.|[2506.05328](http://arxiv.org/abs/2506.05328)|null|
 |**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316](http://arxiv.org/abs/2506.05316)|null|
@@ -5258,6 +5268,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Respecting Temporal-Causal Consistency: Entity-Event Knowledge Graphs for Retrieval-Augmented Generation**|Ze Yu Zhang et.al.|[2506.05939](http://arxiv.org/abs/2506.05939)|null|
+|**2025-06-06**|**BioMol-MQA: A Multi-Modal Question Answering Dataset For LLM Reasoning Over Bio-Molecular Interactions**|Saptarshi Sengupta et.al.|[2506.05766](http://arxiv.org/abs/2506.05766)|null|
+|**2025-06-06**|**Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation and Confidence Awareness**|Rongzhe Wei et.al.|[2506.05735](http://arxiv.org/abs/2506.05735)|null|
+|**2025-06-05**|**Two-dimensional Taxonomy for N-ary Knowledge Representation Learning Methods**|Xiaohua Lu et.al.|[2506.05626](http://arxiv.org/abs/2506.05626)|null|
 |**2025-06-05**|**OpenAg: Democratizing Agricultural Intelligence**|Srikanth Thudumu et.al.|[2506.04571](http://arxiv.org/abs/2506.04571)|null|
 |**2025-06-04**|**Schema Generation for Large Knowledge Graphs Using Large Language Models**|Bohui Zhang et.al.|[2506.04512](http://arxiv.org/abs/2506.04512)|null|
 |**2025-06-04**|**Zero-Shot Open-Schema Entity Structure Discovery**|Xueqiang Xu et.al.|[2506.04458](http://arxiv.org/abs/2506.04458)|null|
