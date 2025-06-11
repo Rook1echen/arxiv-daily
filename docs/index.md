@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**On the Ethics of Using LLMs for Offensive Security**|Andreas Happe et.al.|[2506.08693](http://arxiv.org/abs/2506.08693)|null|
 |**2025-05-25**|**Penetration Testing for System Security: Methods and Practical Approaches**|Wei Zhang et.al.|[2505.19174](http://arxiv.org/abs/2505.19174)|null|
 |**2025-05-15**|**AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents**|Julius Henke et.al.|[2505.10321](http://arxiv.org/abs/2505.10321)|**[link](https://github.com/juliushenke/autopentest)**|
 |**2025-05-14**|**RefPentester: A Knowledge-Informed Self-Reflective Penetration Testing Framework Based on Large Language Models**|Hanzheng Dai et.al.|[2505.07089](http://arxiv.org/abs/2505.07089)|null|
@@ -106,6 +107,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**Deep Reinforcement Learning-Based RAN Slicing with Efficient Inter-Slice Isolation in Tactical Wireless Networks**|Abderrahime Filali et.al.|[2506.09039](http://arxiv.org/abs/2506.09039)|null|
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033](http://arxiv.org/abs/2506.09033)|null|
+|**2025-06-10**|**SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning**|Ruiqi Zhang et.al.|[2506.09016](http://arxiv.org/abs/2506.09016)|null|
+|**2025-06-10**|**Learning to Reason Across Parallel Samples for LLM Reasoning**|Jianing Qi et.al.|[2506.09014](http://arxiv.org/abs/2506.09014)|null|
+|**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
+|**2025-06-10**|**GFRIEND: Generative Few-shot Reward Inference through EfficieNt DPO**|Yiyang Zhao et.al.|[2506.08965](http://arxiv.org/abs/2506.08965)|null|
+|**2025-06-10**|**Towards Robust Deep Reinforcement Learning against Environmental State Perturbation**|Chenxu Wang et.al.|[2506.08961](http://arxiv.org/abs/2506.08961)|null|
+|**2025-06-10**|**Can A Gamer Train A Mathematical Reasoning Model?**|Andrew Shin et.al.|[2506.08935](http://arxiv.org/abs/2506.08935)|null|
+|**2025-06-10**|**Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions**|David Acuna et.al.|[2506.08927](http://arxiv.org/abs/2506.08927)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**Reinforcement Pre-Training**|Qingxiu Dong et.al.|[2506.08007](http://arxiv.org/abs/2506.08007)|null|
 |**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980](http://arxiv.org/abs/2506.07980)|null|
@@ -5278,6 +5289,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**A Survey of Link Prediction in N-ary Knowledge Graphs**|Jiyao Wei et.al.|[2506.08970](http://arxiv.org/abs/2506.08970)|null|
+|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771](http://arxiv.org/abs/2506.08771)|null|
+|**2025-06-10**|**Bridging RDF Knowledge Graphs with Graph Neural Networks for Semantically-Rich Recommender Systems**|Michael Färber et.al.|[2506.08743](http://arxiv.org/abs/2506.08743)|null|
+|**2025-06-10**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700](http://arxiv.org/abs/2506.08700)|null|
+|**2025-06-10**|**From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge**|Agnese Taluzzi et.al.|[2506.08553](http://arxiv.org/abs/2506.08553)|null|
+|**2025-06-09**|**ETT-CKGE: Efficient Task-driven Tokens for Continual Knowledge Graph Embedding**|Lijing Zhu et.al.|[2506.08158](http://arxiv.org/abs/2506.08158)|null|
+|**2025-06-09**|**CuRe: Cultural Gaps in the Long Tail of Text-to-Image Systems**|Aniket Rege et.al.|[2506.08071](http://arxiv.org/abs/2506.08071)|null|
 |**2025-06-09**|**A Temporal FRBR/FRBRoo-Based Model for Component-Level Versioning of Legal Norms**|Hudson de Martim et.al.|[2506.07853](http://arxiv.org/abs/2506.07853)|null|
 |**2025-06-09**|**SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding**|Nianbo Zeng et.al.|[2506.07600](http://arxiv.org/abs/2506.07600)|null|
 |**2025-06-09**|**LlamaRec-LKG-RAG: A Single-Pass, Learnable Knowledge Graph-RAG Framework for LLM-Based Ranking**|Vahid Azizi et.al.|[2506.07449](http://arxiv.org/abs/2506.07449)|null|
