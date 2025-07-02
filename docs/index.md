@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -108,7 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**Constructing Non-Markovian Decision Process via History Aggregator**|Yongyi Wang et.al.|[2506.24026](http://arxiv.org/abs/2506.24026)|null|
 |**2025-06-30**|**Provably Efficient and Agile Randomized Q-Learning**|He Wang et.al.|[2506.24005](http://arxiv.org/abs/2506.24005)|null|
@@ -5412,13 +5412,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-29**|**Context-Driven Knowledge Graph Completion with Semantic-Aware Relational Message Passing**|Siyuan Li et.al.|[2506.23141](http://arxiv.org/abs/2506.23141)|null|
-|**2025-06-29**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137](http://arxiv.org/abs/2506.23137)|null|
+|**2025-07-01**|**Flow-Modulated Scoring for Semantic-Aware Knowledge Graph Completion**|Siyuan Li et.al.|[2506.23137](http://arxiv.org/abs/2506.23137)|null|
 |**2025-06-26**|**Weak-to-Strong GraphRAG: Aligning Weak Retrievers with Large Language Models for Graph-based Retrieval Augmented Generation**|Deyu Zou et.al.|[2506.22518](http://arxiv.org/abs/2506.22518)|null|
 |**2025-06-27**|**Breaking Rank Bottlenecks in Knowledge Graph Completion**|Samy Badreddine et.al.|[2506.22271](http://arxiv.org/abs/2506.22271)|null|
 |**2025-06-27**|**Towards Operational Data Analytics Chatbots -- Virtual Knowledge Graph is All You Need**|Junaid Ahmed Khan et.al.|[2506.22267](http://arxiv.org/abs/2506.22267)|null|
 |**2025-06-27**|**Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion**|Ying Zhang et.al.|[2506.22036](http://arxiv.org/abs/2506.22036)|null|
 |**2025-06-30**|**Shifting Narratives: A Longitudinal Analysis of Media Trends and Public Attitudes on Homelessness**|Akshay Irudayaraj et.al.|[2506.21794](http://arxiv.org/abs/2506.21794)|null|
-|**2025-06-26**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
+|**2025-06-30**|**Active Inference AI Systems for Scientific Discovery**|Karthik Duraisamy et.al.|[2506.21329](http://arxiv.org/abs/2506.21329)|null|
 |**2025-06-30**|**Condensed Representation of RDF and its Application on Graph Versioning**|Jey Puget Gil et.al.|[2506.21203](http://arxiv.org/abs/2506.21203)|null|
 |**2025-06-26**|**Enhancing LLM Tool Use with High-quality Instruction Data from Knowledge Graph**|Jingwei Wang et.al.|[2506.21071](http://arxiv.org/abs/2506.21071)|null|
 |**2025-06-25**|**Generating Reliable Adverse event Profiles for Health through Automated Integrated Data (GRAPH-AID): A Semi-Automated Ontology Building Approach**|Srikar Reddy Gadusu et.al.|[2506.20851](http://arxiv.org/abs/2506.20851)|null|
