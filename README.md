@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -113,12 +113,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/abs/2507.07999)|null|
+|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/abs/2507.07995)|null|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
+|**2025-07-10**|**Excess Observables Reveal Nonreciprocity in Integrated Covariance**|Timur Aslyamov et.al.|[2507.07876](http://arxiv.org/abs/2507.07876)|null|
+|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
+|**2025-07-10**|**Beyond Robustness: Learning Unknown Dynamic Load Adaptation for Quadruped Locomotion on Rough Terrain**|Leixin Chang et.al.|[2507.07825](http://arxiv.org/abs/2507.07825)|null|
+|**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
+|**2025-07-10**|**Stable Preference Optimization for LLMs: A Bilevel Approach Beyond Direct Preference Optimization**|Chengtao Jian et.al.|[2507.07723](http://arxiv.org/abs/2507.07723)|null|
 |**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
 |**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
@@ -5422,7 +5432,7 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
@@ -5471,12 +5481,16 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
+|**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
+|**2025-07-10**|**Platform for Representation and Integration of multimodal Molecular Embeddings**|Erika Yilin Zheng et.al.|[2507.07367](http://arxiv.org/abs/2507.07367)|null|
 |**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895](http://arxiv.org/abs/2507.06895)|null|
 |**2025-07-09**|**SCC-recursiveness in infinite argumentation (extended version)**|Uri Andrews et.al.|[2507.06852](http://arxiv.org/abs/2507.06852)|null|
 |**2025-07-09**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622](http://arxiv.org/abs/2507.06622)|null|
@@ -7695,5 +7709,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250711>back to top</a>)</p>
 

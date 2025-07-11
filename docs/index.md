@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## penetration testing
@@ -111,6 +111,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/abs/2507.07999)|null|
+|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/abs/2507.07995)|null|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
+|**2025-07-10**|**Excess Observables Reveal Nonreciprocity in Integrated Covariance**|Timur Aslyamov et.al.|[2507.07876](http://arxiv.org/abs/2507.07876)|null|
+|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
+|**2025-07-10**|**Beyond Robustness: Learning Unknown Dynamic Load Adaptation for Quadruped Locomotion on Rough Terrain**|Leixin Chang et.al.|[2507.07825](http://arxiv.org/abs/2507.07825)|null|
+|**2025-07-10**|**BEAVER: Building Environments with Assessable Variation for Evaluating Multi-Objective Reinforcement Learning**|Ruohong Liu et.al.|[2507.07769](http://arxiv.org/abs/2507.07769)|null|
+|**2025-07-10**|**Stable Preference Optimization for LLMs: A Bilevel Approach Beyond Direct Preference Optimization**|Chengtao Jian et.al.|[2507.07723](http://arxiv.org/abs/2507.07723)|null|
 |**2025-07-09**|**Graph-Based Complexity Metrics for Multi-Agent Curriculum Learning: A Validated Approach to Task Ordering in Cooperative Coordination Environments**|Farhaan Ebadulla et.al.|[2507.07074](http://arxiv.org/abs/2507.07074)|null|
 |**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
@@ -5465,6 +5475,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695](http://arxiv.org/abs/2507.07695)|null|
+|**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
+|**2025-07-10**|**Platform for Representation and Integration of multimodal Molecular Embeddings**|Erika Yilin Zheng et.al.|[2507.07367](http://arxiv.org/abs/2507.07367)|null|
 |**2025-07-09**|**SCoRE: Streamlined Corpus-based Relation Extraction using Multi-Label Contrastive Learning and Bayesian kNN**|Luca Mariotti et.al.|[2507.06895](http://arxiv.org/abs/2507.06895)|null|
 |**2025-07-09**|**SCC-recursiveness in infinite argumentation (extended version)**|Uri Andrews et.al.|[2507.06852](http://arxiv.org/abs/2507.06852)|null|
 |**2025-07-09**|**FuDoBa: Fusing Document and Knowledge Graph-based Representations with Bayesian Optimisation**|Boshko Koloski et.al.|[2507.06622](http://arxiv.org/abs/2507.06622)|null|
