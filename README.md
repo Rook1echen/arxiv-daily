@@ -1,4 +1,4 @@
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
 |**2025-07-09**|**PenTest2.0: Towards Autonomous Privilege Escalation Using GenAI**|Haitham S. Al-Sinani et.al.|[2507.06742](http://arxiv.org/abs/2507.06742)|null|
 |**2025-06-30**|**Reinforcement Learning for Automated Cybersecurity Penetration Testing**|Daniel López-Montero et.al.|[2507.02969](http://arxiv.org/abs/2507.02969)|null|
 |**2025-07-01**|**On the Surprising Efficacy of LLMs for Penetration-Testing**|Andreas Happe et.al.|[2507.00829](http://arxiv.org/abs/2507.00829)|null|
@@ -113,12 +114,22 @@
 |**2022-06-14**|**A Layered Reference Model for Penetration Testing with Reinforcement Learning and Attack Graphs**|Tyler Cody et.al.|[2206.06934](http://arxiv.org/abs/2206.06934)|null|
 |**2022-04-05**|**GAIL-PT: A Generic Intelligent Penetration Testing Framework with Generative Adversarial Imitation Learning**|Jinyin Chen et.al.|[2204.01975](http://arxiv.org/abs/2204.01975)|**[link](https://github.com/shulong98/gail-pt)**|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## attack graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746](http://arxiv.org/abs/2507.17746)|null|
+|**2025-07-23**|**Megrez2 Technical Report**|Boxun Li et.al.|[2507.17728](http://arxiv.org/abs/2507.17728)|null|
+|**2025-07-23**|**How Should We Meta-Learn Reinforcement Learning Algorithms?**|Alexander David Goldie et.al.|[2507.17668](http://arxiv.org/abs/2507.17668)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Generalized Advantage Estimation for Distributional Policy Gradients**|Shahil Shaik et.al.|[2507.17530](http://arxiv.org/abs/2507.17530)|null|
+|**2025-07-23**|**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**|Shanbo Cheng et.al.|[2507.17527](http://arxiv.org/abs/2507.17527)|null|
+|**2025-07-23**|**URPO: A Unified Reward & Policy Optimization Framework for Large Language Models**|Songshuo Lu et.al.|[2507.17515](http://arxiv.org/abs/2507.17515)|null|
+|**2025-07-23**|**Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning**|Yu Li et.al.|[2507.17512](http://arxiv.org/abs/2507.17512)|null|
+|**2025-07-23**|**Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning**|Situo Zhang et.al.|[2507.17448](http://arxiv.org/abs/2507.17448)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
@@ -5512,12 +5523,14 @@
 |**2023-03-30**|**MAHALO: Unifying Offline Reinforcement Learning and Imitation Learning from Observations**|Anqi Li et.al.|[2303.17156](http://arxiv.org/abs/2303.17156)|**[link](https://github.com/anqili/mahalo)**|
 |**2023-03-30**|**Dependent Task Offloading in Edge Computing Using GNN and Deep Reinforcement Learning**|Zequn Cao et.al.|[2303.17100](http://arxiv.org/abs/2303.17100)|null|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## GAIL: Generative Adversarial Imitation Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Joobin Jin et.al.|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
+|**2025-07-19**|**Sensor-Space Based Robust Kinematic Control of Redundant Soft Manipulator by Learning**|Yinan Meng et.al.|[2507.16842](http://arxiv.org/abs/2507.16842)|null|
 |**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
 |**2025-06-15**|**Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks**|Yingyi Kuang et.al.|[2506.12676](http://arxiv.org/abs/2506.12676)|null|
 |**2025-05-15**|**Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots**|Huiqiao Fu et.al.|[2505.09979](http://arxiv.org/abs/2505.09979)|null|
@@ -5561,16 +5574,20 @@
 |**2022-03-03**|**Fail-Safe Generative Adversarial Imitation Learning**|Philipp Geiger et.al.|[2203.01696](http://arxiv.org/abs/2203.01696)|**[link](https://github.com/boschresearch/fagil)**|
 |**2022-02-15**|**Robust Learning from Observation with Model Misspecification**|Luca Viano et.al.|[2202.06003](http://arxiv.org/abs/2202.06003)|**[link](https://github.com/lviano/robust_gaifo)**|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
 ## knowledge graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365](http://arxiv.org/abs/2507.17365)|null|
+|**2025-07-23**|**Leveraging Knowledge Graphs and LLM Reasoning to Identify Operational Bottlenecks for Warehouse Planning Assistance**|Rishi Parekh et.al.|[2507.17273](http://arxiv.org/abs/2507.17273)|null|
+|**2025-07-23**|**HypoChainer: A Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery**|Haoran Jiang et.al.|[2507.17209](http://arxiv.org/abs/2507.17209)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971](http://arxiv.org/abs/2507.16971)|null|
 |**2025-07-22**|**Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications**|Jean Lelong et.al.|[2507.16507](http://arxiv.org/abs/2507.16507)|null|
 |**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
 |**2025-07-21**|**mRAKL: Multilingual Retrieval-Augmented Knowledge Graph Construction for Low-Resourced Languages**|Hellina Hailu Nigatu et.al.|[2507.16011](http://arxiv.org/abs/2507.16011)|null|
-|**2025-07-21**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
+|**2025-07-23**|**HyDRA: A Hybrid-Driven Reasoning Architecture for Verifiable Knowledge Graphs**|Adrian Kaiser et.al.|[2507.15917](http://arxiv.org/abs/2507.15917)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-22**|**A SHACL-based Data Consistency Solution for Contract Compliance Verification**|Robert David et.al.|[2507.15420](http://arxiv.org/abs/2507.15420)|null|
 |**2025-07-20**|**Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs**|Erfan Pirmorad et.al.|[2507.14785](http://arxiv.org/abs/2507.14785)|null|
@@ -7833,5 +7850,5 @@
 |**2023-03-25**|**Sem4SAP: Synonymous Expression Mining From Open Knowledge Graph For Language Model Synonym-Aware Pretraining**|Zhouhong Gu et.al.|[2303.14425](http://arxiv.org/abs/2303.14425)|null|
 |**2023-03-24**|**Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living**|Phillip Schneider et.al.|[2303.14286](http://arxiv.org/abs/2303.14286)|null|
 
-<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250724>back to top</a>)</p>
 
